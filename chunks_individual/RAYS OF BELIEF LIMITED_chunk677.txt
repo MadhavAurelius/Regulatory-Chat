@@ -1,0 +1,31 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Acquisition of Subsidiary and Recognition of Provisional Goodwill**
+
+*(This space has been intentionally left blank.)*
+332
+**Rays of Belief Limited (Formerly known as Rays of Belief Private Limited) CIN:U85110DL2017PLC322623 Notes to Restated financial Information for the period ended Septemeber 30, 2025** (All amounts in INR Millions, unless otherwise stated)
+**Note 33: Revenue from contracts with customers**
+**1. Disaggregated revenue information Type of service:**  The Company earns revenue primarily from sale of services.
+Set out below is the disaggregation of the Company’s revenue from contracts with customers:
+|  Revenue from contracts with customers As at  September 30, 2025 As at  31 March 2025 As at  31 March 2024 As at  31 March 2023  |
+|:---|
+| Type of goods or service Sale of services 431.49  364.19  306.08  221.31  Sale of goods -  -  -  -  Total revenue from contracts with customers  431.49  364.19  306.08  221.31  India 132.24  219.81  201.64  201.46  Overseas 299.25  144.38  104.44  19.85  Total revenue from contracts with customers  431.49  364.19  306.08  221.31  Timing of revenue recognition  Goods transferred at a point in time  -  -  -  -  Services transferred at point in time 431.49  364.19  306.08  221.31  Total revenue from contracts with customers  431.49  364.19  306.08  221.31 |
+**2. Contract balances**
+|  Contract balances As at  September 30, 2025 As at  31 March 2025 As at  31 March 2024 As at  31 March 2023  |
+|:---|
+|  |
+| Trade receivables (including unbilled revenue and excluding allowance for credit loss) 112.27  31.14  2.11  0.44 |
+Right of return assets and refund liabilities are not present in contracts with customers.
+|  Set out below is the amount of revenue recognised from: As at  September 30, 2025 As at  31 March 2025 As at  31 March 2024 As at  31 March 2023  |
+|:---|
+| Amount billed during the year 431.49  364.19  306.08  221.31  |
+| Total revenue from contracts with customers 431.49  364.19  306.08  221.31  |
+|  As at  September 30, 2025 As at  31 March 2025 As at  31 March 2024 As at  31 March 2023  |
+|:---|
+| Revenue as per contracted price 431.49  364.19  306.08  221.31  431.49  364.19  306.08  221.31 |
+There are no adjustments required to be made to the contract price.
+**4. Performance obligation**
+Contract assets are recognised when there is excess of revenue earned over billings on contracts with customers. Unbilled receivables are classified under trade receivables (only act of invoicing is pending) when there is unconditional right to receive cash, and only passage of time is required, as per contractual terms.

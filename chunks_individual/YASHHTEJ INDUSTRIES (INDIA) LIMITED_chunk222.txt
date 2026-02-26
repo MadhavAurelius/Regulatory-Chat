@@ -1,0 +1,5 @@
+#
+
+## **3B.2 Key Market Segments**
+
+**8. Solar Manufacturing (Upstream Segment):**  The solar manufacturing segment encompasses the production of essential components such as solar cells, modules, inverters, mounting structures, and other balance-of- system (BoS) equipment. Customers for these products include engineering, procurement, and construction (EPC) contractors, solar developers, and government agencies procuring equipment for large-scale projects. This segment plays a crucial role in reducing India’s dependence on imported solar components and supports the government’s Production Linked Incentive (PLI) schemes aimed at fostering domestic manufacturing capabilities. Strengthening the upstream manufacturing ecosystem is vital for achieving cost competitiveness, supply chain resilience, and long-term energy security in the solar sector.

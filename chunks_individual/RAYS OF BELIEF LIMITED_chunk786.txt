@@ -1,0 +1,24 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Expenses**
+
+-   * **Financial costs** *
+Finance costs stood at ₹1.32 million in Fiscal 2024, as compared to ₹1.36 million in Fiscal 2023, reflecting a marginal decline of 2.94%. This slight reduction was primarily due to a decrease in interest on lease liabilities, which dropped by 6.30% from ₹1.27 million in Fiscal 2023 to ₹1.19 million in Fiscal 2024. The decrease in lease-related interest reflects optimization in lease arrangements or completion of earlier lease terms during the Fiscal 2024.
+However, this decrease was partially offset by a 44.44% increase in fair valuation-related interest expenses, which rose from ₹0.09 million in Fiscal 2023 to ₹0.13 million in Fiscal 2024. Despite the increase in valuation-related costs, the overall finance costs remained largely stable due to the net impact of both components.
+
+|  Particular  |  Fiscal 2024  (in ₹ million)  |  Fiscal 2023  (in ₹ million)  |  Change %  |
+|:---|---:|---:|:---|
+| Interest on Lease Liability  |  1.19 |  1.27 | (6.30)%  |
+| Interest Expense-Fair Valuation |  0.13 |  0.09 | 44.44%  |
+| Total  |  1.32 |  1.36 | (2.94)%  |
+
+-   * **Depreciation and amortisation expense** *
+Total depreciation and amortisation expenses stood at ₹14.08 million in Fiscal 2024 as compared ₹12.40 million reflecting an increase of 13.55%.
+This increase was primarily driven by a 55.93% increase in depreciation on property, plant and equipment, which rose to ₹6.97 million in Fiscal 2024 from ₹4.47 million in Fiscal 2023. The increase reflects the capitalization of assets linked to the expansion of the Company’s physical infrastructure, computers and office equipment, as result of newly established  *“Company Learning Centres” and “Company Learning Centres in partnership with Licensed* *Professionals”*  . At the same time, depreciation on right-of-use assets increased marginally by 3.17%. However, depreciation on intangible assets decreased by 44.25%, reducing to ₹1.26 million in Fiscal 2024 from ₹2.26 million in Fiscal 2023. This decrease is on account of amortization of a software previously capitalised.
+|  Particular  |  Fiscal 2024  (in ₹ million)  |  Fiscal 2023  (in ₹ million)  |  Change %  |
+|:---|---:|---:|:---|
+| Depreciation on Property, Plant and Equipment |  6.97 |  4.47 | 55.93%  |
+| Depreciation on Intangible Assets  |  1.26 |  2.26 | (44. 25)%  |
+| Depreciation on Right on-use Assets  |  5.85 |  5.67 | 3.17%  |

@@ -1,0 +1,26 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **RAYS OF BELIEF LIMITED**
+
+#### **Issue related ter m s**
+
+10
+|  Term  |  Description  |
+|:---|:---|
+| “Specified Locations”  | Bidding Centres where the Syndicate shall accept ASBA Forms from the Bidders, a list of which is  available on the website of SEBI (www.sebi.gov.in) and updated from time to time  |
+| “Sponsor Bank(s)”  | Bank(s) registered with SEBI which will be appointed by our Company to act as a conduit between  the Stock Exchanges and the National Payments Corporation of India in order to push the mandate  collect requests and/or payment instructions of the UPI Bidders into the UPI, in this case being [- ]  |
+| “SSE Framework Circular”  | SEBI circular dated September 19, 2022, bearing reference no. SEBI/HO/CFD/PoD- 1/P/CIR/2022/120 on framework on social stock exchange.  |
+| “Sub-Syndicate Members”  | The sub-syndicate members, if any, appointed by BRLM and the Syndicate Members, to collect  ASBA Forms and Revision Forms  |
+| “Syndicate” or “members of the  Syndicate”  | Collectively, the BRLM and the Syndicate Members  |
+| “Syndicate Agreement”  | The agreement to be entered into among the members of the Syndicate, our Company, and the  Registrar to the Issue in relation to the collection of Bid cum Application Forms by the Syndicate  |
+| “Syndicate Members”  | Syndicate members as defined under Regulation 2(1)(hhh) of the SEBI ICDR Regulations, namely,  [- ]  |
+| “Updated Draft Red Herring  Prospectus-I or UDRHP-I”  | The updated draft red herring prospectus-I dated February 11, 2026, to be filed with SEBI and the  Stock Exchanges, after complying with the observations issued by SEBI and Stock Exchanges on the  Pre-filed Draft Red Herring Prospectus and after incorporation of other updates, in accordance with  Chapter IIA of the SEBI ICDR Regulations and in compliance with the other applicable provisions  of the SEBI ICDR Regulations, which will not contain complete particular of the price at which  Equity Shares will be allotted and the size of the Issue, including any addenda or corrigenda thereto.  |
+| “Updated Draft Red Herring  Prospectus-II or UDRHP-II” | The updated draft red herring prospectus-II to be filed with SEBI, if required, after incorporation of  changes pursuant to comments from public, if any, on the Updated Draft Red Herring Prospectus- I,  in compliance with the SEBI ICDR Regulations, which will not contain complete particulars of the  price at which the Equity Shares will be allotted and the size of the Issue, including any addenda or  corrigenda thereto.  |
+| “Underwriters”  | [- ]  |
+| “Underwriting Agreement”  | The agreement dated [- ] to be entered into among our Company and the Underwriters, on or after  the Pricing Date but before filing of the Prospectus with the RoC  |
+| “UPI”  | Unified Payments Interface, which is an instant payment mechanism, developed by NPCI  |
+| “UPI Bidders”  | Collectively, individual investors applying as Retail Individual Bidders in the Retail Portion and  individuals applying as Non-Institutional Bidders with a Bid Amount of up to ₹5,00,000 in the Non- Institutional Portion, and Bidding under the UPI Mechanism.  Pursuant to SEBI circular no. SEBI/HO/CFD/DIL2/P/CIR/P/2022/45 dated April 05, 2022, all  individual investors applying in public issues where the application amount is up to ₹5,00,000 shall  use the UPI Mechanism and shall provide their UPI ID in the Bid cum Application Form submitted  with: (i) a syndicate member, (ii) a stock broker registered with a recognized stock exchange (whose  name is mentioned on the website of the stock exchange as eligible for such activity), (iii) a depository  participant (whose name is mentioned on the website of the stock exchange as eligible for such  activity), and (iv) a registrar to an issue and share transfer agent (whose name is mentioned on the  website of the stock exchange as eligible for such activity) |
+| “UPI Circulars”  | SEBI circular number SEBI/HO/CFD/DIL2/CIR/P/2019/85 dated July 26, 2019, to the extent these  circulars are not rescinded by the SEBI RTA Master Circular, SEBI circular number  SEBI/HO/CFD/TPD1/CIR/P/2023/140 dated August 09, 2023, SEBI RTA Master Circular (to the  extent that such circulars pertain to the UPI Mechanism), SEBI ICDR Master Circular along with the  circular issued by the NSE having reference no. 25/2022 dated August 03, 2022 and the circular  issued by BSE having reference no. 20220803-40 dated August 03, 2022 and any subsequent  circulars or notifications issued by SEBI and Stock Exchanges in this regard  |
+| “UPI ID”  | An ID created on UPI for single-window mobile payment system developed by the NPCI  |
+| “UPI Mandate Request”  | A request (intimating the UPI Bidder by way of a notification on the UPI linked mobile application  and by way of an SMS on directing the UPI Bidder to such UPI linked mobile application) to the UPI  Bidder initiated by the Sponsor Bank(s) to authorize blocking of funds in the relevant ASBA Account  through the UPI application equivalent to Bid Amount and subsequent debit of funds in case of  Allotment  |
+| “UPI Mechanism”  | The bidding mechanism that shall be used by a UPI Bidder in accordance with the UPI Circulars to  make an ASBA bids in the Issue  |

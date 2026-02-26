@@ -1,0 +1,23 @@
+# Pursuant to Special Resolution passed at the Extra Ordinary General Meeting held on December 10, 2024, Equity Shares of face value of ₹100/- each of our Company were sub-divided into Equity Shares of face value of ₹10/- each.
+
+## **10. Other requirements**
+
+#### **SECTION IX: ISSUE RELATED INFORMATION**
+
+##### **For applications submitted by intermediaries other than SCSBs with use of UPI for payment**
+
+and thereafter forward the same to the issuer/ Registrar to the Issue. However, in case of Electronic forms, “printouts” of such applications need not be retained or sent to the issuer. Intermediaries shall, at all times, maintain the electronic records relating to such forms for a minimum period of three years.
+
+SCSB, after accepting the form, shall capture and upload the relevant details in the electronic bidding system as specified by the stock exchange(s) and blocked funds available in the bank account specified in the form, to the extent of the application money specified.
+
+It is clarified that Individual Investors may continue to submit physical ASBA Forms with SCSBs without using the UPI Mechanism.
+
+The upload of the details in the electronic bidding system of stock exchange will be done by:
+
+##### **For Applications submitted by investors to SCSB:**
+|  For Applications submitted  by investors to SCSB:  |  After accepting the form submitted by Individual Investors (without using UPI  for payment), NIIs and QIBs, SCSB shall capture and upload the relevant  details in the electronic bidding system as specified by the stock exchange(s)  and may begin blocking funds available in the bank account specified in the  form, to the extent of the application money specified.  |
+|:---|:---|
+| For applications submitted  by  investors  to  intermediaries other than  SCSBs:  | After accepting the application form, respective intermediary shall capture  and upload the relevant details in the electronic bidding system of stock  exchange. Post uploading, they shall forward a schedule as per prescribed  format along with the application forms to designated branches of the  respective SCSBs for blocking of funds within one day of closure of Issue.  |
+| For applications submitted  by  investors  to  intermediaries other than  SCSBs with use of UPI for  payment | After accepting the application form, respective intermediary shall capture  and upload the relevant application details, including UPI ID, in the electronic  bidding system of stock exchange(s).  Stock Exchange shall share application details including the UPI ID with  Sponsor Bank on a continuous basis through API integration, to enable  Sponsor Bank to initiate mandate request on investors for blocking of funds.  Sponsor Bank shall initiate request for blocking of funds through NPCI to  investor. Investor shall accept mandate request for blocking of funds, on his /  her mobile application, associated with UPI ID linked bank account. |
+##### **For applications submitted by intermediaries other than SCSBs:**
+##### **For applications submitted by intermediaries other than SCSBs with use of UPI for payment**

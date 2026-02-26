@@ -1,0 +1,15 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+## * **Net Asset Value per Equity Share** *
+
+NAV per Equity Share is calculated as net worth as at the end of the period/year divided by number of equity shares outstanding as at the end of period / year plus bonus shares  *for all periods presented in accordance with* *principles of IND AS 33 -  Earnings per Share.*  The bonus shares are issued by our Company in the proportion of 1 (One) bonus Equity Share for every 2 (Two) Equity Shares of the Company pursuant to a resolution dated November 10, 2025 passed by the Shareholders and such bonus issue of equity shares were allotted pursuant to a resolution passed by Board of Directors on January 25, 2026.
+*Reconciliation of Net Asset Value per Equity Share*
+**Particulars As at September 30, 2025**
+**As at December 31, 2024 December 31, 2023**
+**December 31, 2022** * **(₹ in million unless otherwise stated)** * Equity Share capital (A) 1,253.31 1,253.31 1,311.23 1,311.23 Other Equity (B) 7,999.65 7,277.61 6,742.12 5,942.51 **Net Worth (C = A + B) 9,252.96 8,530.92 8,053.35 7,253.74**
+Number of equity shares of Rs. 10 each as at the end of the period / year (D)
+125,330,556 125,330,556 131,122,994 131,122,994
+Issue of Bonus Shares (E) <sup>(1)</sup> 62,665,278 62,665,278 62,665,278 62,665,278
+Net Asset Value per Equity Share (C * 10^6 / (D+E) (in  * **₹)** *
+49.22 45.38 41.56 37.43
+*(1)*   *Subsequent to the end of the nine months period ended September 30, 2025, the shareholders in its meeting held on November 10, 2025* *approved a bonus issue of 62,665,278 equity shares of ₹10 each to eligible Equity Shareholders of the Company holding equity shares whose* *name appears in the Register of Members as on November 3, 2025 (‘Record date’) in the proportion of 1 (One) bonus Equity Share for every* *2 (Two) Equity Shares of the Company. The bonus issue of 62,665,278 Equity Shares of ₹10 each to eligible Equity Shareholders of the* *Company was allotted pursuant to approval by the board of directors through a circular resolution dated January 25, 2026.*

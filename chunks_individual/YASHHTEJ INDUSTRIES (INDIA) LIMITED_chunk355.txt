@@ -1,0 +1,34 @@
+#
+
+## **2. Solar electricity generation an d s u pp l y**
+
+### Quality Inspection Storage
+
+#### **SECTION VII: FINANCIAL INFORMATION**
+
+##### **.**
+
+|  Note 31A  |  Note 31A  |  Note 31A  |  Note 31A  |  Note 31A  |  Note 31A  |
+|:---|:---|:---|:---|:---|:---|
+|  | P articulars  | As at  | As at  | As at  | As at  |
+|  | P articulars  | September  30, 2025 | March  31, 2025 | March  31, 2024 | March  31, 2023 |
+|  | WDV Companies Act  | 2,880.57  | 2,962.25  | 2,726.13  | -  |
+|  | WDV Income tax  | 2,342.67  | 2,450.31  | 2,580.23  | -  |
+|  | Difference in WDV (A-B)  | 537.90  | 511.94  | 145.89  | -  |
+|  | Deferred Tax (Asset)/ Liability ( C)  | 135.38  | 128.85  | 36.72  | -  |
+|  |  |  |  |  |  |
+|  | Gratuity Provision  | 7.40  | 4.50  | 0.94  | 0.50  |
+|  | Deferred Tax (Asset)/ Liability ( C)  | (1.86)  | (1.13)  | (0.24)  | (0.13)  |
+|  | Total Deferred Tax (Asset)/ Liability (C+E)  | 133.52  | 127.71  | 36.48  | (0.13)  |
+|  | Restated Closing Balance of Deferred Tax (Asset)/ Liability  | 133.52  | 127.71  | 36.48  | (0.13)  |
+|  | Deferred Tax (Assets)/ Liability as per Balance sheet of Previous  Year | 127.71  | 36.48  | (0.13)  | -  |
+|  | Deferred Tax (Assets)/ Liability should be charged to Profit &  Loss  | 5.80  | 91.23  | 36.61  | (0.13)  |
+
+**(Amount in INR Lakhs, except for share data unless otherwise stated) Note 32 Statement of Capitalisation Particulars Pre Issue Post Issue Stub Debt**
+[- ]
+Short Term Debt 2,629.06 Long Term Debt (Including Current Matur it y) 1,118.17 **Total Debt 3,747.23**
+
+**Shareholders' Fund (Equity)** Share Capital 1,500.00 Reserves & Surplus 1,186.78 Less: Miscellaneous Expenses not w/off  **- Total Shareholders' Fund (Equity) 2,686.78**
+**Long Term Debt/Equity 0.42 Total Debt/Equity 1.39**
+
+**Notes:** 1. Short term debts represents the debts which are expected to be paid/payable within 12 months and excludes instalment of term loans repayable within 12 months. 2. Long term debts represent debts other than Short term debts as defined above but includes instalment of term loans repayable within 12 months grouped under other current liabil iti e s 3. The figures disclosed above are based on restated statement of assets and liabilities of the Company as at September 30, 2025. Effect of Increase in Capital after September 30, 202 5 n ot taken.

@@ -1,0 +1,30 @@
+#
+
+## **2. Solar electricity generation an d s u pp l y**
+
+### Quality Inspection Storage
+
+#### **SECTION VII: FINANCIAL INFORMATION**
+
+##### **ANNEXURE- IV**
+
+**2. USE OF ESTIMATES**
+The preparation of financial statement in conformity with the GAAP requires estimates and assumption to be made that affect the reported amount of assets and liabilities on the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. The estimates and assumptions used in the accompanying financial statement are based upon management's evaluation of the relevant facts and circumstances as on the date of financial statements. Actual results may differ from the estimates used in preparing the accompanying financial statements. Difference between the actual result and estimates are recognized in the year in which the results are known or materialized.
+**3. PROPERTY, PLANT & EQUIPMENT**
+Property, Plant and equipment are stated at cost net of recoverable taxes, trade discounts and rebates and include amounts added on revaluation if any, less accumulated depreciation and impairment loss, if any. The Cost of Property,Plant and equipment comprises its purchase price, borrowing cost, and any other cost directly attributable to bringing the asset to its working condition for its intended use.
+Subsequent expenditure is capitalized only if it is probable that future economic benefits associated with the expenditure will flow to the company.
+Property, plant and equipment, Building under construction and assets not ready for put to the use at the year-end are disclosed as capital work-in-progress (CWIP)
+**4. DEPRECIATION**
+Depreciation is calculated on cost of items of property, plant and equipment less their estimated residual values over their estimated useful lives based on the life prescribed in Schedule II of the Companies Act, 2013 using the written down value, and is generally recognized in the statement of profit and loss. .In cases, where the useful lives are different from that prescribed in Schedule II. The management has determined the estimated useful lives of the property, plant and equipment based on the chartered engineer certificate.
+|  Category of Asset  |  Estimated Useful life (in years)  |  Estimated Salvage Value  |
+|:---|---:|:---|
+| Solar Power Plant & Machinery |  35  | 5%  |
+| Buildings  |  54  | 20%  |
+| Plant and Equipment  |  30  | 20%  |
+| Furniture & Fixture  |  10  | 5%  |
+| Office Equipment  |  5  | 5%  |
+| Lab Equipment  |  5  | 5%  |
+| Vehicles  |  8  | 5%  |
+| Computers  |  3  | 5%  |
+
+**5. IMPAIRMENT OF ASSETS**

@@ -1,0 +1,51 @@
+Source: Appeal No. 6719 of 2026.pdf
+==================================================
+
+Chunk 1
+----------------------------------------
+# Appeal No. 6719 of 2026
+
+*Appeal No. 6719 of 2026*
+*Page*   **1**   *of*   **2**
+
+**BEFORE THE APPELLATE AUTHORITY (Under the Right to Information Act, 2005) SECURITIES AND EXCHANGE BOARD OF INDIA**
+
+Chunk 2
+----------------------------------------
+# Appeal No. 6719 of 2026
+
+## **Appeal No. 6719 of 2026**
+
+Vikram D Kanara
+
+:
+
+Appellant
+
+Vs
+CPIO, SEBI, Mumbai    :  Respondent
+**ORDER** 1.  The appellant had filed an application dated January 14, 2026 (received by the respondent through RTI MIS Portal) under the Right to Information Act, 2005 (“  **RTI Act**  ”). The respondent, by a letter dated January 29, 2026, responded to the application filed by the appellant. The appellant filed an appeal (Reg. No. SEBIH/A/E/26/00042) dated February 03, 2026. I have carefully considered the application, the response and the appeal and find that the matter can be decided based on the material available on record.
+2.   **Queries in the application**  - The appellant, in his application dated January 14, 2026, sought the following information:
+*“ Is Novir Markets Ltd (Mauritius-based, FSC license GB21026833) or its brand Inefex authorised or registered with* *SEBI to carry out business operations in India, including offering trading in securities, derivatives, forex, or CFDs to Indian* *residents? If not, is it permissible under SEBI regulations for such an offshore entity to solicit or provide trading services in* *India?”*
+3.   **Reply of the Respondent**  - The respondent, in response to queries in the application, informed that the information sought is in the nature of seeking clarification/opinion. Accordingly, the same cannot be construed as “Information”, as defined u/s 2(f) of the RTI Act. Further, the respondent informed that the details of the registered intermediaries and the capacity in which they are registered with SEBI are available on SEBI website.
+4.   **Ground of appeal**  -  The appellant has filed the appeal on the ground that he was refused access to the information requested.
+*Appeal No. 6719 of 2026*
+*Page*   **2**   *of*   **2**
+
+5.  I have perused the queries in the application and the response provided thereto. On consideration, I concur with the response of the respondent that the queries are in the nature of seeking clarification/opinion from the respondent. I find that the said queries cannot be construed as seeking ‘information’ as defined under section 2(f) of the RTI Act. Consequently, the respondent did not have an obligation to provide such clarification or opinion under the RTI Act. In this context, reliance is placed on matter of  *Azad Singh vs.* *CPIO, Oriental Insurance Company Limited*  (order dated March 23, 2021) wherein Hon’ble Central Information Commission observed that “  *7. The Commission, after hearing the submissions of both the parties and* *after perusal of records, observed that some queries of the appellant are in the nature of seeking* *explanation/opinion/advice/confirmation/clarification from the CPIO and he has expected that the CPIO firstly should* *analyze the documents and then provide information to the appellant. But the CPIO is not supposed to create information; or* *to interpret information; or to compile information as per the desire of the appellant under the ambit of the RTI Act. As per* *Section 2(f) of the RTI Act, the reasons/opinions/advices can only be provided to the applicants if it is available on record* *of the public authority. The CPIO cannot create information in the manner as sought by the appellant. The CPIO is only a* *communicator of information based on the records held in the office and hence, he cannot be expected to do research work to* *deduce anything from the material therein and then supply it to him.”*  Accordingly, I do not find any deficiency in the response of the respondent.
+
+Chunk 3
+----------------------------------------
+# Appeal No. 6719 of 2026
+
+## **Appeal No. 6719 of 2026**
+
+6.  Notwithstanding the above, I note that the respondent has informed that the details of the registered intermediaries and the capacity in which they are registered with SEBI are available in public domain on SEBI website. Hence, I find that the respondent has provided appropriate guidance to the appellant.
+7.  In view of the above observations, I find that there is no need to interfere with the decision of the respondent. The appeal is accordingly dismissed.
+
+Chunk 4
+----------------------------------------
+# Appeal No. 6719 of 2026
+
+## **Date: February 17, 2026 APPELLATE AUTHORITY UNDER THE RTI ACT SECURITIES AND EXCHANGE BOARD OF INDIA**
+

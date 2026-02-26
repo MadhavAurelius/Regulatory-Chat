@@ -1,0 +1,33 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Acquisition of Subsidiary and Recognition of Provisional Goodwill**
+
+**Standalone**
+322
+**27 (i) Payment to Auditors**
+**For the six months ended September 30, 2025**
+**For the year Ended March 31, 2025**
+**For the year Ended March 31, 2024**
+**For the year Ended March 31, 2023** Audit Fee 0.10  0.20  0.20  0.03 Other Services 0.02  0.03  0.03  0.01 **Total 0.12 0.23 0.23 0.04**
+**28 Earning/(Loss) Per Share**
+**For the six months ended September 30, 2025**
+**For the year Ended March 31, 2025**
+**For the year Ended March 31, 2024**
+**For the year Ended March 31, 2023 Profit/(Loss) after tax as per Statement of Profit and Loss 13.53 58.81 8.53 (84.56)** Weighted average number of equity shares in calculating basic EPS 1,54,05,233              1,53,07,582              1,53,05,354              1,52,53,435 Add: Weighted average number of equity shares, would be issued on the conversion of preference shares -  - -  - **Weighted average number of equity shares in calculating diluted EPS 1,54,05,233 1,53,07,582 1,53,05,354 1,52,53,435 Basic {Nominal Value of Shares- Rs. 10/- (Previous Year- Rs. 10/-)}**  0.88   **3.84                          0.56                         (5.54) Diluted {Nominal Value of Shares- Rs. 10/- (Previous Year- Rs. 10/-)}**  0.88   **3.84                          0.56                         (5.54)**
+323
+**Rays of Belief Limited (Formerly known as Rays of Belief Private Limited) CIN:U85110DL2017PLC322623 Notes to Restated financial Information for the period ended Septemeber 30, 2025** (All amounts in INR Millions, unless otherwise stated)
+**Note 29: First-time adoption of Ind AS**
+**Ind AS mandatory exceptions**
+**1. Estimate**
+**Effect of Ind AS adoption on the Balance sheet Reconciliation of Balance Sheet as at April 1, 2022 Balance sheet**
+|  Particulars  |  Balance Sheet as at April 1, 2022  |  Balance Sheet as at March 31, 2023  |
+|:---|:---|:---|
+| Particulars  | Previous  Indian GAAP  Effect of  transition to Ind AS  Effect due to  Prior Period  Items  Ind AS  | Previous  Indian GAAP  Effect of  transition to Ind AS  Effect due to  Prior Period  Items  Ind AS  |
+| Assets Non-current assets Property, plant and equipment 6.40  -  -  6.40  8.43  -  (0.16)  8.59  Capital Work in Progress 0.06  -  -  0.06  0.54  -  -  0.54  Intangible Assets 5.07  5.07  -  -  2.80  -  -  2.80  Right-of-use assets -  (12.15)  -  12.15  -  (9.93)  -  9.93  Financial assets  Other financial assets 7.03  6.45  -  0.58  6.71  6.21  -  0.50  Deferred Tax Assets (Net) -  -  -  -  -  -  -  -  | Assets Non-current assets Property, plant and equipment 6.40  -  -  6.40  8.43  -  (0.16)  8.59  Capital Work in Progress 0.06  -  -  0.06  0.54  -  -  0.54  Intangible Assets 5.07  5.07  -  -  2.80  -  -  2.80  Right-of-use assets -  (12.15)  -  12.15  -  (9.93)  -  9.93  Financial assets  Other financial assets 7.03  6.45  -  0.58  6.71  6.21  -  0.50  Deferred Tax Assets (Net) -  -  -  -  -  -  -  -  | Assets Non-current assets Property, plant and equipment 6.40  -  -  6.40  8.43  -  (0.16)  8.59  Capital Work in Progress 0.06  -  -  0.06  0.54  -  -  0.54  Intangible Assets 5.07  5.07  -  -  2.80  -  -  2.80  Right-of-use assets -  (12.15)  -  12.15  -  (9.93)  -  9.93  Financial assets  Other financial assets 7.03  6.45  -  0.58  6.71  6.21  -  0.50  Deferred Tax Assets (Net) -  -  -  -  -  -  -  -  |
+| Total non-current assets 18.56  (0.63)  -  19.19  18.48  (3.72)  (0.16)  22.36  | Total non-current assets 18.56  (0.63)  -  19.19  18.48  (3.72)  (0.16)  22.36  | Total non-current assets 18.56  (0.63)  -  19.19  18.48  (3.72)  (0.16)  22.36  |
+| Current assets Inventories 1.20  1.20  -  -  1.06  1.06  -  -  Financial assets (i) Trade receivables 1.69  -  1.11  0.58  1.55  -  1.11  0.44  (ii) Cash and cash equivalents 38.80  21.95  -  16.85  39.04  - -  39.04  (iii) Bank balances other than cash and cash equivalents -  (21.95)  -  21.95  -  - -  -  (iv) Other financial assets 12.57  6.66  (0.15)  6.06  16.84  13.35  0.46  3.03  Income tax assets (net) -  (0.84)  -  0.84  -  (0.87)  -  0.87  Other current assets 5.06  (7.58)  1.42  11.22  0.22  (13.84)  2.01  12.05 | Current assets Inventories 1.20  1.20  -  -  1.06  1.06  -  -  Financial assets (i) Trade receivables 1.69  -  1.11  0.58  1.55  -  1.11  0.44  (ii) Cash and cash equivalents 38.80  21.95  -  16.85  39.04  - -  39.04  (iii) Bank balances other than cash and cash equivalents -  (21.95)  -  21.95  -  - -  -  (iv) Other financial assets 12.57  6.66  (0.15)  6.06  16.84  13.35  0.46  3.03  Income tax assets (net) -  (0.84)  -  0.84  -  (0.87)  -  0.87  Other current assets 5.06  (7.58)  1.42  11.22  0.22  (13.84)  2.01  12.05 | Current assets Inventories 1.20  1.20  -  -  1.06  1.06  -  -  Financial assets (i) Trade receivables 1.69  -  1.11  0.58  1.55  -  1.11  0.44  (ii) Cash and cash equivalents 38.80  21.95  -  16.85  39.04  - -  39.04  (iii) Bank balances other than cash and cash equivalents -  (21.95)  -  21.95  -  - -  -  (iv) Other financial assets 12.57  6.66  (0.15)  6.06  16.84  13.35  0.46  3.03  Income tax assets (net) -  (0.84)  -  0.84  -  (0.87)  -  0.87  Other current assets 5.06  (7.58)  1.42  11.22  0.22  (13.84)  2.01  12.05 |
+| Total current assets 59.32  (0.56)  2.38  57.50  58.71  (0.30)  3.58  55.43  | Total current assets 59.32  (0.56)  2.38  57.50  58.71  (0.30)  3.58  55.43  | Total current assets 59.32  (0.56)  2.38  57.50  58.71  (0.30)  3.58  55.43  |
+| Total assets 77.88  (1.19)  2.38  76.69  77.19  (4.02)  3.42  77.79  | Total assets 77.88  (1.19)  2.38  76.69  77.19  (4.02)  3.42  77.79  | Total assets 77.88  (1.19)  2.38  76.69  77.19  (4.02)  3.42  77.79  |
+**Practical expedients applied:**

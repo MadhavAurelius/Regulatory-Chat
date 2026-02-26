@@ -1,0 +1,16 @@
+## **Auditors Report**
+
+|  |
+|:---|
+| Bonfiglioli Transmissions Limited (Formerly known as Bonfiglioli Transmissions Private Limited) Annexure VI - Notes to Restated Summary Statements CIN: U29309TN1998PLC040717 (All amounts in Millions of Indian Rupees, unless otherwise stated) Non-current |
+| As at As at As at As at September 30, 2025 December 31, 2024 December 31, 2023 December 31, 2022  |
+**4 Investments at FVTPL** Investment in equity instruments - Quoted 37,500 (December 31, 2024, 2023, 2022 - 37,500) equity shares of Rs. 10 each fully paid-up in Tulsyan NEC Limited 1.13  1.13  1.13  1.13 **Total 1.13 1.13 1.13 1.13** Aggregate amount of Quoted investments 1.13  1.13  1.13  1.13 Aggregate amount of impairment in the value of investments -  -  -  -
+**As at As at As at As at September 30, 2025 December 31, 2024 December 31, 2023 December 31, 2022 5A Loans (at amortised cost) (Unsecured, considered good)** Loans to related party # ( also refer Note 38) 92.40  92.40  -  - **92.40 92.40 - -**
+**As at As at As at As at September 30, 2025 December 31, 2024 December 31, 2023 December 31, 2022 5B Loans (at amortised cost) (Unsecured, considered good)** Loans to related party # ( also refer Note 38) 36.06  126.11  -  - **36.06 126.11 - - Total (Current and Non-current) 128.46 218.51 - -**
+**As at As at As at As at September 30, 2025 December 31, 2024 December 31, 2023 December 31, 2022 6A Other financial assets (at amortised cost) (Unsecured, considered good)** Security deposits 59.63  55.56  54.59  40.73 Bank deposits with remaining maturity more than 12 months -  -  -  150.00 **Total 59.63 55.56 54.59 190.73**
+**As at As at As at As at September 30, 2025 December 31, 2024 December 31, 2023 December 31, 2022 6B Other financial assets (Unsecured, considered good) - (at amortised cost)** Security deposits 2.71  3.25  7.64  21.41 Refund receivable 2.76  2.25  -  8.88 Interest accrued on deposits with banks 3.80  1.74  53.71  46.99 Bank deposits with remaining maturity less than 12 months (also refer note 12.1) 0.77
+
+-  -  -
+
+ Other receivables from related party (Refer Note 38)**
+53.20  140.63  -  - Expenses recoverable from holding company* (Refer Note 38) 16.52  -  -  - **Derivative instruments at fair value through profit or loss Derivatives not designated as hedges** Foreign exchange forward contracts -  -  4.24  - **Total 79.76 147.87 65.59 77.28**

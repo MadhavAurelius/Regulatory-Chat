@@ -1,0 +1,32 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **10. Details of Shareholding of the major shareholders of the Company**
+
+a)  Set forth below is a list of Shareholders holding 1% or more of the paid-up share capital of the Company and the number of Equity Shares held by them as on the date this Prospectus.
+|  Sr.  No.  |  Name of Shareholders  |  Category  |  Number of Equity  Shares  (1)  of Face  value ₹10/- each  |  % of the Pre- Issue  share capital  |
+|:---|:---|:---|:---|---:|
+| 1  | Baswaraj Madhavrao Barge | Promoter  | 37,50,000  |  25 |
+| 2  | Shivling Madhavrao Barge | Promoter  | 37,50,000  |  25 |
+| 3  | Suraj Shivraj Barge  | Promoter  | 37,50,000  |  25 |
+| 4  | Shruti Shivling Barge  | Promoter Group | 7,50,000  |  5 |
+| 5  | Tejas Baswaraj Barge  | Promoter Group | 4,50,000  |  3 |
+| 6  | Yash Baswaraj Barge  | Promoter Group | 7,50,000  |  5 |
+| 7  | Manisha Suraj Barge  | Promoter Group | 7,50,000  |  5 |
+| 8  | Barge Sarika Dhondiram  | Promoter Group | 7,50,000  |  5 |
+| 9  | Jyoti Baswaraj Barge  | Promoter Group | 3,00,000  |  2 |
+|  | Total  |  | 1,50,00,000  |  100 |
+*Notes:* *(1)*    *Details of shares held on February 09, 2026* *(2)*    *There are no vested outstanding options*
+b)  Particulars of the shareholders holding 1% or more of the paid-up equity share capital of the Company and the number of shares held by them ten days prior to the date of this Prospectus.
+|  Sr.  No.  |  Name of Shareholders  |  Category  |  Number of Equity  Shares  (1)  of Face  value ₹10/- each  |  % of the Pre- Issue  share capital  |
+|:---|:---|:---|:---|---:|
+| 1  | Baswaraj Madhavrao Barge | Promoter  | 37,50,000  |  25 |
+| 2  | Shivling Madhavrao Barge | Promoter  | 37,50,000  |  25 |
+| 3  | Suraj Shivraj Barge  | Promoter  | 37,50,000  |  25 |
+| 4  | Shruti Shivling Barge  | Promoter Group | 7,50,000  |  5 |
+| 5  | Tejas Baswaraj Barge  | Promoter Group | 4,50,000  |  3 |
+| 6  | Yash Baswaraj Barge  | Promoter Group | 7,50,000  |  5 |
+| 7  | Manisha Suraj Barge  | Promoter Group | 7,50,000  |  5 |
+| 8  | Barge Sarika Dhondiram  | Promoter Group | 7,50,000  |  5 |
+| 9  | Jyoti Baswaraj Barge  | Promoter Group | 3,00,000  |  2 |
+|  | Total  |  | 1,50,00,000  |  100 |
+*Notes:* *(1) Details of shares held on January 30, 2026* *(2) There are no vested outstanding options*

@@ -1,0 +1,21 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## * **8.** *    * **Risks related to the Objects of the Issue** *
+
+* **15.** *    * **If we do not receive payments on time from our clients, our financial condition, cash flows and results of operations** * * **may be materially and adversely affected.** *
+We derive our revenue from our clients who may be families availing our intervention services for their children or the entities we export our services to. Clients availing our intervention services may pay either on a per-session basis or through the purchase of therapy plans. This variability in billing structure could create complexities in revenue recognition, cash flow management, and financial forecasting. Our trade receivables have increased in recent periods. As of September 30, 2025, our trade receivables amounted to ₹110.64 million, representing 25.64% of the total revenue from operations. The increase in outstanding receivables reflects a longer collection cycle and may adversely affect our liquidity, cash flows and working capital requirements.
+Additionally, if there are any errors or delays in invoicing or collection, or if clients default on payments, our financial condition and results of operations could be adversely affected. There can be no assurance that our billing processes will be consistently accurate or timely, which may result in client dissatisfaction, increased operational costs, and adverse impacts on our reputation and financial performance. Macroeconomic conditions which are beyond our control, such as a potential economic crises, could also result in financial difficulties for our clients. Such conditions could cause our clients to delay payment, request modifications of their payment terms, or default on their payment obligations to us, all of which could increase our receivables. Although trade receivables constituted a lower percentage of our revenue in earlier periods, the recent increase indicates that such receivables may continue to increase as our revenue grows.
+The details of Trade Receivables are as follows:
+|  Particulars  |  Six months  period ended  September 30,  2025  (Consolidated)  |  Fiscal 2025  (Standalone)  |  Fiscal 2024  (Standalone)  |  Fiscal 2023  (Standalone)  |
+|:---|---:|:---|:---|:---|
+| Revenue from Operations  (in ₹ mi ll io n )  |  431.49 | 364.19  | 306.08  | 221.31  |
+| Total Trade Receivables  (in ₹ million)  |  110.64 | 30.79 *  | 1.76  | 0.44  |
+| Trade Receivable as % of Revenue from  Operations |  25.64 | 8.45%  | 0.58%  | 0.20%  |
+| Trade Receivable Days  |  94  | 31  | 2  | 1  |
+-   *The amount is inclusive of a payment of ₹ 17.07 million due from Carving Futures Inc. as on March 31, 2025, for services provided by the*
+
+ *Company. For further details on these services see “Our Business-Export of Services” on page 238.*
+
+-   *The amount is inclusive of a payment of ₹ 62.05 million due from Carving Futures Inc. and Carving Futures Pte. Ltd as on September 30,*
+
+ *2025, for services provided by the Company.*

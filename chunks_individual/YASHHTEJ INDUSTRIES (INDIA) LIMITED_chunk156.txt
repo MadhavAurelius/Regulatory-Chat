@@ -1,0 +1,70 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **1. CAPITAL EXPENDITURES:**
+
+##### **A. CIVIL, STRUCTURAL & INFRASTRUCTURE WORKS FOR 200 TPD SOYA SOLVENT REFINERY PROJECT:**
+
+* **Our Company has not yet placed the Order for the above-stated Civil, Structural & Infrastructure works.** *
+
+Proposed location: Plot No. D-76/1, Additional MIDC, Latur, Maharashtra, India, 413512.
+
+**B. PROCUREMENT AND INSTALLATION OF PLANT AND MACHINERY FOR SETTING UP OF 200 TPD SOYA SOLVENT REFINERY PLANT AND 50 TPD BOTTLING PLANT:**
+
+*Our Company has obtained quotation dated September 23, 2025 from M/s. Oiltech Engineers for the* *procurement and*  installation of Plant and Machinery for setting up of 200 TPD Soya Solvent Refinery Plant and 50 TPD Bottling Plant. The estimated cost (including GST) would be ₹ 1,652 Lakhs. The cost involved in the same shall be borne by our Company from the proceeds of the IPO.
+97
+The detailed component of the estimated cost is provided below:
+|  200 TPD Soya Solvent Refinery Plant and 50 TPD Bottling Plant  [with 3 Nos Self Cleaning -  Separator]  |  200 TPD Soya Solvent Refinery Plant and 50 TPD Bottling Plant  [with 3 Nos Self Cleaning -  Separator]  |  200 TPD Soya Solvent Refinery Plant and 50 TPD Bottling Plant  [with 3 Nos Self Cleaning -  Separator]  |
+|:---|:---|:---|
+| S. No.  | Description  | ₹  in Lakhs  |
+| 1  | Water Degumming, Neutralization & Washing sections comprising  of the following:  | 1,400.00  |
+| 1  | Self-Cleaning Separator -  3 NOS  | 1,400.00  |
+| 1  | Hydration tank in SS304 with 45 mins Residence time  | 1,400.00  |
+| 1  | Retention tank for acid in SS316 with 15-min retention time  | 1,400.00  |
+| 1  | Retention tank for caustic with 10-minute residence time  | 1,400.00  |
+| 1  | Vacuum drying system  | 1,400.00  |
+| 1  | PHE’s, Pump’s, Dosing pump’s  | 1,400.00  |
+| 1  | Piping, valves, fittings, flanges and accessories  | 1,400.00  |
+| 1  | Electricals & cables and trays, Automation material  | 1,400.00  |
+| 2  | Bleaching section comprising of the following:  | 1,400.00  |
+| 2  | Mechanical Agitated Bleacher  | 1,400.00  |
+| 2  | 2 NOS Pressure Leaf Filters  | 1,400.00  |
+| 2  | Bleaching earth Hopper & dosing system  | 1,400.00  |
+| 2  | Vacuum system  | 1,400.00  |
+| 2  | Earth Conveying System  | 1,400.00  |
+| 2  | PHE’s and Pumps  | 1,400.00  |
+| 2  | Piping, valves, fittings, flanges and accessories  | 1,400.00  |
+| 2  | Electricals & cables and trays, Automation material  | 1,400.00  |
+| 2  | Statutory approvals, licenses, consultancy, & contingencies  | 1,400.00  |
+| 3  | Deodorization section comprising of the following:  | 1,400.00  |
+| 3  | Tray Deo in SS 304  | 1,400.00  |
+| 3  | Stripper column with structured packing  | 1,400.00  |
+| 3  | Final Heater under Vacuum -  VHF  | 1,400.00  |
+| 3  | Oil Economiser under Vacuum -  VHE  | 1,400.00  |
+| 3  | Vacuum System  | 1,400.00  |
+| 3  | Vapour Scrubber system  | 1,400.00  |
+| 3  | PHE’s and Pumps  | 1,400.00  |
+| 3  | Piping, valves, fittings, flanges and accessories  | 1,400.00  |
+| 3  | Electricals & cables and trays, Automation material  | 1,400.00  |
+| 3  | MCC Panel  | 1,400.00  |
+| 3  | PLC SCADA with Workstation  | 1,400.00  |
+| 4  | Chilled Water Close Loop Vacuum System comprising of the  following:  | 1,400.00  |
+| 4  | Fat Trap  | 1,400.00  |
+| 4  | CIP System  | 1,400.00  |
+| 4  | Screw Chiller  | 1,400.00  |
+| 4  | Pumps, PHEs  | 1,400.00  |
+| 4  | Piping, valves, fittings, flanges and accessories  | 1,400.00  |
+| 4  | Electricals & cables and trays, Automation material  | 1,400.00  |
+| 5  | Packaging Unit comprising of the following:  | 1,400.00  |
+| 5  | 1.  Line 1 for 500ml to 5 Ltr.  | 1,400.00  |
+| 5  | Automatic Volume filling  | 1,400.00  |
+| 5  | Automatic Screw Capping Machine 1X  | 1,400.00  |
+| 5  | Labelling Machine -  Wrap around  | 1,400.00  |
+| 5  | Inkjet Printer  | 1,400.00  |
+| 5  | Packing Table  | 1,400.00  |
+| 5  | BOPP Carton Tapping Machine  | 1,400.00  |
+| 5  | Carton Coding Machine  | 1,400.00  |
+| 5  | 2.  Line 2 for 20 Ltr. Tin  | 1,400.00  |
+| 5  | Weighfill Machine  | 1,400.00  |
+| 6  | Price for PLC Based Instrumentation  | 1,400.00  |
+| 7  | Engineering and Services  | 1,400.00  |
+98

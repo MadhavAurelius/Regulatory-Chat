@@ -1,0 +1,12 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **i. Non-derivative financial instruments**
+
+(i)  Financial assets carried at amortised cost
+A financial asset is subsequently measured at amortised cost if it is held within a business model whose objective is to hold the asset in order to collect contractual cash flows and the contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+
+A financial asset that meets the amortized cost criteria or debt instruments that meet the FVTOCI criteria may be designated as at FVTPL upon initial recognition if such designation eliminates or significantly reduces a measurement or recognition inconsistency that would arise from measuring assets or liabilities or recognizing the gains and losses on them on different bases. The Group has not designated any debt instrument as at FVTPL.
+(ii)  Financial assets at fair value through other comprehensive income
+A financial asset is subsequently measured at fair value through other comprehensive income if it is held within a business model whose objective is achieved by both collecting contractual cash flows and selling assets and the contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding. Further, in cases where the Company has made an irrevocable election based on its business model, for its investments which are classified as equity instruments, the subsequent changes in fair value are recognised in other comprehensive income.

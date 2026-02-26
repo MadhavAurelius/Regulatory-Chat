@@ -1,0 +1,53 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **1. CAPITAL EXPENDITURES:**
+
+##### **b. Mode Name: Eicher 3019**
+
+* **Our Company has not yet placed the Order for the above-stated purchase and installation of 1200 kWp** * * **Three Phase Grid Connected Rooftop Solar (PV) Power Project.** *
+
+##### **E. PURCHASE OF VEHICLES:**
+For smooth functioning of our Company’s business operations, our Company proposes to purchase Trucks (  * **Quantity: 4 Nos** *  ). Our Company has obtained quotation dated February 06,2026 from Unicon Motors Pvt. Ltd [who is an authorized dealer for trucks and buses for Eicher Motors] for the purchase of the aforementioned quantity of Trucks. The estimated cost (including GST) for the same would be ₹ 220.30 Lakhs. The cost involved in the same shall be borne by our Company from the proceeds of the IPO.
+The detailed component of the estimated cost is provided below:
+
+##### **a. Mode Name: Eicher - 6048**
+|  Configuration  |  Configuration  |
+|:---|:---|
+| Particulars  | Description  |
+| Model  | Pro 6048 BSVI  |
+| Body Type  | Cabin Chasi 31 Ft [Premium model (AC)] |
+| Wheel Base  | 6800 MM  |
+| Colour  | Dazling white  |
+| Power  | 300 HP  |
+| Tyre Size  | 295190 R20  |
+| GVW  | 47500 Kgs  |
+| Estimated Cost  | Estimated Cost  |
+| Particulars  | ₹  in Lakhs  |
+| Cost of vehicle (including GST)  | 50.25  |
+| CRTM Charges  | -  |
+| TCS 1%  | 0.50  |
+| Transportation Charges  (S. Steel) | 21.24  |
+| Sub Total  | 71.99  |
+| Quantity  | 2  |
+| Grand Total  | 143.99  |
+
+##### **b. Mode Name: Eicher 3019**
+|  Configuration  |  Configuration  |
+|:---|:---|
+| Particulars  | Description  |
+| Model  | Pro 3019 BSVI  |
+| Body Type  | Cabin Chasi 24 Ft [Premium Model (AC)] |
+| Wheel Base  | 5490 MM  |
+| Colour  | National Golden Braun  |
+| Power  | 180 HP  |
+| Tyre Size  | 295190 R20  |
+| GVW  | 18500 Kgs  |
+| Estimated Cost  | Estimated Cost  |
+| Particulars  | ₹  in Lakhs  |
+| Cost of vehicle (including GST)  | 28.53  |
+| CRTM Charges  | 0.06  |
+| TCS 1%  | 0.29  |
+| Transportation Charges ( S. Steel) | 2.69  |
+| Total  | 31.57  |
+| Quantity  | 1  |
+| Grand Total  | 31.57  |

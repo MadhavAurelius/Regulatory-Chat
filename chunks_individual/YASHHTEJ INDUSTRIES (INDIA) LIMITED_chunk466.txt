@@ -1,0 +1,31 @@
+# Pursuant to Special Resolution passed at the Extra Ordinary General Meeting held on December 10, 2024, Equity Shares of face value of ₹100/- each of our Company were sub-divided into Equity Shares of face value of ₹10/- each.
+
+## **10. Other requirements**
+
+#### **SECTION IX: ISSUE RELATED INFORMATION**
+
+##### **The Block Process**
+
+The detailed process in this regard is as detailed hereunder:
+
+##### **Application and validation process**
+
+a.  submission of the application with the intermediary, the Individual Investors would be required to have / create a UPI ID, with a maximum length of 45 characters including the handle (Example: InvestorID@bankname).
+
+b.  Individual Investors will fill in the Application details in the application form along with his/ her bank account linked UPI ID and submit the application with any of the intermediary.
+
+c.  The intermediary upon receipt of form will upload the Application details along with UPI ID in the stock exchange bidding platform.
+
+d.  Once the Application has been entered in the bidding platform, the exchange will undertake validation of the PAN and Demat Account details of Individual Investors with the depository.
+
+e.  Depository will validate the aforesaid Application details on a real time basis and send response to stock exchange which would be shared by stock exchange with intermediary through its platform, for corrections, if any.
+
+f.  SMS from exchange to Individual Investors for applying: Once the Application details are uploaded on the stock exchange platform, the stock exchange shall send an SMS to the Individual Investors regarding submission of his / her application, daily at the end of day basis, during issue period. For the last day of applying, the SMS may be sent out the next working day.
+
+##### **The Block Process**
+
+a.  Post undertaking validation with depository, the stock exchange will, on a continuous basis, electronically share the Application details along with Individual Investors UPI ID, with the Sponsor Bank appointed by the issuer.
+
+b.  The Sponsor Bank will initiate a mandate request on the Individual Investors i.e. request the Individual Investors to authorize blocking of funds equivalent to application amount and Subsequent debit of funds in case of allotment.For all pending UPI Mandate Requests, the Sponsor Bank will initiate requests for blocking of funds in the ASBA Accounts of relevant investors with a confirmation cut-off time of 12:00 pm on the first Working Day after the Issue Closing Date  **(“Cut-Off Time”)**  . Accordingly, Individual Investors using the UPI Mechanism need to accept UPI Mandate Requests for blocking off funds prior to the Cut-Off Time and all pending UPI Mandate Requests after the Cut-Off Time will lapse.
+
+c.  The request raised by the Sponsor Bank, would be electronically received by the Individual Investors as a SMS / intimation on his / her mobile no. / Mobile app, associated with UPI ID linked bank account.

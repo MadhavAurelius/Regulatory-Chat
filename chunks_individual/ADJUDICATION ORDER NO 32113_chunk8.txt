@@ -1,0 +1,17 @@
+# Adjudication Order in respect of Anjali Agarwal in the matter of dealings in Illiquid Stock Options [...]
+
+### **SHOW CAUSE NOTICE, REPLY AND HEARING**
+
+16. In view of the aforesaid discussions, I am inclined to presume that Noticee had nothing to submit in her defense and accordingly, I proceed with the matter  *ex* *parte*  as against her.
+
+17. I note that it was alleged in the SCN that the Noticee, while dealing in the stock options contract at BSE during the IP, had executed reversal trades which were
+allegedly non-genuine trades and the same had resulted in generation of artificial volume in stock options contract at BSE. The said reversal trades were alleged to be non-genuine trades as they were not executed in the normal course of trading, lack basic trading rationale, led to false or misleading appearance of trading in terms of generation of artificial volumes and hence, were deceptive and manipulative.
+
+18. It was alleged that the Noticee was one of the entities who had indulged in creating artificial volume of 14,64,000 units through forty non-genuine reversal trades in eight stock options contracts during IP. The summary of trades is given below: **Table 1**
+|  Contract name  |  Avg.  buy  rate  ( ₹ )  |  Total  buy  volume  (no. of  units)  |  Avg.  sell  rate  ( ₹ )  |  Total  sell  volume  (no. of  units)  |  % of  Artificial  volume  generated  by the  Noticee in  the  contract  to  Noticee’s  Total  volume in  the  contract  |  % of  Artificial  volume  generated  by the  Noticee in  the contract  to Total  volume in  the contract  |
+|:---|:---|:---|:---|:---|:---|:---|
+| A  | B  | C  | D  | E  | F  | G  |
+| NHPC15JAN24.00CE  | 0.05  | 5,00,000  | 1.05  | 5,00,000  | 100  | 13.48  |
+| PTCI15JAN100.00CEW2 | 0.05  | 2,32,000  | 1.78  | 2,32,000  | 100  | 37.79  |
+
+19. The relevant details regarding the contract as mentioned in Table 1 are as under: (a) On January 21, 2015, the Noticee, at 13:08:23 hours, entered into a sell trade in a contract named, viz., ‘NHPC15JAN24.00CE’ with counterparty ‘Pragya Commodities Private Limited’ for 5,00,000 units at Rs. 1.05/- per unit. On the same day, at 14:31:58 hours, Noticee entered into a buy trade of same contract with the same counterparty, for 5,00,000 units at Rs. 0.05/- per unit. It is noted that the Noticee while dealing in the said contract during the IP, executed a total of two trades (one buy trades and one sell trades) with same counterparty, viz., ‘Pragya Commodities Private

@@ -1,0 +1,11 @@
+# Pursuant to Special Resolution passed at the Extra Ordinary General Meeting held on December 10, 2024, Equity Shares of face value of ₹100/- each of our Company were sub-divided into Equity Shares of face value of ₹10/- each.
+
+## **6. Leverage Ratio**
+The Leverage ratio (Total Debts to Equity) of our Company as on September 30, 2025 & March 31, 2025 was 1.39 & 2.23 respectively, which is less than the limit of 3:1. The working is given below: **(**  ₹  **in Lakhs)**
+|  Particular  |  September 30, 2025  |  31 st  March 2025  |
+|:---|:---|:---|
+| Long-term borrowings  | 877.99  | 897.60  |
+| Short-term borrowings | 2,869.24  | 3,486.98  |
+| Total Liability  | 3,747.23  | 4,384.57  |
+| Total Equity  | 2,686.78  | 1961.82  |
+| Leverage Ratio  | 1.39  | 2.23  |

@@ -1,0 +1,20 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+## **Contractual Obligations**
+
+The table below sets forth our contractual obligations as at September 30, 2025. These obligations primarily relate to our contractual maturities of financial liabilities such as trade payables, other financial liabilities and lease liabilities:
+**Particulars Total Less than 6 months 6 months to 1 year More than 1 year** *(₹ million)* Trade Payables (includes total outstanding dues of micro and small enterprises and total outstanding dues of creditors other than micro and small enterprises) (A)
+3,798.69 3,798.69 - -
+Other financial liabilities (B) 120.62 108.52 - 12.10
+
+-  Current  108.52 108.52 - -
+
+-  Non-current  12.10 - - 12.10
+
+ Lease liabilities (C)  37.94 21.02 14.31 4.73
+
+-  Current  32.51 18.20 14.31 -
+
+-  Non-current  5.43 - - -
+
+ **Total (A+B+C) 3,957.25 3,928.24 14.31 16.83**

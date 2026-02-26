@@ -1,0 +1,4 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **Rebalancing due to Short Term Defensive Consideratio n :**
+Due to market conditions, the AMC may invest beyond the range set out in the asset allocation. Such deviations shall normally be for a short term and defensive considerations as per para 1.14.1.2 of SEBI Master Circular on Mutual Funds, and the fund manager will rebalance the portfolio within 30 calendar days from the date of deviation.

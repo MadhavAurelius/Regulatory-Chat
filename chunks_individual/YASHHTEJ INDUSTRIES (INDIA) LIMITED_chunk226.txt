@@ -1,0 +1,18 @@
+#
+
+## **3B.3 Global Solar Power Landscape**
+
+##### **Technological Advancements:**
+
+While a few other markets such as Qatar and the UAE remain active, their contributions were not sufficient to offset the regional downturn, underscoring the need for broader policy and infrastructure development to unlock MEA’s solar potential1.
+##### **Technological Advancements:**
+
+The global solar PV industry continues to benefit from rapid and sustained technological innovation across the value chain, which has significantly contributed to the declining cost of solar electricity, improved project viability, and enhanced grid integration capabilities. Technological advancement remains a critical enabler of solar PV’s competitiveness, especially as markets mature and face challenges such as grid curtailment, price cannibalisation, and land-use constraints. The three primary fronts of technological progress in recent years include module efficiency, digitalization, and energy storage integration.
+
+-   **Module Innovation and Efficiency Improvements:**  Solar module technology has advanced considerably,
+
+ leading to a step-change in conversion efficiencies and cost structures. Historically dominant monocrystalline PERC (Passivated Emitter and Rear Cell) technology continues to evolve, but the industry is now witnessing a strong transition towards next-generation high-efficiency cell architectures such as TOPCon (Tunnel Oxide Passivated Contact) and HJT (Heterojunction Technology). These new technologies offer higher energy yields per square metre, longer durability, better temperature coefficients, and lower degradation rates compared to previous-generation modules. The ongoing migration to n-type silicon wafers in combination with these advanced cell architectures is enabling average commercial module efficiencies to reach the range of 22- 23%, compared to 19- 20% just a few years ago. This results in a significant reduction in the Levelized Cost of Energy (LCOE), particularly for large-scale utility projects, as more power can be generated from a smaller area using fewer balance-of-system (BoS) components. Furthermore, bifacial modules—now widely adopted—enhance energy output by capturing reflected light from the ground or adjacent surfaces, further improving project economics in appropriate geographies1.
+
+-   **Digitalization and Data Analytics:**  In parallel with hardware improvements, digital technologies are playing
+
+ an increasingly vital role in the solar PV sector. Advanced digital tools are being used across the project lifecycle—from site selection and bankability assessment to operations and performance optimization. One of the most notable developments is the introduction of high-fidelity resource simulation platforms such as Solargis Evaluate, which enables developers, investors, and lenders to access 30-year historical and forecasted solar resource datasets with high spatial and temporal resolution. These tools provide more accurate yield prediction models, reducing financial uncertainties and improving the credibility of energy production forecasts submitted to financial institutions during project due diligence. They also support dynamic system design, fault detection, remote monitoring, and maintenance optimization. As solar markets expand into increasingly complex geographies and grid environments, such simulation and analytics platforms are becoming indispensable for planning and executing viable projects, especially in markets with volatile irradiation profiles or grid variability1.

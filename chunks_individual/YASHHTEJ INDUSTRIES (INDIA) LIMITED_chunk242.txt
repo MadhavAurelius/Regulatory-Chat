@@ -1,0 +1,14 @@
+#
+
+## **6A. PESTEL Analysis -  Crude Soybean Oil and De-Oiled Cake**
+
+|  Factor  |  Key Aspects  |
+|:---|:---|
+| Political  | - Implementation of the National Mission on Edible Oils -  Oilseeds (NMEO- Oilseeds)  incentivizes domestic soybean cultivation and crushing.  - Government procurement and MSP policies directly impact soybean supply to crushing  units.  - Export policy liberalisation has facilitated higher DOC exports, especially to South Asia  and the Middle East. |
+|  Factor  |  Key Aspects  |
+|:---|:---|
+| Economic  | - Import dependency for crude Soybean Oil makes the sector vulnerable to global price  shocks and freight cost fluctuations.  - De-oiled cake (DOC) exports are a significant foreign exchange earner, contributing to  trade balance.  - Rising demand from livestock and poultry feed industries is driving domestic consumption  of DOC.  |
+| Social  | - Soybean Oil is considered a low-cost cooking oil, widely accepted across Indian households  and food service establishments.  - Increased awareness of plant-based protein is boosting soymeal and DOC demand among  dairy and poultry farmers.  - Employment generation in rural areas through value chain activities like crushing, packing,  and transport.  |
+| Technological | - Upgradation of solvent extraction plants and refining technologies has improved oil  recovery rates and reduced operational losses.  - Technological advancements in storage and logistics ensure longer shelf life of DOC and  crude oil.  - Use of digital trading platforms has improved DOC export visi bi l i ty  and  p ri ce d i s cov er y .  |
+| Legal  | - Compliance with FSSAI regulations is mandatory for edible crude oil refiners.  - DOC exports must meet APEDA standards, particularly in terms of aflatoxin levels,  moisture, and protein content.  - Adherence to Environmental Protection Act and state-level pollution control norms for  solvent recovery and effluent discharge from crushing units.  |
+| Environmental | - Soybean cultivation and oil extraction generate agro-industrial waste, creating a need for  sustainable waste management and energy-efficient processing.  - DOC is increasingly used in organic manure and biomass fuel, aligning with India’s circular  economy and net-zero goals.  - Irregular monsoons and climate-related crop failures pose supply risks for crushing  operations. |

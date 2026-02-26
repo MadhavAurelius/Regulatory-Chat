@@ -1,0 +1,23 @@
+## **INTERNAL RISKS**
+
+**Particulars For the nine months period ended September 30, 2025**
+**For the year ended December 31, 2024**
+**For the year ended December 31, 2023**
+**For the year ended December 31, 2022**
+**Amount (₹ million)**
+**Percentage of total revenue from operations - continuing operations (%)**
+**Amount (₹ million)**
+**Percentage of total revenue from operations - continuing operations (%)**
+**Amount (₹ million)**
+**Percentage of total revenue from operations - continuing operations (%)**
+**Amount (₹ million)**
+**Percentage of total revenue from operations - continuing operations (%)** Revenue from co-engineer products
+7,887.96 54.02% 9,948.37 53.37% 8,886.26 52.66% 8,446.18 54.18%
+
+If we fail to successfully commercialise such products, or if commercialised products do not perform as expected, our business, financial condition, results of operations, and cash flows may be adversely affected.
+Co-engineering products involves multiple stages and can take up-to 30 months to complete. The extended gestation period inherent in co-engineering exposes us to material risks. For example, due to the limited visibility we have at the commencement of a long co-engineering process, we face the risk that the technology we are offering or utilising may become obsolete before the product reaches commercialisation, and any technological advancement or industry shift during the development cycle could render our solutions less competitive or outdated. Additionally, while we collaborate closely with customers to align with their product requirements, we may be unable to achieve intended results within the timeframe committed to the customer or at costs estimated at the outset. Changes in customer’s operational priorities, or market conditions during the co-engineering cycle could result in misalignment between the final product and customer needs, potentially leading to rejection of the product, contract modifications, or loss of revenue.
+Co-engineering projects are also subject to macroeconomic conditions, supply chain disruptions, technical challenges, or unforeseen complications during prototyping, testing, or validation phases, which could extend development timelines and increase costs beyond initial projections. Such delays or cost escalations could adversely impact our profitability, damage customer relationships, and result in contractual penalties or loss of business.
+
+38
+While the long gestation period of co-engineered products creates enduring relationships with customers and opportunities to evolve with market developments, our ongoing investments in co-engineering and product development could result in higher costs without a proportionate increase in revenues in the short term, or at all.
+* **9.** *    * **We may not be able to compete successfully in the highly competitive, price sensitive, and fast evolving** * * **market for gearboxes and drive systems which could have an adverse impact on our operations.** *

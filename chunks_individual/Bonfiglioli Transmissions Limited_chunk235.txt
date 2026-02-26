@@ -1,0 +1,23 @@
+## * **Industrial Solutions Market -  Gearboxes and Gear Motors** *
+
+**Gearbox:**   *(>15k*   *Nm)*   *-*   *Heavy*   *Duty*   *Gearboxes* Typically, gearboxes handle torque levels above 15K Nm, making them ideal for large-scale systems such as conveyors, crushers, turbines, and heavy machinery.
+**Gearbox Type Description** Worm Gearbox High torque, compact design with self-locking capability; offers high reduction ratios (5:1- 100:1) but lower efficiency due to friction losses. Bevel Gearbox Right-angle power transmission; compact and durable; suitable for moderate torque and high load capacity. Helical Gearbox High efficiency and smooth power transmission; capable of handling high torque with low noise. Ideal for continuous duty industrial applications Planetary Gearbox Compact, high-torque solution with multiple gear stages; offers reduction ratios per stage typically between 3:1 and 10:1
+
+**Gear Motors:**   *(<15k Nm) - Low and medium Duty Gearboxes*  . Gear motors generally operate below 15K Nm torque, serving applications such as conveyors, mixers, packaging equipment, and automated machinery.
+**Gear Motor Type Description Key Application Areas**
+Worm Gear Motor
+Compact, cost-effective unit combining a worm gearbox and motor; offers high torque and self-locking but lower efficiency.
+Conveyors, packaging machinery, lifts, small automation setups, textile machinery, and robotics.
+Bevel Gear Motor
+Right-angle motor with efficient torque transfer and compact form for directional motion.
+
+Material-handling conveyors, cranes, hoists, pumps, marine equipment, and agricultural machinery
+Helical Gear Motor
+Inline and parallel shaft motor-gearbox design ensures smooth, quiet, and efficient continuous-duty performance
+Mixers, agitators, compressors, pumps, automation systems, and material-handling conveyors.
+Planetary Gear Motor
+Compact, high-torque motor using planetary gear stages for precision and high reduction ratios.
+Robotics, medical devices, electric vehicles, precision automation, and heavy-duty equipment
+
+*Integrated Motion Control Solutions: Synergy of Motors, Drives, and Gear Systems*
+In gear motors, the motor and gearbox are built as a compact, factory-aligned unit that ensures smooth power transmission, minimal maintenance, and efficient space utilization.

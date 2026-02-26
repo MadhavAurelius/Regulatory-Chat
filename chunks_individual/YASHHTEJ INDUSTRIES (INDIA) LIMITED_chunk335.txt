@@ -1,0 +1,23 @@
+#
+
+## **2. Solar electricity generation an d s u pp l y**
+
+### Quality Inspection Storage
+
+#### **SECTION VII: FINANCIAL INFORMATION**
+
+##### **ANNEXURE- IV**
+
+**9. CASH & CASH EQUIVALENTS**
+Cash and Cash Equivalents in the balance sheet include cash at bank, cash, cheque, draft on hand and demand deposits with an original maturity of less than three months, which are subject to an insignificant risks of changes in value.
+**10. CURRENT / NON-CURRENT CLASSIFICATIONS**
+The Schedule III to the Act requires assets and liabilities to be classified as either Current or Non-current. An asset is classified as current when it satisfies any of the following criteria: (a)  it is expected to be realized in, or is intended for sale or consumption in, the entity’s normal operating cycle; (b)  it is held primarily for the purpose of being traded; (c)  it is expected to be realized within twelve months after the balance sheet date; or (d)  It is cash or a cash equivalent unless it is restricted from being exchanged or used to settle a liability for at least twelve months after the balance sheet date.
+Current assets include the current portion of non-current financial assets. All other assets are classified as non-current.
+A liability is classified as current when it satisfies any of the following criteria: (a)  it is expected to be settled in, the entity’s normal operating cycle; (b)  it is held primarily for the purpose of being traded; (c)  it is due to be settled within twelve months after the balance sheet date; or (d)  The Company does not have an unconditional right to defer settlement of the liability for at least twelve months after the balance sheet date.
+Current liabilities include current portion of non-current financial liabilities. All other liabilities are classified as non-current.
+**OPERATING CYCLE**
+Operating cycle is the time between the acquisition of assets for processing and their realization in cash or cash equivalents.
+**11. REVENUE RECOGNITION**
+Revenue is recognized to the extent that it is probable that the economic benefits will flow to the company and the revenue can be reliably measured, regardless of when the revenue proceeds is received from custonrers
+Revenue is measured at the fair value of the consideration received/receivable taking into account contractually defined terms of payment and excluding taxes or duties collected on behalf of the Government. The specific recognition criteria for revenue recognition are as follows :
+**Sale of Goods** Revenue from, sale of goods is recognized in the statement of profit and loss account when the significant risk and reward of ownership have been transferred to the buyer. The Company collects GST on behalf of the government and, therefore, these are not economic benefits flowing to the Company. Hence, they are excluded from revenue.

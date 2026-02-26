@@ -1,0 +1,10 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+## **Fair value measurement**
+
+Level 1 -  Quoted (unadjusted) market prices in active markets for identical assets or liabilities.
+Level 2 -  Valuation techniques for which the lowest level input that is significant to the fair value measurement is directly or indirectly observable.
+Level 3 -  Valuation techniques for which the lowest level input that is significant to the fair value measurement is unobservable.
+For assets and liabilities that are recognised in the restated summary statements on a recurring basis, we determine whether transfers have occurred between levels in the hierarchy by re-assessing categorization (based on the lowest level input that is significant to the fair value measurement as a whole) at the end of each reporting period.
+For recurring and non-recurring fair value measurements categorised within Level 3 of the fair value hierarchy, mention a description of the valuation processes used by the entity (including, for example, how an entity decides its valuation policies and procedures and analyses changes in fair value measurements from period to period).
+For the purpose of fair value disclosures, we have determined classes of assets and liabilities on the basis of the nature, characteristics and risks of the asset or liability and the level of the fair value hierarchy as explained above.

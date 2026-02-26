@@ -1,0 +1,26 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+## **1. Risk mitigation strategies for investments with each kind of originator**
+
+### **B] Non-Government Debt**
+
+-  The Investment strategy  shall not make any investment in:
+
+*-*   Any unlisted security of an associate or group company of the Sponsor; or
+
+*-*   Any security issued by way of private placement by an associate or group company of the Sponsor; or
+
+*-*   The listed securities of group companies of the Sponsor, which is in excess of 25% of the net assets
+-  The Investment Strategy shall not invest (excluding investments in securities issued by Public Sector
+
+ Units, Public Financial Institutions and Public Sector Banks) more than 10% of net assets in the Group. Such investment limit may be extended to 15% of the net assets of the Investment Strategy with the prior approval of the Board of Trustees. *For this purpose, “Group” means a group as defined under regulation 2 (mm) of the Regulations and* *shall include an entity, its subsidiaries, fellow subsidiaries, its holding company and its associates.*
+-  The Mutual Fund shall not borrow except to meet temporary liquidity needs of the Mutual Fund for the
+
+ purpose of repurchase / redemption of Units or payment of interest and IDCW to the Unitholders. Provided that the Mutual Fund shall not borrow more than 20% of the net assets of any individual Investment strategy  and the duration of the borrowing shall not exceed a period of 6 months.
+-  Subject to guidelines laid down by SEBI vide para 12.19 and 12.20 of SEBI Master Circular on Mutual
+
+ Funds, the Investment strategy may invest up to 20% of the average Asset Under Management (AUM’) of the previous three calendar months in overseas securities subject to maximum limit of USD 1 billion at a Fund house level. SEBI vide para 12.19 of SEBI Master Circular on Mutual Funds, has clarified that the aforesaid 20% limit for ongoing investment in overseas securities will be soft limit for purpose of reporting only on a monthly basis to SEBI.
+-  For overseas ETFs, Mutual Funds can make investment subject to a maximum of US $ 300 million per
+
+ Mutual Fund.
+**Restrictions pertaining to Repo Transactions in Corporate Debt Securities:** In accordance with para 12.18 of SEBI Master Circular on Mutual Funds, the Investment Strategy may participate in repos in corporate debt securities as per the guidelines issued by RBI and SEBI from time to time.

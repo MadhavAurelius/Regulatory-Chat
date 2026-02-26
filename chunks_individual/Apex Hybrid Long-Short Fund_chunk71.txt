@@ -1,0 +1,24 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+## **1. Risk mitigation strategies for investments with each kind of originator**
+
+### **B] Non-Government Debt**
+
+All investments by the Investment strategy  and the Mutual Fund will be within the investment restrictions as specified in the SEBI (MF) Regulations. Pursuant to the SEBI (MF) Regulations, the following investment and other restrictions are presently applicable to the investment strategy :
+-  No investment strategy of a Specialized Investment Fund shall invest more than 10 per cent of its NAV
+
+ in the equity shares and equity-related instruments of any company.
+-  No Specialized Investment Fund under all its investment strategies should own more than fifteen per cent
+
+ of any company’s paid up capital carrying voting rights: Provided that investment in the asset management company or the trustee company of a mutual fund shall be governed by clause (a) of sub-regulation (1) of regulation 7B: Provided further that the limit mentioned in sub-regulation (2) above shall be inclusive of ten per cent limit for mutual fund schemes as specified under clause 2 of Seventh Schedule. Explanation: If a mutual fund under all its schemes owns ten per cent of any company’s paid up capital carrying voting rights, then the Specialized Investment fund under all its investment strategies shall not own more than five per cent of that company’s paid up capital carrying voting rights.
+-  All investments by the investment strategy shall be made only in listed or to be listed equity shares and
+
+ equity related instruments
+
+-  The investment strategies under the SIF may take exposure of up to 25% of the net assets in permissible
+
+ exchange traded derivative instruments, specifically for purposes other than hedging and portfolio rebalancing. *Explanation: This provision allows an investment strategy under the SIF to take unhedged short exposure* *through derivative instruments of up to 25% of net assets, in addition to derivative exposure undertaken* *for hedging and portfolio rebalancing purposes*
+-  An investment strategy under Specialized Investment Fund shall not invest more than 20 per cent of its
+
+ NAV in debt instruments comprising money market instruments and non-money market instruments issued by a single issuer which are rated not below investment grade by a credit rating agency authorised to carry out such activity under the Act. Such investment limit may be extended to 25 per cent of the NAV of the investment strategy with the prior approval of the Board of Trustees and Board of Directors of the asset management company:
+Provided that such limit shall not be applicable for investments in Government Securities, treasury bills and triparty repo on Government securities or treasury bills:

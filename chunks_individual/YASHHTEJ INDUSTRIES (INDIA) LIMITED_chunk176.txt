@@ -1,0 +1,13 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **6. Comparison of Accounting Ratios with Industry Peers:**
+
+|  Name of the  company  |  Face Value  (₹ per  share)  |  Basic  & Diluted  EPS (₹)  |  P/E  Ratio  |  Return on  Net Worth  (%)  |  NAV per  share  (₹)  |  Revenue from  operations (₹  in Lakhs)  |
+|:---|:---|:---|:---|:---|:---|:---|
+| Yashhtej  Industries  (India) Limited | 10  | 7.71  | 14.27#  | 58.86%  | 13.08  | 32,475.64  |
+| Listed Peers  |  |  |  |  |  |  |
+| KN Agri  Resources  Limited  | 10  | 14.76  | 11.52*  | 10.50%  | 140.61  | 1,72,485.00  |
+| Rama  Phosphates  Limited  | 5  | 3.86  | 41.26*  | 3.68%  | 104.90  | 74,369.08  |
+**Source:**  The Company’s financial figures are based on restated audited financial statements for the financial year ended on March 31, 2025, unless provided otherwise. * P/E ratio for the listed peer is taken from the closing price as on February 06, 2026 at BSE/NSE divided by the EPS as on March 31, 2025. # P/E ratio is as per the restated financials for period ended on March 31, 2025.
+With respect to Industry peers, all the financial information mentioned above is on a consolidated basis (unless otherwise available only on standalone basis) and sourced from the audited financial statements/Annual Reports of the respective companies for the year ended March 31, 2025, available on public domain unless provided otherwise.
+**Notes:** *i.*   EPS is the consolidated Basic Earnings Per Share for the period ended on March 31, 2025 *ii.*   P/E ratio for the listed peer is taken from the closing price as on February 09, 2026 at BSE/NSE divided by the EPS as on March 31, 2025. *iii.*   RoNW has been computed as consolidated Net profit after tax attributable to the owners of the company divided by consolidated Net worth at the end of the year ended March 31, 2025. *iv.*   NAV per equity share has been calculated as consolidated Net worth divided by Number of equity shares outstanding as on March 31, 2025.

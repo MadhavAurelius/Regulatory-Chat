@@ -1,0 +1,63 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Acquisition of Subsidiary and Recognition of Provisional Goodwill**
+
+|  Particulars  |  For the six months  ended  September 30, 2025  |  As at  31 March 2025  |  Variation  |  Reason for Variation  |  Reason for Variation  |  Reason for Variation  |
+|:---|:---|:---|:---|:---|:---|:---|
+| Current Ratio  (in times)  | 1.72  | 2.53  | -0.81  | Due to increase in current liability  | Due to increase in current liability  | Due to increase in current liability  |
+| Debt-Equity Ratio (in times)  | 0.17  | 0.29  | -0.12  | Due to repayment of borrowing during the period  | Due to repayment of borrowing during the period  | Due to repayment of borrowing during the period  |
+| Debt Service Coverage Ratio (in times)  | 6.84  | 4.46  | 2.38  | Due to repayment of borrowing during the period  | Due to repayment of borrowing during the period  | Due to repayment of borrowing during the period  |
+| Return on Equity Ratio (in %)  | 6.98%  | 56.56%  | -49.58%  | The decline in Return on Equity (ROE) is primarily due to  an increase in the average net worth following the fresh  issue and allotment of equity shares during the period. | The decline in Return on Equity (ROE) is primarily due to  an increase in the average net worth following the fresh  issue and allotment of equity shares during the period. | The decline in Return on Equity (ROE) is primarily due to  an increase in the average net worth following the fresh  issue and allotment of equity shares during the period. |
+| Inventory Turnover Ratio (in times)  | -  | -  | -  | No inventory  | No inventory  | No inventory  |
+| Trade Receivable Turnover Ratio (in times) | 6.10  | 22.38  | -16.28  | Due to increase in revenue  | Due to increase in revenue  | Due to increase in revenue  |
+| Trade Payable Turnover Ratio (in times)  | 6.68  | 21.85  | -15.17  | Due to reduction in trade payable  | Due to reduction in trade payable  | Due to reduction in trade payable  |
+| Working Capital Turnover Ratio (in times)  | 4.63  | 6.10  | -1.47  | Due to increase in working capital  | Due to increase in working capital  | Due to increase in working capital  |
+| Net Profit Ratio (in %)  | 3.13%  | 16.10%  | -12.97%  | Due to defered tax liability  | Due to defered tax liability  | Due to defered tax liability  |
+| PAT Margin  | 3.14%  | 16.15%  | -13.01%  | Due to defered tax liability  |  |  |
+| Return on Investment (in %)  | 6.98%  | 56.56%  | -49.58%  | Due to defered tax liability  | Due to defered tax liability  | Due to defered tax liability  |
+| Return on Capital Employed (in %)  | 10.78%  | 7.49%  | 3.29%  | Due to increase in revenue  | Due to increase in revenue  | Due to increase in revenue  |
+|  Particulars  |  As at  31 March 2025  |  As at  31 March 2024  |  Variation  |  Reason for Variation  |
+|:---|:---|:---|:---|:---|
+| Current Ratio  (in times)  | 2.53  | 1.95  | 0.58  | Due to increase in current liability |
+| Debt-Equity Ratio (in times)  | 0.29  | 0.00  | 0.29  | Borrowing taking during the year  |
+| Debt Service Coverage Ratio (in times)  | 4.46  | 0.00  | 4.46  | Borrowing taking during the year  |
+| Return on Equity Ratio (in %)  | 56.56%  | 16.83%  | 40%  | Due to increase in revenue  |
+| Inventory Turnover Ratio (in times)  | -  | -  | 0%  | No inventory  |
+| Trade Receivable Turnover Ratio (in times) | 22.38  | 278.25  | -255.87  | Due to increase in revenue  |
+| Trade Payable Turnover Ratio (in times)  | 21.85  | 31.42  | -9.57  | Due to reduction in trade payable  |
+| Working Capital Turnover Ratio (in times)  | 6.10  | 9.72  | -3.62  | Due to increase in trade receivable  |
+| Net Profit Ratio (in %)  | 16.10%  | 2.77%  | 13%  | Due to increase in revenue  |
+| PAT Margin  | 16.15%  | 2.79%  | 13%  | Due to increase in revenue  |
+| Return on Investment (in %)  | 56.56%  | 16.83%  | 40%  | Due to increase in profit after tax  |
+| Return on Capital Employed (in %)  | 7.49%  | 4.58%  | 3%  | Due to increase in revenue  |
+|  Particulars  |  As at  31 March 2024  |  As at  31 March 2023  |  Variation  |  Reason for Variation  |
+|:---|:---|:---|:---|:---|
+| Current Ratio  (in times)  | 1.95  | 2.04  | -0.09  | Due to increase in current liability |
+| Debt-Equity Ratio (in times)  | 0.00  | 0.00  | 0.00  | Not Applicable  |
+| Debt Service Coverage Ratio (in times)  | 0.00  | 0.00  | 0.00  | Not Applicable  |
+| Return on Equity Ratio (in %)  | 16.83%  | -189.14%  | 206%  | Due to increase in revenue  |
+| Inventory Turnover Ratio (in times)  | -  | -  | 0%  | No inventory  |
+| Trade Receivable Turnover Ratio (in times) | 278.25  | 433.94  | -155.69  | Due to increase in revenue  |
+| Trade Payable Turnover Ratio (in times)  | 31.42  | 46.53  | -15.11  | Due to reduction in trade payable  |
+| Working Capital Turnover Ratio (in times)  | 9.72  | 6.89  | 2.83  | Due to increase in trade receivable  |
+| Net Profit Ratio (in %)  | 2.77%  | -37.98%  | 41%  | Due to increase in revenue  |
+| PAT Margin  | 2.79%  | -38.21%  | 41%  | Due to increase in revenue  |
+| Return on Investment (in %)  | 16.83%  | -189.14%  | 206%  | Due to increase in profit after tax  |
+| Return on Capital Employed (in %)  | 4.58%  | -186.10%  | 191%  | Due to increase in revenue  |
+|  Particulars  |  As at  31 March 2023  |  As at  01 April 2022  |  Variation  |  Reason for Variation  |
+|:---|:---|:---|:---|:---|
+| Current Ratio  (in times)  | 2.04  | 2.67  | -0.63  | Due to decrease in current liability |
+| Debt-Equity Ratio (in times)  | 0.00  | 0.00  | 0.00  | Not Applicable  |
+| Debt Service Coverage Ratio (in times)  | 0.00  | 0.00  | 0.00  | Not Applicable  |
+| Return on Equity Ratio (in %)  | -189.14%  | -138.60%  | -51%  | Due to increase in revenue  |
+| Inventory Turnover Ratio (in times)  | -  | -  | 0%  | No inventory  |
+| Trade Receivable Turnover Ratio (in times) | 433.94  | 152.00  | 281.94  | Due to decrease in revenue  |
+| Trade Payable Turnover Ratio (in times)  | 46.53  | 15.59  | 30.94  |  |
+| Working Capital Turnover Ratio (in times)  | 6.89  | 3.88  | 3.01  |  |
+| Net Profit Ratio (in %)  | -37.98%  | -89.19%  | 51%  | Due to increase in revenue  |
+| PAT Margin  | -38.21%  | -95.49%  | 57%  | Due to increase in revenue  |
+| Return on Investment (in %)  | -189.14%  | -277.19%  | 88%  | No Investment  |
+| Return on Capital Employed (in %)  | -186.10%  | -273.57% 347  | 87%  | Due to increase in revenue  |
+There is no material events occurred after the reporting date of 30 September 2025 and up to the date of approval of the financial statements. Therefor no disclousre required as defined under Ind AS 10 -  Events after the Reporting Period.

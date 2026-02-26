@@ -1,0 +1,18 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **18. Promoter’s Contribution and Lock-in details:**
+
+##### **a. Details of Promoter’ contribution locked in for three years.**
+Pursuant to Regulation 236 & 238 of the SEBI (ICDR) Regulations, an aggregate of at least 20% of the post Issue Equity Share capital of the Company held by our Promoter shall be considered as Promoter’s contribution (“Promoter Contribution”) and locked in for a period of three years from the date of Allotment. Our Promoter have granted consent to include such number of Equity Shares held by them as may constitute 20% of the post issue Equity Share capital of the Company as Promoter Contribution and have agreed not to sell or transfer or pledge or otherwise dispose of in any manner, the Promoter Contribution from the date of this Prospectus until the commencement of the lock-in period specified above. Details of the Equity Shares forming part of Promoter Contribution and proposed to be locked in for a period of three years are as follows:
+##### **b. The details of lock-in of shares for 3 (three) years are as under:**
+|  Date of  Allotment /  Acquisition  of  fully paid- up Shares  |  Date when  made Fully  paid up  |  Nature of  Transacti on  |  No. of  Shares  Equity  Shares  |  Face  Value  ( ₹ )  |  Issue  Price /  Acquisi tion  Price  ( ₹ )  |  % of  Pre-  Offer  Equity  Share  Capital  |  % of Post-  Offer  Equity  Share  Capital  |  Lock  in  Period  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| Baswaraj Madhavrao Barge  | Baswaraj Madhavrao Barge  | Baswaraj Madhavrao Barge  | Baswaraj Madhavrao Barge  | Baswaraj Madhavrao Barge | Baswaraj Madhavrao Barge  | Baswaraj Madhavrao Barge  | Baswaraj Madhavrao Barge  | Baswaraj Madhavrao Barge |
+| September  06, 2025  | September  06, 2025  | Bonus  Issue  | 15,40,000  | 10/-  | NIL  | 10.27  | 6.67  | 3 Years  |
+| Total (A)  | Total (A)  | Total (A)  | 15,40,000  | 10/-  |  | 10.27  | 6.67  |  |
+| Shivling Madhavrao Barge  | Shivling Madhavrao Barge  | Shivling Madhavrao Barge  | Shivling Madhavrao Barge  | Shivling Madhavrao Barge | Shivling Madhavrao Barge  | Shivling Madhavrao Barge  | Shivling Madhavrao Barge  | Shivling Madhavrao Barge |
+| September  06, 2025  | September  06, 2025  | Bonus  Issue  | 15,40,000  | 10/-  | NIL  | 10.27  | 6.67  | 3 Years  |
+| Total (B)  | Total (B)  | Total (B)  | 15,40,000  | 10/-  |  | 10.27  | 6.67  |  |
+| Suraj Shivraj Barge  | Suraj Shivraj Barge  | Suraj Shivraj Barge  | Suraj Shivraj Barge  | Suraj Shivraj Barge  | Suraj Shivraj Barge  | Suraj Shivraj Barge  | Suraj Shivraj Barge  | Suraj Shivraj Barge  |
+| Total (C)  | Total (C)  | Total (C)  | 15,40,000  | 10/-  |  | 10.27  | 6.67  |  |
+| Total (A+B+C)  | Total (A+B+C)  | Total (A+B+C)  | 46,20,000  |  |  | 30.80  | 20.02  | 3 Years  |

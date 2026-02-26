@@ -1,0 +1,38 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **52. Changing regulations in India could lead to new compliance requirements that are uncertain.**
+
+#### **SECTION IV: INTRODUCTION**
+
+##### **BOARD OF DIRECTORS OF OUR COMPANY**
+
+*[For further details, please refer to the chapter titled “Our History and Certain Corporate Matters” beginning* *on page 186 of this Prospectus.]*
+|  Brief Details of the Company  |  Brief Details of the Company  |
+|:---|:---|
+| Name of the Company  | Yashhtej Industries (India) Limited  |
+| Date of Incorporation  | June 16, 2018  |
+| Corporate Identification Number  | U74999MH2018PLC310828  |
+| Registration Number  | 310828  |
+| Registered & Corporate Office  | Address:  Plot  No.  D-73/1,  Additional  MIDC,  Latur,  Maharashtra, India 413512  Contact Person:  Suraj Shivraj Barge  T:  +91 9175881666  E:  [info@yashhtej.com ](mailto:info@yashhtej.com) W: [www.yashhtej.com ](http://www.yashhtej.com/) |
+| Category of Company  | Company Limited by Shares  |
+| Sub-category of the Company  | Indian Non-Government Company  |
+| Address  of  Registrar  of  Companies | Registrar of Companies, Mumbai  100, Everest, Marine Drive, Netaji Subhash Chandra Bose Road,  Dhus wadi, Churchgate, Mumbai - 400002, Maharashtra, India  T:  022-22812627  E : roc.mumbai@mca.gov.in  W : www.mca.gov.in  |
+68
+|  Brief Details of the Company  |  Brief Details of the Company  |
+|:---|:---|
+| Designated Stock Exchange  | BSE SME  (SME Platform of BSE Limited)  BSE Building, P.J Tower, Dalal Street, Fort, Mumbai - 400001,  Maharashtra, India  |
+| Company  Secretary  and  Compliance Officer  | Reshma Samir Pange  Company Secretary & Compliance officer  Address :  Plot  No.  D-73/1,  Additional  MIDC,  Latur,  Maharashtra, India 413512  T:  +91 9175881666  E:  cs@yashhtej.com  |
+| Chief Financial Officer (CFO)  | Rahul Rameshrao Joshi  Chief Financial Officer  Address :  Plot  No.  D-73/1,  Additional  MIDC,  Latur,  Maharashtra, India 413512  T:  +91 9175881666  E:  cfo@yashhtej.com  |
+| Statutory & Peer Review Auditor  of the company | N B T and Co, Chartered Accountants  Address:  201, 2nd Floor, Mahindra M-Space, Off Aarey Road, Next  to Meenatai Thackeray Blood Bank, Goregaon (West), Mumbai,  Maharashtra -  400104  Peer Review Number:  019069  FRN:  140489W  T:  +91 8655038189  E:  OfficeofNBT@nbtco.in / info@nbtco.in  Contact Person:  Neha Nuwal |
+| Issue Programme  | Issue Opens on:  February 18, 2026  Issue Closes on:  February 20, 2026  |
+
+##### **BOARD OF DIRECTORS OF OUR COMPANY**
+Our Company’s Board comprises of the following Directors:
+|  Sr.  No.  |  Name of Director  |  Designation  |  DIN  |  Residential Address  |
+|---:|:---|:---|---:|:---|
+|  1  | Suraj Shivraj Barge  | Managing Director  |  03161804  | Barge House, Padmavati Maauli Nagar,  near New Renapur Naaka, Naandgav  Ves, Latur, Maharashtra 413512  |
+|  2  | Baswaraj Madhavrao  Barge  | Non-Executive Non- Independent Director |  08159163  | S.No.290/r/3//1/x/50, Nandgaon Vesh,  Padmavati  Mauli  Nagar,  Latur,  Maharashtra 413512  |
+|  3  | Shivling Madhavrao  Barge  | Non-Executive Non- Independent Director |  03161824  | S.No.290/r/3//1/x/50, Nandgaon Vesh,  Padmavati  Mauli  Nagar,  Latur,  Maharashtra 413512  |
+|  4  | Truptee Brijesh  Didvaniya  | Independent Director  |  11022172  | Baseshwar Nagar, Old Kautha, Near  Naroba Temple, Vasarni, Cidco Nanded,  Nanded, Maharashtra, 431603  |
+|  5  | Shubham  Govindprasad  Jakhotiya | Independent Director  |  10192492  | Flat N. 103, Lotus Apartment, Opp. Shiv  Hanuman Temple, Baseshwar Nagar,  Old  Kautha,  Vasarni,  Nanded,  Maharashtra 431603 |
+|  6  | Inayat Khan Azmat  Khan  | Independent Director  |  10431270  | 2-7-109,  Khadakpura,  Nanded,  Maharashtra 431602  |

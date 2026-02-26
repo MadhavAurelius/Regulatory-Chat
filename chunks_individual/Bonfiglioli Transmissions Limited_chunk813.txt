@@ -1,0 +1,14 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+## * **Don’ts:** *
+
+25.  Do not submit Bids to a Designated Intermediary at a location other than the Bidding Centres. If you are UPI Bidder, do not submit the ASBA Form directly with SCSBs;
+26.  If you are an UPI Bidder which is submitting the ASBA Form with any of the Designated Intermediaries and using your UPI ID for the purpose of blocking of funds, do not use any third party bank account or third party linked bank account UPI ID;
+27.  Do not Bid if you are an OCB;
+28.  UPI Bidders using the incorrect UPI handle or using a bank account of an SCSB and/ or mobile applications which is not mentioned in the list provided on the SEBI website is liable to be rejected;
+29.  Do not submit the Bid cum Application Forms to any non-SCSB bank;
+30.  Do not Bid for a Bid Amount exceeding ₹200,000 (for Bids by Retail Individual Investors);
+31.  Do not link the UPI ID with a bank account maintained with a bank that is not UPI 2.0 certified by the NPCI in case of Bids submitted by UPI Bidders; and
+32.  In case of ASBA Bidders (other than 3 in 1 Bids) Syndicate Members shall ensure that they do not upload any bids above ₹500,000.
+The Bid cum Application Form is liable to be rejected if the above instructions, as applicable, are not complied with.
+For helpline details of the BRLMs pursuant to the SEBI ICDR Master Circular, see “  * **General Information -  Book** * * **Running Lead Managers** *  ” on page 78.

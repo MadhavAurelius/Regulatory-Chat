@@ -1,0 +1,22 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+## **Grounds for technical rejection**
+
+In addition to the grounds for rejection of Bids on technical grounds as provided in the GID, Bidders are requested to note that Bids maybe rejected on the following additional technical grounds:
+(a)  Bids submitted without instruction to the SCSBs to block the entire Bid Amount;
+(b)  Bids which do not contain details of the Bid Amount and the bank account details in the ASBA Form;
+(c)  Bids submitted on a plain paper;
+(d)  Bids submitted by UPI Bidders through an SCSBs and/or using a mobile application or UPI handle, not listed on the website of SEBI;
+(e)  Bids under the UPI Mechanism submitted by UPI Bidders using third-party bank accounts or using a third-party linked bank account UPI ID (subject to availability of information regarding third-party account from Sponsor Bank(s));
+(f)  Anchor Investors should submit Anchor Investor Application Form only to the Book Running Lead Managers;
+(g)  Do not Bid on another Bid cum Application Form and the Anchor Investor Application Form, as the case may be, after you have submitted a Bid to any of the Designated Intermediary;
+(h)  ASBA Form by the UPI Bidders using third party bank accounts or using third party linked bank account UPI IDs;
+(i)  ASBA Form submitted to a Designated Intermediary does not bear the stamp of the Designated
+
+Intermediary;
+(j)  Bids submitted without the signature of the First Bidder or Sole Bidder;
+(k)  The ASBA Form not being signed by the account holders, if the account holder is different from the Bidder;
+(l)  Bids by persons for whom PAN details have not been verified and whose beneficiary accounts are “suspended for credit” in terms of SEBI circular CIR/MRD/DP/ 22 /2010 dated July 29, 2010;
+(m)  GIR number furnished instead of PAN;
+(n)  Bids by RIIs with Bid Amount of a value of more than ₹200,000;
+(o)  Bids by persons who are not eligible to acquire Equity Shares in terms of all applicable laws, rules, regulations, guidelines and approvals;

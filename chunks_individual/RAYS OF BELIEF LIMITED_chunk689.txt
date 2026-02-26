@@ -1,0 +1,40 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Acquisition of Subsidiary and Recognition of Provisional Goodwill**
+
+|  Particulars  |  As at  30 Sep 2025  |  As at  March 31, 2025  |  As at  March 31, 2024  |  As at  March 31, 2023  |
+|:---|:---|:---|:---|:---|
+| Opening liability  | 3.44  | 2.45  | 1.75  | 1.21  |
+| Expenses as above  | 1.25  | 1.88  | 1.47  | 1.08  |
+| Benefits paid  | (0.40)  | (0.41)  | (0.59)  | (0.55)  |
+| Actual return on plan assets | 0.46  | (0.49)  | (0.19)  | 0.01  |
+| Acquisition adjustment  |  |  |  | --  |
+| Closing liability  | 4.76  | 3.44  | 2.45  | 1.75  |
+**Major categories of plan assets (as percentage of total plan assets)**
+|  Particulars  |  As at  30 Sep 2025  |  As at  March 31, 2025  |  As at  March 31, 2024  |  As at  March 31, 2023  |
+|:---|:---|:---|:---|:---|
+| Government of India Securities  | --  | --  | --  | --  |
+| State Government securities  | --  | --  | --  | --  |
+| High Quality Corporate Bonds  | --  | --  | --  | --  |
+| Equity Shares of listed companies | --  | --  | --  | --  |
+| Property  | --  | --  | --  | --  |
+| Special Deposit Scheme  | --  | --  | --  | --  |
+| Funds Managed by Insurer  | --  | --  | --  | --  |
+| Bank Balance  | --  | --  | --  | --  |
+| Total  | --  | --  | --  | --  |
+342
+**Bifurcation of PBO at the end of year as per schedule III to the companies Act, 2013**
+|  Particulars  |  As at  30 Sep 2025 |  As at  March 31, 2025 |  As at  March 31, 2024 |  As at  March 31, 2023 |
+|:---|---:|---:|---:|---:|
+| Current liability  |  1.55 |  1.13 |  0.79 |  0.55 |
+| Non-Current liability  |  3.2  |  2.31 |  1.66 |  1.21 |
+| Total PBO at the end of year |  4.76 |  3.44 |  2.45 |  1.75 |
+**Sensitivity Analysis of the defined benefit obligation a) Impact of the change in discount rate**
+|  Particulars  |  As at  30 Sep 2025  |  As at  March 31, 2025  |  As at  March 31, 2024  |  As at  March 31, 2023  |
+|:---|:---|:---|:---|:---|
+| Present Value of Obligation at the end of the period | 4.76  | 3.44  | 2.45  | 1.75  |
+| Impact due to increase of  0.50%  | (0.10)  | (0.07)  | (0.05)  | (0.03)  |
+| Impact due to decrease of  0.50 %  | 0.07  | 0.05  | 0.03  | 0.02  |
+**b) Impact of the change in salary increase**

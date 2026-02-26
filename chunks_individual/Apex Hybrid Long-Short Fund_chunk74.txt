@@ -1,0 +1,46 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+## **1. Risk mitigation strategies for investments with each kind of originator**
+
+### **B] Non-Government Debt**
+
+Std Obs 30
+*-*   The Investment strategy  shall not park more than 15% of the net assets in short term deposit(s) of all
+
+ the scheduled commercial banks put together. However, such limit may be raised to 20% with the approval of the Trustee.
+
+*-*   Parking of funds in short term deposits of associate and sponsor scheduled commercial banks together
+
+ shall not exceed 20% of total deployment by the Mutual Fund in short term deposits.
+
+*-*   The Investment strategy  shall not park more than 10% of the net assets in short term deposit(s), with
+
+ any one scheduled commercial bank including its subsidiaries.
+
+*-*   The Investment strategy  shall not park funds in short-term deposit of a bank which has invested in the
+
+ Investment strategy . The bank in which a investment strategy  has short-term deposit shall not invest in the investment strategy  until the investment strategy  has short-term deposit with such bank.
+
+*-*   The AMC will not charge any investment management and advisory fees for parking of funds in short
+
+ term deposits of scheduled commercial banks.
+The above norms do not apply to term deposits placed as margins for trading in cash and derivatives market. However, all term deposits placed as margins shall be disclosed in the half yearly portfolio statements under a separate heading. Details such as name of bank, amount of term deposits, duration of term deposits, percentage of NAV should be disclosed.
+-  The Mutual Fund shall get the securities purchased or transferred in the name of the Mutual fund on
+
+ account of the concerned Investment strategy, wherever investments are intended be of a long-term nature.
+-  The long term rating of issuers shall be considered for the money market instruments. However, if there
+
+ is no long term rating available for the same issuer, then based on credit rating mapping of CRAs between short term and long term ratings, the most conservative long term rating shall be taken for a given short term rating. Exposure to government money market instruments such as TREPS on G-Sec/ T-bills shall be treated as exposure to government securities. Provided that, such limit shall not be applicable for investments in government securities, treasury bills and collateralized borrowing and lending obligations. Provided further that investment within such limit can be made in mortgage backed securitised debt which are rated not below investment grade by a credit rating agency registered with SEBI.
+-  Investment in unrated debt and money market instruments (other than government securities, treasury
+
+ bills, derivative products such as Interest Rate Swaps (IRS), Interest Rate Futures (IRF), etc.) by the Investment strategy  shall not exceed 5% of the net assets of the Investment strategy . However, all such investments shall be made with the prior approval of the Board of AMC and Trustees.
+-  All investments by the Investment strategy  in CPs would be made only in CPs which are listed or to be
+
+ listed.
+-  The investment of the Investment strategy  in the following instruments shall not exceed 10% of the debt
+
+ portfolio of the Investment strategy  and the group exposure in such instruments shall not exceed 5% of the debt portfolio of the Investment strategy : i.  Unsupported rating of debt instruments (i.e. without factoring-in credit enhancements) is below investment grade; and ii.  Supported rating of debt instruments (i.e. after factoring-in credit enhancement) is above investment grade The above limits shall not be applicable on investments in securitized debt instruments.
+-  Investment by the Investment strategy  in debt instruments, having credit enhancements backed by equity
+
+ shares directly or indirectly, shall have a minimum cover of 4 times considering the market value of such
+shares. Further, the investment in debt instruments having credit enhancements should be sufficiently covered to address the market volatility and reduce the inefficiencies of invoking of the pledge or cover, whenever required, without impacting the interest of the investors. In case of fall in the value of the cover below the specified limit, AMCs will initiate necessary steps to ensure protection of the interest of the investors.

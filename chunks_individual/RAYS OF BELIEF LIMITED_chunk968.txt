@@ -1,0 +1,13 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **2. Majicl Healthcare Private Limited**
+
+#### **Bid cum Application Form**
+
+The Sponsor Banks and Bankers to the Issue shall provide the audit trail to the BRLM for analysing the same and fixing liability. For ensuring timely information to investors, SCSBs shall send SMS alerts as specified in circulars prescribed by SEBI, from time to time.
+440
+The processing fees for applications made by the UPI Bidders using the UPI Mechanism may be released to the SCSBs only after such SCSBs provide a written confirmation in compliance with the SEBI RTA Master Circular no. SEBI/HO/MIRSD/POD-1/P/CIR/2024/37 dated May 07, 2024, in a format prescribed by SEBI and applicable law. The Issue will be made under UPI Phase III of the UPI circular.
+The Sponsor Bank will undertake a reconciliation of Bid responses received from Stock Exchanges and sent to NPCI and will also ensure that all the responses received from NPCI are sent to the Stock Exchanges platform with detailed error code and description, if any. Further, the Sponsor Bank will undertake reconciliation of all Bid requests and responses throughout their lifecycle on daily basis and share reports with the BRLM in the format and within the timelines as specified under the UPI Circulars. Sponsor Bank and issuer banks shall download UPI settlement files and raw data files from the NPCI portal after every settlement cycle and do a three-way reconciliation with UPI switch data, CBS data and UPI raw data. NPCI is to coordinate with issuer banks and Sponsor Banks on a continuous basis.
+The Sponsor Banks shall host a web portal for intermediaries (closed user group) from the date of Bid/ Issue Opening Date till the date of listing of the Equity Shares with details of statistics of mandate blocks/unblocks, performance of apps and UPI handles, down-time/network latency (if any) across intermediaries and any such processes having an impact/bearing on the Issue Bidding process.
+Pursuant to NSE circular dated August 03, 2022, the following is applicable to all initial public offers opening on or after September 01, 2022:
+a.  Cut-off time for acceptance of UPI Mandate shall be up to 5:00 pm on the initial public offer closure date and existing process of UPI bid entry by syndicate members, registrars to the Issue and depository participants shall continue till further notice;

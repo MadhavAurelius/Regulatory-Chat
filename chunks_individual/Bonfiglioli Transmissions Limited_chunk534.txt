@@ -1,0 +1,26 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+## * **EBITDA, EBITDA (excluding other income) and EBITDA (excluding other income) Margin** *
+
+**As at December 31, 2024 December 31, 2023**
+**December 31, 2022** * **(₹ in million)** * Current Borrowings (A) - - 1,107.86 1,437.44 Current Lease Liabilities (B) 32.51 37.48 36.56 37.09 Non-current Borrowings (C) - - - - Non-current Lease Liabilities (D) 5.43 28.09 60.10 19.56 **Total Debt (E=A+B+C+D) 37.94 65.57 1,204.52 1,494.09** Cash & Cash Equivalents (F)  1,416.23 1,446.67 905.32 1,086.71 Bank balances other than Cash & Cash Equivalents (G) <sup>*</sup>
+250.00 0.94 1,700.12 1,680.42
+**Net Debt (E-F-G) (1,628.29) (1,382.04) (1,400.92) (1,273.04)**
+
+** Break-up of*   *Bank balances other than Cash & Cash Equivalents (G):*
+
+* **Particulars** *   * **As at September** * * **30, 2025** *
+* **As at** * * **December 31, 2024** *   * **December 31, 2023** *   * **December 31, 2022** * * **(₹ in million)** * *Fixed deposits with remaining maturity less* *than three months (A)*
+*-*   *-*   *1,150.00*   *180.00*
+*Margin money deposits with original maturity* *period of more than three months but* *maturing within 12 months (B)*   *<sup>#</sup>*
+*-*   *0.94*   *0.12*   *0.42*
+*Bank deposits with more than 3 months and* *less than 12 months maturity (C)*
+*250.00*   *-*   *550.00*   *1,500.00*
+* **Bank balances other than Cash & Cash** * * **Equivalents (A + B + C)** *
+* **250.00** *   * **0.94** *   * **1,700.12** *   * **1,680.42** *
+* **#** *   *Held as lien by bank against bank guarantees*
+
+* **Working Capital** * Working Capital is calculated as total current assets minus total current liabilities. *Reconciliation of working capital*
+**Particulars As at September 30, 2025**
+**As at December 31, 2024 December 31, 2023**
+**December 31, 2022** * **(₹ in million)** * Total Current Assets (A) 10,443.63 9,358.07 10,625.86 9,636.97 Total Current Liabilities (B) 4,405.91 4,030.33 5,717.35 4,843.16

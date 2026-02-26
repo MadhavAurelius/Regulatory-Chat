@@ -1,0 +1,15 @@
+# Pursuant to Special Resolution passed at the Extra Ordinary General Meeting held on December 10, 2024, Equity Shares of face value of ₹100/- each of our Company were sub-divided into Equity Shares of face value of ₹10/- each.
+
+## **10. Other requirements**
+
+#### **SECTION IX: ISSUE RELATED INFORMATION**
+
+##### **ELECTRONIC REGISTRATION OF APPLICATIONS**
+
+All SCSBs offering facility of making application in public issues shall also provide facility to make application using the UPI Mechanism. Our Company will be required to appoint one of the SCSBs as a sponsor bank to act as a conduit between the Stock Exchanges and NPCI in order to facilitate collection of requests and / or payment instructions of the Individual Investors into the UPI Mechanism.
+Pursuant to the UPI Circulars, SEBI has set out specific requirements for redressal of investor grievances for applications that have been made through the UPI Mechanism. The requirements of the UPI Circular include, appointment of a nodal officer by the SCSB and submission of their details to SEBI, the requirement for SCSBs to send SMS alerts for the blocking and unblocking of UPI mandates, the requirement for the Registrar to submit details of cancelled, withdrawn or deleted applications, and the requirement for the bank accounts of unsuccessful Applicant to be unblocked no later than one Working Day from the date on which the Basis of Allotment is finalised. Failure to unblock the accounts within the timeline would result in the SCSBs being penalised under the relevant securities law. Additionally, if there is any delay in the redressal of investors’ complaints, the relevant SCSB as well as the Lead Manager will be required to compensate the concerned investor.
+##### **ELECTRONIC REGISTRATION OF APPLICATIONS**
+a.  The Designated Intermediary shall register the Applications using the online facilities of the Stock Exchanges. The Designated Intermediaries could also set up facilities for off-line electronic registration of Applications, subject to the condition that they would subsequently upload the off-line data file into the online facilities on a regular basis before the closure of the issue.
+b.  On the Issue Closing Date, the Designated Intermediaries may upload the Bids till such time as were permitted by the Stock Exchanges and as disclosed in this Prospectus.
+c.  Only Applications that are uploaded on the Stock Exchanges Platform would be considered for allocation/Allotment. The Designated Intermediaries shall be given till 1:00 pm on the next Working Day following the issue Closing Date to modify select fields uploaded in the Stock Exchanges’ Platform during the Issue Period after which the Stock Exchange(s) would send the Application  information to the Registrar to the Issue for further processing.
+d.  The Designated Intermediaries shall be responsible for any acts, mistakes or errors or omissions and commissions in relation to:

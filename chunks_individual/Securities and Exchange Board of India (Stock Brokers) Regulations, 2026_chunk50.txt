@@ -1,0 +1,27 @@
+48. (1) The stock broker/clearing member shall comply with the following minimum deposit requirements.
+**DEPOSIT FOR MEMBERS DEALING IN SECURITIES**
+|  Segment  |  Segment  |  Trading member  (in Rs.)  |  Clearing member  (in Rs.)  |  Self-clearing  member (in Rs.)  |
+|:---|:---|:---|:---|:---|
+| Cash  | Cash  | *  | *  | *  |
+| Equity Derivatives  | Equity Derivatives  | *  | 50 Lakh  | 50 Lakh  |
+| Currency Derivatives  | Currency Derivatives  | *  | 50 Lakh  | 50 Lakh  |
+| Debt  | Debt  | *  | *  | *  |
+| Commodity  Derivatives  | NCDE  | Nil  | 50 Lakh  | 50 Lakh  |
+| Commodity  Derivatives  | RCDE  | Nil  | *  | *  |
+| Electronic  Gold  Receipts | Electronic  Gold  Receipts | *  | 1 crore  | 1 crore  |
+| Execution  Only  Platforms | Execution  Only  Platforms | *  | *  | *  |
+NCDE: National Commodity Derivatives Exchanges RCDE: Regional Commodity Derivatives Exchanges *As may be specified.
+(2) Trading member/clearing member/self-clearing member shall maintain the deposit with the recognised stock exchange/clearing corporation.
+**Explanation:** The deposit requirement specified for the debt segment shall not be applicable when a clearing member clears and settles all the trades only on gross basis for both securities and funds, without using settlement or trade guarantee fund.
+
+**CHAPTER XI MISCELLANEOUS**
+**Power to remove difficulties**
+50   T H E G A ZETTE OF INDIA : EXTRAORDINARY [P ART III—S EC .4]
+
+49. In order to remove any difficulties in the interpretation or application of the provisions of these regulations, the Board shall have the power to issue directions through guidance notes or circulars or guidelines.
+**Power to specify procedures, etc. and issue clarifications**
+50. For the purposes of implementation of these regulations and matters incidental thereto, the Board may specify norms, procedures, processes, manners or guidelines as specified in these regulations, by way of circular.
+**Repeal and Savings**
+51. (1) On and from the commencement of these regulations, the Securities and Exchange Board of India (Stock Brokers) Regulations, 1992 shall stand repealed.
+(2) Notwithstanding such repeal-
+(a) anything done or any action taken or purported to have been done or taken including registration or approval granted, fees collected, registration or approval, suspended or cancelled, inspection, any adjudication, any enquiry or investigation commenced or show cause notice issued under the repealed regulations, prior to such repeal, shall be deemed to have been done or taken under the corresponding provisions of these regulations;

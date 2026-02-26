@@ -1,0 +1,17 @@
+# Pursuant to Special Resolution passed at the Extra Ordinary General Meeting held on December 10, 2024, Equity Shares of face value of ₹100/- each of our Company were sub-divided into Equity Shares of face value of ₹10/- each.
+
+## **10. Other requirements**
+
+#### **SECTION IX: ISSUE RELATED INFORMATION**
+
+##### **WHO CAN APPLY?**
+
+Stock exchange(s) shall validate the electronic application details with depository’s records for DP ID/Client ID and PAN Combination, on a real time basis through API Integration and bring the inconsistencies to the notice of intermediaries concerned, for rectification and re-submission within the time specified by stock exchange.
+
+Stock exchange(s) shall allow modification of selected fields viz. DP ID/Client ID or Pan ID (Either DP ID/Client ID or Pan ID can be modified but not BOTH), Bank code and Location code, in the application details already uploaded.
+
+Upon completion and submission of the Application Form to Application Collecting intermediaries, the Applicants have deemed to have authorised our Company to make the necessary changes in the Prospectus, without prior or Subsequent notice of such changes to the Applicants. Applicants shall submit an Application Form either in physical or electronic form to the SCSB’s authorising blocking of funds that are available in the bank account specified in the Application Form used by ASBA Applicants. Designated Intermediaries (other than SCSBs) shall submit/deliver the ASBA Forms/ Application Forms to the respective SCSB, where the Applicant has a bank account and shall not submit it to any non-SCSB bank or any Escrow Collection Bank.
+
+##### **WHO CAN APPLY?**
+**As per the existing RBI regulations, OCBs are not eligible to participate in this Issue. The RBI has however clarified in its circular, A.P. (DIR Series) Circular No. 44, dated December 8, 2003 that OCBs which are incorporated and are not under the adverse notice of the RBI are permitted to undertake fresh investments as incorporated non-resident entities in terms of Regulation 5(1) of RBI Notification No.20/2000-RB dated May 03, 2000 under FDI Scheme with the prior approval of Government if the investment is through Government Route and with the prior approval of RBI if the investment is through Automatic Route on case to case basis. OCBs may invest in this Issue provided it obtains a prior approval from the RBI or prior approval from Government, as the case may be. On submission of such approval along with the Application Form, the OCB shall be eligible to be considered for share allocation.**
+Each Applicants should check whether it is eligible to apply under applicable law. Furthermore, certain categories of Applicants, such as NRIs, FPIs and FVCIs may not be allowed to apply in the Issue or to hold Equity Shares, in excess of certain limits specified under applicable law. Applicants are requested to refer to the Prospectus for more details.

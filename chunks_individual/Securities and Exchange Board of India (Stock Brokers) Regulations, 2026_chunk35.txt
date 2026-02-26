@@ -1,0 +1,20 @@
+(h) Copy of contract notes issued to clients;
+(i) Written consent of clients in respect of contracts entered into as principals;
+(j) Margin deposit book or margin ledger or collateral ledger; and
+(k) Client account opening forms in the format as may be specified.
+(2) A stock broker in the Execution Only Platform segment, shall keep and maintain, either physically or in electronic form, the books of account, records and documents as specified.
+(3) Every stock broker shall intimate the place of maintenance of books of account, records and documents to a recognized stock exchange of which it is a member.
+(4) Every stock broker shall furnish to a recognised stock exchange, of which it is a member, a copy of the audited balance sheet and profit and loss account within six months or a period as may be specified after the close of each accounting period.
+(5) Every stock broker acting as an underwriter shall also maintain the following additional documents and records -
+(a) details of all agreements; (b) total amount of securities of each body corporate subscribed to in pursuance of an agreement;
+(c) a copy of the balance sheet and profit and loss account as at the end of each accounting period and a copy of the auditor’s report on the accounts for that period, for a stock broker being a body corporate;
+(d) records in respect of all sums of money received and expended by them and the matters in respect of which the receipt and expenditure take place along with statement to its assets and liabilities, for a stock broker not being a body corporate; and
+(e) such other records as may be specified for underwriting.
+
+**Period of maintenance of books of account and records.**
+16. Every stock broker shall maintain the books of account and other records under regulation 15 for a minimum period of eight years.
+**Appointment of compliance officer.**
+17. (1) Every stock broker shall appoint a compliance officer who shall be responsible for-
+(a) monitoring the compliance of the Act, the Securities Contracts (Regulation) Act, 1956 or any rules or regulations made thereunder as well as the bye-laws, notifications, guidelines, instructions, etc., issued by the Board or recognised stock exchange as the case may be; and
+(b) redressal of investors’ grievances.
+(2) The compliance officer shall immediately and independently report to recognised stock exchange any non-compliance observed.

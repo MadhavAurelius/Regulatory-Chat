@@ -1,0 +1,12 @@
+# Apex Hybrid Long-Short Fund
+
+## **Apex Hybrid Long-Short Fund**
+
+### **A. HOW WILL THE INVESTMENT STRATEGY ALLOCATE ITS ASSETS?**
+Under normal circumstances, the asset allocation of the Investment Strategy will be as follows:
+|  Instruments  |  Indicative allocations  (% of total assets)  |  Indicative allocations  (% of total assets)  |
+|:---|:---|:---|
+| Instruments  | Minimum  | Maximum  |
+| Equity & Equity related instruments # | 35  | 65  |
+| Debt and Money Market Instruments##  | 35  | 65  |
+| Units issued by InvITs  | 0  | 20  |

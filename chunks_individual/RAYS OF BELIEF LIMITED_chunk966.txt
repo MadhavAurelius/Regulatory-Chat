@@ -1,0 +1,19 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **2. Majicl Healthcare Private Limited**
+
+#### **Bid cum Application Form**
+
+UPI Bidders bidding through UPI Mechanism must provide the UPI ID in the relevant space provided in the Bid cum Application Form.
+The Sponsor Bank shall host a web portal for intermediaries (closed user group) from the date of Bid/ Issue Opening Date till the date of listing of the Equity Shares with details of statistics of mandate blocks/unblocks, performance of apps and UPI handles, down-time/network latency (if any) across intermediaries and any such processes having an impact/bearing on the Issue Bidding process.
+439
+Anchor Investors are not permitted to participate in the Issue through the ASBA process. For Anchor Investors, the Anchor Investor Application Form will be available with the BRLM.
+The prescribed colour of the Bid cum Application Form for the various categories is as follows:
+|  Category  |  Colour of Bid cum  Application Form *  |
+|:---|:---|
+| Resident Indians, including resident QIBs, Non-Institutional Bidders, Retail Individual Bidders and  Eligible NRIs applying on a non-repatriation basis  (1)  | White  |
+| Non-Residents including Eligible NRIs, their sub-accounts (other than sub-accounts which are foreign  corporates or foreign individuals under the QIB Portion), FPIs or FVCIs registered multilateral and  bilateral development financial institutions applying on a repatriation basis  (1) | Blue  |
+| Anchor Investors  (2)  | White  |
+** Excluding electronic Bid cum Application Forms* *Notes:* *(1)*   *Electronic Bid cum Application forms and the Abridged Prospectus will also be available for download on the websites of the Stock* *[Exchanges(www.nseindia.com and www.bseindia.com). ](http://www.bseindia.com/)* *(2)*   *Bid cum Application Forms for Anchor Investors shall be available at the offices of the BRLM.*
+
+Designated Intermediaries (other than SCSBs) shall submit/ deliver the ASBA Forms (except Bid cum Application Forms submitted by UPI Bidders Bidding through the UPI Mechanism) to the respective SCSB where the Bidder has a bank account and shall not submit it to any non-SCSB bank or any Escrow Collection Bank(s). Stock Exchanges shall validate the electronic bids with the records of the CDP for DP ID/Client ID and PAN, on a real time basis and bring inconsistencies to the notice of the relevant Designated Intermediaries, for rectification and re-submission within the time specified by Stock Exchanges. Stock Exchanges shall allow modification of either DP ID/Client ID or PAN ID, bank code and location code in the Bid details already uploaded.

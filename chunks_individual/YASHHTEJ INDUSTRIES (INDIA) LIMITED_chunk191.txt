@@ -1,0 +1,9 @@
+#
+
+## **1. Global Macroeconomic Scenario**
+
+### **1.2. Historical GDP Growth Tren ds**
+
+F -  Forecast, Source -  IMF World Economic Outlook April 2025
+Note: Advanced Economies and Emerging & Developing Economies are as per the classification of the World Economic Outlook (WEO). This classification is not based on strict criteria, economic or otherwise, and it has evolved over time. It comprises of 40 countries under the Advanced Economies including the G7 (the United States, Japan, Germany, France, Italy, the United Kingdom, and Canada) and selected countries from the Euro Zone (Germany, Italy, France etc.). The group of emerging market and developing economies (156) includes all those that are not classified as Advanced Economies (India, China, Brazil, Malaysia etc.)
+In the current scenario, global GDP growth is projected to decelerate to 2.8% in CY 2025, 1 reflecting mounting economic pressures across both advanced and emerging markets. This marks a significant slowdown driven by intensifying trade fragmentation, the impact of new U.S. tariffs, and elevated geopolitical tensions. Structural weaknesses such as the ongoing real estate crisis in China, stagnant growth in the Eurozone, and tight financial conditions in major economies are expected to weigh heavily on global output. Additionally, stress in housing and banking sectors, coupled with subdued industrial activity, is contributing to a muted growth outlook. On the inflation front, the IMF projects global headline inflation to decline to 4.3% in CY 2025, 1 continuing a disinflationary trend as energy prices stabilize and supply-side disruptions ease. The softening of labour markets— reflected in lower job vacancy rates and modest increases in unemployment—is also expected to help reduce core inflation. This provides room for some central banks to initiate cautious interest rate cuts, although the broader economic outlook remains uncertain due to persistent global risks.

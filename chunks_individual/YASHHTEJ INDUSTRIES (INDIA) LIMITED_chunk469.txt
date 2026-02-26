@@ -1,0 +1,23 @@
+# Pursuant to Special Resolution passed at the Extra Ordinary General Meeting held on December 10, 2024, Equity Shares of face value of ₹100/- each of our Company were sub-divided into Equity Shares of face value of ₹10/- each.
+
+## **10. Other requirements**
+
+#### **SECTION IX: ISSUE RELATED INFORMATION**
+
+##### **UNBLOCKING OF ASBA ACCOUNT**
+
+On the Designated Date, the SCSBs shall transfer the amounts allocable to the ASBA Applicants from the respective ASBA Account, in terms of the SEBI Regulations, into the ASBA Public Issue Account. The balance amount, if any against the said Application in the ASBA Accounts shall then be unblocked by the SCSBs on the basis of the instructions issued in this regard by the Registrar to the Issue.
+
+In case of applications made by using any of channels under UPI Payments Mechanism, post closure of the Issue, the stock exchange will share the Application details with the Registrar along with the final file received from the Sponsor Bank containing status of blocked funds or otherwise, along with the ASBA Account details with respect to applications made by Individual Investors using UPI ID.
+
+The RTA, based on information of Applications and blocking received from stock exchange, would undertake reconciliation of the Applications data and block confirmation corresponding to the Applications by all investor category applications (with and without the use of UPI) and prepare the basis of allotment.
+
+Upon approval of basis of allotment, RTA will share the debit file with Sponsor bank (through Stock exchange) and SCSBs, as applicable, for credit of funds in the public issue account and unblocking of excess funds in the Individual Investors account. The Sponsor bank based on the mandate approved by the Individual Investors at the time of blocking of funds, will raise the debit / collect request from Individual Investors bank account, whereupon the funds will be transferred from Individual Investors account to public issue account and remaining funds, if any, will be unblocked without any manual intervention by Individual Investors or his / her bank.
+
+Upon confirmation of receipt of funds in the public issue account, shares would be credited to the Individual Investor’s account. Individual Investors will be notified for full/partial/no allotment. For partial allotment the remaining funds would be unblocked. For no allotment, mandate would be revoked and application amount would be unblocked for the Individual Investors.
+
+##### **UNBLOCKING OF ASBA ACCOUNT**
+
+On the basis of instructions from the Registrar to the Issue, the SCSBs shall transfer the requisite amount against each successful ASBA Applicant to the ASBA Public Issue Account as per section 40(3) of the Companies Act, 2013 and shall unblock excess amount, if any in the ASBA Account.
+
+In case of applications made by using any of channels under UPI Payments Mechanism, Registrar to the Issue will share the debit file with Sponsor bank (through Stock exchange) and SCSBs, as applicable, for credit of funds in the public issue account and unblocking of excess funds in the Individual Investors account. The Sponsor bank based on the mandate approved by the Individual Investors at the time of blocking of funds, will raise the debit / collect request from Individual Investors bank account, whereupon the funds will be transferred from Individual Investors account to public issue account and remaining funds, if any, will be unblocked without any manual intervention by Individual Investors or his / her bank.

@@ -1,0 +1,14 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **A. COMPUTATION OF NAV**
+
+The Net Asset Value (NAV) per Unit of the investment strategy will be computed by dividing the net assets of the investment strategy by the number of Units outstanding under the investment strategy  on the valuation date. The Mutual Fund will value its investments according to the valuation norms, as specified in Schedule VIII of the SEBI (MF) Regulations, or such norms as may be specified by SEBI from time to time.
+NAV of Units under the investment strategy  shall be calculated as shown below:
+Market or Fair Value of the investment strategy ’s Investments + Current Assets (including accrued income)
+
+- Current Liabilities and Provisions (including accrued expenses)
+
+ NAV (Rs.) per Unit = ———————————————————————————— No. of Units outstanding under the investment strategy
+The AMC will calculate and disclose the NAV of the investment strategy on every business day.
+The NAVs of the Investment strategy will be calculated upto two decimals and units allotted upto three decimals. AMC reserves the right to calculate NAV more than two decimal places. NAVs of the growth option and IDCW option will be different after the declaration of the first IDCW. Computation of NAV in case of investment in foreign securities: On the valuation day, all the assets and liabilities denominated in foreign currency will be valued in Indian Rupees. The valuation price of the security will be converted to INR based on a reference rate provided by the designated agency at the close of banking hours in India. If required, the AMC may change the source of determining the exchange rate. The Fund shall value its investments according to the valuation norms as specified in the Eighth Schedule of the Regulations, or such guidelines / recommendations as may be specified by SEBI from time to time. The broad valuation norms are detailed in the Statement of Additional Information.
+The valuation of investments shall be based on the principles of fair valuation specified in the Schedule VIII of the SEBI (Mutual Funds) Regulations, 1996 and guidelines issued by SEBI /AMFI from time to time.

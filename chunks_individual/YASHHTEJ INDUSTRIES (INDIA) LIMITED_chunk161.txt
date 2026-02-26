@@ -1,0 +1,39 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **1. CAPITAL EXPENDITURES:**
+
+##### **F. PURCHASE OF WAREHOUSING EQUIPMENT [FORKLIFT]:**
+
+##### **c. Mode Name: Eicher 6035**
+|  Configuration  |  Configuration  |
+|:---|:---|
+| Particulars  | Description  |
+| Model  | Pro 6035 BSVI  |
+| Body Type  | Cabin Chasi 26 Ft [Premium Model (AC)] |
+| Wheel Base  | 6800 MM  |
+| Colour  | National Golden Braun  |
+| Power  | 260 HP  |
+| Tyre Size  | 295190 R20  |
+| GVW  | 35000 Kgs  |
+|  Estimated Cost  |  Estimated Cost  |
+|:---|:---|
+| Particulars  | ₹  in Lakhs  |
+| Cost of vehicle (including GST)  | 41.38  |
+| CRTM Charges  | 0.06  |
+| TCS 1%  | 0.41  |
+| Transportation Charges ( S. Steel) | 2.89  |
+| Total  | 44.74  |
+| Quantity  | 1  |
+| Grand Total  | 44.74  |
+
+**d. Terms & Conditions:** (i)  This quotation is valid up to 45 days from the date of quotation. (ii)  The above price is for delivery ex. showroom and includes applicable Govt. Taxes. (iii)  Implementation of any new rule / modification by R.T.O. shall be borne by customer. (iv)  Subject to Latur Jurisdiction.
+##### **USAGE OF THE NEW VEHICLES IS PROVIDED HEREUNDER:**
+|  Sr.No.  |  Particulars  |  Purpose of the vehicle  |
+|---:|:---|:---|
+|  1  | Mode no: Eicher  - 6048 | Transportation of “Crude Soybean Oil” from:  ➢  From the current Factory located at “D-76/1, Additional MIDC, Latur,  Maharashtra, 413512”  ➢  From the various Vendor Locations  to the proposed 200 TPD Soya Solvent Refinery Plant located at “Plot No.  D-76/1, Additional MIDC, Latur, Maharashtra, 413512” |
+|  2  | Mode no: Eicher  - 3019 | Transportation and distribution of the Company’s finished FMCG products  to various Distributors/Wholesalers and Sub-distributors/Retailors  |
+|  3  | Mode no: Eicher  - 6035 | Transportation and distribution of the Company’s finished FMCG products  to various Distributors/Wholesalers and Sub-distributors/Retailors  |
+
+##### * **Our Company has not yet placed the Order for the above-stated purchase of Vehicles.** *
+##### **F. PURCHASE OF WAREHOUSING EQUIPMENT [FORKLIFT]:**
+Considering proposition of our Company entering into the B2C segment, our Company would require forklifts * **(Quantity: 2 Nos.)** *  that would perform specialized task of packaged products handling, loading, unloading and internal factory product movement. Our Company has obtained quotation dated February 06, 2026 from Action Construction Equipment Ltd.  for the purchase of the aforementioned quantity of Forklifts. The estimated cost (including GST) for the same would be ₹ 44.43 Lakhs. The cost involved in the same shall be borne by our Company from the proceeds of the IPO.

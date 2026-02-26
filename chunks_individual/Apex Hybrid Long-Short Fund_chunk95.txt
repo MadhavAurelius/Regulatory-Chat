@@ -1,0 +1,11 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+## **1. Risk mitigation strategies for investments with each kind of originator**
+
+### **Note:**
+|  1  |  Equity Derivatives may include exchange traded Futures and Options on equity  securities  |
+|---:|:---|
+|  2  | NAV is representative of the market value at the asset level and aggregates to 100%  at the fund level |
+|  3  | Bond Price change is computed as :  ( -  Modified Duration * Interest Rate Shift  )  |
+|  4  | Bond Derivatives may include IRS, IRF,CDS etc  |
+|  5  | NAV is representative of the market value at the asset level and aggregates to 100%  at the fund level |

@@ -1,0 +1,18 @@
+# Pursuant to Special Resolution passed at the Extra Ordinary General Meeting held on December 10, 2024, Equity Shares of face value of ₹100/- each of our Company were sub-divided into Equity Shares of face value of ₹10/- each.
+
+## **10. Other requirements**
+
+#### **SECTION IX: ISSUE RELATED INFORMATION**
+
+##### **The prescribed colour of the Application Form for various categories is as follows:**
+
+Individual Investors using third party bank account or using third party linked bank account UPI ID were liable for rejection.
+##### **The prescribed colour of the Application Form for various categories is as follows:**
+|  Category  |  Colour of Application Form*  |
+|:---|:---|
+| Resident Indians, including resident QIBs, Non-Institutional  Investors, Individual Investors and Eligible NRIs applying on a  non-repatriation basis | White  |
+| Non-Residents including Eligible NRIs, FII’s, FVCIs etc. applying  on a repatriation basis  | Blue  |
+**excluding electronic Application Forms downloaded by the Applicants.*
+
+Designated Intermediaries (other than SCSBs) shall submit / deliver the Application Form (except the Application Form from an individual investor bidding using the UPI Mechanism) to the respective SCSB, where the Applicant has a bank account and shall not submit it to any non-SCSB bank or any Escrow Bank. Further, SCSBs shall upload the relevant Bid details (including UPI ID in case of ASBA Forms under the UPI Mechanism) in the electronic bidding system of the Stock Exchange. Stock Exchange shall validate the electronic bids with the records of the CDP for DP ID / Client ID and PAN, on a real time basis and bring inconsistencies to the notice of the relevant Designated Intermediaries, for rectification and re-submission within the time specified by Stock Exchange. Stock Exchange shall allow modification of either DP ID / Client ID or PAN ID, bank code and location code in the Application details already uploaded.
+For individual investors using UPI Mechanism, the Stock Exchange shall share the Application details (including UPI ID) with Sponsor Bank on a continuous basis to enable the Sponsor Bank to initiate UPI Mandate Request to individual investors for blocking of funds. The Sponsor Bank shall initiate request for blocking of funds through NPCI to individual investors, who shall accept the UPI Mandate Request for blocking of funds on their respective mobile applications associated with UPI ID linked bank account. The NPCI shall maintain an audit trail for every bid entered in the Stock Exchange applying platform, and the liability to compensate individual investors (using the UPI Mechanism) in case of failed transactions shall be with the concerned entity (i.e., the Sponsor Bank, NPCI or the Bankers to the Issue) at whose end the lifecycle of the transaction has come to a halt. The NPCI shall share the audit trail of all disputed transactions / investor complaints to the Sponsor Banks and the Bankers to the Issue. The LM shall also be required to obtain the audit trail from the Sponsor Banks and the Bankers to the Issue for analysing the same and fixing liability. For ensuring timely information to investors, SCSBs shall send SMS alerts as specified in SEBI circular no. SEBI/HO/CFD/DIL2/CIR/P/2021/2480/1/M dated March 16, 2021, as amended pursuant to SEBI circular no. SEBI/HO/CFD/DIL2/P/CIR/2021/570 dated June 2, 2021.

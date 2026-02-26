@@ -1,0 +1,34 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+## **1. Risk mitigation strategies for investments with each kind of originator**
+
+### **PnL (Nifty down by 10%)**
+Equity Nifty50  35.0%
+₹ 3,50,00,000
+₹ 35,00,000
+₹         - 35,00,000
+Debt instruments
+Governme nt Bonds 5 20.0%
+₹ 2,00,00,000
+₹ 10,00,000
+₹         - 10,00,000
+Commodity
+Gold Futures  0.0%
+₹ -
+₹ -
+₹ -
+REITs/INVITs   15.0%
+₹ 1,50,00,000
+₹ 5,00,000
+₹           - 5,00,000 Unhedged Equity Futures Short IT Sector  10.0%
+₹ 1,00,00,000
+₹ 15,00,000
+₹         - 15,00,000 Unhedged Debt Futures Short
+Auto Sector -4.5 15.0%
+₹ 1,50,00,000
+₹ 8,43,750
+₹           - 8,43,750
+Cash  5.0%
+₹ 50,00,000
+₹ -
+₹ -

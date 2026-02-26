@@ -1,0 +1,47 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+(8.00) (11.00)
+- 23.41
+-
+* The risk estimates provided assume a parallel shift of 100 basis points interest rates across all yield curves. This calculation also assumes that the change occurs at the balance sheet date and has been calculated based on risk exposures outstanding as at that date. The period end balances are not necessarily representative of the average debt outstanding during the period.
+Interest rates - increase by 100 basis points* Interest rates - decrease by 100 basis points*
+**September 30, 2025  December 31, 2024**
+**Impact on profit after tax**
+- -
+-
+0.55
+**- -**
+**September 30, 2025**
+**5.25**
+5.25
+0.23
+309
+**Bonfiglioli Transmissions Limited (Formerly known as Bonfiglioli Transmissions Private Limited) Annexure VI - Notes to Restated Summary Statements CIN: U29309TN1998PLC040717 (All amounts in Millions of Indian Rupees, unless otherwise stated) 41 Capital management Risk management**
+The Company’s strategy is to maintain an optimal gearing ratio. The gearing ratios were as follows:
+|  |  As at September 30, 2025  |  As at December 31, 2024  |  As at December 31, 2023  |  As at December 31, 2022  |
+|:---|:---|:---|:---|:---|
+| Total equity (A) Borrowings (refer note 15) Lease liabilities (refer note 18A and note 18B) Less: Cash and cash equivalents (refer note  11) Less :  Bank balances other than cash and  cash equivalents above Net debt (B) Gearing ratio (B/A) | 9,252.96  -  37.94  (1,416.23)  (250.00) (1,628.29)  -17.60% | 8,530.92  -  65.57  (1,446.67)  (0.94) (1,382.04)  -16.20% | 8,053.35  1,107.86  96.66  (905.32)  (1,700.12) (1,400.92)  -17.40% | 7,253.74  1,437.44  56.65  (1,086.71)  (1,680.42) (1,273.04)  -17.55% |
+**42 Contingent liabilities and Commitments A Contingent liabilities**
+|  Particulars  |  As at September  30, 2025 |  As at December 31,  2024  |  As at December 31,  2023  |  As at December  31, 2022  |
+|:---|---:|:---|:---|:---|
+| Disputed Income-tax demands pending before various forums* |  79.92 | 86.50  | 17.10  | 17.10  |
+| Indirect tax matters  |  2.76 | -  | -  | -  |
+**B Commitments**
+|  Particulars  |  As at September  30, 2025 |  As at December 31,  2024 |  As at December 31,  2023 |  As at December  31, 2022 |
+|:---|---:|---:|---:|---:|
+| Estimated amount of contracts remaining to be executed on capital  account, net of capital advances, and not provided for. |  213.93 |  346.9 |  362.7 |  416.91 |
+**43 Following Ratios to be disclosed:-**
+|  Particulars  |  Numerator  |  Denominator  |  September 30, 2025*  |  December 31, 2024  |  Variance  |  Reason for variance  |
+|:---|:---|:---|:---|:---|:---|:---|
+| (a) Current Ratio (Times)  | Current assets  | Current liabilities  | 2.37  | 2.32  | 2.09%  |  |
+| (b) Debt-Equity Ratio (Times)  | Total Debt (including  lease liabilities)  | Total equity  | 0.00  | 0.01  | 0.00%  |  |
+| (c) Debt Service Coverage Ratio (Times)  | Earnings for debt  service = Net profit  after taxes + Non- cash operating  expenses like  depreciation and  other amortizations  Interest & other  adjustments etc. | Debt service = Interest  & Lease Payments +  Principal Repayments | 65.18  | 1.42  | 4483.02%  | The ratios presented are for nine months period and hence, not comparable to the previous year. |
+| (d) Return on Equity Ratio (Percentage)  | Net Profits after  taxes  | Average Shareholder’s  Equity  | 18.58%  | 23.05%  | -19.40%  |  |
+| (e) Inventory turnover ratio (Times)  | Cost of goods sold  | Average inventory  | 2.85  | 3.71  | -23.27%  |  |
+| (f) Trade Receivables turnover ratio (Times) | Net Credit Sale of  Goods and Services  | Average trade  receivable  | 3.27  | 4.58  | -28.53%  | The ratios presented are for nine months period and hence, not comparable to the previous year. |
+| (g) Trade payables turnover ratio (Times)  | Net Credit Purchase  | Average trade payable  | 2.75  | 3.39  | -18.94%  |  |
+| (h) Capital turnover ratio (Times)  | Net sales  | Working capital =  Current assets -  Current liabilities  | 2.43  | 3.59  | -32.35%  | The ratios presented are for nine months period and hence, not comparable to the previous year. |
+| (i) Net profit ratio (Percentage)  | Net Profits after  taxes  | Net sales  | 11.25%  | 10.21%  | 10.16%  |  |
+| (j) Return on Capital employed (Percentage)  | Earnings before  interest and taxes  | Capital employed  | 25.18%  | 30.28%  | -16.84%  |  |
+| (k) Return on investment (Percentage)  | Profit after tax  | Total equity  | 17.85%  | 22.40%  | -20.31%  |  |
+* Ratios are not comparable since results are from January 01, 2025 to September 30, 2025

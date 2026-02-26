@@ -1,0 +1,19 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+## **Working Capital (A-B) 6,037.72 5,327.74 4,908.51 4,793.81**
+
+**Cash Conversion Cycle (D+I-L) 79 79 <sup>^</sup> 80 81 <sup>^</sup>**
+*^*   *Difference of one compared to calculated formula (D+I-L) due to rounding off*
+
+* **Fixed Asset Turnover Ratio** * Fixed Asset Turnover Ratio is calculated as revenue from operations -  continuing operations divided by fixed assets. Fixed assets is calculated as the sum of property, plant and equipment and capital work-in-progress
+
+*Reconciliation of fixed asset turnover ratio*
+**Particulars As at and for the nine months period ended September 30, 2025**
+**As at and for the year ended December 31, 2024 December 31, 2023**
+**December 31, 2022**
+* **(₹ in million unless otherwise stated)** * Property, Plant and Equipment (A) 2,358.34 2,481.46 2,396.48 1,682.34 Capital Work-In-Progress (B) 155.28 112.21 202.57 96.39 Fixed Asset (C=A+B) 2,513.62 2,593.67 2,599.05 1,778.73
+Revenue from Operations -  Continuing Operations (D)
+14,601.74 18,640.79 16,875.07 15,588.01
+
+**Fixed Asset Turnover Ratio (in times) (D/C)**
+**5.81 7.19 6.49 8.76**

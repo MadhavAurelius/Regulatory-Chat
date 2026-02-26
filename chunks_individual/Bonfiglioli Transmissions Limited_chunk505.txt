@@ -1,0 +1,33 @@
+## **Auditors Report**
+
+**Right-of-use asset Property, plant and equipment**
+276
+**Bonfiglioli Transmissions Limited (Formerly known as Bonfiglioli Transmissions Private Limited) Annexure VI - Notes to Restated Summary Statements CIN: U29309TN1998PLC040717** (All amounts in Millions of Indian Rupees, unless otherwise stated) **3.6 Capital work in progress (CWIP) Ageing Schedule As at September 30, 2025**
+|  Project in progress  |  Amount in CWIP for a period of  |  Amount in CWIP for a period of  |  Amount in CWIP for a period of  |  Amount in CWIP for a period of  |  Total  |
+|:---|:---|:---|:---|:---|:---|
+| Project in progress  | Less than  1 year  | 1-2 years  | 2-3 years  | More than  3 years  | Total  |
+| Project in progress  | 147.03  | 8.25  | -  | -  | 155.28  |
+| Project temporarily suspended | -  | -  | -  | -  | -  |
+| Total  | 147.03  | 8.25  | -  | -  | 155.28  |
+**As at 31st December 2024**
+|  Project in progress  |  Amount in CWIP for a period of  |  Amount in CWIP for a period of  |  Amount in CWIP for a period of  |  Amount in CWIP for a period of  |  Total  |
+|:---|:---|:---|:---|:---|:---|
+| Project in progress  | Less than  1 year  | 1-2 years  | 2-3 years  | More than  3 years  | Total  |
+| Project in progress  | 106.54  | 5.67  | -  | -  | 112.21  |
+| Project temporarily suspended | -  | -  | -  | -  | -  |
+| Total  | 106.54  | 5.67  | -  | -  | 112.21  |
+**As at 31st December 2023**
+|  Project in progress  |  Amount in CWIP for a period of  |  Amount in CWIP for a period of  |  Amount in CWIP for a period of  |  Amount in CWIP for a period of  |  Total  |
+|:---|:---|:---|:---|:---|:---|
+| Project in progress  | Less than  1 year  | 1-2 years  | 2-3 years  | More than  3 years  | Total  |
+| Project in progress  | 202.57  | -  | -  | -  | 202.57  |
+| Project temporarily suspended | -  | -  | -  | -  | -  |
+| Total  | 202.57  | -  | -  | -  | 202.57  |
+**As at 31st December 2022**
+|  Project in progress  |  Amount in CWIP for a period of  |  Amount in CWIP for a period of  |  Amount in CWIP for a period of  |  Amount in CWIP for a period of  |  Total  |
+|:---|:---|:---|:---|:---|:---|
+| Project in progress  | Less than  1 year  | 1-2 years  | 2-3 years  | More than  3 years  | Total  |
+| Project in progress  | 96.39  | -  | -  | -  | 96.39  |
+| Project temporarily suspended | -  | -  | -  | -  | -  |
+| Total  | 96.39  | -  | -  | -  | 96.39  |
+**3.7 Intangible Asset under Development (IAUD) Ageing Schedule As at September 30, 2025**

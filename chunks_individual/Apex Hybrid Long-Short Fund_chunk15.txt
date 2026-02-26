@@ -1,0 +1,11 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+The Margin may be placed in the form of such securities / instruments / deposits as may be permitted/eligible to be placed as margin from the assets of the investment strategy. The securities / instruments / deposits so placed as margin shall be classified under the applicable category of assets for the purposes of asset allocation. **Indicative Table**  (Actual instrument/percentages may vary subject to applicable SEBI circulars)
+|  Sl. no  |  Type of  Instrument  |  Percentage of exposure  |  Circular references  |
+|:---|:---|:---|:---|
+| 1. S  | urities Lending (i)  | i)  Not more than 20% of the net assets of  the Investment Strategy can be deployed  in Stock Lending; and  (ii)  Not more than 5% of the net assets of the  Investment Strategy can be deployed in  Stock Lending to a single intermediary  level. | Para 12.11 of SEBI Master  Circular.  |
+| 2. D  | erivatives for non- hedging purpose | Maximum short exposure through unhedged  derivative positions in equity and debt  instruments: 25%  | Regulation 49AA of SEBI  (Mutual  Funds)  Regulations, 1996.  |
+| 3. S  | ecuritized Debt  | Investment in securitized debt excluding  foreign securitized debt shall not exceed  20% of the debt portfolio.  | Clause  1  of  Seventh  Schedule of SEBI (Mutual  Funds) Regulations, 1996  and Para 12.15 of SEBI  Master Circular. |
+| 4. O  | verseas Securities  | The Investment Strategy may seek to invest  up to 35% of its net assets in foreign  securities.The scheme will not invest  in overseas derivatives.  | Para 12.19 of SEBI Master  Circular.  |
+| 5. U  | nits of  | The Investment Strategy shall invest not mor  | e Regulation 49AA of SEBI  |
+Std Obs 13

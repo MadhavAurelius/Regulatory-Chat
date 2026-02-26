@@ -1,0 +1,42 @@
+#
+
+## **2. Solar electricity generation an d s u pp l y**
+
+### Quality Inspection Storage
+
+#### **SECTION VII: FINANCIAL INFORMATION**
+
+##### **.**
+
+|  Note 29 Tax expense  |  Note 29 Tax expense  |  Note 29 Tax expense  |  Note 29 Tax expense  |  Note 29 Tax expense  |
+|:---|:---|:---|:---|:---|
+| Particulars  | For the year ended  | For the year ended  | For the year ended  | For the year ended  |
+| Particulars  | September  30, 2025  | March  31, 2025  | March  31, 2024  | March  31, 2023  |
+| Current tax:  |  |  |  |  |
+| - Current period/year  | 213.23  | 304.40  | 35.49  | -  |
+| - Earlier year  |  | -  | -  | -  |
+|  |  |  |  |  |
+| Deferred tax:  |  |  |  |  |
+| - Attributable to origination and reversal of temporary  differences | 5.80  | 91.23  | 36.61  | -  |
+| Total tax expense recognized  | 219.03  | 395.63  | 72.11  | -  |
+
+|  Note 27A Earnings per share (pre-bonus issue)  |  Note 27A Earnings per share (pre-bonus issue)  |  Note 27A Earnings per share (pre-bonus issue)  |  Note 27A Earnings per share (pre-bonus issue)  |  Note 27A Earnings per share (pre-bonus issue)  |
+|:---|:---|:---|:---|:---|
+| Particulars  | For the year ended  | For the year ended  | For the year ended  | For the year ended  |
+| Particulars  | September  30, 2025  | March  31, 2025  | March  31, 2024  | March  31, 2023  |
+| (i) Profit for basic/diluted earning per share of face value of  INR 10 each  |  |  |  |  |
+| Profit/ Loss for the period/year  | 724.96  | 1,156.69  | 112.89  | (57.76)  |
+|  |  |  |  |  |
+| (ii) Calculation of Weighted average number of equity shares  for (basic and diluted) |  |  |  |  |
+| Number of equity shares at the beginning and end of the  period/year  | 1,50,00,000  | 75,00,000  | 48,84,658  | 1,00,000  |
+| Earnings per share [nominal value of INR 10 per share]  |  |  |  |  |
+| - Basic  | 4.83  | 15.42  | 2.31  | (57.76)  |
+| - Diluted  | 4.83  | 15.42  | 2.31  | (57.76)  |
+
+*(The rest of the page is intentionally left blank)*
+
+238
+**(Amount in INR Lakhs, except for share data unless otherwise stated) Note 9 Property, plant and equipment**
+|  PARTICULARS  |  Plant &  Machinery  |  Solar  |  Building  |  Furniture &  Fixture  |  Computer and  Software  |  Land  |  Office  equipments  |  Motor Vehicle  |  Laboratory  Equipment  |  Total  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| As at September 30, 2025 | As at September 30, 2025 | As at September 30, 2025 | As at September 30, 2025 | As at September 30, 2025 | As at September 30, 2025  | As at September 30, 2025 | As at September 30, 2025 | As at September 30, 2025 | As at September 30, 2025  | As at September 30, 2025 |

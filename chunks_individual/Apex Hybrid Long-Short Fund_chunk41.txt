@@ -1,0 +1,6 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **A. Definitions/interpretation**
+In this ISID, the words and expressions shall have the meaning specified in this link [https://apexsif.adityabirlacapital.com](https://apexsif.adityabirlacapital.com/) unless the context otherwise requires.
+**Interpretation** For all purposes of this ISID, except as otherwise expressly provided or unless the context otherwise requires, the terms defined in this ISID include the plural as well as the singular. Pronouns having a masculine or feminine gender shall be deemed to include the other. Words and expressions used herein but not defined herein shall have the meanings respectively assigned to them therein under the SEBI Act or the SEBI (MF) Regulations.
+All references to “Master Circular” refer to Master Circular for Mutual Funds dated June 27, 2024 issued by SEBI as amended from time to time.

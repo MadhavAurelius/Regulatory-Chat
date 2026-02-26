@@ -1,0 +1,18 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+## **Depreciation and Amortization**
+
+Depreciation on property, plant and equipment is provided on a pro-rata basis on the straight-line method over the estimated useful lives of the assets, assessed based on technical evaluation which are lower than those specified by Schedule II to the Act, in order to reflect the actual usage of the assets. Technical evaluation takes into account the estimated usage, past history of replacement, service support, availability of spares, anticipated technological changes, etc.
+The useful life, residual value and the depreciation method are reviewed at least at each financial year end. If the expectations differ from previous estimates, the changes are accounted for prospectively as a change in accounting estimate.
+The estimated useful lives of property, plant and equipment are as follows:
+**Assets Useful life followed by the Company (in years)**
+**Useful life prescribed under Schedule II of the Act (in years)** Buildings 30.00 30.00 Office equipment's (including computers)
+4.00 5.00
+Furniture and fixtures 8.33 10.00
+
+**Assets Useful life followed by the Company (in years)**
+**Useful life prescribed under Schedule II of the Act (in years)** Motor vehicles 5.00 8.00 Plant and machinery Tools and patterns 4.00 7.50 Testing instruments 6.45 7.50 Others 10.00 15.00
+
+Cost of computer software is amortized on a straight-line basis over a period of 3 years based on their estimated useful of the asset.
+Leasehold improvements are depreciated over the leasehold period or useful life estimated by the management, whichever is lesser.
+All assets individually costing ₹ 5,000 or less are fully depreciated in the year of addition.

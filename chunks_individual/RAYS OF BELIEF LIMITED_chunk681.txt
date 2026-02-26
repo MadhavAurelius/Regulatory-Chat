@@ -1,0 +1,38 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Acquisition of Subsidiary and Recognition of Provisional Goodwill**
+
+|  Particulars  |  As at  30 Sep 2025  |  As at  March 31, 2025  |  As at  March 31, 2024  |  As at  March 31, 2023  |
+|:---|:---|:---|:---|:---|
+| i)  Retirement Age  (Years)  | 60  | 60  | 60  | 60  |
+| ii)  Mortality rate  inclusive of Provision for disability 100% of IALM  (2012 - 14) | ii)  Mortality rate  inclusive of Provision for disability 100% of IALM  (2012 - 14) | 100% of IALM (2012 - 14) | 100% of IALM (2012 -  14) | 100% of IALM (2012 -  14) |
+| iii)  Ages  | Withdrawal Rate  %  | Withdrawal Rate %  | Withdrawal Rate %  | Withdrawal Rate %  |
+| Up to 30 Years  | 45  | 45  | 45  | 45  |
+| From 31 to 44 years  | 35  | 35  | 35  | 35  |
+| Above 44 years  | 17  | 17  | 17  | 17  |
+**Scale of Benefits:-**
+|  Salary for calculation of gratuity Last drawn qualifying salary.  |
+|:---|
+| Vesting Period 5 years of service.  |
+| Benefit on normal retirement  As per the provisions of payment of gratuity Act 1972 as amended  |
+| Benefit on early retirement/ withdrawal/ resignation  Same as normal retirement benefit based on service upto the date of exit.  |
+| Benefit on death in service  Same as normal retirement benefit based on service upto the date of death & no  vesting conditions apply |
+| Limit 2.00 millions  |
+The Company has a defined benefit gratuity plan. Every employee who has completed at least five years of service is entitled to gratuity on departure at the rate of 15 days of last drawn salary for each completed year of service. The following tables summarize the components of net benefit expense recognized in the statement of profit and loss and the funded status and amounts recognized in the balance sheet for the respective plans-
+337
+**Change in Benefit Obligation**
+|  Particulars  |  As at  30 Sep 2025  |  As at  March 31, 2025  |  As at  March 31, 2024  |  As at  March 31, 2023  |
+|:---|:---|:---|:---|:---|
+| Present value of obligation as at the beginning of the period | 4.24  | 2.41  | 1.33  | 1.89  |
+| Acquisition adjustment  |  | -  | -  | --  |
+| Interest cost  | 0.15  | 0.17  | 0.10  | 0.14  |
+| Past Service Cost including curtailment Gains/Losses  |  | -  | -  | -  |
+| Current service cost  | 0.80  | 1.16  | 0.73  | 0.45  |
+| Curtailment cost/(Credit)  |  |  | -  | --  |
+| Settlement cost/(Credit)  |  |  | -  | --  |
+| Benefits paid  | (0.22)  | (0.05)  | (0.10)  | (0.05)  |
+| Actuarial (gain)/loss on obligation-OCI  | 1.68  | 0.56  | 0.35  | (1.10)  |
+| Present value of obligation as at the end of period  | 6.65  | 4.24  | 2.41  | 1.33  |
+**Fair value of plan assets**

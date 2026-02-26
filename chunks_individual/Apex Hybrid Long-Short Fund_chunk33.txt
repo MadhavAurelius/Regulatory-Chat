@@ -1,0 +1,20 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **C. ANNUAL RECURRING EXPENSES**
+
+These are the fees and expenses for operating the Investment Strategy. These expenses include Investment Management and Advisory Fee charged by the AMC, Registrar and Transfer Agents’ fee, marketing and selling costs etc. as given in the table below:
+Within the limits specified under the SEBI Regulations, the AMC has estimated that the following will be charged to the strategy as expenses. For the actual current expenses being charged, the investor should refer to the website of the SIF. Further, any change in the expense ratio will be updated on our website and the same will be communicated to investor via SMS / e-mail 3 working days prior to the effective date of change.
+As per Regulation 52(6)(c) of SEBI (MF) Regulations, the total expenses of the scheme, including Investment Management and Advisory Fees, shall be subject to following limits as specified below:
+
+|  (In Rs. crore)  |  |
+|:---|:---|
+| on the first Rs.500 crores of  th e  d aily  n e t assets | 2.25%  |
+| on the next Rs.250 crores of  the  d aily  n et assets  | 2.00%  |
+| on the next Rs.1,250 crores o f  the  d ail y  net assets  | 1.75%  |
+| on the next Rs.3,000 crores o f  the  d ail y  net assets  | 1.60%  |
+| on the next Rs.5,000 crores o f  the  d ail y  net assets  | 1.50%  |
+| On the next Rs.40,000 crores of the daily net assets  | Total expense ratio reduction of 0.05% for every increase of Rs.5,000 crores of daily ne assets or part thereof. |
+| On balance of the assets  | 1.05%  |
+
+In addition to total expense permissible within limits of Regulation 52 (6)(c) of SEBI (MF) Regulations as above, the AMC may charge the following to the strategy in terms of Regulation 52(6A) of SEBI (MF) Regulations:
+(a)  Additional expenses not exceeding 0.30% of daily net assets may be charged to the strategy, if the new inflows from retail investors^ from beyond top 30 cities* are at least (i) 30% of gross new inflows in the strategy or (ii) 15% of the average assets under management (year to date) of the scheme, whichever is higher. *^As per para 10.1 of SEBI Master Circular on Mutual Funds , inflows of amount upto Rs 2,00,000/- per* *transaction, by individual investors shall be considered as inflows from “retail investor”.*

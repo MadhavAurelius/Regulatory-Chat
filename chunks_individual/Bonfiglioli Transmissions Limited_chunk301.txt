@@ -1,0 +1,8 @@
+## * **Global Wind Turbine Drives -  Threats and Challenges** *
+
+i.   **Increasing Mechanical Loads from Larger Turbines:**  As turbines scale from 5 MW to 15 MW, yaw and pitch drives face extreme torque, vibration, and load fluctuations, accelerating wear and tear. Many existing drive suppliers struggle to match the reliability requirements of next-gen turbines.
+ii.   **High Maintenance Costs and Difficult Access:**  Yaw and pitch drives require periodic inspection, lubrication, component replacements. For offshore units, access is costly / weather-dependent.
+iii.   **Supply Chain Constraints and Component Shortages:**  Critical components like bearings, gear assemblies, and high-precision motors face long lead times. Turbine OEMs expect higher volumes, but many drive suppliers lack scalable manufacturing.
+iv.   **Cost Pressure from OEMs and Developers:**  As LCOE (Levelized Cost of Energy) targets fall, OEMs demand cheaper drive systems without compromising durability.
+v.   **Capital-Intensive Upgrades:**  Next-gen 12-15 MW turbines require redesigned yaw & pitch systems - larger gearboxes, higher-grade materials, advanced controls. Manufacturers must invest in new tooling and production capabilities. For smaller drive suppliers, the financial burden may be too high to stay competitive.
+vi.   **Policy and Regulatory Uncertainty:**  Shifting policy frameworks, particularly in key markets such as the U.S., present an additional challenge. Changes to incentive structures, including the potential shortening or uncertainty around IRA tax credit timelines under the current administration, can delay project decisions, disrupt OEM order visibility, and impact near-term demand for wind components, including yaw and pitch drives.

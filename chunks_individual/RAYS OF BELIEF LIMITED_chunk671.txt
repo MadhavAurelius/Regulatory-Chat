@@ -1,0 +1,32 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Acquisition of Subsidiary and Recognition of Provisional Goodwill**
+
+|  Particulars Level of  hierarchy  Amortised  cost  FVTPL  FVTOCI  Carrying  value  |
+|:---|
+| Current and non-current Assets: Trade receivables 3 0.44  -  -  0.44  Cash and cash equivalents 1 39.04  -  -  39.04  Bank balances other than cash and cash equivalents 1 -  -  -  -  Other financial assets 2 3.53  -  -  3.53 |
+| Total 43.01  -  -  43.01  |
+| Liabilities: Lease liabilities 2 14.12  -  -  14.12  Trade payables 2 3.70  -  -  3.70  Other financial liabilities 3 2.98  -  -  2.98  |
+| Total 20.80  -  -  20.80  |
+327
+The carrying value and fair value of financial instruments by categories as of 31 March 2022 were as follows:
+|  Particulars Amortised cost  FVTPL  FVTOCI  Carrying  value  |
+|:---|
+| Current and non-current Assets: Trade receivables 3 0.58  -  -  0.58  Cash and cash equivalents 1 16.85  -  -  16.85  Bank balances other than cash and cash equivalents 1 21.95  -  -  21.95  Other financial assets 2 6.64  -  -  6.64 |
+| Total 46.02  -  -  46.02  |
+| Liabilities: Lease liabilities 2 15.12  -  -  15.12  Trade payables 2 4.52  -  -  4.52  Other financial liabilities 3 4.49  -  -  4.49  |
+| Total 24.13  -  -  24.13  |
+**Valuation technique used to determine fair value**
+**Valuation Process**
+- Fixed bank deposits with more than 12 months maturity includes the interest accrued on fixed deposits upto the balance sheet date.
+The valuation team performs the valuations of financial assets and liabilities required for financial reporting purposes, including level 3 fair values. This team reports directly to the Senior Management headed by Group Chief Financial Officer (CFO). Discussions on valuation and results are held between the Senior Management and valuation team annually in line with the Company's reporting periods.
+The management assessed that fair value of trade receivables, cash and cash equivalents, other bank balances, other current non- derivative financial assets, short- term borrowings, current lease liabilities, trade payables and other current non- derivative financial liabilities approximate their carrying amounts that are reasonable approximations of fair value largely due to the short-term maturities of these instruments. The fair value of the financial assets and liabilities is the amount at which the instrument could be exchanged in a current transaction between willing parties, other than in a forced or liquidation sale.
+- The fair values of long term interest-bearing borrowings, non-current lease liabilities, and loans are determined by using Discounted Cash Flow
+
+ (DCF) method using discount rate that reflects the issuer’s borrowing rate as at the end of the reporting period. The own non-performance risk was assessed to be insignificant.
+- The fair value of loans, bank deposits (due for remaining maturity after twelve months from the reporting date), security deposits receivables, the
+
+ carrying values of which approximates the fair values as on the reporting date. The valuation technique used is discounted cash flow with no significant unobservable inputs.
+The carrying amounts of cash and cash equivalents, trade receivables, trade payables, lease liabilities, bank balances other than cash and cash equivalents, other financial assets, loans and other financial liabilities excluding derivatives, approximates the fair values, due to their short-term nature.

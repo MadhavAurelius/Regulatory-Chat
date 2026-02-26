@@ -1,0 +1,16 @@
+# Pursuant to Special Resolution passed at the Extra Ordinary General Meeting held on December 10, 2024, Equity Shares of face value of ₹100/- each of our Company were sub-divided into Equity Shares of face value of ₹10/- each.
+
+## **10. Other requirements**
+
+#### **SECTION IX: ISSUE RELATED INFORMATION**
+
+##### **SUBMISSION AND ACCEPTANCE OF APPLICATION FORMS**
+
+##### **SUBMISSION AND ACCEPTANCE OF APPLICATION FORMS**
+Applicants shall only use the specified Application Form for the purpose of making an application in terms of the Prospectus. The Application Form shall contain information about the Applicant and the price and the number of Equity Shares that the Applicants wish to apply for. Application Forms downloaded and printed from the websites of the Stock Exchange shall bear a system generated unique application number. Applicants are required to ensure that the ASBA Account or UPI linked Bank Account has sufficient credit balance as an amount equivalent to the full Application Amount can be blocked by the SCSB or Sponsor Bank at the time of submitting the Application.
+Applicants are required to submit their applications only through any of the following Application Collecting Intermediaries:
+i.  An SCSB, with whom the bank account to be blocked, is maintained ii.  A syndicate member (or sub-syndicate member) iii.  A stock broker registered with a recognised stock exchange (and whose name is mentioned on the website of the stock exchange as eligible for this activity) (“broker”) iv.  A depository participant (“DP”) (Whose name is mentioned on the website of the stock exchange as eligible for this activity) v.  A registrar to an issuer and share transfer agent (“RTA”) (Whose name is mentioned on the website of the stock exchange as eligible for this activity)
+Individual Investors submitting application with any of the entities at (ii) to (v) above (hereinafter referred as “Intermediaries”), shall enter their UPI ID in the application form.
+The aforesaid intermediaries shall, at the time of receipt of application, give an acknowledgement to investor, by giving the counter foil or specifying the application number to the investor, as a proof of having accepted the application form, in physical or electronic mode, respectively.
+Designated Intermediaries (other than SCSBs) after accepting application form submitted by NIIs and QIBs shall capture and upload the relevant details in the electronic bidding system of stock exchange(s) and shall submit/deliver the Application Forms to respective SCSBs where the applicants has a bank account and shall not submit it to any non-SCSB Bank.
+For applications submitted to Designated Intermediaries (other than SCSBs), with use of UPI for payment, after accepting the application form, respective intermediary shall capture and upload the relevant application details, including UPI ID, in the electronic bidding system of Stock Exchange. Further, Intermediaries shall retain physical application forms submitted by Individual Investors with UPI as a payment mechanism, for a period of six months

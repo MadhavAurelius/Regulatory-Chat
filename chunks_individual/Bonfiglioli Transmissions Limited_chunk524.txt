@@ -1,0 +1,26 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+**(C) Market risk**
+**(i) Foreign currency risk**
+**a) Foreign currenc y exp o sure** The Company's exposure to foreign exchange risk at the end of the reporting period/year are expressed as follows:
+**USD EUR JPY AUD NZD USD EUR JPY AUD NZD**
+**Financial assets:** Trade receivables 911.45  832.45  - 54.06  - 708.42  498.96  - 40.58  - **Derivative assets** Foreign exchange forward contract 885.43  52.67  - 718.09  - 58.08  -
+**Net exposure to foreign exchange risks (assets) 26.02 832.45 - 1.39 - (9.67) 498.96 - (17.50) -**
+**Financial liabilities:** Trade payables 55.98  1,046.44  161.53  0.00  - 45.10  966.02  90.91  0.14  - **Derivative liability** Foreign exchange forward contract 52.64  385.10  125.21  - 321.40  87.42
+**Net exposure to foreign exchange risks (liabilities) 3.34 661.34 36.32 0.00 - 45.10 644.62 3.49 0.14 -**
+**USD EUR JPY AUD NZD USD EUR JPY AUD NZD**
+**Financial assets:**
+Trade receivables 310.43  874.78  - 45.27  - 268.40  1,038.56  - 27.41  -
+**Derivative assets** Foreign exchange forward contract 300.68  805.01  - 43.91  - 198.43  837.74  - 27.67  -
+**Net exposure to foreign exchange risks (assets) 9.75 69.77 - 1.36 - 69.97 200.82 - (0.26) -**
+**Financial liabilities:**
+Trade payables 22.43  1,524.45  125.69  0.03  - 13.77  1,107.61  177.25  -  -
+**Derivative liability** Foreign exchange forward contract
+
+- 1,257.78  38.20  - - - 571.35  92.81  - -
+**Net exposure to foreign exchange risks (liabilities) 22.43 266.67 87.49 0.03 - 13.77 536.26 84.44 - -**
+**December 31, 2022**
+The Company is exposed to foreign exchange risk arising from foreign currency transactions on account of sale / purchase of goods denominated in a currency that is not the Company’s functional currency (Rs). The risk is measured through a forecast of foreign currency cash flows that would arise due to the underlying assets and liabilities held. The company review the import and exports in specific currency and if there be the need to make payment over and above the receivables and balance available in specific currency in EEFC account, then forward cover is taken to cover the exposure.
+**December 31, 2023**
+**September 30, 2025 December 31, 2024**
+Market risk is the risk that changes in market price, liquidity and other factors that could have an adverse effect on realizable fair values or future cash flows to the Company. The Company's activities expose it primarily to the financial risks of changes in foreign currency exchange risks and interest rates as future specific market changes cannot be predicted normally with accuracy.

@@ -1,0 +1,15 @@
+## **Summary cash flow statement**
+
+**Particulars For the nine months period ended September 30, 2025**
+**For the year ended December 31, 2024**
+**For the year ended December 31, 2023**
+**For the year ended December 31, 2022** * **in ₹ million** * **A. Cash flows from operating activities Restated Profit before tax from Continuing and Discontinued Operations**
+2,218.47 2,491.62 2,116.75 2,287.23
+**Adjustments for** Profit from discontinued operations - (22.06) (24.41) (36.03) Gain on disposal of discontinuing Operations - (23.74) - - Depreciation and amortisation expense 310.76 407.60 312.97 298.26 Amortisation - Right-of-use asset 30.38 42.67 50.10 39.49 Allowance for doubtful debts no longer required written back
+(9.50) - (3.95) -
+Interest income (60.89) (65.01) (140.12) (114.86) Provision for sales tax disputes - - - 1.10 Allowance for doubtful debts - 23.24 - 1.09 Gain on sale of property, plant and equipment (1.12) (0.97) (0.64) (0.45) Finance cost excluding interest on lease liabilities 50.18 97.31 125.15 64.78 Interest expense on Lease liabilities 2.78 6.94 5.33 5.98 Provision for product warranty 80.42 81.48 100.41 74.30 Net foreign exchange differences (unrealised) 1.73 (17.19) 23.91 19.39 Gain on termination of lease (6.29) - - - Loss on disposal of property, plant and equipment 2.31 0.57 3.93 -
+**Operating Profit before working capital changes 2,619.23 3,022.46 2,569.43 2,640.28 Working capital adjustments** Increase in trade receivables (645.79) (14.87) (310.56) (427.87) (Increase)/Decrease in inventories (249.72) 208.60 (687.20) 56.80 (Increase)/Decrease in other financial assets 68.95 (249.16) 4.60 (15.80) Increase/ (Decrease) in trade payables 673.35 (703.48) 953.36 (252.27) (Increase)/ Decrease in other assets (168.00) 85.91 (118.20) 162.80 Decrease in provisions (81.00) (128.80) (68.60) (30.92) Increase/ (Decrease) in other financial liabilities (241.00) (156.92) (35.40) 38.00 Decrease in other Contract liabilities (17.00) - - - Increase/ (Decrease) in other current liabilities (129.00) 77.90 42.30 (60.90) **Cash generated from operations 1,830.02 2,141.64 2,349.73 2,110.12** Cash flow from operating activities - discontinued operations - 44.59 41.90 49.52 Tax paid (Continuing & Discontinued Operations) - Net of refunds
+(412.00) (567.90) (616.90) (597.01)
+**Net cash inflow from operating activities 1,418.02 1,618.33 1,774.73 1,562.63 B.  Cash flows from investing activities** Purchase of property, plant and equipment and intangible assets
+(360.79) (449.22) (1,022.98) (661.60)
+Proceeds from disposal of property, plant and equipment 21.13 8.40 2.00 (0.30) Deposits made during the period/ year (1,099.94) (6,750.90) (4,740.10) (7,429.40) Loans advanced to related party (300.31) (218.50) - - Loans repaid by related party 390.36 - - - Proceeds from the deposits matured during the period/year

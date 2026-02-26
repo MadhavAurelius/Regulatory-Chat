@@ -1,0 +1,35 @@
+#
+
+## **3B.4 Indian Soybean Industry**
+
+##### **Top Import Sources (FY25)**
+
+*Source: Directorate General of Commercial Intelligence and Statistics (DGCI&S) | HS Code: 15071000.*
+
+##### * **II.** *    * **Edible Soybean Oil** *
+Soybean Oil is a key component of India’s edible oil economy, contributing approximately 25% of domestic edible oil production, trailing only mustard oil (45%) and groundnut oil (25%). Despite being the fifth-largest producer of soybean globally, India produces just 2.14% of global Soybean Oil, highlighting inefficiencies in extraction, processing, and yield optimization.
+India’s trade performance in edible Soybean Oil reflects the country’s increasing reliance on imports to meet domestic consumption requirements. Edible Soybean Oil (HS Code: 15079010) represents the refined variant of crude Soybean Oil and is directly consumed in households and food services. The sharp spike in import volumes in FY25 highlights a structural demand-supply gap amid higher consumption trends and domestic processing constraints.
+##### **Trade Summary Table (FY25 vs FY24)**
+|  Metric  |  FY24 (Revised Final)  |  FY25 (Final)  |  Y-o-Y Change (%)  |
+|:---|---:|---:|:---|
+| Exports (USD Million) |  19.79 |  24.55 | 24.06%  |
+| Imports (USD Million) |  6.83 |  386.27 | 5,556.61%  |
+**Net Trade Deficit:**  USD 361.72 Million in FY25 While exports grew moderately, imports surged over  **50 times**  , underlining a dramatic rise in import dependence for refined Soybean Oil.
+##### **Top Export Destinations (FY25)**
+|  Country  |  Export Value  (USD Mn)  |  Share (%)  |
+|:---|---:|:---|
+| Bhutan  |  15.59 | 63.50%  |
+| Malaysia  |  3.01 | 12.26%  |
+| UAE  |  2.87 | 11.69%  |
+| Others  |  3.08 | 12.55%  |
+| Total  |  24.55 | 100%  |
+* **Bhutan, Malaysia, and UAE** *   *emerged as the top* *destinations for India’s edible Soybean Oil exports,* *accounting for over 87% of the total export value in* *FY25.*
+##### **Top Import Sources (FY25)**
+|  Country  |  Import Value  (USD Mn)  |  Share  (%)  |
+|:---|---:|:---|
+| Nepal  |  384.31 | 99.49%  |
+| Bangladesh  |  1.88 | 0.49%  |
+| Others  |  0.08 | 0.02%  |
+| Total  |  386.27 | 100%  |
+* **Nepal accounted for nearly 99.5%** *   *of India’s edible* *Soybean Oil imports in FY25, followed by minor* *volumes from Bangladesh and other countries. The* *dominance of Nepal suggests structured re-export* *mechanisms and favourable trade routing for refined oil* *into India.*
+India’s edible oil imports are shaped by global price fluctuations, domestic production limitations, and geopolitical trade dynamics. The massive surge in refined Soybean Oil imports in FY25 indicates a growing need to augment domestic refining and reduce long-term dependency on processed imports.

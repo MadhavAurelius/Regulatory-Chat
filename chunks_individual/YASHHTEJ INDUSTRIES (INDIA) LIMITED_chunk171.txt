@@ -1,0 +1,15 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **4. ISSUE RELATED EXPENSES**
+
+**1. Basic and Diluted earning per equity share (“EPS”) as adjusted for change in equity (face value of each Equity Share is ₹10)**  :
+|  Financial/Period Ended  |  Adjusted Basic and Diluted EPS  (in ₹)  |  Weight  |
+|:---|:---|:---|
+| September 30, 2025*  | 4.83  |  |
+| March 31, 2025  | 7.71  | 3  |
+| March 31, 2024  | 0.91  | 2  |
+| March 31, 2023  | (0.68)  | 1  |
+| Weighted Average  | 4.05  |  |
+##### ***Not annualised**
+**Notes**  : *1.*    *Basic EPS per share is calculated as Net Profit/ (loss) for the year divided by the adjusted weighted* *average number of equity shares outstanding during the year/period.* *2.*    *Diluted EPS per share is calculated as Net Profit/ (loss) for the year divided by the adjusted weighted* *average number of equity shares outstanding during the year.* *3.*    *Weighted average = Aggregate of year-wise weighted EPS divided by the aggregate of weights i.e. (EPS* *x Weight) for each year/total of weights.* *4.*    *The face value of the Equity Shares is ₹10 each.* *5.*    *The figures disclosed above are derived from the Restated Financial Statements of the Company.*
+*[For the above details relating to Basic and Diluted earning per equity share (“EPS”) as adjusted for change* *in equity, we have relied upon the certificate dated February 09, 2026 issued by the Statutory Auditors of* *our Company i.e., N B T and Co, Chartered Accountants]*

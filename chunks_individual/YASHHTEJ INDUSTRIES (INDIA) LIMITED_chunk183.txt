@@ -1,0 +1,33 @@
+#
+
+## **10. Weighted average cost of acquisition of shares transacted by the Promoter & Promoter Group**
+
+-  Since there are no such transaction to report to under (A) and (B) then therefore information for based on
+
+ last 5 primary or secondary transactions (secondary transactions where Promoter / promoter group entities or selling shareholders or shareholder(s) having the right to nominate director(s) in the Board of the Issuer Company, are a party to the transaction), not older than 3 years prior to the date of this Prospectus irrespective of the size of transactions is as below:
+|  Date of  allotment /  transfer  |  No. of  Equity  Shares *  |  Face  value  per  equity  share  (₹) *  |  Issue /  Transfe r price  per  equity  share  (₹)  |  Nature of allotment  |  Nature of  consideration  |  Nature of  consideration  |  Total  Consideratio n  |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| Primary issuances  | Primary issuances  | Primary issuances  | Primary issuances  | Primary issuances  | Primary issuances  | Primary issuances  | Primary issuances  |
+| 06/09/2025  | 18,75,000  | 10  | Nil  | Bonus Issue Baswaraj Madhavrao Barge  | Other than cash  | Other than cash  | Nil  |
+| 06/09/2025  | 18,75,000  | 10  | Nil  | Bonus Issue Shivling Madhavrao Barge  | Other than cash  | Other than cash  | Nil  |
+| 06/09/2025  | 18,75,000  | 10  | Nil  | Bonus Issue Suraj Shivraj Barge  | Other than cash  | Other than cash  | Nil  |
+| 06/09/2025  | 3,75,000  | 10  | Nil  | Bonus Issue Shruti Shivling Barge  | Other than cash  | Other than cash  | Nil  |
+| 06/09/2025  | 2,25,000  | 10  | Nil  | Bonus Issue Tejas Baswaraj Barge  | Other than cash  | Other than cash  | Nil  |
+| 06/09/2025  | 3,75,000  | 10  | Nil  | Bonus Issue Barge Yash Baswaraj  | Other than cash  | Other than cash  | Nil  |
+| 06/09/2025  | 3,75,000  | 10  | Nil  | Bonus Issue Manisha Suraj Barge  | Other than cash  | Other than cash  | Nil  |
+| 06/09/2025  | 3,75,000  | 10  | Nil  | Bonus Issue Sarika Dhondiraj Barge  | Other than cash  | Other than cash  | Nil  |
+| 06/09/2025  | 1,50,000  | 10  | Nil  | Bonus Issue Jyoti Barge  | Other than cash  | Other than cash  | Nil  |
+| 09/08/2023  | 18,45,000  | 10  | 10  | Right Issue Baswaraj Madhavrao Barge  | Cash  | Cash  | 18,45,0000  |
+| 09/08/2023  | 18,25,000  | 10  | 10  | Right Issue Shivling Madhavrao Barge  | Cash  | Cash  | 1,82,50,000  |
+| 09/08/2023  | 18,55,000  | 10  | 10  | Right Issue Suraj Shivraj Barge  | Cash  | Cash  | 1,85,50,000  |
+| 09/08/2023  | 3,75,000  | 10  | 10  | Right Issue Shruti Shivling Barge  | Cash  | Cash  | 37,50,000  |
+| 09/08/2023  | 3,75,000  | 10  | 10  | Right Issue Tejas Baswaraj Barge  | Cash  | Cash  | 37,50,000  |
+| 09/08/2023  | 3,75,000  | 10  | 10  | Right Issue Barge Yash Baswaraj  | Cash  | Cash  | 37,50,000  |
+| 09/08/2023  | 3,75,000  | 10  | 10  | Right Issue Manisha Suraj Barge  | Cash  | Cash  | 37,50,000  |
+| 09/08/2023  | 3,75,000  | 10  | 10  | Right Issue Sarika Dhondiraj Barge  | Cash  | Cash  | 37,50,000  |
+| Weighted average cost of acquisition (WACA)  (primary issuances) (₹ per Equity Share )  | Weighted average cost of acquisition (WACA)  (primary issuances) (₹ per Equity Share )  | Weighted average cost of acquisition (WACA)  (primary issuances) (₹ per Equity Share )  | Weighted average cost of acquisition (WACA)  (primary issuances) (₹ per Equity Share )  | Weighted average cost of acquisition (WACA)  (primary issuances) (₹ per Equity Share )  | Weighted average cost of acquisition (WACA)  (primary issuances) (₹ per Equity Share )  | Weighted average cost of acquisition (WACA)  (primary issuances) (₹ per Equity Share )  | 4.97  |
+|  |  |  |  |  |  |  |  |
+| Secondary transactions  | Secondary transactions  | Secondary transactions  | Secondary transactions  | Secondary transactions  | Secondary transactions  | Secondary transactions  | Secondary transactions  |
+| 25/06/2025  | 1,50,000  | 10  | Nil  | Transfer from Tejas Barge to Jyoti Barge  | Transfer from Tejas Barge to Jyoti Barge  | Gift  | Nil  |
+| Weighted average cost of acquisition (WACA)  #  (Secondary Transactions) (₹ per Equity Share ) | Weighted average cost of acquisition (WACA)  #  (Secondary Transactions) (₹ per Equity Share ) | Weighted average cost of acquisition (WACA)  #  (Secondary Transactions) (₹ per Equity Share ) | Weighted average cost of acquisition (WACA)  #  (Secondary Transactions) (₹ per Equity Share ) | Weighted average cost of acquisition (WACA)  #  (Secondary Transactions) (₹ per Equity Share ) | Weighted average cost of acquisition (WACA)  #  (Secondary Transactions) (₹ per Equity Share ) | Weighted average cost of acquisition (WACA)  #  (Secondary Transactions) (₹ per Equity Share ) | Nil  |
+*   *Adjusted for sub-division of face value of ₹100 per equity share to ₹ 10 per equity share pursuant to allotment on December 10,* *2024.*

@@ -1,0 +1,19 @@
+[ भाग  III— खण ् ‍ड  4]  भारत‍का‍राजपत ्र ‍:‍असाधा रण    2 7
+
+**SECURITIES AND EXCHANGE BOARD OF INDIA NOTIFICATION** Mumbai, the 07th January, 2026 **SECURITIES AND EXCHANGE BOARD OF INDIA (STOCK BROKERS) REGULATIONS, 2026 A regulation that embodies the regulatory framework for registration of stock brokers and clearing members, specifying their operational and general obligations and responsibilities, and for matters connected therewith or incidental thereto. No.SEBI/LAD-NRO/GN/2026/291-**  In exercise of the powers conferred by section 30 read with section 11(2) and section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992), the Board hereby makes the following regulations, namely -
+
+**CHAPTER I PRELIMINARY**
+**Short title and commencement.**
+1. (1) These regulations may be called the Securities and Exchange Board of India (Stock Brokers) Regulations, 2026.
+(2) These regulations shall come into force on the date of their publication in the Official Gazette.
+**Definitions.**
+2. (1) In these regulations, unless the context otherwise requires, —
+(a) “Act” means the Securities and Exchange Board of India Act, 1992 (15 of 1992);
+(b) “certificate” means a certificate of registration issued by the Board;
+(c) “change in control” - (i)  in case of a body corporate - (A)  whose shares are listed on any recognised stock exchange, shall be construed with reference to the definition of control in terms of regulation 2(1)(e) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011; (B)  whose shares are not listed on any recognised stock exchange, shall be construed with reference to the definition of control as provided in Section 2(27) of the Companies Act, 2013 (18 of 2013); (ii)  in a case other than that of a body corporate, shall be construed as any change in its legal formation or ownership or change in controlling interest. Explanation -  For the purpose of sub-clause (ii), the expression “controlling interest” means an interest to the extent of not less than fifty percent of voting rights or interest, either directly or indirectly;
+
+28   T H E G A ZETTE OF INDIA : EXTRAORDINARY [P ART III—S EC .4]
+
+(d) “clearing corporation” shall mean a clearing corporation as defined in regulation 2(1)(d) of the Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulations, 2018;
+(e) “clearing member” means a person having clearing and settlement rights in any recognised clearing corporation;
+(f) “designated director” shall mean a person designated as such by the stock broker or clearing member and shall include - (i) the managing director or a whole-time director duly authorized by the Board of Directors, if the entity is a company; (ii) the managing partner, if the entity is a partnership firm or a designated partner, if the entity is a Limited Liability Partnership; (iii) the proprietor, if the entity is a proprietorship concern; and (iv) such other person or class of persons as may be specified by the Board, if the stock broker or clearing member does not fall in any of the categories above;

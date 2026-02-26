@@ -1,0 +1,18 @@
+# Pursuant to Special Resolution passed at the Extra Ordinary General Meeting held on December 10, 2024, Equity Shares of face value of ₹100/- each of our Company were sub-divided into Equity Shares of face value of ₹10/- each.
+
+## **10. Other requirements**
+
+#### **SECTION IX: ISSUE RELATED INFORMATION**
+
+##### **MULTIPLE APPLICATIONS**
+
+##### **MULTIPLE APPLICATIONS**
+An Applicant should submit only one Application (and not more than one). Two or more Applications will be deemed to be multiple Applications if the sole or First Applicant is one and the same.
+In this regard, the procedures which would be followed by the Registrar to the Issue to detect multiple applications are given below:
+I.  All applications are electronically strung on first name, address (1 <sup>st</sup> line) and applicant’s status. Further, these applications are electronically matched for common first name and address and if matched, these are checked manually for age, signature and father/ husband’s name to determine if they are multiple applications
+II.  Applications which do not qualify as multiple applications as per above procedure are further checked for common DP ID/ beneficiary ID. In case of applications with common DP ID/ beneficiary ID, are manually checked to eliminate possibility of data entry error to determine if they are multiple applications.
+III.  Applications which do not qualify as multiple applications as per above procedure are further checked for common PAN. All such matched applications with common PAN are manually checked to eliminate possibility of data capture error to determine if they are multiple applications.
+In case of a mutual fund, a separate Application can be made in respect of each scheme of the mutual fund registered with SEBI and such Applications in respect of more than one scheme of the mutual fund will not be treated as multiple Applications provided that the Applications clearly indicate the scheme concerned for which the Application has been made.
+In cases where there are more than 20 (Twenty) valid applications having a common address, such shares will be kept in abeyance, post allotment and released on confirmation of “know your client” norms by the depositories. The Company reserves the right to reject, in its absolute discretion, all or any multiple Applications in any or all categories.
+After submitting an ASBA Application or Application through UPI Mechanism either in physical or electronic mode, an Applicant cannot apply (either in physical or electronic mode) to either the same or another Designated Branch of the SCSB. Submission of a second Application in such manner will be deemed a multiple Application and would be rejected.
+An investor making application using any of channels under UPI Payments Mechanism, shall use only his / her own bank account or only his / her own bank account linked UPI ID to make an application in public issues. Applications made using third party bank account or using third party linked bank account UPI ID are liable for rejection. Sponsor Bank shall provide the investors UPI linked bank account details to RTA for purpose of reconciliation. RTA shall undertake technical rejection of all applications to reject applications made using third party bank account.

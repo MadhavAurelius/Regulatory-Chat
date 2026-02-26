@@ -1,0 +1,38 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **1. CAPITAL EXPENDITURES:**
+
+##### **F. PURCHASE OF WAREHOUSING EQUIPMENT [FORKLIFT]:**
+
+The detailed component of the estimated cost is provided below:
+|  Particulars  |  5T Diesel Forklift  |  ₹  in Lakhs  |
+|:---|:---|:---|
+| Model  | AF50D, 4.5m FFL- BSV  | 18.10  |
+| Description & Std  Accessories  | 4.5m Lift Triplex Container Stuffing Mast, Automatic  Transmission, TATA Engine, Single Drive.  | 18.10  |
+| Optional Accessories  | Solid Tyres  | 0.22  |
+| Transportation  | From Faridabad, Haryana  | 0.32  |
+| Total  | Total  | 18.64  |
+| IGST - 18%  | IGST - 18%  | 3.36  |
+| TCS @ 1%  | TCS @ 1%  | 0.19  |
+| Sub-Total  | Sub-Total  | 22.18  |
+| Quantity  | Quantity  | 2  |
+| Grand Total  | Grand Total  | 44.43  |
+| Terms & Conditions:-  a.  Validity :  Unless revoked, shall remain valid for 30 days from the date of this offer. | Terms & Conditions:-  a.  Validity :  Unless revoked, shall remain valid for 30 days from the date of this offer. | Terms & Conditions:-  a.  Validity :  Unless revoked, shall remain valid for 30 days from the date of this offer. |
+
+* **Our Company has not yet placed the Order for the above-stated purchase of Warehousing Equipments-** * * **Forklift.** *
+**G.**   All the plant, machineries, equipment, vehicles and warehouse equipment, the quotations for which has been provided hereinabove, related to purchasing of new plant, machineries, equipment, vehicles and warehouse equipment.
+
+**H.**   The summary of the Capital Expenditure is provided herein below:
+
+|  Sl. No.  |  Particulars  |  Particulars  |  ₹ in Lakhs  |
+|:---|:---|:---|:---|
+| A  | Civil, Structural & Infrastructure works for 200 TPD Soya Solvent Refinery  Project  | Civil, Structural & Infrastructure works for 200 TPD Soya Solvent Refinery  Project  | 3,540.00  |
+| B  | Procurement and installation of Plant and Machinery for setting up of 200  TPD Soya Solvent Refinery Plant and 50 TPD Bottling Plant | Procurement and installation of Plant and Machinery for setting up of 200  TPD Soya Solvent Refinery Plant and 50 TPD Bottling Plant | 1,652.00  |
+| C  | Design, manufacturing, supply and erection of Boiler for the Refining Plant  and Bottling Plant  | Design, manufacturing, supply and erection of Boiler for the Refining Plant  and Bottling Plant  | 472.00  |
+| D  | Purchase and installation of 1200 kWp Three Phase Grid connected rooftop  Solar (PV) Power Project  | Purchase and installation of 1200 kWp Three Phase Grid connected rooftop  Solar (PV) Power Project  | 459.56  |
+| E  | Purchase of Vehicles  | ₹ in Lakhs  | 220.30  |
+|  | Mode Name: Eicher - 6048  | 143.99  | 220.30  |
+|  | Mode Name: Eicher 3019  | 31.57  | 220.30  |
+|  | Mode Name: Eicher 6035  | 44.74  | 220.30  |
+| F  | Purchase of Warehousing Equipment [Forklift]  | Purchase of Warehousing Equipment [Forklift]  | 44.43  |
+| Total  | Total  | Total  | 6,388.29  |

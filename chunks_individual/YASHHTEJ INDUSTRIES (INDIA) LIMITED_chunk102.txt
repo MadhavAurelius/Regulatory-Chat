@@ -1,0 +1,56 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **52. Changing regulations in India could lead to new compliance requirements that are uncertain.**
+
+#### **SECTION IV: INTRODUCTION**
+
+##### **Restated Statement of Profit and Loss**
+
+|  2.  |  Current Assets  |  |  |  |  |  |
+|:---|:---|:---|:---|:---|:---|:---|
+| (a)  | Inventories  | 15  | 3,332.92 | 3,240.52 | 1,890.78 | 29.21  |
+| (b)  | Trade receivables  | 16  | 138.64  | 133.08  | 24.60  | 19.59  |
+| (c)  | Cash and bank balances  | 17  | 51.98  | 291.81  | 1.44  | 601.98  |
+| (d)  | Short term loans and advances | 18  | 507.97  | 58.08  | 280.05  | 304.42  |
+| (e)  | Other current assets  | 19  | 325.82  | 438.17  | 436.26  | 140.35  |
+|  | Total (B)  |  | 4,357.33 | 4,161.66 | 2,633.13 | 1,095.56 |
+
+|  The above statement should be read with Basis of Preparation, Significant Accounting Policies appearing in Annexure IV, and Notes to  Restated Financial Information appearing in Annexure V.  |
+|:---|
+| This is the Restated Statement of Assets and Liabilities referred to in our report  of  even dat e.  |
+.
+**For N B T and Co For and on behalf of the board Chartered Accountants Yashhtej Industries (India) Limited Firm Registration Number: 140489W**
+**Sd/- Neha Nuwal Partner M. No.: 157137**
+**Place: Mumbai Date: December 26, 2025 UDIN: 25157137TKEBLP9461**
+
+**Sd/- Suraj Shivraj Barge Managing Director (DIN: 03161804)**
+**Sd/- Baswaraj Madhavrao Barge Director (DIN: 08159163)**
+**Sd/- Reshma Samir Pange Company Secretary**
+**Sd/- Rahul Rameshrao Joshi CFO**
+.
+65
+##### **YASHHTEJ INDUSTRIES (INDIA) LIMITED**
+
+##### **Restated Statement of Profit and Loss**
+
+* **(Amount in INR Lakhs, unless otherwise stated)** *
+|  Particulars  |  Particulars  |  Note  Nos.  |  For the year ended  |  For the year ended  |  For the year ended  |  For the year ended  |
+|:---|:---|:---|:---|:---|:---|:---|
+| Particulars  | Particulars  | Note  Nos.  | September  30, 2025  | March  31, 2025  | March  31, 2024  | March  31, 2023  |
+| 1.  | Income  |  |  |  |  |  |
+| (a)  | Revenue from operations | 20  | 19,115.19  | 32,475.64  | 5,924.49  | 1,200.21  |
+| (b)  | Other income  | 21  | 6.95  | 20.58  | 0.17  | -  |
+|  | Total income  |  | 19,122.14  | 32,496.23  | 5,924.66  | 1,200.21  |
+
+|  2.  |  Expenditure  |  |  |  |  |  |
+|:---|:---|:---|:---|:---|:---|:---|
+| (a)  | Cost of Materials Consumed  | 22  | 18,138.53 | 30,509.40  | 6,092.70 | -  |
+| (b)  | Purchases of stock-in-trade  | 23  | -  | -  | -  | 1,209.94 |
+| (c)  | Changes in inventories of finished goods, work- in-progress and stock-in-trade | 24  | (736.61)  | (1,040.39) | (639.90) | (29.21)  |
+| (d)  | Employee benefit expenses  | 25  | 155.09  | 304.07  | 23.04  | 20.06  |
+| (e)  | Finance cost  | 26  | 212.67  | 386.45  | 41.86  | -  |
+| (f)  | Depreciation & amortisation expense  | 27  | 94.59  | 183.92  | 32.78  | -  |
+| (g)  | Other expenses  | 26  | 313.88  | 600.46  | 189.17  | 57.32  |
+|  | Total Expenses  |  | 18,178.15 | 30,943.91  | 5,739.66 | 1,258.11 |
+|  |  |  |  |  |  |  |
+| 3.  | Profit/(Loss) before exceptional and extra  ordinary item (1-2)  |  | 943.99  | 1,552.32  | 185.00  | (57.89)  |

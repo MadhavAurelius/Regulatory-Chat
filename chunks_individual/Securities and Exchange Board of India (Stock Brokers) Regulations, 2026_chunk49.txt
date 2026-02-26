@@ -1,0 +1,18 @@
+**CHAPTER X NETWORTH AND DEPOSIT REQUIREMENTS FOR STOCK BROKERS/ CLEARING MEMBERS/ SELF- CLEARING MEMBERS**
+47. (1) The trading member/clearing member/self-clearing member/professional clearing member shall comply with the following minimum networth requirements.
+**NETWORTH FOR MEMBERS DEALING IN SECURITIES**
+|  Type of  Member  |  Base Networth (in Rs.)  |  Variable  Networth #  |
+|:---|:---|:---|
+| Trading Member  | 1 crore  | As specified.  |
+| Self-Clearing Member  | 5 crore*  | As specified.  |
+| Clearing Member  | 15 crore*  | As specified.  |
+| Professional Clearing  Member | 50 crore  | As specified.  |
+
+* In Currency Derivative Segment, Self-Clearing Member and Clearing Member shall have minimum networth of Rs. 5 crore and Rs. 10 crore, respectively. # Networth requirement for members shall be Base Networth or Variable Networth, whichever is higher. However, the requirement of Variable Networth shall not be applicable for Execution Only Platforms segment.
+(2) The quantum of networth to be maintained by the stock broker/clearing member, shall be reckoned for all segments/recognised stock exchanges.
+**Explanation 1:** (a)  For the purposes of this chapter, ‘base networth’ means paid up capital, fully, compulsorily and mandatorily convertible debentures / bonds / warrants (which are convertible within a period of 5 years from the date of issue), free reserves and other securities approved by the Board from time to time, but shall not include fixed assets, pledged securities, value of member’s card, non-allowable securities (unlisted securities), bad deliveries, any debts and advances (except trade debtors of less than 3 months), prepaid expenses, losses, intangible assets and 30% value of marketable securities. (b)  In case of securities pledged to clearing corporation, the post haircut value of shares owned by the Trading Member / Clearing Member, as may be specified, shall be considered for computation of the networth. (c)  Where the stock broker, clearing member or self-clearing member in the debt segment, is also regulated by a sectoral regulator other than the Board, the networth shall be computed
+[ भाग  III— खण ् ‍ड  4]  भारत‍का‍राजपत ्र ‍:‍असाधा रण    4 9
+
+in the manner as specified by such sectoral regulator or as specified by the Board, whichever is higher.
+**Explanation 2:**  For the purposes of this chapter, free reserves shall include Profit and Loss, General Reserve, Securities Premium, Preference Share Redemption Reserve and Capital Redemption Reserve, but shall not include reserves created by revaluation of assets.
+**DEPOSIT REQUIREMENTS FOR STOCK BROKERS/ CLEARING MEMBERS**

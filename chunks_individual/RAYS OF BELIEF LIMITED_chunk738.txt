@@ -1,0 +1,17 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **h. Leases**
+
+For corporate & B2B receivables, provision is made 1% for balances up to 1 year, 5% for 1- 2 years, 20% for 2-3 years and 50% for dues exceeding 3 years.
+Forward-looking information such as macroeconomic factors and customer payment trends is also considered in ECL assessment.
+Measurement of ECLs
+
+ECLs are a probability-weighted estimate of credit losses. Credit losses are measured as the present value of all cash shortfalls (i.e. the difference between the cash flows due to the entity in accordance with the contract and the cash flows that the Company expects to receive).
+ECLs are discounted at the effective interest rate of the financial asset. Presentation of allowance for ECL in the balance sheet Loss allowances for financial assets measured at amortised cost are deducted from the gross carrying amount of the assets
+Write-off
+The gross carrying amount of a financial asset is written off (either partially or in full) to the extent that there is no realistic prospect of recovery. This is generally the case when the Company determines that the counterparty does not have assets or sources of income that could generate sufficient cash flows to repay the amounts subject to the write-off. However, financial assets that are written off could still be subject to enforcement activities in order to comply with the Company's procedures for recovery of amounts due.
+
+Offsetting of financial instruments
+Financial assets and financial liabilities are offset and the net amount presented in the balance sheet when, and only when, the Company currently has a legally enforceable right to set off the amounts and it intends either to settle them on a net basis or to realise the assets and settle the liabilities simultaneously.

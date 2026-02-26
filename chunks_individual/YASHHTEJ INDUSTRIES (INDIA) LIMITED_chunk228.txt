@@ -1,0 +1,21 @@
+#
+
+## **3B.4 Indian Solar Power Sector**
+
+India has emerged as one of the world’s most dynamic solar energy markets, driven by a convergence of policy ambition, cost competitiveness, and growing electricity demand. Recognised globally for its proactive clean energy transition, India has implemented large-scale solar deployment programs under the framework of the National Solar Mission and the updated renewable energy targets under its Nationally Determined Contributions (NDCs).
+As of December 31, 2024, India’s grid-connected cumulative installed solar capacity stood at 81.81 GW, with a robust project pipeline comprising 11.08 GW under implementation and another 71.47 GW under tendering through central government schemes such as CPSU Phase-II, ISTS-based tenders, and KUSUM2. When factoring in rooftop, hybrid, floating, and off-grid systems, India’s total operational solar capacity crossed approximately 121 GW, establishing it as the third-largest solar market in the world, trailing only China and the United States1.
+The Indian solar landscape is broadly diversified across utility-scale parks, commercial & industrial (C&I) rooftop projects, and decentralised installations in rural and peri-urban settings. This breadth, combined with supportive regulations and rapidly declining tariffs, has positioned solar power at the forefront of India's energy transformation strategy.
+##### **Market Size and Growth Trends**
+The Indian solar power market recorded its highest-ever annual installation in calendar year 2024, with 30.7 GW of new solar capacity added, a remarkable 145% year-on-year growth over the 12.5 GW added in 20231. This exceptional performance can be attributed to several reinforcing factors, including:
+-  The clearing of execution backlogs and pandemic-delayed projects.
+
+-  Accelerated commissioning of government-awarded utility-scale projects under SECI and NTPC tenders.
+
+-  Rapid expansion in the rooftop solar market, particularly under the Rooftop Solar Phase-II programme
+
+ supported by the National Portal.
+
+-  Improved grid evacuation infrastructure under the Green Energy Corridor Phase-II.
+
+ As a result of these developments, India’s cumulative installed solar capacity has reached a critical mass and now plays a central role in the country’s power mix. As of March 31, 2025, solar energy accounted for approximately 17.5% of India’s total installed electricity generation capacity, reflecting its rising prominence within the overall power sector2.
+Looking forward, the Government of India has committed to achieving 500 GW of non-fossil fuel-based power generation capacity by 2030, of which 280 GW is to be met through solar power2. This trajectory is consistent with India’s Long-Term Low Emission Development Strategy (LT-LEDS) submitted to the UNFCCC and supports its broader targets of achieving net-zero emissions by 2070.

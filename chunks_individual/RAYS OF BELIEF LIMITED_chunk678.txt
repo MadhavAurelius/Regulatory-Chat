@@ -1,0 +1,39 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Acquisition of Subsidiary and Recognition of Provisional Goodwill**
+
+Contract liabilities are recognised when there is excess of invoicing over revenue earned on contracts with customers. Deferred revenue are classified as contract liabilities where invoicing was made in advance or the advance received from the customers while performance of services is pending.
+Please refer note 1.2(k) in accounting policies for performance obligation in relation to revenue from contracts with customers.
+**Recognition:**
+Trade receivables are non-interest bearing.
+**3. Reconciling the amount of revenue recognised in the statement of profit and loss with the contracted price:**
+333
+**Note 34: Foreign Currency transactions and balances**
+|  Particulars As at  September 30, 2025 As at  31 March 2025 As at  31 March 2024 As at  31 March 2023  |
+|:---|
+| Balances: A) Trade payables - Related parties - - - - - Others - - - -  |
+| Total - - - -  |
+| B) Trade receivables - Related parties 62.05 29.58 - - - Others - - - -  |
+| Total 62.05 29.58 - -  |
+|  |
+| Particulars As at  September 30, 2025 As at  31 March 2025 As at  31 March 2024 As at  31 March 2023  |
+| Transactions: A) Income - Related parties 93.31 144.38 104.44 19.85 - Others - - - -  |
+| Total 93.31 144.38 104.44 19.85  |
+| B) Expenditures - Related parties - - - - Others 0.53  1.16 0.35 1.04  |
+| Total 0.53 1.16 0.35 1.04  |
+*(This space has been intentionally left blank.)*
+334
+**Rays of Belief Limited (Formerly known as Rays of Belief Private Limited) CIN:U85110DL2017PLC322623 Notes to Restated financial Information for the period ended Septemeber 30, 2025** (All amounts in INR Millions, unless otherwise stated)
+**Note 35: Capital management**
+**Gearing ratio:**
+|  Particulars As at  September 30,  2025 As at  31 March 2025 As at  31 March 2024 As at  31 March 2023  |  As at  01 April 2022  |
+|:---|:---|
+| Long term borrowings (including current maturities) 39.95  43.57  -  -  Short term borrowings -  -  -  - | -  -  |
+| Adjusted net debt (A) 39.95  43.57  -  -  | -  |
+| Equity share capital 154.68  3.20  3.12  3.01  Other equity 82.91  146.99  54.66  40.55  | 2.20  43.66 |
+| Total Equity (B) 237.58  150.19  57.78  43.56  | 45.86  |
+|  |  |
+| Gearing ratio (C = A/B) 16.82% 29.01% 0.00% 0.00%  | 0.00%  |
+The primary objective of the management of the Company’s capital structure is to maintain an efficient mix of debt and equity in order to achieve a low cost of capital, while taking into account the desirability of retaining financial flexibility to pursue business opportunities and adequate access to liquidity to mitigate the effect of unforeseen events on cash flows. Management also monitors the return on equity.

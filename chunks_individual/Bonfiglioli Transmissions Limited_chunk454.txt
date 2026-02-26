@@ -1,0 +1,29 @@
+## * **Scope and terms of reference** *
+
+-  Review, assess and formulate detailed risk management policy of the Company from time to time and
+
+ recommend for an amendment or modification thereof, which shall include:
+(a)  a framework for identification of internal and external risks specifically faced by the Company, in particular including financial, operational, sectoral, sustainability (particularly, environment, social and governance related risks), information, cyber security risks or any other risk as may be determined by the Risk Management Committee;
+(b)  measures for risk mitigation including systems and processes for internal control of identified risks; and
+(c)  business continuity plan;
+-  Ensure that appropriate methodology, processes and systems are in place to monitor and evaluate risks
+
+ associated with the business of the Company;
+-  Monitor and oversee implementation of the risk management policy, including evaluating the adequacy of
+
+ risk management systems;
+-  Periodically review the risk management policy, at least once in two years, including by considering the
+
+ changing industry dynamics and evolving complexity, and recommend for any amendment or modification thereof, as necessary;
+-  Keep the Board of the Company informed about the nature and content of its discussions, recommendations
+
+ and actions to be taken;
+-  Review the appointment, removal and terms of remuneration of the chief risk officer (if any);
+-  To implement and monitor policies and/or processes for ensuring cyber security;
+-  To coordinate its activities with other committees, in instances where there is any overlap with activities of
+
+ such committees, as per the framework laid down by the Board; and
+-  Any other similar or other functions as may be laid down by the Board of the Company from time to time
+
+ and/or as may be required under applicable law, as and when amended from time to time, including the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended.
+The  Risk Management Committee shall meet at least twice in a year, provided that the meetings of the Risk Management Committee shall be conducted in such a manner that on a continuous basis not more than two hundred and ten days shall elapse between any two consecutive meetings

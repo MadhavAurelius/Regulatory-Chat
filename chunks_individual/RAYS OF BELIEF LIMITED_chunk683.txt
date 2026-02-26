@@ -1,0 +1,39 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Acquisition of Subsidiary and Recognition of Provisional Goodwill**
+
+|  Particulars  |  As at  30 Sep 2025  |  As at  March 31, 2025  |  As at  March 31, 2024  |  As at  March 31, 2023  |
+|:---|:---|:---|:---|:---|
+| Current service cost  | 0.80  | 1.16  | 0.73  | 0.45  |
+| Past service cost  |  | -  | -  | --  |
+| Interest cost  | 0.15  | 0.17  | 0.10  | 0.14  |
+| Expected return on plan assets  |  | -  | -  | --  |
+| Curtailment cost / (Credit)  |  | -  | -  | --  |
+| Settlement cost / (credit)  |  | -  | -  | --  |
+| Net actuarial (gain)/ loss recognized in the period-OCI | 1.68  | 0.56  | (0.35)  | 1.10  |
+| Expenses recognized in the statement of profit & losses | 0.95  | 1.33  | 0.83  | 1.69  |
+338
+**Reconciliation statement of expense in the statement of profit and loss**
+|  Particulars  |  As at  30 Sep 2025  |  As at  March 31, 2025  |  As at  March 31, 2024  |  As at  March 31, 2023  |
+|:---|:---|:---|:---|:---|
+| Present value of obligation as at the end of period  | 6.65  | 4.24  | 2.41  | 1.33  |
+| Present value of obligation as  at the beginning of the period | 4.24  | 2.41  | 1.33  | 1.89  |
+| Benefits paid  | (0.22)  | (0.05)  | (0.10)  | (0.05)  |
+| Total Service Cost  | 0.80  | 1.16  | 0.73  | 0.45  |
+| Net Interest cost (Income)  | 0.15  | 0.17  | 0.10  | 0.14  |
+| Actual return on plan assets  | --  | --  | --  | --  |
+| Re-measurements(OCI)  | 1.68  | 0.56  | 0.35  | (1.10)  |
+| Acquisition adjustment  | --  | --  | --  | --  |
+| Expenses recognized in the statement of profit & losses  | 0.95  | 1.33  | 0.83  | 0.59  |
+**Amount for the current period**
+|  Particulars  |  As at  30 Sep 2025  |  As at  March 31, 2025  |  As at  March 31, 2024  |  As at  March 31, 2023  |
+|:---|:---|:---|:---|:---|
+| Present value of obligation as at the end of period  | 6.65  | 4.24  | 2.41  | 1.33  |
+| Fair value of plan assets at the end of the period  | --  | --  | --  | --  |
+| Surplus / (Deficit)  | --  | --  | --  | --  |
+| Experience adjustment on plan Liabilities (loss) / gain | --  | --  | --  | --  |
+| Experience adjustment on plan  Assets (loss) / gain  | --  | --  | --  | --  |
+|  |  |  |  |  |
+**Movement in the liability recognized in the balance sheet**

@@ -1,0 +1,22 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Expenses**
+
+In addition to borrowing-related interest, the Company also incurred ₹2.09 million in interest expense on lease liabilities, arising from new lease arrangements under Ind AS 116 for centres. Furthermore, an amount of ₹0.25 million was recognized as interest expense due to fair valuation adjustments in line with applicable Ind AS. The overall increase in finance costs reflects the Company’s use of debt and lease financing to support its continued operational growth.
+|  Particular  |  Fiscal 2025  (in ₹ million)  |  Fiscal 2024  (in ₹ million)  |  Change %  |
+|:---|---:|:---|:---|
+| Interest on Lease Liability  |  2.09 | 1.19  | 75.63%  |
+| Interest on loan  |  3.59 | Nil  | N.A.  |
+| Interest Expense-Fair Valuation |  0.25 | 0.13  | 92.31%  |
+| Total  |  5.93 | 1.32  | 349.24%  |
+
+-   * **Depreciation and amortisation expense** *
+Total Depreciation and Amortisation expenses stood at ₹14.08 million in Fiscal 2024 and increased to ₹21.92 million in Fiscal 2025, reflecting an increase of 55.68%. During Fiscal 2025, the Company undertook a strategic expansion of its healthcare network by opening several “  *Company Learning Centres” and “Company Learning Centres in* *partnership with Licensed Professionals”*  across multiple locations. As part of this expansion, the Company incurred capital expenditure amounting to ₹19.13 million, which was capitalized under fixed assets. These capitalized assets primarily included office equipment, furniture and fixtures, and infrastructure related to newly established centres. As a result of this capital investment, the depreciation expense for the Fiscal 2025 increased by 55. 68% as compared to the previous Fiscal 2024. This rise in depreciation is directly attributable to the commissioning of new fixed assets, which were brought into use during the year and began to be depreciated as per applicable accounting policies. The increase in depreciation cost reflects the Company’s focus on expanding its operations and improving service delivery infrastructure.
+|  Particular  |  Fiscal 2025  (in ₹ million)  |  Fiscal 2024  (in ₹ million)  |  Change %  |
+|:---|---:|---:|:---|
+| Depreciation  on  Property,  Plant  and  Equipment |  11.41 |  6.97 | 63.70%  |
+| Depreciation on Intangible Assets  |  0.68 |  1.26 | (46.03)%  |
+| Depreciation on Right on-use Assets  |  9.83 |  5.85 | 68.03%  |
+| Total  |  21.92 |  14.08 | 55. 68%  |

@@ -1,0 +1,4 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **20. Inscription or Recording of Non-Transferability:**
+In terms of Regulation 241 of the SEBI ICDR Regulations, our Company confirms that the Company shall ensure that the lock - in is recorded by the Depository.

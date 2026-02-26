@@ -1,0 +1,37 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Acquisition of Subsidiary and Recognition of Provisional Goodwill**
+
+|  Ratio  |  Formula  |  Formula  |
+|:---|:---|:---|
+| Current Ratio  | Total Current Asset/Total Current Liabilities  | Total Current Asset/Total Current Liabilities  |
+| Debt-Equity Ratio  | Net Debt/Total Equity  | Net Debt/Total Equity  |
+| Debt Service Coverage Ratio  | EBITDA/(Interest Expenses+Principal Repayments)  | EBITDA/(Interest Expenses+Principal Repayments)  |
+| Return on Equity Ratio  | Net Profit After Tax/Average Net Worth  | Net Profit After Tax/Average Net Worth  |
+| Inventory Turnover Ratio  | Cost of Goods Sold/Average Inventory  | Cost of Goods Sold/Average Inventory  |
+| Trade Receivables Turnover Ratio  | Revenue from Operations/Average Trade Receivables  | Revenue from Operations/Average Trade Receivables  |
+| Trade Payables Turnover Ratio  | Total other expense/Average Trade Payable  | Total other expense/Average Trade Payable  |
+| Working Capital Turnover Ratio (in times) | Revenue from Operations/Average Working Capital  | Revenue from Operations/Average Working Capital  |
+| Net Profit Ratio  | Net Profit After Tax/Total Revenue  | Net Profit After Tax/Total Revenue  |
+| PAT Margin  | Net Profit After Tax/Revenue from Operations  |  |
+| Return on Capital Employed  | Earnings before Interest and Tax/Average Capital Employed | Earnings before Interest and Tax/Average Capital Employed |
+| Return on Investment  | Profit after tax/ Average total equity  | Profit after tax/ Average total equity  |
+**Notes** 1. Net Debt = Total Borrowings 2. Earnings = Net Profit Before Tax+ Depreciation and Amortization+Finance Cost+Non Cash Expense 3. Net Finance Charges = Interest and Principal Repayments Including Lease Payments 4. Average Networth Calculated on the year end closing basis. 5. Average Inventory Calculated on the year end closing basis. 6. Average Working Capital = Current Assets - Current Liabilities. 7. Capital Employed = Total Equity + Total Borrowings
+**Note 48: Additional Regulatory Requirement**
+**Note 49: Statement of Capitalisation**
+|  Particulars  |  For the six months  ended  September 30, 2025  |  As at  March 31, 2025  |
+|:---|:---|:---|
+| Debt  |  |  |
+| Short Term Debt  | 8.03  | 7.62  |
+| Long Term Debt  | 31.92  | 35.95  |
+| Total Debt  | 39.95  | 43.57  |
+|  |  |  |
+| Shareholder's Fund  |  |  |
+| Share Capital  | 154.68  | 3.20  |
+| Other Equity  | 82.91  | 146.99  |
+| Total Shareholder's Fund (Equity) | 237.58  | 150.19  |
+| Long Term Debt/Equity  | 0.13  | 0.24  |
+| Total Debt/Equity  | 0.17  | 0.29  |
+Short Term Debts represent which are Expected to be Paid/Payable in 12 months (current maturities of Long term debt) Long Term Debts represent Debts other than Short Term Debts as defined above The figures disclosed above are based on Restated Statement of Assets and Liabilities of the Company as at 30 September, 2025

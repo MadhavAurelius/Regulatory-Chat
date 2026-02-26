@@ -1,0 +1,21 @@
+## **INTERNAL RISKS**
+
+* **7.** *    * **We depend on a limited number of customers for our sales, and revenue from our top 10 customers** * * **represented 46.35%, 43.16%, 41.08% and 39.81% of our total revenue from operations (continuing** * * **operations) in the nine months period ended September 30, 2025 and in Fiscals 2024, 2023 and 2022,** * * **respectively. As we do not have long-term binding agreements with all our customers, any reduction** * * **in orders from, or loss of, any of our major customers could adversely affect our business, financial** * * **condition, results of operations and cash flows.** *
+
+36
+We depend on a limited number of customers for our sales and revenue generation. The table below highlights the percentage of revenue sourced from our top customer, top-five customers and top-10 customers for the period/years indicated:
+**Particulars For the nine months period ended September 30, 2025**
+**For the year ended December 31, 2024**
+**For the year ended December 31, 2023**
+**For the year ended December 31, 2022**
+* **(₹ million unless otherwise indicated)** * **Revenue from customers -  continuing operations (A)**
+14,447.93 18,260.26 16,690.92 15,392.18
+**Revenue from largest customer** Amount (B) 1,747.18 1,801.73 1,248.68 1,155.89 As a % of revenue from customers -  continuing operations (C=B/A)
+12.09% 9.87% 7.48% 7.51%
+**Revenue from top-five customers** Amount (D) 5,023.63 5,550.63 4,410.85 4,153.85 As a % of revenue from customers -  continuing operations (E=D/A)
+34.77% 30.40% 26.43% 26.99%
+**Revenue from top-10 customers** Amount (F) 6,768.63 7,902.11 6,931.83 6,200.69 As a % of revenue from customers -  continuing operations (G=F/A)
+46.85% 43.27% 41.53% 40.28%
+
+We typically engage with our customers through a combination of long-term framework agreements, annual contracts and purchase order-based arrangements. While we have framework agreements with certain key customers that establish commercial terms and pricing mechanisms, these agreements do not always guarantee minimum purchase volumes or commitments. A significant portion of our revenue is generated through purchase orders placed by customers based on their requirements, project timelines and market conditions. As a result, we are dependent on our existing customer relationships and our ability to maintain our position as a preferred supplier to our customers.
+Any reduction in orders from, or loss of, any of our major customers due to factors such as changes in their business strategies, financial difficulties, supply chain diversification, technological changes, competitive pressures, or their decision to manufacture components in-house or source from alternative suppliers, could have a material adverse effect on our revenue and profitability. Furthermore, customer concentration exposes us to the risk that deterioration in the financial condition or business prospects of any of our major customers could result in delayed payments, payment defaults, or cancellation of orders, which could adversely impact our working capital, cash flows and financial performance.

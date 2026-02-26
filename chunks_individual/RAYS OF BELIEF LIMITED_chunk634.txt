@@ -1,0 +1,10 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Key Audit Matter How the matter was addressed in the audit**
+
+**First-time adoption of Ind AS** Refer Note 28 -  The Company adopted Ind AS for the first time with effect from April 1, 2024 (transition date April 1, 2023). This process involved significant adjustments and restatements from Previous GAAP, including preparation of Ind AS opening balance sheets and reconciliations of equity and total comprehensive income.
+We assessed management’s process for Ind AS adoption, examined reconciliations, tested material adjustments, evaluated accounting policies for compliance with Ind AS, and checked the accuracy of transition adjustments.
+**Recognition of Significant Deferred Tax Asset (DTA)** Refer Note 6 -  The Company recognized a net deferred tax asset of ₹63.08 million as at March 31, 2025, arising mainly from carried forward losses and unabsorbed depreciation. The recognition of this DTA involved significant management judgment regarding the probability of sufficient future taxable profits to utilize these losses.
+We evaluated management’s financial projections and the underlying assumptions for future taxable income; tested the consistency of these assumptions with historical performance and available external data; reviewed the workings supporting the deferred tax asset computation; considered the reasonableness of taxable profits are expected and reviewed compliance with Ind AS 12 (Income Taxes) in the recognition of the DTA.

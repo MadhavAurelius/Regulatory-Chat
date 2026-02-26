@@ -1,0 +1,20 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **B. WHERE WILL THE INVESTMENT STRATEGY INVEST?**
+
+Subject to the SEBI (MF) Regulations, the corpus of the investment strategy can be invested in any (but not exclusively) of the following securities:
+1.  Equity and Equity related instruments including include convertible debentures, convertible preference shares, warrants carrying the right to obtain equity shares, equity derivatives and such other instrument as may be specified by the Board from time to time. 2.  Securities created and issued by Governments of India and/or repos/reverse repos in such Government Securities as may be permitted by RBI (including but not limited to coupon bearing bonds, zero coupon bonds and treasury bills). 3.  Securities guaranteed by the Central and State Governments (including but not limited to coupon bearing bonds, zero coupon bonds and treasury bills). 4.  Debt obligations of domestic Government agencies and statutory bodies, which may or may not carry a Central/State Government guarantee. 5.  Corporate debt and securities (of both public and private sector undertakings) including Bonds, Debentures, Notes, Strips etc. 6.  Money Market Instruments include Commercial papers, commercial bills, treasury bills, Government securities having an unexpired maturity up to one year, call or notice money, certificate of deposit, usance bill and any other like instruments as specified by the Reserve Bank of India/SEBI from time to time subject to regulatory approvals, if any. 7.  Debt instruments (in the form of non-convertible debentures, bonds, secured premium notes, zero interest bonds, deep discount bonds, floating rate bond / notes, securitised debt, pass through certificates, asset backed securities, mortgage backed securities and any other domestic fixed income securities including structured obligations etc.) include, but are not limited to:
+
+-  Debt issuances of the statutory bodies (which may or may not carry a state / central government
+
+ guarantee),
+
+-  Debt securities that have been guaranteed by Government of India and State Governments,
+
+-  Debt securities issued by Corporate Entities (Public / Private sector undertakings),
+
+-  Debt securities issued by Public / Private sector banks and development financial institutions.
+
+-  The non-convertible part of convertible debt securities.
+
+ 8.  Securitised Debt Obligations. 9.  Fixed Income Derivative instruments like Interest Rate Swaps, Forward Rate Agreements and such other derivative instruments as permitted by SEBI / RBI. 10.  Pass through, Pay through or other Participation Certificates, representing interest in a pool assets including receivables. 11.  Any other domestic fixed income securities as may be permitted by RBI/SEBI from time to time but excluding Government securities and State Developmental Loans. 12.  Short term deposits with banks overseas where the issuer is rated not below investment grade.

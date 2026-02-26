@@ -1,0 +1,37 @@
+#
+
+## **3B.4 Indian Solar Power Sector**
+
+##### **Emerging State Markets**
+
+The Indian solar power sector is expected to continue growing at an accelerated pace, supported by declining costs, favourable policy incentives (including waivers on inter-state transmission charges), and increasing interest from both domestic and international investors in green infrastructure assets.
+
+##### **Market Segmentation and State-wise Trends**
+
+India’s solar power sector is broadly segmented into utility-scale, rooftop, and off-grid solar systems, with each segment contributing differently to the overall solar ecosystem. As of March 31, 2025, the Indian solar market continued to be dominated by utility-scale solar projects, which accounted for approximately 87% of the total installed solar capacity2. These projects typically range from tens to hundreds of megawatts and are deployed under central or state tender mechanisms, including SECI, NTPC, and state renewable energy agencies.
+
+The rapid deployment of large-scale solar parks has been a defining feature of India’s solar expansion strategy. These parks benefit from economies of scale, access to pre-cleared land, and dedicated grid connectivity through the Green Energy Corridor initiative, making them attractive for independent power producers (IPPs) and foreign investors. The integration of solar-wind hybrid projects and solar-plus-storage configurations is also being piloted at scale within this segment to enhance grid stability and dispatchability.
+
+While utility-scale projects dominate capacity statistics, rooftop solar installations have shown strong growth momentum, especially in the commercial & industrial (C&I) segment, where consumers seek to lower electricity costs and meet sustainability targets. In the residential sector, growth is being driven by targeted capital subsidies offered under the Rooftop Solar Programme Phase-II, with installations facilitated through the National Portal for Rooftop Solar. This segment is poised for further acceleration with rising awareness, improved financing options, and state-level incentives.
+
+##### **State-wise Trends**
+
+As of March 31, 2025, the following five states led India in cumulative installed solar capacity2:
+
+-   **Rajasthan**  :  **20.89 GW**  - Rajasthan retained its position as the top solar state due to its high solar irradiation,
+
+ availability of barren land, and robust policy environment. It is also home to several Ultra Mega Renewable Energy Power Parks (UMREPPs), including the Bhadla Solar Park.
+-   **Gujarat**  :  **11.08 GW**  - Gujarat’s performance has been driven by both utility-scale and distributed solar
+
+ deployment, supported by proactive policies such as the Gujarat Solar Policy 2021 and strong DISCOM participation in rooftop solar promotion.
+-   **Karnataka**  :  **8.49 GW**  - Karnataka has been an early mover in solar energy adoption, particularly through its
+
+ solar-wind hybrid projects, and remains a leader in capacity despite some slowdown in recent auction activity.
+-   **Tamil Nadu**  :  **6.31 GW**  - Tamil Nadu has demonstrated consistent growth in solar capacity through a mix of
+
+ utility and rooftop projects, while also addressing high renewable curtailment levels through enhanced grid management.
+-   **Telangana**  :  **5.71 GW**  - Telangana’s solar development has largely been driven by state-led tenders and
+
+ distributed solar promotion under the agriculture feeder solarisation model.
+##### **Emerging State Markets**
+While the western and southern states continue to dominate in utility-scale capacity due to favourable solar irradiation, land availability, and strong grid infrastructure, several northern states are emerging as key growth markets for rooftop and distributed solar:

@@ -1,0 +1,18 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **RISKS ASSOCIATED WITH INVESTMENT IN UNITS OF MUTUAL FUND:**
+-  Investment in Mutual Fund Units involves investment risks, including but not limited to risks such
+
+ as liquidity risk, volatility risk, default risk including the possible loss of principal.
+
+-  Liquidity risk: The liquidity of the scheme’s investments is inherently restricted by trading volumes
+
+ and settlement periods. In the event of an inordinately large number of redemption requests, or of a restructuring of the scheme’s investment portfolio, these periods may become significant. In view of the same, the Trustees may limit redemptions (including suspending redemptions) under certain circumstances as specified under the Scheme Information Document.
+
+-  Volatility risks: There is the risk of volatility in markets due to external factors like liquidity flows,
+
+ changes in the business environment, economic policy etc. The scheme will manage volatility risk through diversification across companies and sectors.
+
+-  Default risk: Credit risk is risk resulting from uncertainty in counterparty’s ability or willingness to
+
+ meet its contractual obligations. This risk pertains to the risk of default of payment of principal and interest. Government Securities have zero credit risk while other debt instruments are rated according to the issuer’s ability to meet the obligations.

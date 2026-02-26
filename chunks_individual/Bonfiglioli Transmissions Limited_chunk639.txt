@@ -1,0 +1,13 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+## **Revenue from contract with customer**
+
+Significant financing component
+Generally, we receive short-term advances from our customers. Using the practical expedient in Ind AS 115, we do not adjust the promised amount of consideration for the effects of a significant financing component if we expect, at contract inception, that the period between the transfer of the promised good or service to the customer and when the customer pays for that good or service will be one year or less.
+Contract balances
+Contract assets
+A contract asset is the right to consideration in exchange for goods or services transferred to the customer. If we perform by transferring goods or services to a customer before the customer pays consideration or before payment is due, a contract asset is recognized for the earned consideration that is conditional.
+
+Contract liabilities
+
+A contract liability is the obligation to transfer goods or services to a customer for which we have received consideration (or an amount of consideration is due) from the customer. If a customer pays consideration before we transfer goods or services to the customer, a contract liability is recognized when the payment is made or the payment is due (whichever is earlier). Contract liabilities are recognized as revenue when we perform under the contract

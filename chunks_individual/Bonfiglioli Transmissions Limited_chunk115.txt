@@ -1,0 +1,13 @@
+## * **54.** *    * **Investors may have difficulty enforcing foreign judgments against us or our management.** *
+
+We are a limited liability company incorporated under the laws of India. Certain of our Directors are residents of India. A substantial portion of our assets and the assets of our Directors resident in India are located in India. As a result, you may be unable to:
+-  effect service of process in jurisdictions outside of India, including in the U.S., upon us and these other
+
+ persons or entities;
+-  enforce in the Indian courts, judgments obtained in courts of jurisdictions outside of India against us and
+
+ these other persons or entities, including judgments predicated upon the civil liability provisions of securities laws of jurisdictions outside India; and
+-  enforce judgements obtained in U.S. courts against us and these other persons or entities, including
+
+ judgments predicated upon the civil liability provisions of the federal securities laws of the U.S.
+India is not a party to any international treaty in relation to the recognition or enforcement of foreign judgments. The United Kingdom, Singapore, United Arab Emirates, and Hong Kong have been declared by the GoI to be reciprocating territories for purposes of Section 44A of the Civil Code. Section 44A of the Civil Code provides that where a foreign judgement has been rendered by a superior court, within the meaning of such section, in any country or territory outside of India which the GoI has by notification declared to be in a reciprocating territory, it may be enforced in India by proceedings in execution as if the judgement had been rendered by the relevant court in India. However, Section 44A of the Civil Code is applicable only to monetary decrees not being of the same nature as amounts payable in respect of taxes, other charges of a like nature or of a fine or other penalties. A judgement of a court of a country which is not a reciprocating territory may be enforced in India only by a suit on the judgement under Section 13 of the Civil Code, and not by proceedings in execution. Under the Civil Code, a court in India shall, on the production of any document purporting to be a certified copy of a foreign judgement, presume that the judgement was pronounced by a court of competent jurisdiction, unless the contrary appears on record. However, under the Civil Code, such presumption may be displaced by proving that the court did not have jurisdiction. The Civil Code only permits the enforcement of monetary decrees, not being in the nature of any amounts payable in respect of taxes, other charges, fines or penalties.

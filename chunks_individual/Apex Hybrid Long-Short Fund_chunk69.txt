@@ -1,0 +1,13 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+## **1. Risk mitigation strategies for investments with each kind of originator**
+
+### **Debt and Money Markets in India**
+The instruments available in Indian Debt Market are classified into two categories, namely Government and Non - Government debt. The following instruments are available in these categories: **A] Government Debt**
+|  -  Central Government  Deb t  |  -  Zero Coupon Bonds  |
+|:---|:---|
+| -  Treasury Bills  | -  State Government Debt  |
+|  -  Dated Government  Se cu r ities  |  -  State Government Loans  |
+|:---|:---|
+| -  Coupon Bearing Bo n d s  | -  Coupon Bearing Bonds  |
+| -  Floating Rate Bonds  |  |

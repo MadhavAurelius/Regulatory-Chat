@@ -1,0 +1,13 @@
+## **INTERNAL RISKS**
+
+47
+* **21.** *    * **We use heavy machinery at our manufacturing facilities which could cause bodily harm and accidents,** * * **which in turn could adversely impact our operations.** *
+The use of heavy equipment and machinery, which are an integral part of our production process, carries risks such as industrial accidents, bodily harm, fires, explosions, environmental hazards (such as the accidental release of pollutants or hazardous substances) and other unanticipated incidents, each of which may result in disruptions to our business, damage our manufacturing facilities, cause environmental pollution or result in injury and death. While we have not experienced any material injuries or any fatalities at any of our manufacturing facilities in the nine months period ended September 30, 2025 and Fiscals 2024, 2023 and 2022, there can be no assurance that such accidents may not occur in the future, or that we will be able to settle the disputes on time or at all, which will negatively affect our reputation, business, financial condition, results of operations, and cash flows.
+* **22.** *    * **Our warranty reserves may be insufficient to cover future warranty claims, which could adversely** * * **affect our business, financial condition, results of operations, and cash flows.** *
+We offer warranties to customers when they purchase our products. Under our general terms and conditions of sale and in accordance with industry practice, we typically provide a limited warranty on our products that is usually limited to repair or replacement of defective items or return of, or a credit with respect to, amounts paid for such items. The warranty period for our products is different across the different business units producing them and can range from 12 months to 24 months, and warranty reserves are calculated accordingly. For more details on our warranties, see “  * **Our Business -  Our Operations -  Warranty** *  ” on page 216. The following table shows the warranty provision created as per Ind AS 37 for the period/years indicated:
+**Warranty provision created for the period / year**
+**As at and for the nine months period ended September 30, 2025**
+**As at and for the year ended December 31, 2024**
+**As at and for the year ended December 31, 2023**
+**As at and for the year ended December 31, 2022**
+* **(₹ million unless otherwise stated** *   **)** Provisions for warranty (net) 198.03 188.14 179.05 157.40 Number of warranty claims 327 422 349 425 Aggregate amount claimed/paid by our Company resulting from the warranty claims

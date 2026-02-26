@@ -1,0 +1,13 @@
+## * **Manufacturing Process** *
+
+We deploy advanced, digitalized manufacturing processes, with the following key steps:
+
+*Machining & Gear Cutting.*  Our centers deliver 2 μm accuracy and precision gear cutting. We manage broaching operations of up to 120 tons and produce components like bevel pairs and worm wheels.
+*Heat Treatment.*  We have a monthly capacity of 450 metric tons for heat treatment, utilizing gas carburizing and sealing quench furnaces for optimal durability and wear resistance. Our process is fully monitored by Supervisory Control and Data Acquisition (“  **SCADA**  ”) systems.
+*Assembly.*  Our assembly of products in the Industry & Automation vertical is integrated with IoT technology, and incorporates features like uni-directional flow, centralized oil filling and feeding with kitting. Our assembly for Off-Highway Mobility and Wind Industries is similarly integrated with IoT technology, and with real time monitoring and vibration analysis.
+Our assembly of electric motor assembly is done with BIS certification and we locally assembly of E2/E3 motors.
+*Painting.*  Our painting operations rely on robotic systems, SCADA controls, RFID-linked processes, zero-waste mixing, and automated paint batch production.
+*Precision Measurement & Testing.*  For precision measurement and testing, we deploy co-ordinate measuring machines with full 3D part inspection, probe-enabled measurements, and integrated digital reports. Our gear testers feature 3-axis 3D probes, compatibility with various gear types, and allow visual mapping of deviations using auto-pass/fail logic.
+
+*Packaging.*  Our packaging is safe and sustainable, and using RSI packaging material, truck management integration, and digital packaging triggers.
+These integrated processes reduce delivery defects, cut inspection time, ensure accurate root-cause analysis, and support compliance with global standards.

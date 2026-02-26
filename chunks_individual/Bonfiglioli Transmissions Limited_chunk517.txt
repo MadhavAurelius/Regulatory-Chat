@@ -1,0 +1,76 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+Contributions are made to provident fund for employees at the rate of 12% of basic salary as per regulations. The contributions are made to registered provident fund administered by the Government. The obligation of the Company is limited to the amount contributed and it has no further contractual nor any constructive obligation.
+294 295 296 297
+|  |
+|:---|
+| Bonfiglioli Transmissions Limited (Formerly known as Bonfiglioli Transmissions Private Limited) Annexure VI - Notes to Restated Summary Statements CIN: U29309TN1998PLC040717 (All amounts in Millions of Indian Rupees, unless otherwise stated)  |
+| 37.3 Defined benefit plan - Gratuity Particulars  Present value  of obligation  Fair value of  plan assets  Net amount  Jan 1, 2022 142.90  133.90  9.00  Current service cost 18.20  -  18.20 Interest expense/(income) 11.10  9.11  1.99 Past service costs 20.12  -  20.12 Total amount recognised in profit or loss 49.42  9.11  40.31  Remeasurements: (Gain)/loss from change in demographic assumptions (1.66)  -  (1.66) (Gain)/loss from change in financial assumptions (14.44)  -  (14.44) Effect of Experience (gains)/losses (3.47)  -  (3.47) Return on plan assets, excluding amounts  included in interest expense/(income) -  2.21  (2.21) Total amount recognised in other  comprehensive income (19.57)  2.21  (21.78)  Employer contributions -  6.51  (6.51) Benefit payments (11.64)  (11.64)  -  Experience (gains)/losses December 31, 2022  161.11  140.09  21.02  Particulars  Present value  of obligation  Fair value of  plan assets  Net amount  Jan 1, 2023 161.11  140.09  21.02  Current service cost 16.65  -  16.65 Interest expense/(income) 11.50  10.52  0.98 Past service costs -  -  Total amount recognised in profit or loss 28.15  10.52  17.63  Remeasurements: (Gain)/loss from change in demographic assumptions (1.83)  -  (1.83) (Gain)/loss from change in financial assumptions 38.31  -  38.31 Effect of Experience (gains)/losses 16.15  -  16.15 Return on plan assets, excluding amounts  included in interest expense/(income) -  (0.88)  0.88 Total amount recognised in other  52.63  (0.88)  53.51  Employer contributions -  25.43  (25.43) Benefit payments (7.71)  (7.71)  -  Experience (gains)/losses -  -  December 31, 2023  234.18  167.45  66.73  The Company provides for gratuity for employees as per the Payment of Gratuity Act, 1972. Employees who are in continuous service for a period  of 5 years are eligible for gratuity. The amount of gratuity payable on retirement/termination is the employees last drawn basic salary per month  computed proportionately for 15 days salary multiplied for the number of years of service. The gratuity plan is a funded plan and the Company  makes contribution to LIC. (a) The amounts recognised in the balance sheet and the movement in the net defined benefit obligation and plan assets over the year are as follows: |
+|  Particulars  |  Present value  of obligation  |  Fair value of  plan assets  |  Net amount  |
+|:---|:---|:---|:---|
+| Jan 1, 2022  Current service cost Interest expense/(income) Past service costs  | 142.90  18.20  11.10  20.12 | 133.90  -  9.11  -  | 9.00  18.20 1.99 20.12  |
+| Total amount recognised in profit or loss  | 49.42  | 9.11  | 40.31  |
+| Remeasurements: (Gain)/loss from change in demographic assumptions (Gain)/loss from change in financial assumptions Effect of Experience (gains)/losses Return on plan assets, excluding amounts  included in interest expense/(income) | (1.66)  (14.44)  (3.47)  -  | -  -  -  2.21  | (1.66)  (14.44)  (3.47)  (2.21) |
+| Total amount recognised in other  comprehensive income  | (19.57)  | 2.21  | (21.78)  |
+| Employer contributions Benefit payments Experience (gains)/losses  | -  (11.64)  | 6.51  (11.64)  | (6.51)  -  |
+| December 31, 2022  | 161.11  | 140.09  | 21.02  |
+|  Particulars  |  Present value  of obligation  |  Fair value of  plan assets  |  Net amount  |
+|:---|:---|:---|:---|
+| Jan 1, 2023  Current service cost Interest expense/(income) Past service costs  | 161.11  16.65  11.50  | 140.09  -  10.52  -  | 21.02  16.65 0.98 -  |
+| Total amount recognised in profit or loss  | 28.15  | 10.52  | 17.63  |
+| Remeasurements: (Gain)/loss from change in demographic assumptions (Gain)/loss from change in financial assumptions Effect of Experience (gains)/losses Return on plan assets, excluding amounts  included in interest expense/(income) | (1.83)  38.31  16.15  -  | -  -  -  (0.88)  | (1.83) 38.31 16.15 0.88 |
+| Total amount recognised in other  | 52.63  | (0.88)  | 53.51  |
+| Employer contributions Benefit payments Experience (gains)/losses  | -  (7.71)  | 25.43  (7.71)  -  | (25.43)  -  -  |
+| December 31, 2023  | 234.18  | 167.45  | 66.73  |
+|  |
+|:---|
+| Bonfiglioli Transmissions Limited (Formerly known as Bonfiglioli Transmissions Private Limited) Annexure VI - Notes to Restated Summary Statements CIN: U29309TN1998PLC040717 (All amounts in Millions of Indian Rupees, unless otherwise stated)  |
+| Particulars  Present value  of obligation  Fair value of  plan assets  Net amount  Jan 1, 2024  234.18  167.45  66.73  -  Current service cost 22.37  -  22.37 Interest expense/(income) 15.93  12.40  3.53 Past service costs -  -  -  Total amount recognised in profit or loss 38.30  12.40  25.90  Remeasurements: (Gain)/loss from change in demographic assumptions (5.11)  -  (5.11) (Gain)/loss from change in financial assumptions 11.79  -  11.79 Effect of Experience (gains)/losses 3.35  -  3.35 Return on plan assets, excluding amounts  included in interest expense/(income) -  1.08  (1.08) Total amount recognised in other  10.03  1.08  8.95  Employer contributions -  73.65  (73.65) Benefit payments (10.06)  (10.06)  -  Experience (gains)/losses (31.08)  (27.81)  (3.27)  December 31, 2024  241.37  216.71  24.66  Particulars  Present value  of obligation  Fair value of  plan assets  Net amount  Jan 1, 2025  241.37  216.71  24.66  -  Current service cost 20.48  20.48  Interest expense/(income) 11.91  11.32  0.59  Past service costs  -  Total amount recognised in profit or loss 32.39  11.32  21.07  Remeasurements: (Gain)/loss from change in demographic assumptions (4.32)  (4.32) (Gain)/loss from change in financial assumptions 10.15  10.15  Effect of Experience (gains)/losses (2.83)  (2.83) Return on plan assets, excluding amounts  included in interest expense/(income) (0.21)  0.21  Total amount recognised in other  comprehensive income 3.00  (0.21)  3.21  Employer contributions 29.28  (29.28) Benefit payments (15.04)  (15.04)  -  Transfer out -  September 30, 2025 261.72  242.06  19.66 |
+|  Particulars  |  Present value  of obligation  |  Fair value of  plan assets  |  Net amount  |
+|:---|:---|:---|:---|
+| Jan 1, 2024  Current service cost Interest expense/(income) Past service costs  | 234.18  22.37  15.93  -  | 167.45  -  12.40  -  | 66.73  -  22.37 3.53  - |
+| Total amount recognised in profit or loss  | 38.30  | 12.40  | 25.90  |
+| Remeasurements: (Gain)/loss from change in demographic assumptions (Gain)/loss from change in financial assumptions Effect of Experience (gains)/losses Return on plan assets, excluding amounts  included in interest expense/(income) | (5.11)  11.79  3.35  -  | -  -  -  1.08  | (5.11) 11.79 3.35 (1.08) |
+| Total amount recognised in other  | 10.03  | 1.08  | 8.95  |
+| Employer contributions Benefit payments Experience (gains)/losses  | -  (10.06)  (31.08)  | 73.65  (10.06)  (27.81)  | (73.65)  -  (3.27)  |
+| December 31, 2024  | 241.37  | 216.71  | 24.66  |
+|  Particulars  |  Present value  of obligation  |  Fair value of  plan assets  |  Net amount  |
+|:---|:---|:---|:---|
+| Jan 1, 2025  Current service cost Interest expense/(income) Past service costs  | 241.37  20.48  11.91  | 216.71  11.32  | 24.66  -  20.48  0.59  -  |
+| Total amount recognised in profit or loss  | 32.39  | 11.32  | 21.07  |
+| Remeasurements: (Gain)/loss from change in demographic assumptions (Gain)/loss from change in financial assumptions Effect of Experience (gains)/losses Return on plan assets, excluding amounts  included in interest expense/(income) | (4.32)  10.15  (2.83)  | (0.21)  | (4.32)  10.15  (2.83)  0.21 |
+| Total amount recognised in other  comprehensive income  | 3.00  | (0.21)  | 3.21  |
+| Employer contributions Benefit payments Transfer out  | (15.04)  | 29.28  (15.04)  | (29.28)  -  -  |
+| September 30, 2025  | 261.72  | 242.06  | 19.66  |
+|  |
+|:---|
+| Bonfiglioli Transmissions Limited (Formerly known as Bonfiglioli Transmissions Private Limited) Annexure VI - Notes to Restated Summary Statements CIN: U29309TN1998PLC040717 (All amounts in Millions of Indian Rupees, unless otherwise stated)  |
+| The net liability/(asset) disclosed above relates to funded plan as follows: Particulars  September 30,  2025  December 31,  2024  December 31,  2023  December 31,  2022  Present value of funded obligation 261.72  241.37  234.18  161.11  Fair value of plan assets 242.06  216.71  167.45  140.09  Deficit / (surplus) of funded plan 19.66  24.66  66.73  21.02  (b) Significant actuarial assumptions The significant actuarial assumptions were as follows: Particulars  September 30,  2025  December 31,  2024  December 31,  2023  December 31,  2022  Discount rate 6.54% 6.96% 7.40% 7.50% Salary growth rate 11.86% 11.60% 11.22% 8.42% Attrition rate 14.74% 13.65% 12.14% 10.20% Notes: (c) Sensitivity analysis The sensitivity of the defined benefit obligation to changes in the weighted principal assumptions is: Change in assumption  Particulars  September 30,  2025  December 31,  2024  December 31,  2023  December 31,  2022  Discount rate  0.50% 0.50% 0.50% 0.50% Salary growth rate 0.50% 0.50% 0.50% 0.50% Increase in assumption Particulars  September 30,  2025  December 31,  2024  December 31,  2023  December 31,  2022  Discount rate  253.93  233.78  226.12  155.55  Salary growth rate 296.10  248.67  242.07  166.77  Particulars  September 30,  2025  December 31,  2024  December 31,  2023  December 31,  2022  Discount rate  270.15  249.61  242.96  167.24  Salary growth rate 254.84  234.58  226.87  155.93  i. The discount rate is based on the prevailing market yields of Indian government securities as at the balance sheet date for the estimated term of the obligation. ii. The estimates of future salary increases, considered in actuarial valuation, takes into account, inflation, seniority, promotions and other relevant factors, such as demand and supply in the employment market. Impact on defined benefit obligation Impact on defined benefit obligation Decrease in assumption Impact on defined benefit obligation The above sensitivity analyses are based on a change in an assumption while holding all other assumptions constant. In practice, this is unlikely  to occur, and changes in some of the assumptions may be correlated. When calculating the sensitivity of the defined benefit obligation to  significant actuarial assumptions, the same method (present value of the defined benefit obligation calculated with the projected unit credit  method at the end of the reporting period) has been applied as when calculating the defined benefit liability recognised in the balance sheet. The methods and types of assumptions used in preparing the sensitivity analysis did not change compared to the prior period. |
+|  Particulars  |  September 30,  2025  |  December 31,  2024  |  December 31,  2023  |  December 31,  2022  |
+|:---|:---|:---|:---|:---|
+| Present value of funded obligation Fair value of plan assets | 261.72  242.06  | 241.37  216.71  | 234.18  167.45  | 161.11  140.09  |
+| Deficit / (surplus) of funded plan  | 19.66  | 24.66  | 66.73  | 21.02  |
+|  Particulars  |  September 30,  2025  |  December 31,  2024  |  December 31,  2023  |  December 31,  2022  |
+|:---|:---|:---|:---|:---|
+| Discount rate  | 6.54%  | 6.96%  | 7.40%  | 7.50%  |
+| Salary growth rate | 11.86%  | 11.60%  | 11.22%  | 8.42%  |
+| Attrition rate  | 14.74%  | 13.65%  | 12.14%  | 10.20%  |
+|  |  Impact on defined benefit obligation  |  Impact on defined benefit obligation  |  Impact on defined benefit obligation  |  Impact on defined benefit obligation  |
+|:---|:---|:---|:---|:---|
+|  | Change in assumption  | Change in assumption  |  |  |
+| Particulars  | September 30,  2025  | December 31,  2024  | December 31,  2023  | December 31,  2022  |
+| Discount rate  | 0.50%  | 0.50%  | 0.50%  | 0.50%  |
+| Salary growth rate | 0.50%  | 0.50%  | 0.50%  | 0.50%  |
+|  |  Impact on defined benefit obligation  |  Impact on defined benefit obligation  |  Impact on defined benefit obligation  |  Impact on defined benefit obligation  |
+|:---|:---|:---|:---|:---|
+|  | Increase in assumption  | Increase in assumption  |  |  |
+| Particulars  | September 30,  2025  | December 31,  2024  | December 31,  2023  | December 31,  2022  |
+| Discount rate  | 253.93  | 233.78  | 226.12  | 155.55  |
+| Salary growth rate | 296.10  | 248.67  | 242.07  | 166.77  |
+|  |  Impact on defined benefit obligation  |  Impact on defined benefit obligation  |  Impact on defined benefit obligation  |  Impact on defined benefit obligation  |
+|:---|:---|:---|:---|:---|
+|  | Decrease in assumption  | Decrease in assumption  | Decrease in assumption  | Decrease in assumption  |
+| Particulars  | September 30,  2025  | December 31,  2024  | December 31,  2023  | December 31,  2022  |
+| Discount rate  | 270.15  | 249.61  | 242.96  | 167.24  |
+| Salary growth rate | 254.84  | 234.58  | 226.87  | 155.93  |
+**Bonfiglioli Transmissions Limited (Formerly known as Bonfiglioli Transmissions Private Limited) Annexure VI - Notes to Restated Summary Statements CIN: U29309TN1998PLC040717** (All amounts in Millions of Indian Rupees, unless otherwise stated) **(d) Plan assets** The Company has plan assets by way of investments funds in Life Insurance Corporation of India (LIC). **(e) Risk exposure**

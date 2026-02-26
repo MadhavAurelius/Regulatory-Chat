@@ -1,0 +1,14 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **C. WHAT IS THE INVESTMENT APPROACH?**
+
+The Investment Strategy aims to generate capital appreciation through equity & equity related instruments and income through arbitrage, derivatives strategies, special situations and fixed income investments.
+The Investment strategy will seek to capitalize on special situations such as IPOs, FPOs, rights issues, buybacks, open offers, demergers, mergers, QIPs, delistings, index rebalancing events etc. These event- driven opportunities will be tactically assessed for short-term return generation.
+The fixed income allocation will focus on debt instruments aiming to generate accrual and potential price appreciation.
+Overseas investments will be made in accordance with prevailing SEBI and RBI guidelines, offering access to global equity, debt, and thematic opportunities through direct securities or ETFs.
+Additionally, the Investment Strategy will deploy structured derivative strategies including covered calls and synthetic options like straddles, strangles, and put-call parity trades to enhance yield. The Investment Strategy may use derivative instruments like Interest Rate Swaps, Interest Rate Futures, Forward Rate Agreements, or other derivative instruments  for the purpose of hedging, portfolio balancing and other purposes, as permitted under the Regulations. Hedging using Interest Rate Futures could be perfect or imperfect, subject to applicable regulations. Usage of derivatives may expose the Investment Strategy to certain risks inherent to such derivatives. For detailed derivative strategies, please refer Apex SAI. It may also invest in securitized debt.
+**Indicative List of Derivative Strategies** The investment approach may deploy the following equity derivative strategies, in compliance with SEBI regulations and internal risk management policies. All positions will be maintained within the overall gross exposure cap of 100% and the naked short exposure limit of 25%.
+|  Position type  |  Strategy name  |  Potential risk  |  Risk mitigant  |
+|:---|:---|:---|:---|
+| Cash position  + Short  stocks | Cash-future arbitrage  Used during periods of  pricing inefficiencies | Basis risk, rollover cost | Positions are typically market- neutral  and exposure is matched;  deployed |
+Std Obs 27 and 28

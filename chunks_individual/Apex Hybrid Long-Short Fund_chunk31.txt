@@ -1,0 +1,19 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **A. COMPUTATION OF NAV**
+
+Std Obs 42
+**Illustration of computation of NAV:** If the net assets of the Investment strategy is Rs.10,55,34,567.12 and units outstanding are 100,00,000, then the NAV per unit will be computed as follows:
+10,55,34,567.12 / 100,00,000 = Rs. 10.55 p.u. (rounded off to two decimal)
+In accordance with SEBI (MF) Regulations, while determining the price of the units, the mutual fund shall ensure that the repurchase price of the investment strategy  is not lower than 95 per cent of the Net Asset Value.
+Note: Where as a result of a Redemption/ Switch arising out of excess holding by an investor beyond 25% of the net assets of the investment strategy s in the manner envisaged under para 6.11 of SEBI Master Circular on Mutual Funds dated June 27, 2024, such Redemption / Switch will not be subject to Exit load.
+**Methodology for calculation of sale and re-purchase price of the units**  :
+
+-  Subscription / Switch-in (from other Investment Strategies/plans of the Mutual Fund)  *(This is the price*
+
+ *investor need to pay for purchase/switch-in)* If the applicable NAV is Rs. 10/- and since there will be no entry load, then the purchase price will be Rs. 10/-
+
+-  Redemption / Switch - out (to other Investment Strategies/plans of the Mutual Fund)  *(This is the price*
+
+ *investor will receive at the time of redemption/ switch-out)* If the applicable NAV is Rs. 10/- and exit load is 0.5% then sale price will be 10 - (10 * 0.5%) = 10 - 0.05 = Rs. 9.95/-
+For other details such as policies w.r.t computation of NAV, rounding off, investment in foreign securities, procedure in case of delay in disclosure of NAV etc. refer to Apex SIF SAI.

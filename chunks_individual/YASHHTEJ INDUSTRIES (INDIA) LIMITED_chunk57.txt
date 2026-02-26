@@ -1,0 +1,54 @@
+# YASHHTEJ INDUSTRIES (INDIA) LIMITED  CIN: U74999MH2018PLC310828  REGISTERED &   CORP O RA T E  O FFI[...]
+
+## **Table of Contents**
+
+#### **SECTION III: RISK FACTORS**
+
+##### **e) Details of delay in the filing related to Professional Tax:**
+
+##### **c) Details of delay in the filing related to Employees' Provident Fund:**
+|  Month  |  Due Date  |  Filling Date  |  No. of days delay  |
+|:---|:---|:---|---:|
+| Apr-24  | 15-05-2024  | 24-06-2024  |  40  |
+| May-24  | 15-06-2024  | 24-06-2024  |  9  |
+| June-24  | 15-07-2024  | 17-07-2024  |  2  |
+
+##### **d) Details of delay in the filing related to Tax Deducted at Source:**
+|  Particulars  |  Due date of filling  |  Actual Date of filling  |  No of Days delay filed  |
+|:---|:---|:---|---:|
+| FY 2024-25 Q 1  | 31-07-2024  | 02-08-2024  |  2  |
+| FY 2023-24 Q 1  | 30-09-2023  | 10-01-2024  |  102  |
+| FY 2023-24 Q 2  | 31-10-2023  | 10-01-2024  |  71  |
+| FY 2023-24 Q 3  | 31-01-2024  | 02-02-2024  |  2  |
+
+38
+##### **e) Details of delay in the filing related to Professional Tax:**
+|  Month  |  Due Date  |  Actual Date  |  No of days delay  |
+|:---|:---|:---|---:|
+| April-23  | 31-05-2023  | 21-02-2025  |  632  |
+| May-23  | 30-06-2023  | 21-02-2025  |  602  |
+| June-23  | 31-07-2023  | 24-02-2025  |  574  |
+| July-23  | 31-08-2023  | 24-02-2025  |  543  |
+| Aug-23  | 30-09-2023  | 24-02-2025  |  513  |
+| Sep-23  | 31-10-2023  | 24-02-2025  |  482  |
+| Oct-23  | 30-11-2023  | 24-02-2025  |  452  |
+| Nov-23  | 31-12-2023  | 24-02-2025  |  421  |
+| Dec-23  | 31-01-2024  | 26-02-2025  |  392  |
+| Jan-24  | 29-02-2024  | 26-02-2025  |  363  |
+| Feb-24  | 31-03-2024  | 26-02-2025  |  332  |
+| Mar-24  | 30-04-2024  | 28-02-2025  |  304  |
+| April-24  | 31-05-2024  | 29-04-2025  |  333  |
+| May-24  | 30-06-2024  | 29-04-2025  |  303  |
+| June-24  | 31-07-2024  | 29-04-2025  |  272  |
+| July-24  | 31-08-2024  | 29-04-2025  |  241  |
+| Aug-24  | 30-09-2024  | 29-04-2025  |  211  |
+| Sep-24  | 31-10-2024  | 29-04-2025  |  180  |
+| Oct-24  | 30-11-2024  | 29-04-2025  |  150  |
+| Nov-24  | 31-12-2024  | 29-04-2025  |  119  |
+| Dec-24  | 31-01-2025  | 29-04-2025  |  88  |
+| Jan-25  | 28-02-2025  | 29-04-2025  |  60  |
+| Feb-25  | 31-03-2025  | 29-04-2025  |  29  |
+| April-25  | 31-05-2025  | 17-09-2025  |  109  |
+| May-25  | 30-06-2025  | 18-09-2025  |  80  |
+| June-25  | 31-07-2025  | 18-09-2025  |  49  |
+| July-25  | 31-08-2025  | 18-09-2025  |  18  |

@@ -1,0 +1,16 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **i. Non-derivative financial instruments**
+
+(iii)  Financial assets at fair value through profit or loss
+A financial asset which is not classified in any of the above categories are subsequently fair valued through profit or loss.
+(iv)  Financial liabilities
+Initial Recognition and Measurement
+All Financial Liabilities are recognized at fair value and in case of borrowings, net of directly attributable cost. Fees of recurring nature are directly recognised in the consolidated Statement of Profit and Loss as finance cost. Subsequent Measurement
+Financial liabilities are subsequently carried at amortised cost using the effective interest method, except for contingent consideration, recognised in a business combination which is subsequently measured at fair value through profit and loss. For trade and other payables maturing within one year from the balance sheet date, the carrying amounts approximate the fair value due to the short maturity of these instruments.
+Financial assets and Financial Liabilities are classified into 3 levels based on their hierarchy which are measured
+
+at fair value
+Level 1: Quoted prices (unadjusted) in active markets for identical assets or liabilities. Level 2: Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly. Level 3: Inputs for the assets or liabilities that are not based on observable market data (unobservable inputs)

@@ -1,0 +1,23 @@
+#
+
+## **3B.4 Indian Soybean Industry**
+
+Soybean is a major Kharif-season oilseed crop in India and plays a pivotal role in the country’s Agri-economy due to its dual purpose—edible oil extraction and protein-rich deoiled cake (DOC) production for animal feed. It is central to India’s broader objectives of nutritional security, import reduction in edible oils, and Agri-export growth.
+India is one of the largest oilseeds producers ranking 5th overall in the world. India contributes about 5-6 per cent of the world oilseeds production. As per the Third Advance Estimates released by the Ministry of Agriculture- production of oilseeds in the Kharif season is expected to be 42.60 Million Tonnes. <sup>2</sup> The increase in production in the current year is due to an increase in groundnut and soybean production. The more-than-expected sowing of groundnut and soybean may translate to higher overall oilseed production by the final estimate.
+##### **Area and Production**
+India is the fifth-largest producer of soybean globally, with a total cultivated area of 12.95 million hectares (Mha) <sup>2</sup> , the highest among all oilseeds in India. The crop is cultivated majorly in three states: Madhya Pradesh, Maharashtra, and Rajasthan, which collectively contribute to 91.31% of the total soybean production in the country.
+##### **Area and Production Share (2024-25)**
+|  State  |  Area Share (%)  |  Production (in Million  Tonne)  |  Production Share (%)  |
+|:---|:---|---:|:---|
+| Madhya Pradesh | 45.32  |  5.28 | 34.81  |
+| Maharashtra  | 39.15  |  7.4  | 48.77  |
+| Rajasthan  | 8.33  |  1.17 | 7.73  |
+| Karnataka  | 2.88  |  0.48 | 3.18  |
+| Gujarat  | 2.32  |  0.44 | 2.90  |
+| Telangana  | 1.19  |  0.29 | 1.91  |
+| Others  | 0.81  |  0.12 | 0.79  |
+| Total (India)  | 100%  |  15.18 | 100%  |
+Data for the year 2024-25 is of 3rd Advance Estimates, Source: DA&FW
+##### **Global Yield Comparison of Soybean**
+Soybean yields vary considerably across countries, primarily due to differences in agro-climatic conditions, farming practices, seed quality, and technological adoption. Developed economies like the United States and Brazil consistently achieve high yields owing to the widespread use of genetically modified seeds, mechanized farming, and advanced agri-inputs. In contrast, countries like India lag behind in yield due to rain-fed cultivation, low seed replacement rates, limited use of technology, and smallholder farming structures.
+India’s average yield remains significantly below the global average, posing a key challenge to enhancing domestic soybean output. Bridging this yield gap through improved seed varieties, better irrigation infrastructure, and promotion of modern agronomic practices is essential to reduce dependence on imports and improve farmer incomes.

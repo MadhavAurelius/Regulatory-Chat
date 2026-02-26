@@ -1,0 +1,11 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **3. Industry P/E Ratio:**
+|  Particulars  |  P/E Ratio  |
+|:---|---:|
+| Highest  |  35.84 |
+| Lowest  |  17.17 |
+| Average  |  26.51 |
+
+The industry high and low has been considered from the industry peer set provided later in this section.
+The industry composite has been calculated as the arithmetic average P/E Ratio of the industry peer set disclosed in this Section. For further details, see “Comparison of Accounting Ratios with Industry peers”.

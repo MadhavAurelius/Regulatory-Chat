@@ -1,0 +1,25 @@
+[ भाग  III— खण ् ‍ड  4]  भारत‍का‍राजपत ्र ‍:‍असाधा रण    3 5
+
+**Other obligations and responsibilities for stock broker.**
+18. (1) The stock broker shall be required to meet the obligations and discharge responsibilities as stated in sub-regulation (2) to (11), in the manner specified.
+**Protection of client’s funds and securities.**
+(2) A stock broker shall-
+(a) ensure that the clients’ funds are available at all times, as specified;
+(b) adhere to the allocation and segregation of collaterals at the client level and upstreaming of client funds provisions, as specified; and
+(c) segregate the money and securities deposited by a client from its own account or account of any other client and shall not use the same for itself or for any other client or for any purpose other than the purposes mentioned in rules, regulations, circulars and guidelines issued by the Board or the Central Government as the case may be or rules, regulations, bye-laws and circulars issued by a recognised stock exchange.
+**Risk management and internal control.** (3) A stock broker shall have a sound risk management system for comprehensively managing risks and shall have adequate internal procedures and controls with the aim of protecting the interests of clients, their assets and ensuring proper management of risk.
+(4) A stock broker shall also-
+(a) adhere to the audit related requirements as specified; (b) adhere to the Securities and Exchange Board of India {KYC (Know Your Client) Registration Agency} Regulations, 2011 and any circulars or guidelines issued thereunder; and
+(c) ensure the confidentiality of all the details of the client and shall not disclose such details to any person except as required under any law, rules, regulations or with the express written permission of the client.
+**Cyber security and cyber resilience.**
+(5) The stock broker shall have a robust cyber security and cyber resilience framework, as specified.
+**Grievance Redressal Mechanism.**
+(6) The stock broker shall ensure that it is continuously enrolled on SEBI Complaints Redress System (SCORES), the common Online Dispute Resolution Portal (ODR) or such other platform, as specified.
+**Code of advertisement.**
+(7) The stock broker shall adhere to the code of advertisement, as specified.
+**Outsourcing.**
+(8) The stock broker shall adhere to the guidelines on outsourcing of activities, as specified.
+**Compliance.**
+36   T H E G A ZETTE OF INDIA : EXTRAORDINARY [P ART III—S EC .4]
+
+(9) A stock broker shall abide by all the provisions of the Act, rules, regulations, notifications, circulars and guidelines issued by the Central Government or the Board as the case may be as well as the rules, regulations, bye-laws, notifications, circulars and guidelines of recognised stock exchange as may be applicable to it as a stock broker.

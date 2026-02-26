@@ -1,0 +1,36 @@
+#
+
+## **3B.4 Indian Soybean Industry**
+
+##### **Top Import Sources (FY25)**
+
+##### * **I.** *    * **Crude Soybean Oil** *
+Crude Soybean Oil is a key intermediate product in the vegetable oil value chain, extracted from soybeans through mechanical or solvent-based processes. In India, it plays a dual role—serving as a raw material for refining into edible oil and supporting industrial applications such as biodiesel and oleochemicals. The industry is closely integrated with the soybean processing sector and is a critical source of value addition for domestic soybean cultivation. With increasing demand for plant-based oils and a national push toward self-reliance in edible oils, the crude Soybean Oil segment continues to gain strategic importance in India’s agri-processing and food supply ecosystem.
+India’s trade performance in crude Soybean Oil reflects the country’s growing dependence on imports to meet its crude oil and edible oil demand. Crude Soybean Oil (HS Code: 15071000) is a major category within India’s edible oil basket, primarily imported for refining and subsequent distribution as edible-grade oil. The sharp rise in import volumes underlines both supply constraints in domestic oilseed processing and increased consumption demand.
+##### **Trade Summary Table (FY25 vs FY24)**
+|  Metric  |  FY24 (Revised Final)  |  FY25 (Final)  |  Y-o-Y Change (%)  |
+|:---|:---|:---|:---|
+| Exports (USD Million) | 0.52  | 0.62  | 17.93%  |
+| Imports (USD Million) | 3,294.05  | 4,662.24  | 41.54%  |
+**Net Trade Deficit:**  USD 4,061.84 Million in FY25 Exports remain negligible, while imports surged sharply, highlighting India’s import dependence.
+##### **Top Export Destinations (FY25)**
+|  Country  |  Export Value  (USD Mn)  |  Share (%)  |
+|:---|---:|:---|
+| Oman  |  0.34 | 54.84%  |
+| UAE  |  0.25 | 40.32%  |
+| Nepal  |  0.02 | 3.23%  |
+| Others  |  0.01 | 1.61%  |
+| Total  |  0.62 | 100%  |
+*Total export volumes remain minimal due to limited* *surplus availability and a strong domestic demand base.*
+##### **Top Import Sources (FY25)**
+|  Country  |  Import Value  (USD Mn)  |  Share (%)  |
+|:---|:---|:---|
+| Argentina  | 2,630.90  | 56.43%  |
+| Brazil  | 773.88  | 16.60%  |
+| Switzerland | 322.93  | 6.93%  |
+| Russia  | 314.15  | 6.74%  |
+| Netherland  | 263.01  | 5.64%  |
+| Others  | 357.37  | 7.66%  |
+| Total  | 4,662.24  | 100%  |
+*Argentina remains India’s dominant supplier of* *crude Soybean Oil, accounting for over half of total* *imports, followed by Brazil and Switzerland.*
+India’s rising import bill is largely due to rising international Soybean Oil prices, currency depreciation, and domestic supply shortfalls in soybean crushing. Despite the global edible oil volatility, India continues to diversify its import sources to ensure price and supply stability.

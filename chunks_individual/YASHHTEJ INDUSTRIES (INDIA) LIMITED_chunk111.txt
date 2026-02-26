@@ -1,0 +1,28 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **52. Changing regulations in India could lead to new compliance requirements that are uncertain.**
+
+#### **SECTION IV: INTRODUCTION**
+
+##### **MONITORING AGENCY**
+
+##### **REGISTRAR TO ISSUE AND SHARE TRANSFER AGENTS**
+In terms of SEBI circular no. CIR/CFD/POLICYCELL/11/2015 dated November 10, 2015, the list of the RTAs eligible to accept Applications forms at the Designated RTA Locations, including details such as address, telephone, number and e-mail address, are provided on the website of the SEBI (www.sebi.gov.in), and updated from time to time. For details of RTA, please refer [https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecog](https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=10) n i s edF pi =y es&i nt mId =1 0
+##### **COLLECTING DEPOSITORY PARTICIPANTS**
+The list of the Collecting Depository Participants (CDPs) eligible to accept Application Forms at the Designated CDP Locations, including details such as name and contact details, are provided at [https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecog](https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=19) n i s edF pi =y es&i nt mId =1 9  for NSDL CDPs and at [https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=18](https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=18) for CDSL CDPs, as updated from time to time. The list of branches of the SCSBs named by the respective SCSBs to receive deposits of the Application Forms from the Designated Intermediaries will be available on the website of the SEBI ( [www.sebi.gov.in)](http://www.sebi.gov.in/) and updated from time to time.
+##### **BROKERS TO THE ISSUE**
+All members of the recognized stock exchanges would be eligible to act as Brokers to the Issue.
+72
+##### **CREDIT RATING**
+As this is an Issue of Equity Shares, credit rating is not required.  However,  as on the date of this Prospectus, our Company has obtained the below mentioned Credit Rating with respect to its Long Team Loan Facilities.
+|  Rating Date  |  Name of Rating Agency  |  Rating  |  Instrument / Facility  |
+|:---|:---|:---|:---|
+| April 16, 2025  | Infomerics Ratings  | IVR BBB-/Stable | Long Term Bank Facilities  |
+
+##### **IPO GRADING**
+Since the Issue is being made in terms of Chapter IX of SEBI (ICDR) Regulations, there is no requirement of appointing an IPO grading agency.
+##### **DEBENTURE TRUSTEE**
+Since this is not a debenture issue, appointment of debenture trustee is not required.
+##### **MONITORING AGENCY**
+Our Company has appointed Brickwork Ratings India Private Limited as monitoring agency in accordance with Regulation 262(1) of the SEBI (ICDR) Regulations, for monitoring the utilisation of the proceeds from the Issue  *.*
+*[For details in relation to the proposed utilisation of the Net Proceeds from the Fresh Issue, kindly refer to the* *heading titled “Proposed Schedule of Implementation and Utilization of Net Proceeds” under the chapter titled* *“Objects of the Issue” on the page 93 of this Prospectus.]*

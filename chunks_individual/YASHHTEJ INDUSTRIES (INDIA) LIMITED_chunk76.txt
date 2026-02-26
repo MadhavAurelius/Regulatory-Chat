@@ -1,0 +1,20 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **36. Our business is subject to seasonality.**
+
+50
+Our success also depends on our ability to attract, hire, train and retain skilled manufacturing personnel. An inability to recruit, train and retain suitably qualified and skilled personnel could adversely impact our business, results of operations, financial condition and cash flows. As of September 30, 2025, number of permanent employees associated with our Company were 91, all of whom are skilled employees. The unskilled employees of our company are wage workers and work on a contractual basis.
+The following table sets forth the details regarding rate of attrition of our employees in the periods indicated:
+|  Particulars  |  For the period ended  September 30, 2025  |  FY 2024-2025  |  FY 2023-2024  |  FY 2022-2023  |
+|:---|:---|:---|:---|:---|
+| Attrition rate  | 18.18%  | 80%  | 120.63%  | 60%  |
+
+We cannot assure you that attrition rates for our employees will not increase. Further, we are subject to stringent labour laws, and any violation of these laws may lead regulators or other authorities to order a suspension of certain or all of our operations. We may need to increase compensation and other benefits either to attract and retain key personnel or due to increased wage demands by our employees, or an increase in minimum wages and that may adversely affect our business, results of operations, financial condition and cash flows. The following table sets forth the details regarding our employee benefits expense in the periods indicated: ₹ in Lakhs
+|  Name of the Product  |  For the period ended  September 30, 2025  |  FY 2024-2025  |  FY 2023-2024  |  FY 2022-2023  |
+|:---|:---|:---|:---|:---|
+| Employee benefit expenses  | 155.09  | 304.07  | 23.04  | 20.06  |
+| Employee benefit expenses as a % of  the revenue from operations | 0.81%  | 0.94%  | 0.39%  | 1.67%  |
+
+*[For further details, see head “Human Resource” under the Chapter titled “Our Business” on page 172 of* *this Prospectus.]*
+**38. We depend on the skills and experience of our Promoters/Directors, Key Managerial Personnel, Senior Management Personnels for our business and future growth.**
+We primarily benefit from the strategic guidance of our Promoters/Directors. If their involvement in our business reduces in the future, we may be unable to implement our plans as anticipated or maintain administrative control as we currently do, which in turn could adversely affect our business, results of operations, financial condition and prospects. As our Promoters are presently also promoters/shareholders of other businesses including “Yashhtej Agro Producers Company Limited”, any increased focus on such business may divert their attention from our business.

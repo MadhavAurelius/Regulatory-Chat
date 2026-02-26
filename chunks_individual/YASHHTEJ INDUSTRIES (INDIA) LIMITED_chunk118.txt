@@ -1,0 +1,18 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **52. Changing regulations in India could lead to new compliance requirements that are uncertain.**
+
+#### **SECTION IV: INTRODUCTION**
+
+##### **DETAILS OF MARKET MAKING ARRANGEMENT FOR THIS ISSUE**
+
+➢   *The Price quoted by the Market Maker shall be in compliance with the Market Maker spread* *requirements and other particulars as specified or as per the requirements of the SME Platform of* *BSE (“BSE SME”) and SEBI from time to time.*
+➢   *In terms of SEBI Circular No. CIR/MRD/DSA/31/2012 dated November 27, 2012 the Market* *Maker shall be exempt from providing buy quote on attaining the prescribed threshold limits* *(including the mandatory allotment of 5% of Equity Shares of the Offer). Further, the Market* *Maker can offer buy quotes only after the Market Maker complies with prescribed re-entry* *threshold limits. Only those Equity Shares which have been acquired by the Market Maker on the* *platform of the SME Exchange during market making process shall be counted towards the Market* *Maker’s threshold. The Market Maker shall be required to provide two-way quotes during the* *first three months of the market making irrespective of the level of holding.*
+➢   *The minimum depth of the quote shall be Rs. 1,00,000/-. However, the investor with holdings of* *value less than Rs. 1,00,000/- shall be allowed to offer their holding to the Market Maker in that* *scrip provided that he sells his entire holding in that scrip in one lot along with a declaration to* *that effect to the selling broker.*
+77
+
+➢   *There shall be no exemption/ threshold on downside. However, in the event the Market Maker* *exhausts its inventory through market making process, the concerned Stock Exchange may* *intimate the same to SEBI after due verification.*
+➢   *The Market Maker shall not sell lots less than the minimum contract size allowed for trading on* *the SME Platform of BSE Limited and the same may be changed by SME Platform of BSE Limited* *the from time to time.*
+➢   *Execution of the order at the quoted price and quantity must be guaranteed by the Market Maker,* *for the quotes given by them.*
+➢   *The shares of the Company will be traded in continuous trading session from the time and day the* *Company gets listed on SME Platform of BSE Limited and Market Maker will remain present as* *per the guidelines mentioned under BSE and SEBI circulars.*
+➢   *The Market Maker shall start providing quotes from the day of the listing/ the day when designated* *as the Market Maker for their respective scrip and shall be subject to the guidelines laid down for* *market making by the Stock Exchange.*

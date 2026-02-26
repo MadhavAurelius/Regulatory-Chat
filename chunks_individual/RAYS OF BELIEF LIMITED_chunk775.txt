@@ -1,0 +1,17 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Other income**
+
+Other income decreased by 22.15% in Fiscal 2025, decreasing from ₹1.49 million in Fiscal 2024 to ₹1.16 million in Fiscal 2025. This decrease was primarily attributed to the absence of certain non-recurring income streams that were present in Fiscal 2024. A major contributing factor to these decreases was the reduction in write-back of liabilities, which fell from ₹0.84 million in Fiscal 2024 to ₹0.05 million in Fiscal 2025. The Company strategically placed higher term deposits during the year, resulting in interest income rising from ₹0.18 million in Fiscal 2024 to ₹0.83 million in Fiscal 2025.
+In summary, while non-recurring gains reduced, the growth in interest income from core treasury operations partially offset the decline, ensuring that the drop in other income was moderated.
+|  S. No  |  Particulars  |  Fiscal 2025  (in ₹ million)  |  Fiscal 2024  (in ₹ million)  |  Change %  |
+|:---|:---|:---|---:|:---|
+| 1  | Interest Income on Term Deposits  | 0.83  |  0.18 | 361.11%  |
+| 2  | Interest Income on Income Tax Refund  | Nil  |  0.04 | N.A.  |
+| 3  | Profit on Sale of Assets  | Nil  |  0.02 | N.A.  |
+| 4  | Interest Income-Fair Valuation  | 0.24  |  0.13 | 84.62%  |
+| 5  | Liability no longer required written Back | 0.05  |  0.84 | (94.05)%  |
+| 6  | Miscellaneous Income  | 0.04  |  0.28 | (85.71)%  |
+|  | Total  | 1.16  |  1.49 | (22.15)%  |

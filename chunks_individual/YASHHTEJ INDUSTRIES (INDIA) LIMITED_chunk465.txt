@@ -1,0 +1,16 @@
+# Pursuant to Special Resolution passed at the Extra Ordinary General Meeting held on December 10, 2024, Equity Shares of face value of ₹100/- each of our Company were sub-divided into Equity Shares of face value of ₹10/- each.
+
+## **10. Other requirements**
+
+#### **SECTION IX: ISSUE RELATED INFORMATION**
+
+##### **PROCESS FLOW FOR APPLICATIONS IN PUBLIC ISSUE SUBMITTED BY INDIVIDUAL INVESTORS**
+
+ASBA Applicants are required to submit their Applications, either in physical or electronic mode. In case of application in physical mode, the ASBA Applicant shall submit the ASBA Application Form at the Designated Branch of the SCSB or Registered Brokers or Registered RTA's or DPs registered with SEBI. In case of application in electronic form, the ASBA Applicant shall submit the Application Form either through the internet banking facility available with the SCSB, or such other electronically enabled mechanism for applying and blocking funds in the ASBA account held with SCSB, and accordingly registering such Applications.
+Upon receipt of the Application Form, submitted whether in physical or electronic mode, the Designated Branch of the SCSB shall verify if sufficient funds equal to the Application Amount are available in the ASBA Account, as mentioned in the Application Form, prior to uploading such Applications with the Stock Exchange.
+If sufficient funds are not available in the ASBA Account, the Designated Branch of the SCSB shall reject such Applications and shall not upload such Applications with the Stock Exchange.
+If sufficient funds are available in the ASBA Account, the SCSB shall block an amount equivalent to the Application Amount mentioned in the Application Form and will enter each Application into the electronic bidding system as a separate Application and generate a TRS for each price and demand option. The TRS shall be furnished to the ASBA Applicant on request.
+The Application Amount shall remain blocked in the aforesaid ASBA Account until finalisation of the Basis of Allotment and consequent transfer of the Application Amount against the Allotted Equity Shares to the Public Issue Account, or until withdrawal/failure of the Issue or until withdrawal/rejection of the Application Form, as the case may be.
+Once the Basis of Allotment is finalized, the Registrar to the Issue shall send an appropriate request to the SCSB for unblocking the relevant ASBA Accounts and for transferring the amount allocable to the successful Applicants to the Public Issue Account. In case of withdrawal/failure of the Offer, the blocked amount shall be unblocked on receipt of such information from the Registrar to the Issue.
+##### **PROCESS FLOW FOR APPLICATIONS IN PUBLIC ISSUE SUBMITTED BY INDIVIDUAL INVESTORS**
+In addition to application to be submitted to SCSB, with whom the bank account to be blocked, is maintained, an Individual Investors would also have the option to submit application form with any of the intermediary and use his / her bank account linked UPI ID for the purpose of blocking of funds with effect from January 01, 2019.

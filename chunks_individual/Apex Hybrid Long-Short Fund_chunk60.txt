@@ -1,0 +1,18 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **RISK FACTORS ASSOCIATED WITH EXCHANGE TRADED FUNDS (ETFS):**
+
+Some of the investment strategy specific risk factors associated with ETFs are included as below but are not limited to the following:
+**-  Liquidity Risk:**  Trading in units of the ETFs on the Exchange may be halted because of market conditions
+
+ or for reasons that in view of the Exchange authorities or SEBI, trading in units of the ETFs is not advisable. In addition, trading in units is subject to trading halts caused by extraordinary market volatility and pursuant to Stock Exchange(s) and SEBI ''circuit filter'' rules as applicable from time to time. There can be no
+assurance that the requirements of the exchange/s necessary to maintain the listing of units of the ETFs will continue to be met or will remain unchanged.
+**-  Regulatory Risk:**  Any changes in trading regulations by the stock exchange (s) or SEBI may affect the
+
+ ability of Authorised Participant / Large Investor to arbitrage resulting into wider premium/ discount to NAV.
+**-  Passive Management of Investments**  : ETFs being a passive management tool does not carry risk of
+
+ active fund management. An actively managed mutual fund manager, on the other hand, can tailor portfolio holdings which are beyond the mandate of an ETFs. ETFs are passively managed and hence the risk associated with the particular ETFs corresponds closely to the risk of the underlying asset subclass the investment strategy is tracking.
+**-  Tracking Error:**  The Fund Manager may not be able to invest the entire corpus in the same proportion
+
+ as in the underlying index due to various factors such as fees, expenses of the investment strategy, corporate action, cash balance, changes in underlying index and regulatory policies which may affect the AMCs / investment strategy ability to achieve close correlation with the underlying index. Tracking error may be accounted by the various reasons which includes expenses, cash balance to meet redemptions, payout of IDCW, time to reallocate the portfolio subsequent to changes in the underlying index etc.

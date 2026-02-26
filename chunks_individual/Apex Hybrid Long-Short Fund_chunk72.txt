@@ -1,0 +1,31 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+## **1. Risk mitigation strategies for investments with each kind of originator**
+
+### **B] Non-Government Debt**
+
+Provided further that investments within such limit can be made in mortgaged backed securitised debt which are rated not below investment grade by a credit rating agency registered with the Board:
+Provided further that such limit shall not be applicable for investments in case of debt exchange traded funds or such other funds as may be specified by the Board from time to time.
+
+-  An investment strategy under SIF shall not invest more than 20% of its NAV in debt and money market
+
+ securities issued by a single issuer and rated AAA or 16% in securities rated AA or 12% in securities rated A and below. These instrument limits may be extended by up to 5% of the NAV of investment strategy with prior approval of trustees of MF and board of AMC.
+-  An investment strategy under the SIF shall not invest more than 25% of its NAV in debt and money
+
+ market securities of a particular sector.
+-  The  total  exposure  at  any  point  of  time  shall  be  the  sum  of  exposure  through instruments in both
+
+ the cash market and derivatives market.
+-  Offsetting of exposure at the portfolio level shall be allowed for:
+
+*-*   Cash and derivative positions on the same underlying security
+
+*-*   Between derivative positions on the same underlying security
+-  No Specialized Investment Fund under all its investment strategies should own more than fifteen per cent
+
+ of any company’s paid up capital carrying voting rights:
+Provided that investment in the asset management company or the trustee company of a mutual fund shall be governed by clause (a) of sub-regulation (1) of regulation 7B:
+Provided further that the limit mentioned in sub-regulation (2) above shall be inclusive of ten per cent limit for mutual fund Investment Strategys as specified under clause 2 of Seventh Schedule.
+Explanation: If a mutual fund under all its Investment Strategys owns ten per cent of any company’s paid up capital carrying voting rights, then the Specialized Investment fund under all its investment strategies shall not own more than five per cent of that company’s paid up capital carrying voting rights.
+-  A Specialized Investment Fund may invest in the units of REITs and InvITs subject to the following:
+(a)  No Specialized Investment Fund under all its investment strategies shall own more than 20 per cent of units issued by a single issuer of REIT and InvIT:

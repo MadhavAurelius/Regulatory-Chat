@@ -1,0 +1,35 @@
+#
+
+## **2. Solar electricity generation an d s u pp l y**
+
+### Quality Inspection Storage
+
+#### **SECTION VII: FINANCIAL INFORMATION**
+
+##### **.**
+
+|  GROSS CARRYING AMOUNT  |  |  |  |  |  |  |  |  |  |  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| Opening gross carrying amount | 2,319.58 | 265.39 | 487.76 | 12.89 | 10.42 | 180.72 | 5.99 | 69.94 | 6.99 | 3,359.68 |
+| Additions  | 10.64  | -  | -  | -  | 0.56  | -  | 1.72 | -  | -  | 12.92  |
+| Disposals/Adjustment  | -  | -  | -  | -  | -  | -  | -  | -  | -  | -  |
+| Closing Gross Carrying Amount | 2,330.22 | 265.39 | 487.76 | 12.89 | 10.98 | 180.72 | 7.71 | 69.94 | 6.99 | 3,372.59 |
+
+|  ACCUMULATED DEPRECIATION  |  |  |  |  |  |  |  |  |  |  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| Opening accumulated depreciation  | 140.57  | 12.61  | 37.80  | 3.25 | 8.85 | -  | 2.48 | 9.64  | 1.51 | 216.70  |
+| Depreciation charged during the year | 56.88  | 10.36  | 14.43  | 1.25 | 0.59 | -  | 0.95 | 9.41  | 0.71 | 94.59  |
+| Disposals/Adjustments  | -  | -  | -  | -  | -  | -  | -  | -  | -  | -  |
+| Closing Accumulated Depreciation  | 197.45  | 22.97  | 52.23  | 4.49 | 9.44 | -  | 3.43 | 19.06 | 2.22 | 311.30  |
+| Net Carrying Amount  | 2,132.77 | 242.42 | 435.53 | 8.39 | 1.54 | 180.72 | 4.27 | 50.89 | 4.77 | 3,061.29 |
+
+|  PARTICULARS  |  Plant &  Machinery  |  Solar  |  Building  |  Furniture &  Fixture  |  Computer and  Software  |  Land  |  Office  equipments  |  Motor Vehicle  |  Laboratory  Equipment  |  Total  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| As at March 31, 2025 | As at March 31, 2025  | As at March 31, 2025 | As at March 31, 2025 | As at March 31, 2025  | As at March 31, 2025  | As at March 31, 2025 | As at March 31, 2025  | As at March 31, 2025 | As at March 31, 2025  | As at March 31, 2025 |
+
+|  GROSS CARRYING AMOUNT  |  |  |  |  |  |  |  |  |  |  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| Opening gross carrying amount | 2,231.92 | -  | 483.76 | 11.26 | 9.51  | 180.72 | 2.94 | 16.56 | 2.95 | 2,939.63 |
+| Additions  | 87.66  | 265.39 | 4.00  | 1.63  | 0.91  | -  | 3.05 | 53.38 | 4.03 | 420.05  |
+| Disposals/Adjustment  | -  | -  | -  | -  | -  | -  | -  | -  | -  | -  |
+| Closing Gross Carrying Amount | 2,319.58 | 265.39 | 487.76 | 12.89 | 10.42 | 180.72 | 5.99 | 69.94 | 6.99 | 3,359.68 |

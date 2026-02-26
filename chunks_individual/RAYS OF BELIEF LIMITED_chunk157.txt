@@ -1,0 +1,45 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## * **71.** *    * **Our ability to raise foreign capital may be constrained by Indian law.** *
+
+#### **SUMMARY OF RESTATED STATEMENT OF CASH FLOWS**
+
+*(All amounts are in ₹ millions)*
+|  Particulars  |  As at  September 30,  2025  (Consolidated)  |  For the year  ended March  31, 2025  (Standalone)  |  For the year  ended March  31, 2024  (Standalone)  |  For the year  ended March  31, 2023  (Standalone)  |
+|:---|:---|:---|:---|:---|
+| Cash flow from operating activities  |  |  |  |  |
+| Profit/(Loss) after taxation and extraordinary item  | 19.99  | 3.48  | 1.00  | (84.56)  |
+| Non-Cash adjustment to reconcile profit / (loss) before tax  to net cash flows |  |  |  |  |
+| Depreciation  | 5.76  | 12.09  | 8.23  | 6.73  |
+| Depreciation on Right on-use Assets  | 13.49  | 9.83  | 5.85  | 5.67  |
+| Expected Credit Loss (ECL)  | 1.27  | (0.00)  | 0.35  | -  |
+| Interest Income  | (0.90)  | (0.83)  | (0.18)  | (0.27)  |
+| Interest Income-F a ir Valuation  | (0.19)  | (0.24)  | (0.13)  | (0.09)  |
+| Interest on Lease Liability  | 2.35  | 2.09  | 1.19  | 1.27  |
+| Interest Expense-Fair Valuation  | 0.14  | 0.25  | 0.13  | 0.09  |
+| Interest on Loan  | 2.91  | 3.59  | -  | -  |
+| Profit on sale of fixed assets  | -  | -  | (0.02)  | -  |
+| Operating profit / (loss) before Working Capital changes  | 44.82  | 30.26  | 16.42  | (71.16)  |
+|  |  |  |  |  |
+| Movement in wor ki ng capital  | (76.67)  | (48.11)  | 5.59  | 2.60  |
+| Increase/(Decrease) in Trade Payables  | 9.70  | 1.91  | 0.97  | (0.82)  |
+| Increase/(Decrease) in Other Finacial Liabilities  | 0.45  | 9.77  | 3.33  | 1.64  |
+| Increase/(Decreas e)  in Other current Liabilities  | (14.21)  | (5.11)  | 8.36  | (1.65)  |
+| Increase/(Decreas e)  in Provisions  | 2.04  | 2.27  | 1.41  | 1.09  |
+| Decrease/(Increase) in Trade receivables  | (38.95)  | (29.03)  | (1.67)  | 0.14  |
+| Decrease/(Increase) in Other Financial Assets  | (22.81)  | (17.51)  | (1.32)  | 3.03  |
+| Decrease/(Increase) in Other Current Assets  | (12.89)  | (10.41)  | (5.49)  | (0.83)  |
+| Cash generated  f rom operations  | (31.85)  | (17.85)  | 22.01  | (68.56)  |
+| (Tax Paid)/ Refund Received (Net) including interest  | (0.06)  | (0.26)  | (1.03)  | (0.03)  |
+| Net Cash flow from / (used in) Operating activities (A)  | (31.91)  | (18.11)  | 20.98  | (68.59)  |
+| Cash Flow from/(used in) Investing Activities  |  |  |  |  |
+| Purchase of Property, Plant and Equipment  | (8.93)  | (18.50)  | (11.49)  | (6.66)  |
+| Capital Work in Progress  | 2.73  | 0.80  | (3.40)  | (0.48)  |
+| Intangible Assets  | -  | -  | -  | -  |
+| Other Financial Assets  | 4.10  | (2.53)  | (9.85)  | 0.08  |
+| Purchase of shares in Subsidiary  | (51.59)  | -  | -  | -  |
+| Investment in bank deposits (having original maturity more  than three months) | (0.30)  | (1.00)  | (3.05)  | 21.95  |
+| Interest received  | 1.00  | 0.83  | 0.18  | 0.27  |
+| Sale of Fixed Ass ets  | -  | -  | 0.14  | -  |
+| Net Cash (used in) investing activities (B)  | (52.99)  | (20.40)  | (27.47)  | 15.16  |
+| Cash Flow from/ (used in) Financing Activities  |  |  |  |  |

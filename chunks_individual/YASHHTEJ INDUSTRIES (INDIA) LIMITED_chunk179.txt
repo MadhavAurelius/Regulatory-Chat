@@ -1,0 +1,43 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **7. Key Performance Indicators:**
+
+##### **KPI of Industry Peer for comparison**
+
+*(Rest of the page is intentionally left blank)*
+113
+
+##### **KPI of Industry Peer for comparison**
+Above figures are consolidated whenever applicable. #Key Performance Indicators (KPIs) for the industry peers have been calculated based on the Basis outlined above. *Note: Adjusted NAV per equity share is computed by considering the effect of sub-division of shares (₹10 to ₹5) retrospectively for FY 2023-24 and FY 2022-23 to ensure comparability with FY 2024-25. Rama Phosphates Limited sub-divided each equity share of face value ₹10 into 2 equity shares of ₹5 each on February 7, 2025. ## As in the unaudited financials for the period ended September 30, 2025 does not contain the schedule relating to (1) Purchase of Raw Materials and (2) Interest Cost, the details/disclosure relating to Trade Payable Days and Interest Coverage Ratio cannot be calculated for the said period. For period ended September 30, 2025 working capital cycle has been computed on the basis of Trade receivables day and Inventory days only. -With respect to Industry peers, all the financial information mentioned above is on a consolidated basis (unless otherwise available only on standalone basis) and sourced from the audited financial statements/Annual Reports of the respective companies for the year ended March 31, 2025, 2024 and 2023 available on public domain unless provided otherwise and unaudited financial statements of the respective companies for the period ended September 30, 2025 available on public domain unless provided otherwise.
+
+-  We have described and defined the KPI’s as applicable. For details in relation to the definitions kindly refer to the head “Key Performance Indicators” in the chapter titled
+
+ “Definition and Abbreviation” on page 1 of this Prospectus.
+**Key Financial Performance**
+|  Key Financial Performance  |  Unit  |  Yashhtej Industries (India) Limited  |  Yashhtej Industries (India) Limited  |  Yashhtej Industries (India) Limited  |  Yashhtej Industries (India) Limited  |  KN Agri Resources Limited #  |  KN Agri Resources Limited #  |  KN Agri Resources Limited #  |  KN Agri Resources Limited #  |  Rama Phosphates Limited #  |  Rama Phosphates Limited #  |  Rama Phosphates Limited #  |  Rama Phosphates Limited #  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| Key Financial Performance  | Unit  | September  30, 2025  | March 31,  2025  | March 31,  2024  | March 31,  2023  | September  30, 2025  | March 31,  2025  | March 31,  2024  | March 31,  2023  | September  30, 2025  | March 31,  2025  | March 31,  2024  | March 31,  2023  |
+| Revenue from Operations  | In Lakhs | 19,115.19  | 32,475.64  | 5,924.49  | 1,200.21  | 82,038.00  | 1,72,485.00  | 1,69,967.00  | 2,23,615.00  | 43,597.08  | 74,369.08  | 60,316.82  | 87,482.64  |
+| Year on year revenue growth  | In %  | NA  | 448.16  | 393.62  | -  | NA  | 1.48  | (23.99)  | -  | NA  | 23.30  | (31.05)  | -  |
+| EBITDA  | In Lakhs | 1,244.30  | 2,102.11  | 259.47  | (57.89)  | 2,369.00  | 6,059.00  | 4,814.00  | 5,163.00  | 5,354.04  | 4,342.48  | (2,043.32)  | 7,216.92  |
+| EBITDA Margin  | In %  | 6.51%  | 6.47  | 4.38  | (4.82)  | 2.89%  | 3.51  | 2.83  | 2.31  | 12.28%  | 5.84  | (3.39)  | 8.25  |
+| PAT  | In Lakhs | 724.96  | 1,156.69  | 112.89  | (57.76)  | 1,402.00  | 3,690.00  | 3,126.00  | 2,937.00  | 3,331.66  | 1,367.50  | (3,106.71)  | 4,093.44  |
+| PAT Margin  | In %  | 3.79%  | 3.56  | 1.91  | (4.81)  | 1.71%  | 2.14  | 1.84  | 1.31  | 7.64%  | 1.84  | (5.15)  | 4.68  |
+| Profit after tax growth  | In %  | NA  | 924.58  | 295.44  | -  | NA  | 18.04  | 6.44  | -  | NA  | (144.02)  | (175.89)  | -  |
+| Cash Profit after tax  | In Lakhs | 819.56  | 1,340.61  | 145.67  | (57.76)  | 1,576.00  | 4,037.00  | 3,485.00  | 3,323.00  | 3,726.75  | 2,187.73  | (2,209.87)  | 5,081.86  |
+| Operating cash flow  | In Lakhs | 740.26  | 120.76  | (637.08)  | (372.76)  | 402.00  | (265.00)  | 2153.00  | (633.00)  | 3250.3  | 3990.46  | (510.44)  | (3624.21)  |
+| Trade Receivables days  | In Days  | 1  | 1  | 1  | 9  | 17  | 17  | 24  | 11  | 28  | 33  | 42  | 18  |
+| Inventory days  | In Days  | 31  | 29  | 59  | 4  | 50  | 50  | 41  | 27  | 78  | 104  | 119  | 74  |
+| Trade Payable days  | In Days  | 7  | 6  | 14  | 24  | NA ##  | 1  | 1  | 1  | NA ##  | 72  2  | 63  | 41  |
+| Interest Coverage Ratio  | In Times | 5.64  | 5.69  | 5.42  | Nil  | NA ##  | 5.98  | 6.43  | 5.89  | NA ##  | 2.94  | (2.16)  | 9.43  |
+| Net worth  | In Lakhs | 2,686.78  | 1,961.82  | 805.13  | (47.76)  | 36,553.00  | 35,151.00  | 31,362.00  | 28,220.00  | 40,345.59  | 37,121.59  | 35,281.85  | 30,900.49  |
+| Debt  | In Lakhs | 3,747.23  | 4,384.57  | 3,390.56  | 1,661.72  | 4,795.00  | 5,099.00  | 11,021.00  | 7,931.00  | 10,053.74  | 12,239.95  | 14,341.98  | 11,085.07  |
+| Working Capital Cycle  | In Days  | 26  | 23  | 47  | (11.00)  | 67  ##  | 66  | 65  | 37  | 106  ##  | 66  | 97  | 50  |
+| Net fixed asset turnover ratio  | In Times | 6.16  | 10.74  | 3.84  | 7.01  | 30.78  | 61.65  | 55.72  | 70.81  | 2.73  | 4.58  | 5.16  | 11.98  |
+| Current Ratio  | In Times | 1.08  | 0.92  | 0.68  | 1.26  | 4.99  | 4.23  | 2.89  | 3.37  | 2.01  | 1.76  | 1.65  | 1.97  |
+| Debt-Equity Ratio  | In Times | 1.39  | 2.23  | 4.21  | Nil  | 0.13  | 0.15  | 0.35  | 0.28  | 0.25  | 0.33  | 0.41  | 0.36  |
+| Return on equity  | In %  | 31.19%  | 83.61  | 29.81  | 305.92  | 3.91%  | 11.10  | 10.49  | 10.94  | 8.60%  | 3.78  | (9.39)  | 14.15  |
+| Return on capital employed  | In %  | 17.98%  | 30.55  | 5.41  | -3.59  | 5.79%  | 15.15  | 12.02  | 13.66  | 9.94%  | 7.85  | (5.72)  | 14.99  |
+| Net Asset Value per equity share  | In Rs  | 17.91  | 26.16  | 107.35  | (477.64)  | 146.22  | 140.61  | 125.45  | 112.88  | 114.01  | 104.90  | 199.41  | 174.65  |
+| Net Asset Value per equity share- Adjusted | In Rs  | 17.91  | 13.08  | 6.50  | (0.56)  | 146.22  | 140.61  | 125.45  | 112.88  | 114.01  | 104.90 *  | 99.70 *  | 87.32 *  |
+Revenue from Operations Year on year revenue growth EBITDA EBITDA Margin PAT PAT Margin Profit after tax growth Cash Profit after tax Operating cash flow Trade Receivables days Inventory days Trade Payable days Interest Coverage Ratio Net worth Debt Working Capital Cycle Net fixed asset turnover ratio Current Ratio Debt-Equity Ratio Return on equity Return on capital employed Net Asset Value per equity share Net Asset Value per equity share- Adjusted

@@ -1,0 +1,4 @@
+## **C. Industry Peer Group P/E ratio**
+Based on the peer group information (excluding our Company), details of the highest, lowest, and industry average P/E ratio are det forth below:
+**Particulars P/E Ratio (x)** Highest 64.54 Lowest 26.02 Average 44.66
+*Notes:* *(1)*    *The highest, lowest and average Industry P/E shown above is based on the industry peer set provided in this section.* *(2)*    *The industry P / E ratio mentioned above is for the year ended March 31, 2025/December 31, 2024 (as applicable).* *(3)*    *P / E Ratio has been computed based on the closing market price of equity shares on NSE on December 31,2025 divided by* *the Diluted EPS for the year ended March 31, 2025/December 31, 2024 (as applicable).*

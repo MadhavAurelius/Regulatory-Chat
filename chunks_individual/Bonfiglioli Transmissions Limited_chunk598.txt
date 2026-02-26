@@ -1,0 +1,15 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+## **Contingent Liabilities and Commitments**
+
+The following table sets forth the principal components of our contingent liabilities as per Ind AS-37 -  Provisions, contingent liabilities, and contingent assets as at September 30, 2025 as derived from the Restated Financial Information:
+**Particulars As at September 30, 2025**
+**As at December 31, 2024**
+**As at December 31, 2023**
+**As at December 31, 2022 (₹ million)** Disputed Income-tax demands pending before various forums
+79.92 86.50 17.10 17.10
+Indirect tax matters 2.76 - - -
+*Disputed income-tax demands pending before various forums includes demand orders received under Income Tax Act,1961 with respect to* *certain disallowances of expenditure for AY 04-05 (proceedings pending before the High Court) and AY 21-22 (proceedings pending with* *CIT-Appeals) and AY 22-23 (demand order received from Assessing Officer) amounting to ₹43.38 million (December 31, 2024 - ₹32.40* *million , December 31, 2023 - ₹17.10 million, and December 31, 2022 - ₹17.10 million) and downward transfer pricing adjustments relating* *to certain corporate support charges for AY 15-16, 17-18, 18-19, 20-21 and 23-24 amounting to ₹36.54 million (December 31, 2024 - ₹54.13* *million , December 31, 2023 - Nil, December 31, 2022 - Nil). Further, the amounts disclosed in December 2024 relating to downward transfer* *pricing adjustments represents the reduction in tax and interest amounting to ₹54.13 million owing to the application filed by the Company* *under The Direct Tax Vivad se Vishwas Scheme, 2024 in respect of which, the Company has received approval from the Income Tax Authorities* *subsequently.*
+The following table sets forth the principal components of our commitments as at September 30, 2025 as derived from the Restated Financial Information:
+**Particulars As at September 30, 2025** *(₹ million)* **Commitments** Estimated amount of contracts remaining to be executed on capital account and not provided for
+213.93

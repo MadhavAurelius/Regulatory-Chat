@@ -1,0 +1,5 @@
+## * **India Wind Turbine Drives -  Threats and Challenges** *
+i.   **Policy Uncertainty & Slow Tender Execution:**  Frequent delays in SECI auctions, shifting tariff caps, slow PPA signing create uncertainty, with developers hesitating to place large turbine orders.
+ii.   **Cost Pressure on OEMs and Suppliers:**  Aggressive tariff expectations push developers to demand lower turbine prices. OEMs pass this pressure onto component suppliers, squeezing margins.
+iii.   **Import Dependence for critical Components:**  Imports for specific precision systems, bearings, and specialized gear components increase supply risk for OEMs due to currency fluctuations, etc.
+iv.   **Limited Aftermarket Capabilities in Remote Sites:**  Wind farms in remote regions often lack strong service networks and skilled technicians. Downtime remains high for complex mechanical components. This weak service ecosystem raises overall lifecycle costs.

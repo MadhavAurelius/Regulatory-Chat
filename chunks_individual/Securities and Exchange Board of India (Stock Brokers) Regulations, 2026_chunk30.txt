@@ -1,0 +1,13 @@
+(v) “specified” means as specified by the Board or a recognised stock exchange in consultation with the Board, unless otherwise stated;
+(w) “stock broker” means a person having trading rights in any recognised stock exchange and includes a trading member;
+(x) “suspicious activity” shall mean any fraudulent activity in respect of know your client requirements, order placement or trading activity;
+(y) “underwriter” means a person who engages in the business of underwriting of an issue of securities of a body corporate;
+(z) “underwriting” means an agreement to subscribe to or to procure subscription for securities which remain unsubscribed after being issued or offered for sale.
+(2) Words and expressions used and not defined in these regulations but defined in the Act, the Companies Act, 2013, the Securities Contracts (Regulation) Act, 1956, the Depositories Act, 1996 or any rules or regulations made thereunder shall have the same meanings respectively assigned to them in those Acts, rules or regulations made thereunder or any statutory modification or re-enactment thereto, as the case may be.
+**Applicability of provisions to clearing member and certain clarifications.**
+3      (1) A stock broker registered with the Board does not need a separate registration to act as a clearing member in any segment of the clearing corporation subject to the approval of such clearing corporation.
+(2) A clearing member registered with the Board does not need a separate registration to act as a stock broker in any segment of the recognised stock exchange subject to the approval of such recognised stock exchange.
+(3) Separate registration as a clearing member shall not be required for any person, who is registered with the limited purpose clearing corporation as a participant, for participating in the tri-party repo segment for undertaking proprietary trades in corporate bonds. Explanation -  For the purposes of these regulations, “participant” means any person who is an eligible entity as stipulated under the Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018.
+(4) The provisions of Chapters II, Chapter III, Chapter V, Chapter VI and Chapter VIII of these regulations other than provisions specified under regulation 13, regulation 14, regulation 15(5) and regulation 19 shall mutatis mutandis apply to a clearing member and any reference to a recognised stock exchange in that case shall be taken as reference to a clearing corporation.
+
+30   T H E G A ZETTE OF INDIA : EXTRAORDINARY [P ART III—S EC .4]

@@ -1,0 +1,32 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+**Carrying value Fair value September 30, 2025**
+**December 31, 2024**
+**December 31, 2023**
+**December 31, 2022**
+**September 30, 2025**
+**December 31, 2024**
+**December 31, 2023**
+**December 31, 2022** Investments 1.13  1.13  1.13  1.13  1.13  1.13  1.13  1.13 Loans 128.46  218.51  -  -  128.46  218.51  -  - Other Financial assets 139.39  203.43  120.18  268.01  139.39  203.43  120.18  268.01 **Total 268.98 423.07 121.31 269.14 268.98 423.07 121.31 269.14**
+
+- - - -
+
+ Short term Borrowings -  - 1,107.86  1,437.44  - - 1,107.86  1,437.44 Lease liabilities 37.94  65.57  96.66  56.65  37.94  65.57  96.66  56.65 Other financial liabilities 120.62  449.57  296.16  227.07  120.62  449.57  296.16  227.07 **Total 158.56 515.14 1,500.68 1,721.16 158.56 515.14 1,500.68 1,721.16**
+**(b) Fair Values hierarchy**
+|  |  Note  |  September 30, 2025  |  September 30, 2025  |  September 30, 2025  |  December 31, 2024  |  December 31, 2024  |  December 31, 2024  |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+|  | Note  | Level 1  | Level 2  | Level 3  | Level 1  | Level 2  | Level 3  |
+| Financial assets Investments - Equity instruments (quoted) Derivative instruments | 4 6B  | 1.13  -  | -  -  | -  -  | 1.13  -  | -  -  | -  -  |
+| Total  |  | 1.13  | -  | -  | 1.13  | -  | -  |
+| Financial liabilities  Derivative instruments  | 16B  | -  | 5.25  | -  | -  | 11.68  | -  |
+| Total  |  | -  | 5.25  | -  | -  | 11.68  | -  |
+|  |  Note  |  December 31, 2023  |  December 31, 2023  |  December 31, 2023  |  December 31, 2022  |  December 31, 2022  |  December 31, 2022  |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+|  | Note  | Level 1  | Level 2  | Level 3  | Level 1  | Level 2  | Level 3  |
+| Financial assets Investments - Equity instruments (quoted) Derivative instruments | 4 6B  | 1.13  -  | -  4.24  | -  -  | 1.13  -  | -  -  | -  -  |
+| Total  |  | 1.13  | 4.24  | -  | 1.13  | -  | -  |
+| Financial liabilities  Derivative instruments  | 16B  | -  | -  | -  | -  | 23.41  | -  |
+| Total  |  | -  | -  | -  | -  | 23.41  | -  |
+**Hierarchy:**
+**(c) Valuation process**
+**(d) Fair value of financial assets and liabilities measured at amortised cost**

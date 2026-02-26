@@ -1,0 +1,4 @@
+## **India Industrial Gear Motors Market -  Threats and Challenges**
+i.  Declining demand for worm gear technology - Technological inefficiencies are expected to result in the replacement of worm gear technology by the helical/ bevel-helical, planetary units, etc.
+ii.  Adoption of Gearless Solutions - Gearless direct drive solutions offer higher power transmission efficiency and reduce maintenance costs. This trend is likely to affect the sales of gear motors negatively. Gearless solutions are likely to be adopted for low-power applications up to 1kW.
+iii.  Import Dependence: Gear motors depend heavily on imported servo drives, control electronics, and precision gear components, as local manufacturing for these high-spec parts remain limited.

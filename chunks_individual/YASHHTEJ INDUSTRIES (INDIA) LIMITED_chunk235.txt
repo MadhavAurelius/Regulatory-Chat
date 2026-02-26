@@ -1,0 +1,16 @@
+#
+
+## **4B.2   Challenges and Risks**
+
+Despite its rapid expansion, the solar power industry in India continues to face several structural and policy-level constraints that hinder its full potential. Key among these are the sector’s dependence on imported equipment, inconsistent regulatory frameworks, and infrastructure bottlenecks. While the government's push for domestic manufacturing and grid development is under way, many challenges remain, particularly for developers and investors navigating a complex and evolving ecosystem.
+|  Market Restraint  |  Explanation  |  Impact  |
+|:---|:---|:---|
+| Dependence on imported solar  modules and cells  | High reliance on Chinese imports  creates supply chain and pricing  vulnerabilities.  | High  |
+| Policy uncertainty and frequent  regulatory changes  | Inconsistent net metering policies,  tariff revisions, and approval delays  affect investor confidence. | High  |
+| Grid integration and transmission  bottlenecks  | Limited infrastructure for evacuating  solar power, especially from remote  areas.  | High  |
+| Land acquisition and permitting  delays  | Utility-scale projects often face delays  due to land disputes and slow clearance  processes.  | Moderate  |
+| Limited awareness and adoption in  residential rooftop segment | Lack of consumer awareness, financing  issues, and high upfront costs restrict  adoption.  | Moderate  |
+| Discom financial health and payment  delays  | Poor financial performance of state  DISCOMs impacts project bankability  and payment cycles.  | High  |
+| Inadequate battery storage  ecosystem  | Storage remains expensive, limiting  round-the-clock use of solar power.  | Moderate  |
+| Domestic manufacturing challenges  | Despite PLI schemes, local  manufacturers face scale, quality, and  cost disadvantages vs imports.  | Moderate  |
+| Fluctuations in GST, import duties,  and safeguard tariffs  | Frequent changes in tax and duty  structures disrupt cost planning and  project execution.  | High  |

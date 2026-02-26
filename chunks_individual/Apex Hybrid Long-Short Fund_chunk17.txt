@@ -1,0 +1,4 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+Cash or cash equivalents with residual maturity of less than 91 days may be treated as not creating any exposure. SEBI vide letter dated November 3, 2021 has clarified that Cash Equivalent shall consist of Government Securities, T-Bills and Repo on Government Securities.
+Money Market Instruments including commercial papers, commercial bills, treasury bills, Government securities having an unexpired maturity upto one year, call or notice money, certificate of deposit, usance bill and any other like instruments as specified by the Reserve Bank of India/SEBI from time to time subject to regulatory approvals, if any.

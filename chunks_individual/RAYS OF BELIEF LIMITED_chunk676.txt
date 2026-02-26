@@ -1,0 +1,26 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Acquisition of Subsidiary and Recognition of Provisional Goodwill**
+
+Management monitors rolling forecasts of the Company’s liquidity position (maturities of borrowings) and cash and cash equivalents on the basis of expected cash flows. This is generally carried out at local level in the operating companies of the Company in accordance with practice and limits set by the Company. In addition, the Company’s liquidity management policy involves projecting cash flows in major currencies and considering the level of liquid assets necessary to meet these, monitoring balance sheet liquidity ratios against internal and external regulatory requirements and maintaining debt financing plans.
+331
+**Rays of Belief Limited (Formerly known as Rays of Belief Private Limited) CIN:U85110DL2017PLC322623 Notes to Restated financial Information for the period ended Septemeber 30, 2025** (All amounts in INR Millions, unless otherwise stated)
+**Note 32: Leases**
+The following is the movement in lease liabilities during the six months ended 30 September 2025 Rent IND AS
+|  Particulars For the six months ended  September 30, 2025 As at  31 March 2025 As at  31 March 2024 As at  31 March 2023  |
+|:---|
+| Opening balance 22.21  21.26  14.12  15.12  Additions 61.38  9.82  18.06  3.45  Finance cost accrued during the year 2.35  2.09  1.19  1.27  Lease modifications/ derecognition of lease liabilities -  (0.06)  (7.11)  -  Payment of lease liabilities with interest (12.31)  (10.90)  (5.00)  (5.72) |
+| Closing balance 73.65  22.21  21.26  14.12  |
+| Current 31.33  11.80  14.71  3.91  Non-Current 42.32  10.41  6.55  10.21  |
+**Amounts recognised in statement of profit and loss**
+|  Particulars  For the six months ended  September 30, 2025  For the year Ended  March 31, 2025  For the year Ended  March 31, 2024  For the year Ended  March 31, 2023  |
+|:---|
+| Interest on lease liabilities 2.35  2.09  1.19  1.27  Expenses relating to short-term leases 26.89  26.94  20.06  9.98  Depreciation on right-of-use assets 13.49  9.83  5.85  5.67 |
+| Total 42.73  38.86  27.10  16.92  |
+**Amounts recognised in the statement of cash flows**
+|  Particulars  For the six months ended  September 30, 2025  For the year Ended  March 31, 2025  For the year Ended  March 31, 2024  For the year Ended  March 31, 2023  |
+|:---|
+| Total cash outflow for leases (including interest) 12.31  10.90  5.00  5.72 |
+The Company applied Ind AS 116 with a date of initial application of 01 April 2022. The Company applied Ind AS 116 using the modified retrospective approach, under which the cumulative effect of initial application is recognised in retained earnings at 01 April 2022.

@@ -1,0 +1,44 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **2. FUNDING OF WORKING CAPITAL REQUIREMENTS:**
+
+##### **Justifications:**
+
+On the basis of the Company’s existing working capital requirements and the projected working capital requirements, the Board, pursuant to their resolution dated February  09, 2025, has approved the company’s projected working capital requirements for FY 2026 and 2027 and the proposed funding of such working capital requirements as stated below: (₹ in Lakhs)
+|  Sr no  |  Particulars  |  FY 2026  |  FY 2027  |
+|:---|:---|:---|:---|
+| (A)  | Current assets  |  |  |
+| (a)  | Inventory  | 4,134.95  | 5,841.70  |
+| (b)  | Receivables  | 266.16  | 798.48  |
+| (c)  | Other current assets  | 525.80  | 630.96  |
+| (d)  | Short term loans and advances | 87.12  | 261.36  |
+|  | Total Current Assets (A)  | 5,014.04  | 7,532.50  |
+
+|  (B)  |  Current liabilities  |  |  |
+|:---|:---|:---|:---|
+| (a)  | Trade Payable  | 320.00  | 224.00  |
+| (b)  | Other current liabilities  | 306.68  | 368.02  |
+| (c)  | Short term provisions  | 368.99  | 474.49  |
+|  | Total Current liabilities (B) | 995.67  | 1,066.50 |
+|  |  |  |  |
+| (C)  | Net working capital  | 4,018.36 | 6,466.00 |
+| (D)  | Sources of Finance  |  |  |
+| (a)  | IPO proceeds  | 610.57  | -  |
+| (b)  | Working capital Loans  | 2,700.51 | 2,700.51 |
+| (c)  | Balance - Internal Accruals  | 707.28  | 3,765.49 |
+
+The following table sets forth the details of the holding period (with days rounded to the nearest) considered: In Days
+|  Particulars  |  FY 2023  |  FY 2024  |  FY 2025  |  September  30, 2025  |  FY 2026  |  FY 2027  |
+|:---|---:|---:|---:|---:|---:|---:|
+| Inventory days  |  4  |  59  |  29  |  31  |  38  |  34  |
+| Debtor days  |  9  |  1  |  1  |  1  |  2  |  4  |
+| Creditor days  |  24  |  14  |  6  |  7  |  5  |  2  |
+
+##### **Justifications:**
+|  Particulars  |  Justifications  |
+|:---|:---|
+| Inventories  | During FY 2023, our Company was in the process of setting up its Crude Soybean Oil  Extraction Factory and accordingly during FY 2023 our Company undertook only  trading of Sybeans to meet its expense requirements, therefore, the inventory constituted  only soybeans. Further, our Company commenced the commercial production of  Soybean Crude Oil and the resulting by-product i.e. DOC w.e.f. December 2023 and  during period April 2023 to November 2023 the company did not undertake any revenue  generating activity. Therefore, the inventory days for FY 2023 are not comparable to the  inventory days of FY 2024.  During FY 2025, our Company undertook production of Soybean Crude Oil and the  resulting by-product i.e. DOC for one full financial year and hence, the inventory days  for FY 2024 cannot be compared to the inventory days during FY 2025.  As our Company undertook production of Soybean Crude Oil and the resulting by- product i.e. DOC for one full financial year and hence inventory days for FY 2025  represents the true picture of funds blocked in the inventory, which is approximately for  1 months of revenue from operations. The inventory days for the period as on September  30, 2025 is in the same range of 1 month. The projected inventory days for FY 2026 and  FY 2027 are approximately in the same range of around 1 month, which is in line with  the inventory days for FY 2025. |
+| Debtors  | Our Company follows the policy of the advance receipt from its Customers. Therefore,  the trade receivable days (rounded off) is 1 day for FY 2025 and FY 2024. The debtor  days for the period as on September 30, 2025 is in the same range of 1 day. Accordingly,  we anticipate that the same trend would follow during FY 2026. However, for FY 2027,  we shall also start generating revenue for sales of Solar Power to GOI. Therefore, we  |
+|  |  anticipate our trade receivable days to increase from minimum 1 to 2 days from the  previous trend to 4 days for FY 2027 averaging the delay in receipt of the funds from  sale of Solar Power.  |
+|:---|:---|
+| Creditors | The Past trend of Trade payables holding days has been in the range of 6 and 14 days  for FY 2025 and 2024 respectively. The same trend continues for the trade payable  holding days as on September 30, 2025. However, with additional inflow of Working  Capital, our Company intends to reduce Trade Payable days to 5 days during FY 2026  and further to 2 days during FY 2027 to avail cash discount as well as competitive  purchase price to increase overall profitability of our Company. By reducing the time  taken to settle our payables, we aim to negotiate more favourable terms and conditions  with our suppliers, enabling us to access competitive pricing for the raw soybeans we  procure. |

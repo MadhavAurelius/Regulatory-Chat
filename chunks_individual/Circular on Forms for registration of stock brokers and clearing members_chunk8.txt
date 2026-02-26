@@ -1,0 +1,12 @@
+## **Table 1:**
+|  Sl.  No.  |  Particulars  |  Details  |
+|---:|:---|:---|
+|  1 | Name of Member with Code  |  |
+|  2 | Trade name of Member  |  |
+|  3 | Name of the Clearing Corporation of which the  applicant is the member  |  |
+|  4 | Date of admission to Clearing Corporation  |  |
+|  5 | Address of Member  |  |
+|  6 | Phone Number(s) of office and residence and  email address  |  |
+|  7 | Form of Organization—Sole proprietorship,  partnership, limited liability partnership, body  corporate, financial institution, others (please  specify) |  |
+|  8 | Net worth along with supporting document  |  |
+|  9 | PAN of the applicant  |  |

@@ -1,0 +1,31 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Acquisition of Subsidiary and Recognition of Provisional Goodwill**
+
+326
+**Rays of Belief Limited (Formerly known as Rays of Belief Private Limited) CIN:U85110DL2017PLC322623 Notes to Restated financial Information for the period ended Septemeber 30, 2025** (All amounts in INR Millions, unless otherwise stated)
+**Note 30: Fair Value Financial instruments -  by category and fair values hierarchy**
+The carrying value and fair value of financial instruments by categories as of 30 Septmber 2025 were as follows:
+|  Particulars Level of  Amortised  FVTPL  FVTOCI  Carrying  |
+|:---|
+| Current and non-current Assets: Trade receivables 3  110.64  -  -  110.64  Cash and cash equivalents 1  42.10  -  -  42.10  Bank balances other than cash and cash equivalents 1  4.35  -  -  4.35  Other financial assets 2  54.44  -  -  54.44 |
+| Total 211.53  -  -  211.53  |
+| Liabilities: Lease liabilities 2  73.65  -  -  73.65  Trade payables 2  48.19  -  -  48.19  Other financial liabilities 3  25.92  -  -  25.92  |
+| Total 147.76  -  -  147.76  |
+The carrying value and fair value of financial instruments by categories as of 31 March 2025 were as follows:
+|  Particulars Level of  hierarchy Amortised  cost FVTPL  FVTOCI  Carrying  value  |
+|:---|
+| Current and non-current Assets: Trade receivables 3  30.79  -  -  30.79  Cash and cash equivalents 1  53.41  -  -  53.41  Bank balances other than cash and cash equivalents 1  4.05  -  -  4.05  Other financial assets 2  34.74  -  -  34.74 |
+| Total 122.99  -  -  122.99  |
+| Liabilities: Lease liabilities 2  22.21  -  -  22.21  Trade payables 2  6.58  -  -  6.58  Other financial liabilities 3  7.56  -  -  7.56  |
+| Total 36.35  -  -  36.35  |
+The carrying value and fair value of financial instruments by categories as of 31 March 2024 were as follows:
+|  Particulars Level of  hierarchy  Amortised  cost  FVTPL  FVTOCI  Carrying  value  |
+|:---|
+| Current and non-current Assets: Trade receivables 3  1.76  -  -  1.76  Cash and cash equivalents 1  42.92  -  -  42.92  Bank balances other than cash and cash equivalents 1  3.05  -  -  3.05  Other financial assets 2  14.70  -  -  14.70 |
+| Total 62.43  -  -  62.43  |
+| Liabilities: Lease liabilities 2  21.26  -  -  21.26  Trade payables 2  4.67  -  -  4.67  Other financial liabilities 3  26.71  -  -  26.71  |
+| Total 52.64  -  -  52.64  |
+The carrying value and fair value of financial instruments by categories as of 31 March 2023 were as follows:

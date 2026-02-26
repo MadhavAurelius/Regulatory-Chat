@@ -1,0 +1,39 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Acquisition of Subsidiary and Recognition of Provisional Goodwill**
+
+**x Foreign currency transactions Initial recognition** Foreign currency transactions are recorded in the reporting currency, by applying to the foreign currency amount the exchange rate between the reporting currency and the foreign currency at the date of the transaction. **Conversion** Foreign currency monetary items are reported using the closing rate. Non-monetary items which are carried in terms of historical cost denominated in a foreign currency are reported using the exchange rate at the date of the transaction; and non-monetary items which are carried at fair value or other similar valuation denominated in a foreign currency are reported using the exchange rates that existed when the values were determined. **Exchange differences** Exchange differences arising on the settlement of monetary items or on restatement of the Company's monetary items at rates different from those at which they were initially recorded during the year, or reported in previous financial statements, are recognised as income or as expenses in the year in which they arise other than of the capitalisation of exchange differences which is referred to in PPE above.
+*(This space has been left blank intentionally)*
+310
+**Rays of Belief Limited (Formerly known as Rays of Belief Private Limited) CIN:U85110DL2017PLC322623 Notes to Restated financial Information for the period ended Septemeber 30, 2025** (All amounts in INR Millions, unless otherwise stated)
+**Note 2a: Property, Plant and Equipment**
+|  Particular  Office and  equipment  Furniture and  fixtures  Computers  Temporary  Structures  Vehicle  Total  |
+|:---|
+| Cost or valuation  |
+| At April 01, 2022 2.32  1.08  5.60  8.47  1.90  19.37  |
+| Additions  0.28  0.02  0.62  5.74  -  6.66  Disposals  -  -  -  -  -  -  |
+| At March 31, 2023 2.60  1.10  6.22  14.21  1.90  26.03  |
+| Additions  4.13  1.03  0.83  5.39  -  11.38  Disposals  -  -  0.12  -  -  0.12  |
+| At March 31, 2024 6.73  2.13  6.93  19.60  1.90  37.29  |
+| Additions  5.98  1.51  1.94  9.70  -  19.13  Disposals  -  -  -  -  -  -  |
+| At March 31, 2025 12.71  3.64  8.87  29.30  1.90  56.42  |
+| Additions  1.09  10.04  10.38  2.32  -  23.83  Disposals  -  -  -  -  -  -  |
+| At September 30, 2025 13.80  13.68  19.25  31.62  1.90  80.25  |
+| Depreciation  |
+| At April 01, 2022 1.69  0.64  3.94  5.61  1.09  12.97  |
+| Charge for the year  0.32  0.12  1.05  2.72  0.26  4.47  Disposals  -  -  -  -  -  -  |
+| At March 31, 2023 2.01  0.76  4.99  8.33  1.35  17.44  |
+| Charge for the year  1.12  0.20  0.80  4.67  0.18  6.97  Disposals  -  -  0.11  -  -  0.11  |
+| At March 31, 2024 3.13  0.96  5.68  13.00  1.53  24.30  |
+| Charge for the year  2.87  0.47  1.28  6.66  0.13  11.41  Adjustment*  0.20  0.04  0.02  0.37  -  0.63  Disposals  -  -  -  -  -  - |
+| At March 31, 2025 6.20  1.47  6.98  20.03  1.66  36.34  |
+| Charge for the year  1.60  0.36  0.55  3.02  0.04  5.58  Disposals  -  -  -  -  -  -  |
+| At September 30, 2025 7.80  11.32  17.30  24.06  1.70  62.19  |
+| Net Block  |
+| At March 31, 2023 0.59  0.34  1.23  5.88  0.55  8.59  |
+| At March 31, 2024 3.60  1.17  1.25  6.60  0.37  12.99  |
+| At March 31, 2025 6.51  2.17  1.89  9.27  0.24  20.08  |
+| At September 30, 2025 6.00  2.36  1.94  7.56  0.20  18.06  |
+**Note 2b: Capital Work-in-Progress**  Capital Work in Progress

@@ -1,0 +1,35 @@
+#
+
+## **2. Solar electricity generation an d s u pp l y**
+
+### Quality Inspection Storage
+
+#### **SECTION VII: FINANCIAL INFORMATION**
+
+##### **Annexure III Restated Statement of Cash Flows**
+
+|  C) Cash Flow From Financing Activities :  |  |  |  |  |
+|:---|:---|:---|:---|:---|
+| Issue of shares  | -  | -  | -  | -  |
+| Increase/(Decrease) in share application money pending for  allotment | -  | -  | -  | 740.00  |
+| Increase/(Decrease) in long term borrowings  | (19.61)  | 47.89  | (111.40) | 646.97  |
+| Increase/(Decrease) in short term borrowings  | (617.74) | 946.12  | 1,840.24 | 700.62  |
+| Finance cost  | (212.67) | (386.45) | (41.86)  | -  |
+| Net cash flow from financing activities  | (850.02) | 607.56  | 1,686.99 | 2,087.59 |
+|  |  |  |  |  |
+| Net Increase/(Decrease) In Cash & Cash Equivalents  | (239.83) | 290.37  | (600.56) | 600.88  |
+| Cash equivalents at the beginning of the year  | 291.81  | 1.44  | 601.98  | 1.10  |
+| Cash equivalents at the end of the year  | 51.98  | 291.81  | 1.44  | 601.98  |
+
+|  Notes :-  |  Notes :-  |  Notes :-  |  Notes :-  |  Notes :-  |  Notes :-  |
+|:---|:---|:---|:---|:---|:---|
+| PARTICULARS  | PARTICULARS  | For the year ended  | For the year ended  | For the year ended  | For the year ended  |
+| PARTICULARS  | PARTICULARS  | September  30, 2025  | March  31, 2025  | March  31, 2024  | March  31, 2023  |
+| 1  | Component of Cash and Cash equivalents  |  |  |  |  |
+|  | Cash on hand  | 50.07  | 38.27  | 0.87  | 0.09  |
+|  | Balances with banks  | 1.91  | 251.25  | 0.57  | 601.89  |
+|  | Fixed deposit  |  | 2.29  |  |  |
+|  |  |  |  |  |  |
+| 2.1  | The Restated Statement of Cash Flows has been prepared under the indirect method as set out in AS 3, Statement of Cash Flows.  | The Restated Statement of Cash Flows has been prepared under the indirect method as set out in AS 3, Statement of Cash Flows.  | The Restated Statement of Cash Flows has been prepared under the indirect method as set out in AS 3, Statement of Cash Flows.  | The Restated Statement of Cash Flows has been prepared under the indirect method as set out in AS 3, Statement of Cash Flows.  | The Restated Statement of Cash Flows has been prepared under the indirect method as set out in AS 3, Statement of Cash Flows.  |
+| 2.2  | The above statement should be read with Basis of Preparation, Significant Accounting Policies appearing in Annexure IV, and  Notes to Restated Financial Information appearing in Annexure V. | The above statement should be read with Basis of Preparation, Significant Accounting Policies appearing in Annexure IV, and  Notes to Restated Financial Information appearing in Annexure V. | The above statement should be read with Basis of Preparation, Significant Accounting Policies appearing in Annexure IV, and  Notes to Restated Financial Information appearing in Annexure V. | The above statement should be read with Basis of Preparation, Significant Accounting Policies appearing in Annexure IV, and  Notes to Restated Financial Information appearing in Annexure V. | The above statement should be read with Basis of Preparation, Significant Accounting Policies appearing in Annexure IV, and  Notes to Restated Financial Information appearing in Annexure V. |
+| 2.3  | This is the Restated Statement of Cash Flows referred to in our report of even date.  | This is the Restated Statement of Cash Flows referred to in our report of even date.  | This is the Restated Statement of Cash Flows referred to in our report of even date.  | This is the Restated Statement of Cash Flows referred to in our report of even date.  | This is the Restated Statement of Cash Flows referred to in our report of even date.  |

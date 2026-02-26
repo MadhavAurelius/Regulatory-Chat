@@ -1,0 +1,13 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **C. WHAT IS THE INVESTMENT APPROACH?**
+
+|  |  between spot and futures  markets.  |  |  only  when  spreads  are  favorable.  |
+|:---|:---|:---|:---|
+| Cash  /Future  position  + call option  written | Covered call writing  Enhances  yield  in  rangebound or moderately  bullish markets  | Potential  underperformance in  strong upside markets.  Your potential profit is  limited  | Calls are written only against  existing  equity holdings to ensure full  cover.  |
+| Cash  /Future  position  +  long  put  option  | Protective put strategy  Deployed in volatile or  uncertain markets to limit  downside  | Premium cost, adverse  impact  from  time  decay  | Used selectively to hedge  downside risk  on long equity positions.  |
+| Long & Short  | Pair trade using futures  /option  Captures relative value  between two correlated  securities/Index.  | Correlation  breakdown;  asymmetric movement  between legs  | Net short exposure monitored  within  limits defined.  |
+| Long/ Short  | Index/stocks  futures/Options for  hedging or beta  adjustment  Used for short-term risk  reduction or rebalancing. | Temporary  overhedging  during market  shifts  | Futures/Option exposure is  aligned  with portfolio beta and hedging  ratios  are monitored periodically.  |
+| Long or short  | Straddle/ Strangle  Used to express a view on  market volatility with  limited or undefined  directional bias.  | Losses in flat markets  (long side); unlimited  loss potential (short  side)  | Long positions risk-capped to  premium  paid; short positions, if used,  will be  undertaken only within defined  risk  structures or with appropriate  margin  and exposure controls in place.  |
+| Long /Short  | Index/Stock  Futures/Options  Used to  express  directional bias for short  to medium term horizon.  | Rollover cost,  Loss payoff of futures  and options will be  applicable depending  on long /short positions | Long positions risk-capped to  premium paid for options and  for futures with adequate risk  structures and exposure  Short positions, if used, will be  undertaken only within defined  risk  structures  or  with  appropriate  margin  and  exposure controls in place. |
+Additional and more complex derivative strategies may be introduced, based on evolving market conditions, fund objectives, and subject to SEBI guidelines and risk controls.

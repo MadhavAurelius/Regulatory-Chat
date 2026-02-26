@@ -1,0 +1,20 @@
+#
+
+## **2. Solar electricity generation an d s u pp l y**
+
+### Quality Inspection Storage
+
+#### **SECTION VII: FINANCIAL INFORMATION**
+
+##### **ANNEXURE- IV**
+
+**14. Earning Per Share**
+a)  Basic Earning Per Share :Based on the guiding principles given in Accounting Standard 20 (AS - 20) on Earnings Per Share (EPS), Basic earnings per share is calculated by dividing the net profit or loss for the period attributable to equity shareholders by the weighted average number of equity shares outstanding during the period.
+b)  Diluted Earning Per Share: For the purpose of calculating diluted earnings per share, the net profit or loss for the period attributable to equity shareholders and the weighted average number of shares outstanding during the period are adjusted for the effects of all dilutive potential equity shares.
+c)  The number of equity shares outstanding increases as a result of bonus issue, the calculation of the the basic and the diluted earnings per share has been adjusted for all the periods presented. These changes occur after the balance sheet date but before the financial statements has been approved by the board of directors, the per share calculations for those financial statements and any prior period financial statements presented has been based on the new number of shares.
+**15. Foreign Currency**
+The functional currency of the Company is Indian rupee (Rs.). The gains or losses resulting from such transaction are included in the Statement of profit and loss if any. Foreign-currency denominated monetary assets and liabilities if any are translated at exchange rates in effect at the Balance Sheet date. The gains or losses resulting from the transactions relating to purchase of current assets like Raw Material etc. are included in the Statement of Profit and Loss. Revenue, expense and cash-flow items denominated in foreign currencies are translated using the exchange rate in effect on the date of the transaction.
+
+**16. PROVISIONS AND CONTINGENCIES**
+The Company creates a provision when there is present obligation as a result of a past event that probably requires an outflow of resources and a reliable estimate can be made of the amount of the obligation. A disclosure for a contingent liability is made when there is a possible obligation or a present obligation that may, but probably will not, require an outflow of resources. When there is a possible obligation or a present obligation in respect of which the likelihood of outflow of resources is remote, no provision or disclosure is made.
+Provisions are reviewed at each balance sheet date and adjusted to reflect the current best estimate. If it is no longer probable that the outflow of resources would be required to settle the obligation, the provision is reversed.

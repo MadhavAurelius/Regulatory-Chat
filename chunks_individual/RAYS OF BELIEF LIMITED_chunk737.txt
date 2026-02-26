@@ -1,0 +1,12 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **h. Leases**
+
+The Company follows ‘simplified approach’ for recognition of impairment loss allowance on Trade receivables. The application of simplified approach does not require the Company to track changes in credit risk. Rather, it recognises impairment loss allowance based on lifetime ECLs at each reporting date, right from its initial recognition.
+For all other financial assets, expected credit losses are measured at an amount equal to the 12-month ECL, unless there has been a significant increase in credit risk from initial recognition, in which case those financial assets are measured at lifetime ECL. The changes (incremental or reversal) in loss allowance computed using ECL model, are recognised as an impairment gain or loss in the statement of profit and loss. Loss allowances for financial assets measured at amortised cost are deducted from the gross carrying amount of the assets.
+12-month expected credit losses are the portion of expected credit losses that result from default events that are possible within 12 months after the reporting date (or a shorter period if the expected life of the instrument is less than 12 months).
+In all cases, the maximum period considered when estimating expected credit losses is the maximum contractual period over which the Company is exposed to credit risk.
+When determining whether the credit risk of a financial asset has increased significantly since initial recognition and when estimating ECLs, the Company considers reasonable and supportable information that is relevant and available without undue cost or effort. This includes both quantitative and qualitative information and analysis, based on the Company’s historical experience and informed credit assessment, that includes forward-looking information. The Company applies the simplified approach under Ind AS 109 for trade receivables, recognizing lifetime ECL from initial recognition. The provision is based on a matrix considering ageing and credit risk.
+For retail receivables, provision is made at 10% for dues up to 30 days, 40% for 31- 60 days, 50% for 61- 90 days, 75% for 91- 120 days, and 100% for balances over 120 days.

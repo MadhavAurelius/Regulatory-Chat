@@ -1,0 +1,21 @@
+## **Auditors Report**
+
+|  |
+|:---|
+| Bonfiglioli Transmissions Limited (Formerly known as Bonfiglioli Transmissions Private Limited) Annexure 1 - Restated Summary Statement of Assets And Liabilities CIN: U29309TN1998PLC040717 (All amounts in Millions of Indian Rupees, unless otherwise stated)  |
+| As at As at As at As at Note September 30, 2025 December 31, 2024 December 31, 2023 December 31, 2022  |
+| Assets Non-current assets Property, plant and equipment 3 2,358.34  2,481.46  2,396.48  1,682.34  Capital work-in-progress 3 155.28  112.21  202.57  96.39  Intangible assets 3 1.77  3.04  23.18  18.53  Intangible assets under development 3 11.73  9.46  -  -  Right-of-use asset 3 317.83  343.07  381.04  342.81  Financial assets i. Investments 4 1.13  1.13  1.13  1.13  ii. Loans 5A 92.40  92.40  -  -  iii. Other financial assets 6A 59.63  55.56  54.59  190.73  Deferred tax assets (Net) 8 256.01  161.80  175.08  142.30  Non-Current tax assets (Net) 19A 4.92  4.92  26.93  35.53  Other non-current assets 7A 88.13  74.39  71.84  70.81  |
+| Total non-current assets 3,347.17  3,339.44  3,332.84  2,580.57  |
+| Current assets Inventories 9 3,356.72  3,107.00  3,315.60  2,628.42  Financial assets i. Trade receivables 10 4,787.26  4,095.62  4,103.34  3,767.40  ii. Cash and cash equivalents 11 1,416.23  1,446.67  905.32  1,086.71  iii. Bank balances other than (ii) above 12 250.00  0.94  1,700.12  1,680.42  iv. Loans 5B 36.06  126.11  -  -  iv. Other financial assets 6B 79.76  147.87  65.59  77.28  Current tax assets (net) 19B -  82.30  92.53  70.96  Other current assets 7B 517.60  351.56  443.36  325.78  |
+| Total current assets 10,443.63  9,358.07  10,625.86  9,636.97  |
+| Total assets 13,790.80  12,697.51  13,958.70  12,217.54  |
+| Equity and liabilities Equity Equity share capital 13 1,253.31  1,253.31  1,311.23  1,311.23  Other equity 14 7,999.65  7,277.61  6,742.12  5,942.51  |
+| Total equity 9,252.96  8,530.92  8,053.35  7,253.74  |
+| Non-current liabilities Financial liabilities i. Lease liabilities 18A 5.43  28.09  60.10  19.56  ii. Other financial liabilities 16A 12.10  1.82  20.31  11.04  Provisions 17A 114.40  106.35  107.59  90.04  |
+| Total non-current liabilities 131.93  136.26  188.00  120.64  |
+| Current liabilities Contract liabilities 22 32.69  50.40  31.33  23.73  Financial liabilities i. Borrowings 15 -  -  1,107.86  1,437.44  ia. Lease liabilities 18B 32.51  37.48  36.56  37.09  ii. Trade payables 20 Total outstanding dues of micro and small enterprises 20 533.01  382.72  588.60  481.76  Total outstanding dues of creditors other than micro and small enterprises 20 3,265.68  2,710.88  3,227.00  2,335.33  iii. Other financial liabilities 16B 108.52  447.75  275.85  216.03  Current tax Liability (net) 19B 166.36  -  -  -  Other current liabilities 21 65.56  194.56  135.81  101.09  Provisions 17B 201.58  206.54  314.34  210.69  |
+| Total current liabilities 4,405.91  4,030.33  5,717.35  4,843.16  |
+| Total liabilities 4,537.84  4,166.59  5,905.35  4,963.80  |
+| Total equity and liabilities 13,790.80  12,697.51  13,958.70  12,217.54  |
+| This is the balance sheet referred to in our report of even date. for S.R. Batliboi & Associates LLP Chartered Accountants ICAI Firm Registration Number: 101049W/E300004  per Chirag Shah G A Balaji Kennady V Kaipally Sunil Kumar Partner Whole Time Director  and Chief Financial  Officer Managing Director Company Secretary Membership Number: 121648 DIN: 06630726 DIN: 08110794 M No: A58368 Place: Chennai Place: Chennai Place: Chennai Place: Chennai Date: February 05, 2026 Date: February 05, 2026 Date: February 05, 2026 Date: February 05, 2026  for and on behalf of the Board of  Bonfiglioli Transmissions Limited (Formerly Known as Bonfiglioli Transmissions Private Limited) CIN: U29309TN1998PLC040717  The above balance sheet should be read in conjunction with the accompanying Annexure V - Summary of material accounting policies and explanatory notes forming part of Restated  Summary Statement of Assets & Liabilitites, Annexure VI - Notes to Restated Summary Statements and Annexure VII - Statement of adjustments to Restated Summary Statements. |
+261 262

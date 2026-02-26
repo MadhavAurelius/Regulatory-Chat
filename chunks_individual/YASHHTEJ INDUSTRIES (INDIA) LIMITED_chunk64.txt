@@ -1,0 +1,16 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+**21. Our Company has applied for registration of certain trademarks in its name. Until such registrations are granted, our Company may not be able to prevent unauthorized use of such trademarks by third parties, which may lead to the dilution of our goodwill.**
+As of the date of this Prospectus, the Company has made application for the following trademark:
+|  S.No  |  Trademark Type  |  Class  |  Application No  |  Validity  |
+|---:|:---|---:|---:|:---|
+|  1  |  |  29  |  7042242  | Formalities  check pass |
+
+Pending the registration of these trademarks, any other vendor in the similar line of business as ours may use such trademarks and we may have no (or) lesser recourse to initiate legal proceedings to protect our intellectual property. Further, our application for the registration of trademark may be opposed by third parties, and we may have to incur significant cost in relation to these oppositions. In the event we are not able to obtain registration due to opposition by third parties or if any injunctive or other adverse order is issued against us in respect of any of our trademark for which we have applied for registration, we may not be able to use such trademark and / or avail the legal protection or prevent unauthorized use of such trademarks by third parties, which may adversely affect our goodwill and business.
+43
+
+As on the date of this Prospectus, our Company has not infringed upon any intellectual property rights of any third party, and there are no pending or ongoing litigations or any actionable claims against our Company in relation to such infringement.
+While we have not experienced any of the above risks that had an adverse impact on our business operations and financial conditions in the during the last three Financial Years and Stub period, we cannot assure you that these risks will not arise in the future.
+*[For further details on the trademarks, registered or pending registration, please refer to the head* *“Intellectual Property” under the chapters titled “Our Business” and under the head “Intellectual Property* *Related Approval” under “Government and Other Approvals” on pages 176 and 284, respectively, of this* *Prospectus.]*
+**22. Our Company has not patented its manufacturing process**  .
+As on the date of this Prospectus, our manufacturing facility is designed with process-specific automation and control mechanisms at multiple stages. The system automatically slows down when any hindrance or irregularity is detected in the manufacturing process. This built-in responsiveness helps prevent damage to the equipment, reduces waste, and minimizes downtime by allowing operators to address issues in real time. By detecting real-time conditions, the system ensures smoother operation, enhances safety, and maintains consistent product quality. This smart feature reflects our commitment to innovation, efficiency, and operational reliability.

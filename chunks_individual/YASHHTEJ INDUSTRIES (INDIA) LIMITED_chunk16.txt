@@ -1,0 +1,29 @@
+# YASHHTEJ INDUSTRIES (INDIA) LIMITED  CIN: U74999MH2018PLC310828  REGISTERED &   CORP O RA T E  O FFI[...]
+
+## **Table of Contents**
+
+#### **SECTION I: GENERAL**
+
+##### **ISSUE RELATED TERMS**
+
+|  TERM  |  DESCRIPTION  |
+|:---|:---|
+|  | yes. Recognized Intermediaries or at such other website as may be  prescribed by SEBI from time to time.  |
+| Demographic Details  | The demographic details of the Applicants such as their Address, PAN,  Occupation and Bank Account details.  |
+| Depository/Depositories  | A depository registered with SEBI under the SEBI (Depositories and  Participant) Regulations, 1996, as amended from time to time, being  NSDL and CDSL.  |
+| Depository Participant/DP  | A depository participant as defined under the Depositories Act, 1966.  |
+| Designated CDP Locations  | Such locations of the CDPs where Applicant can submit the Application  Forms to Collecting Depository Participants. The details of such  Designated CDP Locations, along with names and contact details of the  Collecting Depository Participants eligible to accept Application Forms  are available on the websites of the Stock Exchange i.e.,  www.bseindia.com  |
+| Designated Date  | The date on which the funds are transferred by the Escrow Collection  Bank from the Escrow Account(s) or the instructions are given to the  SCSBs to unblock the ASBA Accounts including the accounts linked  with UPI ID and transfer the amounts blocked by SCSBs as the case may  be, to the Public Issue Account, as appropriate in terms of the Prospectus  and the aforesaid transfer and instructions shall be issued only after  finalization of the Basis of Allotment in consultation with the Designated  Stock Exchange. |
+| Designated Intermediaries/  Collecting Agent | An SCSB with whom the bank account to be blocked, is maintained, a  syndicate member (or sub-syndicate member), a Registered Broker,  Designated CDP Locations for CDP, a registrar to an issue and share  transfer agent (RTA) (whose names is mentioned on website of the stock  exchange as eligible for this activity).  |
+| Designated RTA Locations  | Such locations of the RTAs where Applicant can submit the Application  Forms to RTAs. The details of such Designated RTA Locations, along  with names and contact details of the RTAs eligible to accept Application  Forms are available on the websites of the Stock Exchange i.e.,  www.bseindia.com  |
+| Designated Stock Exchange  | SME Platform of Bombay Stock Exchange Limited (“BSE SME”)  |
+| Draft Prospectus  | The Draft Prospectus dated September 27, 2025, issued in accordance  with Sections 23 and 26 of the Companies Act, 2013 filed with BSE SME  under SEBI (ICDR) Regulations.  |
+| DP ID  | Depository Participant’s Identity number  |
+| Eligible FPI  | FPIs from such jurisdictions outside India where it is not unlawful to  make an offer/ invitation under the Issue and in relation to whom the  Application Form and the Prospectus constitutes an invitation to  subscribe to the Equity Shares offered thereby.  |
+| Eligible NRI(s)  | NRI(s) from such jurisdiction outside India where it is not unlawful to  make an Issue or invitation under the Issue and in relation to whom this  Prospectus constitutes an invitation to subscribe for the Equity Shares  Issued herein on the basis of the terms thereof.  |
+| Eligible QFIs  | Qualified Foreign Investors from such jurisdictions outside India where  it is not unlawful to make an offer or invitation under the Issue and in  relation to whom the Prospectus constitutes an invitation to purchase the  Equity Shares Issued thereby and who have opened demat accounts with  SEBI registered qualified depositary participants.  |
+| Electronic Transfer of Funds  | Refunds through ECS, NEFT, Direct Credit or RTGS as applicable.  |
+| Equity Shares  | Equity Shares of our Company of face value  ₹ 10/- each, unless mentioned  otherwise.  |
+| Escrow Account(s)  | Account(s) opened with the Banker(s) to the Issue pursuant to Escrow  and Sponsor Bank Agreement.  |
+| Escrow Collection Bank  | Bank which is a clearing member and registered with SEBI as a banker  to an issue under the SEBI (Bankers to an Issue) Regulations, 1994, and  with whom the Escrow Account(s) will be opened, in this case being  Kotak Mahindra Bank Limited.  |
+7

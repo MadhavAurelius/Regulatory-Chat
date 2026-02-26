@@ -1,0 +1,62 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **52. Changing regulations in India could lead to new compliance requirements that are uncertain.**
+
+#### **SECTION IV: INTRODUCTION**
+
+##### **Restated Statement of Assets and Liabilities**
+
+*(2)*    *This Issue is being made through the Fixed Price method in terms of Regulation 253(3) of Chapter IX of the* *SEBI ICDR Regulations and hence, the allocation in the Net Issue to the public category shall be made as* *follows:* *a)*    *minimum fifty percent to individual investors who applies for minimum application size and* *b)*    *remaining to:*
+
+-   *individual applicants who applies for more than minimum application size and*
+
+-   *other investors including corporate bodies or institutions, irrespective of the number of specified*
+
+ *securities applied for.*
+*Provided that the unsubscribed portion in either of the categories specified in clauses (a) or (b) may be* *allocated to applicants in any other category*
+*If the category of individual investors who applies for minimum application size is entitled to more than fifty* *per cent. of the issue size on a proportionate basis, individual investors shall be allocated that higher* *percentage.*
+*(3)* *at least five per cent of the Issue Size is reserved for Market Maker.*
+*[For further details please refer to the section titled “Issue Structure” beginning on page 306 of this Prospectus.]*
+64
+##### **SUMMARY OF RESTATED FINANCIAL STATEMENTS**
+
+##### **YASHHTEJ INDUSTRIES (INDIA) LIMITED**
+
+##### **Restated Statement of Assets and Liabilities**
+
+* **(Amount in INR Lakhs, unless otherwise stated)** *
+|  Particulars  |  Particulars  |  Note  Nos.  |  As at  |  As at  |  As at  |  As at  |
+|:---|:---|:---|:---|:---|:---|:---|
+| Particulars  | Particulars  | Note  Nos.  | September  30, 2025 | March  31, 2025 | March  31, 2024 | March  31, 2023 |
+| A)  | EQUITY AND LIABILITIES  |  |  |  |  |  |
+| 1.  | Shareholders’ Funds  |  |  |  |  |  |
+| (a)  | Share capital  | 1  | 1,500.00  | 750.00  | 750.00  | 10.00  |
+| (b)  | Reserves and surplus  | 2  | 1,186.78  | 1,211.82  | 55.13  | (57.76)  |
+|  | Total (A)  |  | 2,686.78  | 1,961.82  | 805.13  | (47.76)  |
+|  |  |  |  |  |  |  |
+| 2.  | Share Application Money Pending Allotment  |  | -  | -  | -  | 740.00  |
+| 3.  | Non Current Liabilities  |  |  |  |  |  |
+| (a)  | Long-term borrowings  | 3a  | 877.99  | 897.60  | 849.70  | 961.10  |
+| (b)  | Long-term provisions  | 4  | 6.04  | 4.35  | 0.93  | 0.50  |
+| (c)  | Deferred Tax Liabilities  | 5  | 133.52  | 127.71  | 36.48  | -  |
+|  | Total (B)  |  | 1,017.54  | 1,029.66  | 887.12  | 961.60  |
+| 4.  | Current Liabilities  |  |  |  |  |  |
+| (a)  | Short Term Borrowings  | 3b  | 2,869.24  | 3,486.98  | 2,540.86  | 700.62  |
+| (b)  | Trade Payables  | 6  |  |  |  |  |
+|  | (i) total outstanding dues of micro enterprises and  small enterprises; and  |  | -  | -  | -  | -  |
+|  | (ii) total outstanding dues of creditors other than  micro enterprises and small enterprises |  | 656.78  | 657.73  | 412.87  | 140.82  |
+| (c)  | Other current liabilities  | 7  | 136.60  | 192.06  | 902.52  | 29.39  |
+| (d)  | Short term provisions  | 8  | 390.55  | 191.29  | 28.64  | 0.00  |
+|  | Total (C)  |  | 4,053.17  | 4,528.05  | 3,884.88  | 870.83  |
+|  | Total Equity and Liabilities (A+B+C )  |  | 7,757.49  | 7,519.54  | 5,577.14  | 2,524.66  |
+| B)  | ASSETS  |  |  |  |  |  |
+| 1.  | Non Current Assets  |  |  |  |  |  |
+| (a)  | Property, plant and equipment and Intangibl e assets  |  |  |  |  |  |
+|  | (i) Property, plant and equipment  | 9  | 3,061.29  | 3,142.97  | 2,906.85  | 177.91  |
+|  | (ii)Capital Work in progress  | 10  | 170.49  | 110.60  | -  | 1,124.50  |
+|  |  |  | 3,231.78  | 3,253.57  | 2,906.85  | 1,302.42  |
+| (b)  | Non-current investments  | 11  | 106.74  | 48.53  | 17.67  | 4.24  |
+| (c)  | Deferred tax asset (Net)  | 12  | -  | -  | -  | 0.13  |
+| (d)  | Long term loans and advances  | 13  | -  | -  | -  | 103.00  |
+| (e)  | Other non-current assets  | 14  | 61.65  | 55.77  | 19.49  | 19.32  |
+|  | Total (A)  |  | 3,400.17  | 3,357.88  | 2,944.01  | 1,429.11  |

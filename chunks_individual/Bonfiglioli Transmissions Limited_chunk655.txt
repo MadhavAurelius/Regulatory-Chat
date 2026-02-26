@@ -1,0 +1,7 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+## **Right of Use Assets:**
+We recognize right-of-use assets at the commencement date of the lease (i.e., the date the underlying asset is available for use). Right-of-use assets are measured at cost, less any accumulated depreciation and impairment losses, and adjusted for any remeasurement of lease liabilities. The cost of right-of-use assets includes the amount of lease liabilities recognized, initial direct costs incurred, and lease payments made at or before the commencement date less any lease incentives received. Right-of-use assets are depreciated on a straight-line basis over the lease term as follows:
+**Asset Description Useful Lives (Years)** Building 2 -  5 Leasehold land 95
+
+If ownership of the leased asset transfers to us at the end of the lease term or the cost reflects the exercise of a purchase option, depreciation is calculated using the estimated useful life of the asset.

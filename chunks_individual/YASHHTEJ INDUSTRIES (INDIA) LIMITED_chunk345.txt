@@ -1,0 +1,44 @@
+#
+
+## **2. Solar electricity generation an d s u pp l y**
+
+### Quality Inspection Storage
+
+#### **SECTION VII: FINANCIAL INFORMATION**
+
+##### **.**
+
+**March 31, 2023 Sale of Products** Sale of Finished goods 19,000.94 32,288.42 5,828.49 - Sale of Stock in trade 2.10 1.73 2.54 1,200.21 **Other Operating Revenue** Subsidy ( refer note 43) 112.16 185.50 93.46 - **Total 19,115.19 32,475.64 5,924.49 1,200.21**
+
+|  Note 21 Other income  |  Note 21 Other income  |  Note 21 Other income  |  Note 21 Other income  |  Note 21 Other income  |
+|:---|:---|:---|:---|:---|
+| Particulars  | For the year ended  | For the year ended  | For the year ended  | For the year ended  |
+| Particulars  | September  30, 2025  | March  31, 2025  | March  31, 2024  | March  31, 2023  |
+| Interest income  | 0.94  | 20.57  | 0.17  | -  |
+| Misc Income  | 6.02  | 0.02  | -  | -  |
+| Total  | 6.95  | 20.58  | 0.17  | -  |
+**.**
+
+**(Amount in INR Lakhs, except for share data unless otherwise stated)**
+|  Note 22 Cost of Material Consumed  |  Note 22 Cost of Material Consumed  |  Note 22 Cost of Material Consumed  |  Note 22 Cost of Material Consumed  |  Note 22 Cost of Material Consumed  |
+|:---|:---|:---|:---|:---|
+| Particulars  | For the year ended  | For the year ended  | For the year ended  | For the year ended  |
+| Particulars  | September  30, 2025  | March  31, 2025  | March  31, 2024  | March  31, 2023  |
+| Opening Stock of raw material  | 1,415.96  | 1,079.57  | -  | -  |
+| Add: Purchases  | 17,044.32  | 30,064.59  | 7,031.73  | -  |
+| Add: Direct Expense  | 78.09  | 153.51  | 42.79  | -  |
+| Less: Closing Stock  | 827.94  | 1,415.96  | 1,079.57  | -  |
+|  |  |  |  |  |
+| Opening Stock of consumable materi al  | 115.05  | 142.10  | -  |  |
+| Add: Purchases  | 371.90  | 600.64  | 238.72  | -  |
+| Add: Consumable Expense  |  | -  | 1.14  | -  |
+| Less: Closing Stock  | 58.86  | 115.05  | 142.10  | -  |
+|  |  |  |  | -  |
+| Total  | 18,138.53  | 30,509.40  | 6,092.70  | -  |
+
+**Note 23 Purchases of stock-in-trade**
+**Particulars**
+**For the year ended September 30, 2025**
+**March 31, 2025**
+**March 31, 2024**
+**March 31, 2023** Purchases  - - 1,173.26 Direct expense  - - 36.68 **Total - - 1,209.94**

@@ -1,0 +1,54 @@
+#
+
+## **2. Solar electricity generation an d s u pp l y**
+
+### Quality Inspection Storage
+
+#### **SECTION VII: FINANCIAL INFORMATION**
+
+##### **.**
+
+**Note 8 Short term provisions**
+**Particulars**
+* **As at** * * **September** * * **30, 2025** *
+**As at March 31, 2025**
+**As at March 31, 2024**
+**As at March 31, 2023** Provision for income tax ( Net of TDS, TCS and advance tax ) 389.18 191.14 28.63 - Provision for Gratuity 1.36 0.15 0.00 0.00 **Total 390.55 191.29 28.64 0.00**
+
+**Note 11 Non-current investments**
+**Particulars**
+* **As at** * * **September** * * **30, 2025** *
+**As at March 31, 2025**
+**As at March 31, 2024**
+**As at March 31, 2023** Investment in Gold 106.74 48.53 17.67 4.24 **Total 106.74 48.53 17.67 4.24**
+
+**Note 12 Deferred tax balances (Net)**
+**Particulars**
+* **As at** * * **September** * * **30, 2025** *
+**As at March 31, 2025**
+**As at March 31, 2024**
+**As at March 31, 2023** Opening balance 127.71 36.48 (0.13) (DTA)/DTL for the year 5.80 91.23 36.61 (0.13) **Closing Balance of Deferred Tax (Asset ) / Li abil ity (A -B) 133.52 127.71 36.48 (0.13)**
+
+**Note 13 Long term loans and advances**
+**Particulars**
+* **As at** * * **September** * * **30, 2025** *
+**As at March 31, 2025**
+**As at March 31, 2024**
+**As at March 31, 2023** Loans and Advances -To related party  **- - -**   103.00 **Total - - - 103.00**
+
+|  Note 14 Other non-current assets  |  Note 14 Other non-current assets  |  Note 14 Other non-current assets  |  Note 14 Other non-current assets  |  Note 14 Other non-current assets  |
+|:---|:---|:---|:---|:---|
+| Particulars  | As at  September  30, 2025  | As at  March  31, 2025  | As at  March  31, 2024  | As at  March  31, 2023  |
+| Fixed Deposits  | 31.53  | 25.65  | 2.17  | 2.00  |
+| Security Deposit  | 30.12  | 30.12  | 17.32  | 17.32  |
+| Total  | 61.65  | 55.77  | 19.49  | 19.32  |
+
+|  Note 15 Inventories  |  Note 15 Inventories  |  Note 15 Inventories  |  Note 15 Inventories  |  Note 15 Inventories  |
+|:---|:---|:---|:---|:---|
+| Particulars  | As at  September  30, 2025  | As at  March  31, 2025  | As at  March  31, 2024  | As at  March  31, 2023  |
+| Raw Material  | 827.94  | 1,415.96  | 1,079.57  | -  |
+| Finished Goods  | 2,446.11  | 1,709.50  | 669.11  |  |
+| Stock in Trade  | -  | -  | -  | 29.21  |
+| Consumable Store  | 58.86  | 115.05  | 142.10  | -  |
+| Total  | 3,332.92  | 3,240.52  | 1,890.78  | 29.21  |
+**.**

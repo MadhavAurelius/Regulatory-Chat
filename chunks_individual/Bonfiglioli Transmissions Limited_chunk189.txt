@@ -1,0 +1,10 @@
+## **Offer-related Expenses**
+
+*f.*    *Bidding Charges payable to members of the Syndicate (including their sub-Syndicate Members), RTAs and CDPs on the portion for* *Retail Individual Investors and Non-Institutional Investors which are procured by them and submitted to SCSB for blocking, would be* *as follows: ₹ [- ] plus applicable taxes, per valid application bid by the Syndicate (including their sub-Syndicate Members), RTAs and* *CDPs.*
+*The selling commission and bidding charges payable to Registered Brokers the RTAs and CDPs will be determined on the basis of the* *bidding terminal id as captured in the Bid book of BSE or NSE.*
+*Bidding charges payable to the Registered Brokers, RTAs/CDPs on the portion for Retail Individual Investors and Non-Institutional* *Investors which are directly procured by the Registered Broker or RTAs or CDPs and submitted to SCSB for processing, would be as* *follows:* *Portion for Retail Individual Investors*   *<sup>*</sup>*    *₹[- ] per valid application (plus applicable taxes)* *Portion for Non-Institutional Investors*   *<sup>*</sup>*    *₹[- ] per valid application (plus applicable taxes)* ***   *Based on valid Bid cum Application Forms*
+*g.*    *All such commissions and processing fees set out above shall be paid as per the timelines in terms of the Syndicate Agreement and Cash*
+
+99
+*Escrow and Sponsor Bank Agreement.*
+*h.*    *The processing fees for applications made by UPI Bidders may be released to the remitter banks (SCSBs) only after such banks provide* *a written confirmation on compliance with SEBI ICDR Master Circular.*

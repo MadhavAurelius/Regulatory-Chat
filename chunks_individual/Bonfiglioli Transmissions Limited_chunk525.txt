@@ -1,0 +1,51 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+308
+**Bonfiglioli Transmissions Limited (Formerly known as Bonfiglioli Transmissions Private Limited) Annexure VI - Notes to Restated Summary Statements CIN: U29309TN1998PLC040717** (All amounts in Millions of Indian Rupees, unless otherwise stated)
+Foreign exchange forward contracts **Total**
+Foreign exchange forward contracts **Total**
+**b) Sensitivity** The sensitivity of profit or loss to changes in the exchange rates arises mainly from foreign currency denominated financial instruments. **Impact on profit before tax**
+Sensitivity analysis is not disclosed for NZD & AUD due to negligible impact on profit.
+**(ii) Cash flow and fair value interest rate risk**
+**a) Interest rate risk expo sure** The exposure of the Company's borrowing to interest rate changes at the end of the reporting period are as follows:
+**b) Sensitivity** Profit or loss is sensitive to higher/lower interest expense from borrowings as a result of changes in interest rates.
+0.13 (0.56)
+**Derivative financial liabilities**
+|  |  September 30, 2025  |  December 31, 2024  |  December 31, 2023  |  December 31, 2022  |
+|:---|:---|:---|:---|:---|
+| Variable rate borrowings | -  | -  | 1,107.86  | 1,437.44  |
+| Total  | -  | -  | 1,107.86  | 1,437.44  |
+**Impact on profit after tax**
+**December 31, 2023 December 31, 2022**
+The Company has not taken any interest rate swaps to convert the floating rate borrowings to fixed rate loans. The Company monitors the movement in the interest rates and uses the prepayment option to repay the borrowings at the time when the interest rates are unfavourable. The assessment of viability of using the pre-payment option shall be evaluated by the finance team.
+(1.97) (3.35) 1.97 3.35
+(0.87)
+**23.41**
+**December 31, 2023 December 31, 2022**
+(0.13)
+**September 30, 2025**
+(0.84) 0.87 0.84
+- 11.68
+
+**- 11.68 -**
+4.24  - **4.24**
+**December 31, 2023 December 31, 2022 Derivative financial assets**
+The Company’s main interest rate risk arises from short term borrowings with variable rates, which expose the Company to cash flow interest rate risk.
+**December 31, 2024**
+**December 31, 2024 Derivative financial assets**
+**Derivative financial liabilities**
+**Derivative financial liabilities**
+**Derivative financial assets**
+* Holding all other variables constant.
+INR/JPY - Increase by 1% * INR/JPY - Decrease by 1% *
+**Sensitivity**
+INR/USD - Decrease by 1% * INR/EUR - Increase by 1% * INR/EUR - Decrease by 1% *
+(0.03) 0.03
+(0.23)
+1.71 (1.71)
+(0.36) 0.36
+(1.46) 1.46
+(0.55) INR/USD - Increase by 1% * 0.56
+**Derivative financial assets**
+**Derivative financial liabilities**
+8.00 11.00 -

@@ -1,0 +1,6 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+## **1. Risk mitigation strategies for investments with each kind of originator**
+
+### **C. Liquidity risk management tools and its applicability-**
+The AMC has a robust Liquidity Risk Management Framework to monitor and manage liquidity risks. Sufficient liquid assets shall be maintained to meet potential redemption obligations basis the investment strategy liability profile, i.e. investor profile. The Investment Manager shall maintain adequately liquid portfolio to cater to the liabilities and additionally use tools including but not restricted to maintaining a minimum liquid asset buffer, access to borrowing facilities, pre-arranged credit lines, and structured redemption management protocols.

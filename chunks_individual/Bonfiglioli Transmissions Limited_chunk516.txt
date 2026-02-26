@@ -1,0 +1,30 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+The Company is domiciled in India. The amount of its revenue from contract with customers broken down by location of the customers is shown in the table below.
+293
+**Bonfiglioli Transmissions Limited (Formerly known as Bonfiglioli Transmissions Private Limited) Annexure VI - Notes to Restated Summary Statements CIN: U29309TN1998PLC040717** (All amounts in Millions of Indian Rupees, unless otherwise stated) **37 Employee benefit obligations**
+|  |  Compensated absences (As per note 37.1)  |  Compensated absences (As per note 37.1)  |  Compensated absences (As per note 37.1)  |  Compensated absences (As per note 37.1)  |
+|:---|:---|:---|:---|:---|
+| Particulars | September 30,  2025  | December 31,  2024  | December 31,  2023  | December 31,  2022  |
+| Current  | 12.58  | 9.03  | 9.40  | 7.80  |
+| Non-current | 66.03  | 57.30  | 62.10  | 45.71  |
+| Total  | 78.61  | 66.33  | 71.50  | 53.51  |
+|  |  Gratuity (As per note 37.3)  |  Gratuity (As per note 37.3)  |  Gratuity (As per note 37.3)  |  Gratuity (As per note 37.3)  |
+|:---|:---|:---|:---|:---|
+| Particulars | September 30,  2025  | December 31,  2024  | December 31,  2023  | December 31,  2022  |
+| Current  | 19.66  | 24.66  | 66.73  | 21.02  |
+| Non-current | -  | -  | -  | -  |
+| Total  | 19.66  | 24.66  | 66.73  | 21.02  |
+**37.1 Compensated absences**
+|  Significant Actuarial Assumptions  |  September 30,  2025  |  December 31,  2024  |  December 31,  2023  |  December 31,  2022  |
+|:---|:---|:---|:---|:---|
+| Discount Rate  | 6.54%  | 6.96%  | 7.40%  | 7.50%  |
+| Future Salary Rate %  | 11.86%  | 11.60%  | 11.22%  | 8.42%  |
+**Post-employment obligations 37.2 Defined contribution plan - Provident fund**
+**Amount recognised in statement of profit and loss**
+**Particulars**
+**Nine Month Period ended September 30, 2025**
+**Year ended December 31, 2024**
+**Year ended December 31, 2023**
+**Year ended December 31, 2022** Provident fund 36.78  52.74  45.72  38.28 **Total 36.78 52.74 45.72 38.28**
+Compensated absences cover the Company's liability for earned leave. The Company does not have an unconditional right to defer settlement for any of these obligations. However, based on past experience, the Company does not expect all employees to avail the full amount of accrued leave or require payment for such leave within the next 12 months. Hence, amounts to the extent of 66.03  (December 31, 2024 - Rs. 57.30 , December 31,2023 - Rs. 62.10 , December 31, 2022 - Rs. 45.71 ) is presented as non-current.

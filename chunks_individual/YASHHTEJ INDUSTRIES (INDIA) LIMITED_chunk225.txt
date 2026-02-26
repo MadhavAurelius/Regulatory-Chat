@@ -1,0 +1,22 @@
+#
+
+## **3B.3 Global Solar Power Landscape**
+
+##### **d) Middle East and Africa (MEA)**
+
+Brazil, the region’s second-largest market, installed 18.9 GW in 2024, up 21% from the previous year. This growth was notable despite macroeconomic headwinds and import tariffs, indicating strong underlying demand and resilience in distributed and utility-scale segments.
+
+Other key markets included Chile (2.1 GW), Mexico (1.6 GW), and Colombia (1.6 GW). Notably, Colombia joined the gigawatt-scale club for the first time, driven by accelerated deployment of distributed PV systems and enhanced policy incentives1.
+
+##### **c) Europe**
+
+Europe added 82.1 GW of new solar capacity in 2024, representing a 15% year-on-year growth and accounting for 14% of global additions. Despite breaking new installation records, Europe fell to fourth place globally in terms of regional market share, largely due to its slower growth relative to APAC and the Americas.
+
+Germany continued to lead the continent, adding 17.4 GW in 2024 to reach a cumulative capacity of 101 GW. The market was supported by robust auction activity, a growing commercial and industrial (C&I) segment, and increased residential adoption.
+
+Türkiye emerged as a regional outlier with exponential growth. The country installed 8.5 GW of solar capacity in 2024—a 394% increase over 2023—exceeding its 2025 national target of 18 GW one year ahead of schedule. This was driven by strong domestic manufacturing, regulatory support through the YEKDEM scheme, and rising rooftop adoption.
+The EU-27 bloc contributed 65.3 GW, representing 80% of Europe’s total additions. However, growth momentum in many member states slowed due to subsidy cuts, permitting delays, and grid bottlenecks. Nonetheless, 16 EU countries installed over 1 GW of capacity, indicating a more diversified market base compared to previous years1.
+##### **d) Middle East and Africa (MEA)**
+The Middle East and Africa (MEA) region was the only major geography to experience a decline in annual solar installations, with 14.5 GW added in 2024, down 2% from the previous year. The slowdown was primarily attributed to regulatory delays, infrastructure limitations, and dependence on large-scale projects concentrated in a few countries.
+Saudi Arabia emerged as the regional leader, installing 1.4 GW of solar capacity. However, this represented a 28% decline from 2023, when the massive 1.5 GW Sudair project had inflated the year’s total. The 2024 capacity additions were mainly from two utility-scale plants—Al Rass 1 and Al Shuaibah PV 1.
+South Africa, previously a strong performer, saw a steep 66% YoY decline, adding only 1.1 GW in 2024. The contraction followed a surge in 2023, which was spurred by regulatory reforms and widespread load-shedding that drove rooftop installations. In 2024, policy inertia and limited grid connectivity capacity constrained further growth.

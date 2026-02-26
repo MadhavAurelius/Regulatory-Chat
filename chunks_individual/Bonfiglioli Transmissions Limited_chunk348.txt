@@ -1,0 +1,18 @@
+## * **Established parentage and trusted brand backed by global and local R&D capabilities** *
+
+As a result of various productivity initiatives that have been implemented in the last few years, including cycle- time reduction and automation of functions, our aggregate capacity utilization rate has improved from 63.67% in Fiscal 2022 to 70.67% in Fiscal 2024 and was 74.74% in the nine months period ended September 30, 2025. Set forth below are charts reflecting improvement in our operational efficiency:
+
+**Particulars Unit Nine months period ended September 30, 2025**
+**Year ended December 31, 2024**
+**Year ended December 31, 2023**
+**Year ended December 31, 2022**
+Off-Highway Mobility Industry and Wind Industry OEE
+(1)
+% 75.40%  73.42%  71.07%  73.18%
+Industry & Automation OLE <sup>(2)</sup>
+% 78.26% 70.60% 66.55% 64.74%
+Industry & Automation Customer OTD <sup>(3)</sup>
+% 90.46%  90.18%  79.27%  74.21%
+*Notes:*
+*(1)*    *OEE (Overall Equipment Effectiveness) is calculated as Machine hours used for production / Machine hours available for production.* *It measures the actual utilization of available manufacturing capacity and highlights equipment losses due to breakdowns, idle time,* *and under-utilization; enables focused improvement actions on equipment reliability, preventive maintenance, and line balancing.* *Higher OEE leads to better asset productivity, reduced unit manufacturing cost, and improved throughput without additional capital* *investment.* *(2)*    *OLE (Overall Labor Effectiveness) is calculated as Standard man hours worked / Actual Man hours available. It assesses workforce* *productivity and deployment efficiency, and identifies gaps caused by skill mismatches, excess manpower, rework, or waiting losses. It* *also drives initiatives such as standard work, skill up-gradation, workload leveling, and kaizen improvements. Improved OLE ensures* *optimal labour utilization, controlled conversion cost, and stable production output* *(3)*    *OTD (On-Time Delivery) is calculated as number of gearboxes & gearmotors delivered / number of gearboxes planned to be delivered.* *It reflects the effectiveness of end-to-end planning and execution, including procurement, production, and logistics and ensures* *adherence to customer commitments, directly impacting customer satisfaction and trust. It drives disciplined production scheduling,* *material availability, and bottleneck management. High OTD indicates a stable, predictable, and well-coordinated operation with* *minimal expediting and firefighting.*
+Over the years, we have adopted a phased strategy to gradually increase the share of locally sourced material in our overall procurement. This helps streamline our cost structures, including reducing our exposure to exchange rate fluctuations and reducing transportation and inventory costs, import duties, lead times and inventory levels, which in turn enables us to offer Indian consumers more competitively priced products. Our manufacturing operations are also supported by an extensive supplier network comprising 255 suppliers that have a relationship with us for an average of approximately 12 years as of September 30, 2025. We intend to increase the proportion of materials sourced from domestic suppliers, which has increased from 67.04% in Fiscal 2022 to 70.70% in the nine months period ended September 30, 2025.

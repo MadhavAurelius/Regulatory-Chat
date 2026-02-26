@@ -1,0 +1,21 @@
+## * **Key Player’s offerings:** *
+-  SEW-EURODRIVE -  Their MOVI-C platform integrates electric motors, MOVIGEAR® mechatronic
+
+ drives, and MOVIDRIVE® inverters with DriveRadar® predictive analytics.
+-  Nord Drivesystems -  Offers IE5+ DuoDrive (gearbox + motor + inverter in one housing) and NORDAC
+
+ ON/Link decentralized drives with Ethernet connectivity and cloud diagnostics.
+-  Bonfiglioli -  Combines its EVOX gearmotors with wide range of frequency inverters and servo motors/
+
+ drives, catering to robotics, conveyors, and packaging automation.
+-  ABB, Siemens, WEG, and Nidec -  Provide complete “motor + gearbox + VFD” packages under smart
+
+ drive ecosystems, with embedded condition monitoring and energy management.
+
+-  Sumitomo and Rossi -  Focus on high-torque gear motors with integrated drive compatibility for heavy
+
+ industries, offering digital monitoring add-ons.
+-  Flender -  Specialises in large, high-torque industrial gearboxes for wind, mining, cement, and power
+
+ sectors, increasingly complemented by condition monitoring and digital service solutions.
+These manufacturers increasingly position their offerings not as discrete components but as modular automation building blocks, easily networked within Industry 4.0 architectures. Companies like SEW-EURODRIVE, Nord, and Bonfiglioli are leading this transition. By 2030, nearly two-thirds of all new gear motors sold are expected to come with integrated automation electronics.

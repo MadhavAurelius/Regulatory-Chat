@@ -1,0 +1,15 @@
+## **INTERNAL RISKS**
+
+51
+premature termination of existing lease agreements that led to any adverse effect on our business or operations in the nine months period ended September 30, 2025 and in Fiscals 2024, 2023 and 2022, we cannot assure you that such instances will not occur in the future.
+* **30.** *    * **We have certain contingent liabilities as per Ind AS-37 “Provisions, Contingent Liabilities and** * * **Contingent Assets”, and our business, financial condition, results of operations, and cash flows could** * * **be adversely affected if any of these contingent liabilities materialise.** *
+We have disclosed certain contingent liabilities as per Ind AS-37 “  *Provisions, Contingent Liabilities and* *Contingent Assets*  ”, derived from our Restated Financial Statements. The following table sets forth details of our contingent liabilities as per Ind AS-37 “Provisions, Contingent Liabilities and Contingent Assets” as at the dates indicated:
+**Particulars As at September 30, 2025**
+**As at December 31, 2024**
+**As at December 31, 2023**
+**As at December 31, 2022 (**   * **₹ million** *   **)** Disputed Income-tax demands pending before various forums
+79.92 86.50 17.10 17.10
+Indirect tax matters 2.76 - - -
+*Disputed income-tax demands pending before various forums includes demand orders received under Income Tax Act,1961 with respect to* *certain disallowances of expenditure for AY 04-05 (proceedings pending before the High Court), AY 21-22 (proceedings pending with CIT-* *Appeals) and AY 22-23 (demand order received from Assessing Officer) amounting to ₹43.38 million (December 31, 2024 - ₹32.40 million,* *December 31, 2023 - ₹17.10 million, and December 31, 2022 - ₹17.10 million) and downward transfer pricing adjustments relating to certain* *corporate support charges for AY 15-16, 17-18, 18-19, 20-21 and 23-24 amounting to ₹36.54 million (December 31, 2024 - ₹54.13 million,* *December 31, 2023 - Nil, December 31, 2022 - Nil).*
+Our contingent liabilities are related to disputed income tax demands. If we are not successful in defending against the levy of such taxes, we have to pay the outstanding dues to the governmental authorities, which could impact our business, financial condition, results of operations, and cash flows. There can be no assurance that we will not have similar or increased levels of contingent liabilities in the current Fiscal.
+Our future contingent liabilities may crystallize and become actual liabilities. If any of our future contingent liabilities become actual liabilities, our business, financial condition, results of operations, and cash flows may be adversely affected. For further information on our contingent liabilities as per Ind AS-37, see “  * **Management’s** * * **Discussion and Analysis of Financial Condition and Results of Operations -  Contingent Liabilities** *  ” on page 355.

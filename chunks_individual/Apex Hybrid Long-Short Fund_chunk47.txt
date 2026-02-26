@@ -1,0 +1,30 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **RISKS FACTORS ASSOCIATED WITH INVESTMENTS IN SECURITISED DEBT:**
+
+**Risks associated with Asset Backed Securities (ABS)-Auto Loans.**
+
+-   **Prepayment Risk:**  The fund may receive payment of monthly payouts earlier than scheduled.
+
+ Prepayments shorten the life of the instrument to an extent that cannot be fully predicted. The rate of prepayments may be influenced by a variety of economic, social and other factors. Prepayments in auto loans is lower than housing loans as the shorter tenor of auto loans makes it economically unattractive to prepay after considering the prepayment charges.
+
+-   **Credit Risk:**  Delinquencies may happen which would reduce the principal amount. Typically, ABS
+
+ structures come with credit enhancement in variety of forms. If delinquencies are higher than the amount available in the credit enhancement facility than the monthly payouts to the fund would reduce. Typically, auto loans carry higher risk than MBS as the value retention of the underlying asset is higher in MBS as compared to the underlying asset of ABS.
+
+-   **Liquidity Risk:**  Historically the secondary market volume of securitised papers has been limited.
+
+ This could limit the ability of the fund to resell them. Secondary market trades could be at a discount or premium depending upon the prevailing interest rates.
+
+-   **Conversion risk:**  Conversion of loans from fixed rate to floating rate loans and vice versa could lead
+
+ to a change in the expected cash flows from the loans.
+**Risks associated with Asset Backed Securities (ABS) - Corporate Loans**
+
+-   **Credit Risk:**  The fund has an exposure to the Borrower/Borrowers and servicing of the instrument
+
+ depends on the credit risk of the Borrower. The value of the instrument would fluctuate depending upon the changes in the perceived level of credit risk as well as any actual default.
+
+-   **Prepayment Risk:**  The Borrower may prepay the receivables prior to their respective due dates. This
+
+ may result in a change in the yield and tenor for the fund.

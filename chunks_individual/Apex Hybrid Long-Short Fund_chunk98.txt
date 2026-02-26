@@ -1,0 +1,23 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+## **1. Risk mitigation strategies for investments with each kind of originator**
+
+### **E. Transaction charges and stamp duty-**
+
+No transaction charge shall be deducted from the subscription amount for transactions /applications received through the distributors.
+Pursuant to Notification No. S.O. 1226(E) and G.S.R. 226(E) dated March 30, 2020 issued by the Department of Revenue, Ministry of Finance, Government of India, read with Part I of Chapter IV of Notification dated February 21, 2019 issued by Legislative Department, Ministry of Law and Justice,  Government of India on the Finance Act, 2019, a stamp duty @ 0.005% of the transaction value would be levied on allotment of Mutual Fund units including units allotted in demat mode.
+Std Obs 12
+Std Obs 40 and 41
+Accordingly, pursuant to levy of stamp duty, the number of units allotted on subscriptions (including reinvestment of IDCW) to the unitholders would be reduced to that extent.
+For details, please refer SAI.
+**F. Associate Transactions**  - Please refer to Apex SIF SAI.
+**G. Taxation**  - For details on taxation please refer to the clause on Taxation in the Apex SIF SAI apart from the following:
+|  Tax  |  Resident Investors (Individual/  HUF/Domestic Company) and  Non-resident Investors (Non- corporates and foreign  companies)  |  Mutual  Fund  |
+|:---|:---|:---|
+| Tax on IDCW  | 10%  (resident) @ /20%  (Non- resident)  (Note 1)  | Nil (Note 1)  |
+| Capital Gains (Refer Note 3):  Long Term- | 12.5% (without indexation) +  applicable Surcharge ^  + 4% Cess  | Nil  |
+| Short Term-  | Taxable at normal rates of tax  applicable to the assessee  | Nil  |
+
+**Note:** 1.  IDCW distribution tax is abolished w.e.f. 1 <sup>st</sup> April 2020. Accordingly, IDCW will be taxed in the hands of investors. Section 194K is introduced to deduct tax on IDCW.
+@
+Tax is not deductible if cumulative IDCW income in respect of units of a mutual fund is below Rs. 10,000/- in a financial year. 2.  The Finance Act, 2020 has capped maximum surcharge at 15% w.r.t. WHT on IDCW paid to non- resident non-corporate investors (namely individual, HUF, AOP, BOI, artificial judicial person etc.) 3.  Withholding taxes under section 195 is applicable on capital gains arising to non-residents. 4.  For qualifying as a long-term capital asset the holding period of units should be more than 12 months as the units are listed on stock exchange. 5.

@@ -1,0 +1,11 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+## **Revenue from contract with customer**
+
+Revenue from contracts with customers is recognized when control of the goods or services is transferred to the customer at an amount that reflects the consideration to which we expect to be entitled in exchange for those goods or services. We have generally concluded that we are the principal in our revenue arrangements because we typically control the goods or services before transferring them to the customer.
+Sale of goods
+Revenue from sale of goods is recognized at the point in time when control of the asset is transferred to the customer, generally on delivery of the goods or ex-works depending on the contractual terms.
+Volume rebates
+We provide retrospective volume rebates to certain customers once the quantity of products purchased during the period exceeds a threshold specified in the contract. Rebates are offset against amounts payable by the customer. To estimate the variable consideration for the expected future rebates, we apply the most likely amount method for contracts with a single-volume threshold and the expected value method for contracts with more than one volume threshold. The selected method that best predicts the amount of variable consideration is primarily driven by the number of volume thresholds contained in the contract. We then apply the requirements on constraining estimates of variable consideration and recognize a refund liability for the expected future rebates.
+Sales of Services
+Revenue from services is recognised as and when the services are rendered in accordance with the specific terms of contract with the customer. When the consideration is received, before we render service to the customer, we shall present the consideration as a contract liability, which is then recognised as revenue once the services are rendered.

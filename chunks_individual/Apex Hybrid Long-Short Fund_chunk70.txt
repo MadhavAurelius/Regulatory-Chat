@@ -1,0 +1,36 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+## **1. Risk mitigation strategies for investments with each kind of originator**
+
+### **B] Non-Government Debt**
+
+Activity in the Primary and Secondary Market is dominated by Central Government Securities including Treasury Bills. These instruments comprise close to 50% of all outstanding debt and close to 75% of the daily trading volume on the Wholesale Debt Market Segment of the National Stock Exchange of India Limited. In the money market, activity levels of the Government and Non-Government Debt vary from time to time. Instruments that comprise a major portion of money market activity include but are not limited to,
+
+- Tri-party Repo on Government securities or treasury bills.
+
+- Treasury Bills
+
+- Government Securities with a residual maturity of < 1 year
+
+- Commercial Paper
+
+- Certificates of Deposit
+
+- Banks Rediscounting Scheme (BRDS)
+Apart from these, there are some other options available for short tenure investments that include MIBOR linked debentures with periodic exit options and other such instruments. PSU / DFI / Corporate paper with a residual maturity of < 1 year, are actively traded and offer a viable investment option.
+The following table gives approximate yields prevailing on September 15, 2025 on some instruments. These yields are indicative and do not indicate yields that may be obtained in future as interest rates keep changing consequent to changes in the macro economic conditions and RBI Policies.
+|  Instrument  |  Yield Range (% per annum)  |
+|:---|:---|
+| Interbank Call Money  | 5.43-5.45  |
+| 91 Day Treasury Bill  | 5.50-5.52  |
+| 182 Day Treasury Bill  | 5.60-5.63  |
+| A1+ Commercial Paper 90 Days  | 5.89-5.92  |
+| 5 Year Government of India Security  | 6.35-6.37  |
+| 10 Year Government of India Security | 6.47-6.51  |
+| 1 Year Corporate AAA  | 6.93-6.96  |
+| 3 Year Corporate AAA  | 6.80-6.83  |
+
+*Source: Refinitiv, CCIL,RBI, STCI PD*
+Generally, for instruments issued by a non-Government entity (corporate/PSU bonds), the yield is higher than the yield on a Government Security with corresponding maturity. The difference, known as credit spread, depends on various factors including the credit rating of the entity.
+
+The securities mentioned above could be listed or to be listed, secured or unsecured, and of varying maturity, as enabled under SEBI (MF) Regulations/circulars/ RBI. The securities may be acquired through Initial Public Offerings (IPOs), secondary market operations, private placement, rights offers or negotiated deals. **B. What are the investment restrictions?**

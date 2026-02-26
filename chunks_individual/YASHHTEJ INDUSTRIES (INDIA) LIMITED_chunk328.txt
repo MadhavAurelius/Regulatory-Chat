@@ -1,0 +1,54 @@
+#
+
+## **2. Solar electricity generation an d s u pp l y**
+
+### Quality Inspection Storage
+
+#### **SECTION VII: FINANCIAL INFORMATION**
+
+##### **Annexure II Restated Statement of Profit and Loss**
+
+**Sd/- Neha Nuwal Partner M. No.: 157137**
+**Place: Mumbai Date: December 26, 2025 UDIN: 25157137TKEBLP9461**
+
+**Sd/- Suraj Shivraj Barge Managing Director (DIN: 03161804)**
+**Sd/- Baswaraj Madhavrao Barge Director (DIN: 08159163)**
+
+**Sd/- Reshma Samir Pange Company Secretary**
+**Sd/- Rahul Rameshrao Joshi CFO**
+.
+
+##### **Annexure II Restated Statement of Profit and Loss**
+
+* **(Amount in INR Lakhs, unless otherwise stated)** *
+|  Particulars  |  Particulars  |  Note  Nos.  |  For the year ended  |  For the year ended  |  For the year ended  |  For the year ended  |
+|:---|:---|:---|:---|:---|:---|:---|
+| Particulars  | Particulars  | Note  Nos.  | September  30, 2025  | March  31, 2025  | March  31, 2024  | March  31, 2023  |
+| 1.  | Income  |  |  |  |  |  |
+| (a)  | Revenue from operations | 20  | 19,115.19  | 32,475.64  | 5,924.49  | 1,200.21  |
+| (b)  | Other income  | 21  | 6.95  | 20.58  | 0.17  | -  |
+|  | Total income  |  | 19,122.14  | 32,496.23  | 5,924.66  | 1,200.21  |
+
+|  2.  |  Expenditure  |  |  |  |  |  |
+|:---|:---|:---|:---|:---|:---|:---|
+| (a)  | Cost of Materials Consumed  | 22  | 18,138.53 | 30,509.40  | 6,092.70 | -  |
+| (b)  | Purchases of stock-in-trade  | 23  | -  | -  | -  | 1,209.94 |
+| (c)  | Changes in inventories of finished goods,  work-in-progress and stock-in-trade | 24  | (736.61)  | (1,040.39) | (639.90) | (29.21)  |
+| (d)  | Employee benefit expenses  | 25  | 155.09  | 304.07  | 23.04  | 20.06  |
+| (e)  | Finance cost  | 26  | 212.67  | 386.45  | 41.86  | -  |
+| (f)  | Depreciation & amortisation expense  | 27  | 94.59  | 183.92  | 32.78  | -  |
+| (g)  | Other expenses  | 26  | 313.88  | 600.46  | 189.17  | 57.32  |
+|  | Total Expenses  |  | 18,178.15 | 30,943.91  | 5,739.66 | 1,258.11 |
+|  |  |  |  |  |  |  |
+| 3.  | Profit/(Loss) before exceptional and  extra ordinary item (1-2)  |  | 943.99  | 1,552.32  | 185.00  | (57.89)  |
+
+|  |  Exceptional items  |  |  -  |  -  |  -  |  -  |
+|:---|:---|:---|:---|:---|:---|:---|
+|  |  |  |  |  |  |  |
+| 4.  | Profit/(Loss) before tax (2-3)  |  | 943.99 | 1,552.32 | 185.00 | (57.89) |
+|  |  |  |  |  |  |  |
+| 5.  | Tax expense:  |  |  |  |  |  |
+| (a)  | Tax expense for current year  | 29  | 213.23 | 304.40  | 35.49  | -  |
+| (b)  | Deferred tax  | 29  | 5.80  | 91.23  | 36.61  | (0.13)  |
+|  | Net current tax expenses  |  | 219.03 | 395.63  | 72.11  | (0.13)  |
+| 6.  | Profit/(Loss) for the period from  continuing operations (5-4) |  | 724.96 | 1,156.69 | 112.89 | (57.76) |

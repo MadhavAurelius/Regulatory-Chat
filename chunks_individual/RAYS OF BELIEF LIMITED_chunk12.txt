@@ -1,0 +1,25 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **RAYS OF BELIEF LIMITED**
+
+#### **Issue related ter m s**
+
+|  Term  |  Description  |
+|:---|:---|
+| “Abridged Prospectus”  | Abridged prospectus means a memorandum containing such salient features of a prospectus as may  be specified by the SEBI in this behalf  |
+| “Acknowledgement Slip”  | The slip or document issued by the relevant Designated Intermediary to a Bidder as proof of  registration of the Bid cum Application Form  |
+| “Allot”  or  “Allotment”  or  “Allotted”  | Allotment of the Equity Shares pursuant to the Issue to the successful Bidders  |
+| “Allotment Advice”  | The note or advice or intimation of Allotment, sent to each successful Bidder who has been or is to  be Allotted the Equity Shares after the Basis of Allotment has been approved by the Designated Stock  Exchange  |
+| “Allottee”  | A successful Bidder to whom Equity Shares are Allotted  |
+| “Anchor Investor”  | A Qualified Institutional Buyer, who applies under the Anchor Investor Portion in accordance with  the SEBI ICDR Regulations and the Red Herring Prospectus who has Bid for an amount of at least  ₹100 million  |
+| “Anchor Investor Allocation  Price”  | The price at which allocation will be done to the Anchor Investors in terms of the Red Herring  Prospectus and the Prospectus. The Anchor Investor Allocation Price shall be determined by our  Company in consultation with the BRLM  |
+| “Anchor Investor Application  Form”  | The application form used by an Anchor Investor to make a Bid in the Anchor Investor Portion in  accordance with the requirements specified under the SEBI ICDR Regulations and the Red Herring  Prospectus  |
+| “Anchor Investor Bid/ Issue  Period”  | One Working Day prior to the Bid/Issue Opening Date, on which Bids by Anchor Investors shall be  submitted and allocation to the Anchor Investors shall be completed  |
+| “Anchor Investor Issue Price”  | The final price at which the Equity Shares will be Allotted to Anchor Investors in terms of the Red  Herring Prospectus and the Prospectus, which price will be equal to or higher than the Issue Price but  not higher than the Cap Price.  The Anchor Investor Issue Price will be decided by our Company in consultation with the BRLM  |
+| “Anchor Investor Pay-in Date” W  | ith respect to Anchor Investor(s), the Anchor Investor Bid/ Issue Period, and in the event the  Anchor Investor Allocation Price is lower than the Anchor Investor Issue Price, not later than two  Working Days after the Bid/Issue Closing Date  |
+| “Anchor Investor Portion”  | Up to 60% of the QIB Portion which may be allocated by our Company, in consultation with the  BRLM, to Anchor Investors, on a discretionary basis in accordance with the SEBI ICDR Regulations,  out of which 40% of the Anchor Investor Portion shall be available for allocation as follows: (i)  33.33% shall be available for allocation to domestic Mutual Funds, and (ii) 6.67% for Life Insurance  Companies and Pension Funds, subject to valid Bids being received from domestic Mutual Funds,  Life Insurance Companies, and Pension Funds at or above the Anchor Investor Allocation Price. In  the event of under-subscription in (ii) above, the allocation may be made to domestic Mutual Funds  at or above the Anchor Investor Allocation Price, in accordance with the SEBI ICDR Regulations. |
+| “Application  Supported  by  Blocked Amount” or “ASBA” | An application, whether physical or electronic, used by ASBA Bidders to make a Bid and to authorize  an SCSB to block the Bid Amount in the relevant ASBA Account and will include applications made  by UPI Bidders using the UPI Mechanism where the Bid Amount will be blocked upon acceptance  of the UPI Mandate Request by UPI Bidders using the UPI Mechanism  |
+| “ASBA Account”  | A bank account maintained with an SCSB by an ASBA Bidder, as specified in the ASBA Form  submitted by ASBA Bidders, for blocking the Bid Amount mentioned in the relevant ASBA Form  and includes the account of a UPI Bidder, which is blocked upon acceptance of a UPI Mandate  Request made by the UPI Bidder using the UPI Mechanism  |
+| “ASBA Bid”  | A Bid made by an ASBA Bidder  |
+| “ASBA Bidders”  | Bidder(s), except Anchor Investors  |
+| “ASBA Form”  | An application form, whether physical or electronic, used by ASBA Bidders to submit Bids which  will be considered as the application for Allotment in terms of the Red Herring Prospectus and the  Prospectus  |

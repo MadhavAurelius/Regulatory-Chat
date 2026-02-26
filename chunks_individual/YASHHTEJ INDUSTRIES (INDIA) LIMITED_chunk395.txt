@@ -1,0 +1,29 @@
+# Pursuant to Special Resolution passed at the Extra Ordinary General Meeting held on December 10, 2024, Equity Shares of face value of ₹100/- each of our Company were sub-divided into Equity Shares of face value of ₹10/- each.
+
+## **5. TAX LITIGATION INVOLVING OUR COMPANY, DIRECTORS AND PROMOTERS**
+|  Name of Entity  |  Number of cases  |  Amount involved (₹ in Lakhs)  |
+|:---|:---|:---|
+| Company  | Company  | Company  |
+| By the Company  | 0  | Nil  |
+| Against the Company  | 5  | 1.99  |
+| Directors*  | Directors*  | Directors*  |
+| By the Directors  | 0  | Nil  |
+| Against the Directors | 10  | 9.45  |
+| Promoters  | Promoters  | Promoters  |
+| By the Promoters  | 0  | Nil  |
+| Against the Promoters | 10  | 9.45  |
+*Including Promoter Directors.
+Additionally, the same cases disclosed above are bifurcated in Direct and Indirect tax cases as stated below:
+|  Nature of case  |  Number of cases  |  Amount involved (₹ in Lakhs)  |
+|:---|:---|:---|
+| Company  | Company  | Company  |
+| TDS  | 5  | 1.99  |
+| Indirect Tax  | 0  | Nil  |
+|  Nature of case  |  Number of cases  |  Amount involved (₹ in Lakhs)  |
+|:---|:---|:---|
+| Promoter  | Promoter  | Promoter  |
+| Direct Tax  | 1  | 0.29  |
+| TDS  | 8  | 4.73  |
+| Indirect Tax  | 1  | 4.43  |
+| Directors*  | Directors*  | Directors*  |
+*Including Promoter Directors.

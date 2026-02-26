@@ -1,0 +1,105 @@
+/* 💖 Cute gradient background */
+body {
+  margin: 0;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  background: linear-gradient(135deg, #f6d365, #fda085);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Chat container */
+.chat-container {
+  background: white;
+  width: 950px;      /* wider chat window */
+  max-width: 95%;
+  height: 750px;     /* medium height */
+  border-radius: 25px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* Header (smaller height now) */
+header {
+  background: #ff6ec7;
+  color: white;
+  text-align: center;
+     /* smaller height */
+  font-size: 1.2rem;
+  font-weight: bold;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+/* Chat window */
+.chat-window {
+  padding: 15px;
+  flex: 1;           
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background: #f0f0ff;
+  border-top: 2px solid #f5f5f5;
+  border-bottom: 2px solid #f5f5f5;
+}
+
+/* Messages */
+.message {
+  max-width: 70%;
+  padding: 12px 18px;
+  border-radius: 25px;
+  animation: popIn 0.3s ease-out;
+  word-wrap: break-word;
+}
+
+.bot {
+  background: #a0d8f1;
+  align-self: flex-start;
+}
+
+.user {
+  background: #ffccf9;
+  align-self: flex-end;
+}
+
+/* Input area */
+.input-area {
+  display: flex;
+  padding: 12px 15px;
+  gap: 12px;
+  background: #fefefe;
+  border-top: 2px solid #f0f0f0;
+}
+
+input {
+  flex: 1;
+  padding: 12px 15px;
+  border-radius: 25px;
+  border: 1px solid #ccc;
+  outline: none;
+  font-size: 1.1rem;
+}
+
+button {
+  padding: 12px 25px;
+  border: none;
+  background: #ff6ec7;
+  color: white;
+  font-weight: bold;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+button:hover {
+  transform: scale(1.1);
+}
+
+/* Pop-in animation */
+@keyframes popIn {
+  0% { opacity: 0; transform: scale(0.8); }
+  100% { opacity: 1; transform: scale(1); }
+}

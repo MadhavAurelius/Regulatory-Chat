@@ -1,0 +1,31 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **RISK FACTORS ASSOCIATED WITH INVESTMENTS IN DERIVATIVES:**
+
+-  As and when any Investment Strategy trades in the derivatives market there are risk factors and issues
+
+ concerning the use of derivatives that investors should understand. Derivative products are specialized instruments that require investment techniques and risk analysis different from those associated with stocks and bonds. The use of a derivative requires an understanding not only of the underlying instrument but also of the derivative itself. Derivatives require the maintenance of adequate controls to monitor the transactions entered into, the ability to assess the risk that a derivative adds to the portfolio and the ability to forecast price or interest rate movements correctly. There is a possibility that loss may be sustained by the portfolio as a result of the failure of another party (usually referred as the “counter party”) to comply with the terms of the derivatives contract. Other risks in using derivatives include the risk of mispricing or improper valuation of derivatives and the inability of derivatives to correlate perfectly with underlying assets, rates and indices. Thus, derivatives are highly leveraged instruments. Even a small price movement in the underlying security could have a large impact on their value. Besides the price of the underlying asset, the volatility, tenor and interest rates affect the pricing of derivatives. Derivative products are leveraged instruments and can provide disproportionate gains as well as disproportionate losses to the investor. Execution of such strategies depends upon the ability of the fund manager to identify such opportunities. Identification and execution of the strategies to be pursued by the fund manager involve uncertainty and decision of fund manager may not always be profitable. No assurance can be given that the fund manager will be able to identify or execute such strategies.
+
+-  Derivative trades involve execution risks, whereby the rates seen on the screen may not be the rate at
+
+ which ultimate execution takes place.
+
+-  The options buyer’s risk is limited to the premium paid, while the risk of an options writer is unlimited.
+
+ However, the gains of an options writer are limited to the premiums earned.
+
+-  The writer of a put option bears the risk of loss if the value of the underlying asset declines below the
+
+ exercise price. The writer of a call option bears a risk of loss if the value of the underlying asset increases above the exercise price.
+
+-  Investments in index futures face the same risk as the investments in a portfolio of shares representing
+
+ an index. The extent of loss is the same as in the underlying stocks.
+
+-  Risk of loss in trading futures contracts can be substantial, because of the low margin deposits required,
+
+ the extremely high degree of leverage involved in futures pricing and potential high volatility of the futures markets.
+
+-  The risks associated with the use of derivatives are different from or possibly greater than, the risks
+
+ associated with investing directly in securities and other traditional investments.

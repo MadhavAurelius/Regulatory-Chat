@@ -1,0 +1,17 @@
+#
+
+## **2. Solar electricity generation an d s u pp l y**
+
+### Quality Inspection Storage
+
+#### **SECTION VII: FINANCIAL INFORMATION**
+
+##### **.**
+
+**Note 33 Statement of Mandatory Account ing Rati os**
+**Particulars**
+**As at September 30, 2025 March 31, 2025 March 31, 2024 March 31, 2023** Net worth (A) 2,686.78 1,961.82  805.13  (47.76) Earnings Before Interest, Tax, Depreciation and Amortisation (EBITDA) 1,244.30 2,102.11  259.47  (57.89) Restated profit after tax (B) 724.96 1,156.69  112.89  (57.76) Number of equity share outstanding as on the end of year/period - *Refer Note 1* 1,50,00,000 75,00,000  7,50,000  10,000 Weighted average number of equity shares outstanding during the year/period (D) -  *Refer Note 1* 1,50,00,000 75,00,000  48,84,658  10,00,000 Weighted average number of diluted equity shares outstanding during the year/period (E) -  *Refer Note 1* 1,50,00,000 75,00,000  48,84,658  10,00,000 Basic earning per share (INR) (B/D) 4.83 15.42  2.31  (57.76) Diluted earning per share (INR) (B/E) 4.83 15.42  2.31  (57.76) Return on net worth (%) (B/A) 26.98% 58.96%  14.02%  Nil Net asset value per share - (A/C) (Face value of Rs. 10 each) 17.91 26.16  107.35  (477.64)
+Note: 1) The ratios have been computed as below: (a) Basic earnings per share (₹): Net profit after tax as restated for calculating basic EPS/ Weighted average number of equity shares outstanding after taking effect of split at the end of the period/ year (b) Diluted earnings per share (₹): Net profit after tax as restated for calculating diluted EPS/ Weighted average number of equity shares outstanding after taking effect of split at the end of the period/ year for diluted EPS (c) Return on net worth (%) : Net profit after tax (as restated)/ Net worth at the end of the period/ year (d) Net assets value per share: Net Worth at the end of the period or year/ Total number of equity shares outstanding at the end of the period/ year
+2) Weighted average number of equity shares is the number of equity shares outstanding at the beginning of the year adjusted by the number of equity shares issued during the year multiplied by the time weighting factor after considering split effect. The time weighting factor is the number of days for which the specific shares are outstanding as a proportion of total number of days during the year.
+3) Net worth for ratios mentioned in note 1(c) and 1(d) is = Equity share capital + Reserves and surplus (including, Securities Premium, General Reserve and surplus in statement of profit and loss).
+4) The figures disclosed above are based on the restated summary statements of the Company.

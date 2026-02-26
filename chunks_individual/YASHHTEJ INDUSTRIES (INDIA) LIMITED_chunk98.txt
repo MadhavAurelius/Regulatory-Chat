@@ -1,0 +1,14 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **52. Changing regulations in India could lead to new compliance requirements that are uncertain.**
+
+##### **Risks relating to the Equity Shares and this Issue**
+
+62
+**69. Investors may be restricted in their ability to exercise pre-emptive rights under Indian law and thereby may suffer future dilution of their ownership position.**
+Under the Companies Act, a company having share capital and incorporated in India must offer its holders of equity shares pre-emptive rights to subscribe and pay for a proportionate number of shares to maintain their existing ownership percentages before the issuance of any new equity shares, unless the pre-emptive rights have been waived by adoption of a special resolution by holders of three-fourths of the equity shares voting on such resolution.
+However, if the law of the jurisdiction the investors are in, does not permit them to exercise their pre-emptive rights without our Company filing an offering document or registration statement with the applicable authority in such jurisdiction, the investors will be unable to exercise their pre-emptive rights unless our Company makes such a filing. If we elect not to file a registration statement, the new securities may be issued to a custodian, who may sell the securities for the investor’s benefit. The value such custodian receives on the sale of such securities and the related transaction costs cannot be predicted. In addition, to the extent that the investors are unable to exercise pre-emptive rights granted in respect of the Equity Shares held by them, their proportional interest in our Company would be reduced.
+**70. Rights of shareholders of companies under Indian law may be more limited than under the laws of other jurisdictions.**
+Our Articles of Association, composition of our Board, Indian laws governing our corporate affairs, the validity of corporate procedures, directors’ fiduciary duties, responsibilities and liabilities, and shareholders’ rights may differ from those that would apply to a company in another jurisdiction. Shareholders’ rights under Indian law may not be as extensive and wide-spread as shareholders’ rights under the laws of other countries or jurisdictions. Investors may face challenges in asserting their rights as shareholder of our Company than as a shareholder of an entity in another jurisdiction.
+**71. Compliance with provisions of Foreign Account Tax Compliance Act may affect payments on the Equity Shares.**
+The U.S. “Foreign Account Tax Compliance Act” (or “  **FATCA**  ”) imposes a new reporting regime and potentially, imposes a 30% withholding tax on certain “foreign passthru payments” made by certain non-U.S. financial institutions (including intermediaries).

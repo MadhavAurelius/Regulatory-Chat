@@ -1,0 +1,33 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **RISKS FACTORS ASSOCIATED WITH INVESTMENTS IN SECURITISED DEBT:**
+
+Domestic securitised debt assets would be in the nature of Mortgage backed securities (MBS) and Asset backed securities (ABS) with underlying pool of assets and receivables like Housing Loans, Auto loans and corporate loans. The Securitised debt assets and the underlying asset classes like housing loans, Auto Loans and Corporate loans have the following risk factors.
+
+-   **Limited Recourse and Credit Risk:**  Certificates issued on investment in securitised debt represent a
+
+ beneficial interest in the underlying receivables and there is no obligation on the issuer, seller or the originator in that regard. Defaults on the underlying loan can adversely affect the pay outs to the investors (i.e. the Investment Strategy) and thereby, adversely affect the NAV of the Investment Strategy. While it is possible to repossess and sell the underlying asset, various factors can delay or prevent repossession and the price obtained on sale of such assets may be low.
+-   **Bankruptcy Risk:**  If the originator of securitised debt instruments in which the Investment Strategy
+
+ invests is subject to bankruptcy proceedings and the court in such proceedings concludes that the sale of the assets from originator to the trust was not a 'true sale', then the Investment Strategy could experience losses or delays in the payments due. Normally, care is taken in structuring the securitization transaction so as to minimize the risk of the sale to the trust not being construed as a 'true sale'.
+
+-   **Risk of Co-mingling:**  Servicers in a securitization transaction normally deposit all payments received
+
+ from the obligors into a collection account. However, there could be a time gap between collection by a servicer and depositing the same into the collection account. In this interim period, collections from the loan agreements by the servicer may not be segregated from other funds of the servicer. If the servicer fails to remit such funds due to investors, investors in the Investment Strategy may be exposed to a potential loss.
+**Risks associated with Mortgage Backed Securities (MBS) - Housing Loans**
+
+-   **Prepayment Risk:**  The fund may receive payment of monthly payouts earlier than scheduled.
+
+ Prepayments shorten the life of the instrument to an extent that cannot be fully predicted. The rate of prepayments may be influenced by a variety of economic, social and other factors.
+
+-   **Credit Risk:**  Delinquencies may happen which would reduce the principal amount. Typically MBS
+
+ structures come with credit enhancement in variety of forms. If delinquencies are higher than the amount available in the credit enhancement facility than the monthly payouts to the fund would reduce. Historically, it has been observed that housing loans have lower default rates as compared to other forms of credit.
+
+-   **Liquidity Risk:**  Historically the secondary market volume of securitised papers has been limited.
+
+ This could limit the ability of the fund to resell them. Secondary market trades could be at a discount or premium depending upon the prevailing interest rates.
+
+-   **Conversion risk:**  Conversion of loans from fixed rate to floating rate loans and vice versa could lead
+
+ to a change in the expected cash flows from the loans.

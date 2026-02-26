@@ -1,0 +1,20 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+## **Bids by FPIs**
+
+Accordingly, it should be noted that multiple Bids received from FPIs, who do not utilize the MIM Structure, and bear the same PAN, are liable to be rejected. In order to ensure valid Bids, FPIs making multiple Bids using the same PAN, and with different beneficiary account numbers, Client IDs and DP IDs, are required to provide a confirmation in the Bid cum Application Forms that the relevant FPIs making multiple Bids utilize the MIM Structure. In the absence of such confirmation from the relevant FPIs, such multiple Bids shall be rejected.
+Further, in the following cases, Bids by FPIs shall not be treated as multiple Bids:
+-  FPIs which utilize the MIM Structure, indicating the name of their respective investment managers in
+
+ such confirmation;
+-  Offshore derivative instruments which have obtained separate FPI registration for ODI and proprietary
+
+ derivative investments;
+-  Sub funds or separate class of investors with segregated portfolio who obtain separate FPI registration;
+-  FPI registrations granted at investment strategy level/sub fund level where a collective investment
+
+ scheme or fund has multiple investment strategies/sub-funds with identifiable differences and managed by a single investment manager;
+-  Multiple branches in different jurisdictions of foreign bank registered as FPIs;
+-  Government and Government related investors registered as Category 1 FPIs; and
+-  Entities registered as collective investment scheme having multiple share classes.
+The Bids belonging to any of the above mentioned seven structures and having same PAN may be collated and identified as a single Bid in the Bidding process. The Equity Shares allotted in the Bid may be proportionately distributed to the applicant FPIs (with same PAN). In order to ensure valid Bids, FPIs making multiple Bids using the same PAN, and with different beneficiary account numbers, Client IDs and DP IDs, are required to provide a confirmation along with each of their Bid cum Application Forms that the relevant FPIs making multiple Bids utilize any of the above-mentioned structures and indicate the name of their respective investment managers in such confirmation. In the absence of such compliance from the relevant FPIs with the operational guidelines for FPIs and designated Depository participants issued to facilitate implementation of SEBI FPI Regulations, such multiple Bids shall be rejected.

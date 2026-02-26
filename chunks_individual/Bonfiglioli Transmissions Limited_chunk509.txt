@@ -1,0 +1,57 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+** Relates to Secondary Adjustment as per Transfer pricing (Refer Note 23)
+These equity shares are valued at a price (represents the fair value) as determined in the share purchase agreement entered with Tulsyan NEC Limited
+* represents amount recoverable from holding company of Rs.16.52 (December 31, 2024: Nil; December 31, 2023: Nil; December 31, 2022: Nil) which has been incurred by the Company towards proposed Initial Public Offering (IPO) of the equity shares held by the selling shareholders (offer for sale).
+**Non-current**
+**Current**
+278
+**Bonfiglioli Transmissions Limited (Formerly known as Bonfiglioli Transmissions Private Limited) Annexure VI - Notes to Restated Summary Statements CIN: U29309TN1998PLC040717**
+**8 Deferred tax assets** The balance comprises temporary differences attributable to: **As at September 30, 2025**
+**As at December 31, 2024**
+**As at December 31, 2023**
+**As at December 31, 2022 Deferred tax assets** Expenses allowable for tax on payment basis 29.95  26.62  37.39  21.20 Expense on which tax is not deducted 100.66  14.29  21.35  5.66 Provision for doubtful debts & product warranty 62.28  62.38  54.80  50.40
+
+-  -  -
+
+ Difference between book and tax written down value of depreciable property, plant and equipment and intangible assets 62.89  57.21  61.20  64.60
+
+- -  -
+
+ Right of Use (9.32)  (15.20)  (23.99)  14.26 Lease liabilities 9.55  16.50  24.33  (13.82) **Total deferred tax assets 256.01 161.80 175.08 142.30**
+**Movement in deferred tax assets**
+**Expenses allowable for tax on payment basis**
+**Expense on which tax is not deducted**
+**Provision for doubtful debts & product warranty**
+**Property, plant and equipment and intangible assets**
+**Right of Use**
+**Lease liabilities Total**
+**At January 1, 2022 20.88 1.22 56.30 60.00 2.10 - 140.50**
+(Charged)/credited:
+
+- to profit or loss 5.80  4.44  (5.90)  4.60  12.16  (13.82)  7.28
+
+- to other comprehensive income (5.48)  -  -  -  -  - (5.48)
+
+ **At December 31, 2022 21.20 5.66 50.40 64.60 14.26 (13.82) 142.30**
+(Charged)/credited:
+
+- to profit or loss 2.72  15.69  4.40  (3.40)  (38.25)  38.15  19.31
+
+- to other comprehensive income 13.47  - -  -  -  - 13.47
+
+ **At December 31, 2023 37.39 21.35 54.80 61.20 (23.99) 24.33 175.08**
+(Charged)/credited:
+
+- to profit or loss (13.02)  (7.06)  7.58  (3.99)  8.79  (7.83)  (15.53)
+
+- to other comprehensive income 2.25  -  -  -  -  - 2.25
+
+ **At December 31, 2024 26.62 14.29 62.38 57.21 (15.20) 16.50 161.80**
+(Charged)/credited:
+
+- to profit or loss 2.52  86.37  (0.10)  5.68  5.88  (6.95)  93.40
+
+- to other comprehensive income 0.81  - - - - - 0.81
+
+ **At September 30, 2025 29.95 100.66 62.28 62.89 (9.32) 9.55 256.01**

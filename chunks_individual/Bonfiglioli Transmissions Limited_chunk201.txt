@@ -1,0 +1,34 @@
+## **G. Key Performance Indicators**
+
+**Details of our KPIs as of and for the nine months period ended September 30, 2025, and for the Fiscals ended December 31, 2024, December 31, 2023, and December 31, 2022, is set out below:**
+**Particulars Nine months ended September 30, 2025***
+**Year ended December 31, 2024**
+**Year ended December 31, 2023**
+**Year ended December 31, 2022**
+Revenue from Operations (  *₹ millio*   *n*  ) <sup>(#)</sup>  14,601.74 18,640.79 16,875.07 15,588.01 Revenue from Customers in India % <sup>(1)</sup>
+(#)
+72.94% 74.73% 76.16% 73.59%
+Revenue from Customers Outside India
+% <sup>(2) (#)</sup>
+
+27.06% 25.27% 23.84% 26.41%
+Revenue from Verticals <sup>(#)</sup> : Industry & Automation Solutions  *(% of* *revenue from operations*  ) <sup>(3)</sup>
+40.98% 41.56% 43.08% 41.36%
+Off-Highway Mobility Industry (  *% of* *revenue from operations*  ) <sup>(4)</sup>
+25.26% 23.38% 25.23% 26.87%
+Wind Industry (  *% of revenue from* *operations*  ) <sup>(5)</sup>
+31.97% 32.16% 29.69% 29.60%
+Others  *(% of revenue from operations)*
+(6)
+1.79% 2.90% 2.00% 2.17%
+EBITDA (excluding Other Income) (  *₹* *million*  ) <sup>(7) (#)</sup>
+2,534.77 2,930.61 2,441.18 2,544.40
+EBITDA (excluding Other Income) Margin (%) <sup>(8) (#)</sup>
+17.36% 15.72% 14.47% 16.32%
+Profit after tax (  *₹ million*  ) <sup>(9) (#)</sup>  1,651.89 1,911.23 1,476.98 1,687.53 PAT Margin (%) <sup>(10) (#)</sup> 11.25% 10.21% 8.68% 10.75% Net Debt (  *₹ million*  ) <sup>(11)</sup>  (1,628.29) (1,382.04) (1,400.92) (1,273.04) Cash Conversion Cycle (Days) <sup>(12)</sup>  79 79 80 81 Fixed Asset Turnover <sup>(13) (16)</sup>  5.81 times 7.19 times 6.49 times 8.76 times Return on Capital Employed (%) <sup>(14) (16)</sup>
+(#)
+25.18% 30.28% 24.54% 27.04%
+Return on Equity (%) <sup>(15) (16) (#)</sup>  18.58% 23.05% 19.30% 23.41%
+** Not annualized.* (#)  *Represents results from continuing operations only* *(1)*    *Calculated as Revenue from Customers in India divided by Total Revenue from Customers*
+
+*(2)*    *Calculated as Revenue from Customers from outside India divided by Total Revenue from Customers* *(3)*    *Calculated as Revenue from Industry and Automation Solutions vertical divided by Revenue from Operations* *(4)*    *Calculated as Revenue from Off Highway Mobility Industry vertical divided by Revenue from Operations* *(5)*    *Calculated as Revenue from Wind Industry vertical divided by Revenue from Operations* *(6)*    *Calculated as Revenue from non-core sales such as sale of components to vendors divided by Revenue from Operations* *(7)*    *EBITDA is calculated as Profit after tax for the period / year plus total tax expense plus finance costs plus depreciation and amortization.* *EBITDA (excluding Other Income) = EBITDA minus Other Income* *(8)*    *EBITDA (excluding Other Income) Margin is calculated as EBITDA (excluding Other Income) divided by revenue from operations* *(9)*    *Profit after tax for the period/year is calculated as Profit after tax for the period/year represents profit for the relevant period/year* *(10)*    *PAT Margin is calculated as Profit after tax for the period/year divided by Total Income.* *(11)*    *Net Debt is calculated as the sum of current borrowings, current lease liabilities, non-current borrowings and non-current lease* *liabilities minus cash and cash equivalents and bank balances other than cash and cash equivalents* *(12)*    *Cash Conversion Cycle is calculated as receivable days plus inventory days minus payable days (in which receivable days is calculated* *as receivables divided by revenue from operations multiplied by number of days; inventory days is calculated as inventory divided by* *cost of goods sold multiplied by number of days; and payable days is calculated as payables divided by purchase of raw materials and* *components plus stock-in-trade multiplied by number of days; where cost of goods sold is the sum of cost of material consumed, change* *in inventory, purchases of stock-in-trade; receivables, inventory and payables taken as of end of period/year) Cash conversion for nine* *months ended September 30, 2025, has been calculated using 273 days, being the actual number of days in the reporting period* *(13)*    *Fixed asset turnover is calculated as revenue from operations divided by Fixed Assets. Fixed Assets is calculated as sum of Property,* *Plant and Equipment and Capital work-in-progress at the end of the period/year* *(14)*    *Return on Capital Employed is calculated as earnings before interest and tax divided by capital employed; earnings before interest and* *tax is calculated as profit after tax for the period / year plus total tax expense plus finance costs; capital employed is calculated as the* *sum of tangible net worth and total debt; tangible net worth is calculated as total equity minus intangible assets minus intangible assets* *under development minus deferred tax assets (net); total debt is calculated as sum of current borrowings, current lease liabilities, non-* *current borrowings and non-current lease liabilities* *(15)*    *Return on Equity is calculated as profit after tax for the period/year divided by average of opening and closing total equity for the period* */ year* *(16)*    *Return on Capital Employed (%), Return on Equity (%) and Fixed Asset Turnover numbers for Nine months ended September 30, 2025* *have not been annualized*

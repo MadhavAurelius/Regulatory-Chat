@@ -1,0 +1,17 @@
+22. The Board or recognised stock exchange may consider the nature of business, the size of its operations and the complexity of the transactions being undertaken by the stock broker while specifying the regulatory requirements.
+**Obligations with respect to prevention and detection of fraud or market abuse.**
+23. (1) The stock broker shall maintain clearly documented policies and procedures relating to its surveillance systems and internal controls.
+(2) The stock broker shall define the roles and responsibilities of its directors, senior management, key managerial personnel, employees or authorised persons, the corrective actions to be taken and the guidelines for reporting of activities as specified under regulation 24.
+(3) The stock broker, shall review and update the systems, processes, and control procedures on a periodic basis and in any case not less than once in a calendar year, to keep pace with the developments in the securities market and regulatory changes.
+(4) The thresholds for generation of alerts for various scenarios shall be set at a reasonable level and be documented along with clear rationale for the same.
+(5) The stock broker shall have adequate systems in place to ensure that its proprietary accounts are used only for the purpose of carrying out proprietary trades and that its operations are in accordance with the requirements as may be specified.
+(6) The stock broker shall ensure that its trading terminal is used by its employees and authorised persons only.
+(7) The stock broker shall ensure that its trading terminal are used only at locations approved by recognised stock exchange and that such terminals shall not be used by its clients in any form or manner.
+(8) The stock broker shall establish and maintain documented processes and systems to detect potential mule accounts or suspicious activity.
+(9) Any employee of the stock broker, upon having knowledge of any fraud, market abuse or suspicious activity shall forthwith inform the same to the senior management.
+(10) The stock broker shall put in place an appropriate mechanism for reporting by employees under sub-regulation (9).
+38   T H E G A ZETTE OF INDIA : EXTRAORDINARY [P ART III—S EC .4]
+
+**Escalation and reporting mechanisms.**
+24. (1) The stock broker, shall review the compliance with the regulatory requirements specified under this Chapter not less than once in each quarter.
+(2) The stock broker shall on the detection of any suspicious activity, fraud or market abuse promptly inform the same along with the details to the recognised stock exchanges, in such manner as may be specified.

@@ -1,0 +1,22 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **13. Shareholding of our Promoters and Promoter Group**
+
+The details of shareholding of our Promoters, and the Promoter Group as on the  date of this Prospectus are set forth below:
+|  Particulars  |  Pre-Issue  |  Pre-Issue  |  Post-Issue  |  Post-Issue  |
+|:---|:---|:---|:---|:---|
+| Particulars  | Number of  Equity Shares  of face value  ₹  10/- each | %  | Number of  Equity Shares  of face value  ₹  10/- each | %  |
+| Promoter  |  |  |  |  |
+| Baswaraj Madhavrao Barge  | 37,50,000  | 25.00  | 37,50,000  | 16.25  |
+| Shivling Madhavrao Barge  | 37,50,000  | 25.00  | 37,50,000  | 16.25  |
+| Suraj Shivraj Barge  | 37,50,000  | 25.00  | 37,50,000  | 16.25  |
+| Total (A)  | 1,12,50,000  | 75.00  | 1,12,50,000  | 48.75  |
+| Promoter Group  |  |  |  |  |
+| Shruti Shivling Barge  | 7,50,000  | 5.00  | 7,50,000  | 3.25  |
+| Tejas Baswaraj Barge  | 4,50,000  | 3.00  | 4,50,000  | 1.95  |
+| Yash Baswaraj Barge  | 7,50,000  | 5.00  | 7,50,000  | 3.25  |
+| Manisha Suraj Barge  | 7,50,000  | 5.00  | 7,50,000  | 3.25  |
+| Barge Sarika Dhondiram  | 7,50,000  | 5.00  | 7,50,000  | 3.25  |
+| Jyoti Baswaraj Barge  | 3,00,000  | 2.00  | 3,00,000  | 1.30  |
+| Total (B)  | 37,50,000  | 25.00  | 37,50,000  | 16.25  |
+| Total Promoter & Promoter  Group (A+B) | 1,50,00,000  | 100.00  | 1,50,00,000  | 65.00  |

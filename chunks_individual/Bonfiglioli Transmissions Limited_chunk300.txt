@@ -1,0 +1,6 @@
+## * **Global Wind Turbine Drives -  Key Growth Drivers** *
+i.   **Larger Turbine Sizes Requiring Higher-Load Drives and Rapid Growth of Offshore Wind Installations**  : These are pushing OEMs to adopt stronger, higher-capacity drive systems.
+ii.   **Repowering and Replacement Demand in Ageing Fleets:**  Thousands of ageing onshore turbines in Europe, North America, and China are reaching mid-life or end-of-life phases. Repowering projects further add demand for modern, higher-capacity drive systems.
+iii.   **Increasing Focus on Efficiency and Availability:**  Wind farms aim for higher uptime as margins tighten, and OEMs commit to 97-99% availability contracts. Yaw and pitch drives with lower failure rates, smart torque control, and predictive maintenance features are becoming essential.
+iv.   **Localization & Supply-Chain Investment in Emerging Markets:**  Countries like India, Brazil, and Vietnam are localizing wind-turbine components, including drives, to cut import dependency. This expansion boosts demand for drivers across both new and repowered projects.
+v.   **Strong Policy Push & Capex Commitments in Wind Energy:**  Global govt. targets (net-zero, offshore tenders, renewable auctions) are accelerating wind project pipelines. Increased capex from utilities, IPPs, and funds directly translate into higher orders for pitch-and-yaw drive systems.

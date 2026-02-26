@@ -1,0 +1,28 @@
+## **INTERNAL RISKS**
+
+Furthermore, if we are unable to retain our key suppliers on commercially favourable terms, we may have to seek alternative suppliers as replacements which may result in increased costs, impact quality and cause delays in our
+
+32
+manufacturing and sale schedules, which in turn could adversely affect our business, financial condition, results of operations, cash flows and reputation.
+* **2.** *    * **Any increase in the prices of raw materials and components required for our operations or levy of** * * **duties on the materials we import for our operations, could adversely affect our business, financial** * * **condition, results of operations, and cash flows.** *
+We source raw materials and components such as electric motors, hydraulic motors, bearings and brake pads for our manufacturing operations from a combination of domestic and foreign suppliers. The table below shows the cost of raw materials and components consumed and changes in work-in-progress as a percentage of our revenue from operations -  continuing operations and purchases of raw materials and components sourced from India and outside India as a percentage of total cost of raw materials and components consumed for the period/years indicated:
+**Particulars For the nine months period ended September 30, 2025**
+**For the year ended December 31, 2024**
+**For the year ended December 31, 2023**
+**For the year ended December 31, 2022**
+Cost of raw materials and components consumed plus changes in inventories of work-in-progress (₹ million) (A)
+9,210.39 12,070.71 10,936.06 9,825.22
+Revenue from Operations -  continuing operations (₹ million) (B)
+14,601.74 18,640.79 16,875.07 15,588.01
+Cost of raw materials and components consumed plus changes in inventories of work-in-progress as a % of revenue from operations (A)/(B)
+63.08% 64.75% 64.81% 63.03%
+Purchase of raw materials and components sourced from India (₹ million)
+6,569.42 8,434.34 7,209.94 6,619.48
+Purchase of raw materials and components sourced from India as % of cost of raw material and components consumed
+71.33% 69.87% 65.93% 67.37%
+Purchase of raw materials and components sourced from outside India (₹ million)
+2,640.97 3,636.37 3,726.12 3,205.75
+Purchase of raw materials and components sourced from outside India as % of cost of raw material and components consumed
+28.67% 30.13% 34.07% 32.63%
+
+Our ability to manufacture gearboxes at competitive prices depends on the continued availability of parts and materials including motors, gears, machined parts and other commercial components required for our manufacturing operations, at prices acceptable to us. The cost of such raw materials and components are typically tied to their underlying raw materials such as steel, aluminium and cast iron. As a result, our operations and our suppliers’ ability to provide parts and materials to us at competitive prices is affected by global commodity prices, inflation and our ability to negotiate with our suppliers effectively. For example, pricing and availability of commodities like steel and aluminium can be volatile due to numerous factors beyond our control, including general domestic and international economic conditions, geopolitical tensions, import duties and tariffs and foreign currency exchange rates.

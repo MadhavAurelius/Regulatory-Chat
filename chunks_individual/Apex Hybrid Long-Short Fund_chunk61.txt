@@ -1,0 +1,25 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **RISK FACTORS ASSOCIATED WITH EXCHANGE TRADED FUNDS (ETFS):**
+
+**-  Concentration Risk**  : ETFs may be susceptible to an increased risk of loss, including losses due to
+
+ adverse occurrences affecting ETFs more than the market as a whole, to the extent that ETFs investments are concentrated in the securities of a particular issuer or issuers, country, group of countries, region, market, industry, group of industries, sector or asset class.
+**-  Currency Risk:**  Because the NAV of ETFs are determined in U.S. dollars/ other foreign currency, the
+
+ NAV of ETFs could decline if the currency of Global market in which the ETFs invests depreciates against the U.S. dollar/ other foreign currency.
+**-  Geographic Risk**  : A natural or other disaster could occur in a geographic region in which the ETFs
+
+ invests, which could affect the economy or particular business operations of companies in the specific geographic region, causing an adverse impact on the ETFs investments in the affected region.
+**-  Trading Risk**  : ETFs face numerous market trading risks, including the potential lack of an active
+
+ market for ETFs, losses from trading in secondary markets, periods of high volatility and disruption in the creation/redemption process of ETFs.
+**-  Security Risk**  : Some countries and regions in which the ETFs invests have experienced security
+
+ concerns. Incidents involving a country's or region's security may cause uncertainty in these markets and may adversely affect their economies and the ETFs investments.
+**-  Structural Risk:**  The countries in which the ETFs invest may be subject to considerable degrees of
+
+ economic, political and social instability.
+**-**  The market price of the ETF unit like any other listed security is largely dependent on two factors viz.
+
+ the intrinsic value of the unit (or NAV) and demand and supply of the units in the market. Sizeable demand or supply of the units in exchange may lead to market price of the units to quote at premium or discount to NAV. And hence the units of the investment strategy may trade above or below the NAV.

@@ -1,0 +1,39 @@
+# Pursuant to Special Resolution passed at the Extra Ordinary General Meeting held on December 10, 2024, Equity Shares of face value of ₹100/- each of our Company were sub-divided into Equity Shares of face value of ₹10/- each.
+
+## **10. Other requirements**
+
+#### **SECTION IX: ISSUE RELATED INFORMATION**
+
+##### **ELECTRONIC REGISTRATION OF APPLICATIONS**
+
+-  the applications accepted by them
+
+-  the applications uploaded by them
+
+-  the applications accepted but not uploaded by them or
+
+-  With respect to applications by Applicants, applications accepted and uploaded by any Designated
+
+ Intermediary other than SCSBs, the Application Form along with relevant schedules shall be sent to the SCSBs or the Designated Branch of the relevant SCSBs for blocking of funds and they will be responsible for blocking the necessary amounts in the ASBA Accounts. In case of Application accepted and Uploaded by SCSBs, the SCSBs or the Designated Branch of the relevant SCSBs will be responsible for blocking the necessary amounts in the ASBA Accounts.
+e.  Neither the Lead Manager nor our Company nor the Registrar to the Issue, shall be responsible for any acts, mistakes or errors or omission and commissions in relation to:
+-  The applications accepted by any Designated Intermediaries
+
+-  The applications uploaded by any Designated Intermediaries or
+
+-  The applications accepted but not uploaded by any Designated Intermediaries
+f.  The Stock Exchange will Issue an electronic facility for registering applications for the Issue. This facility will be available at the terminals of Designated Intermediaries and their authorized agents during the Issue Period. The Designated Branches or agents of Designated Intermediaries can also set up facilities for offline electronic registration of applications subject to the condition that they will subsequently upload the off-line data file into the online facilities on a regular basis. On the Issue Closing Date, the Designated Intermediaries shall upload the applications till such time as may be permitted by the Stock Exchange. This information will be available with the Lead Manager on a regular basis.
+g.  With respect to applications by Applicants, at the time of registering such applications, the Syndicate Bankers, DPs and RTAs shall forward a Schedule as per format given below along with the Application Forms to Designated Branches of the SCSBs for blocking of funds:
+|  S. No.  |  Details*  |
+|---:|:---|
+|  1  | Symbol  |
+|  2  | Intermediary Code |
+|  3  | Location Code  |
+|  4  | Application No  |
+|  5  | Category  |
+|  6  | PAN  |
+|  7  | DP ID  |
+|  8  | Client ID  |
+|  9  | Quantity  |
+|  10  | Amount  |
+*Stock Exchanges shall uniformly prescribe character length for each of the above-mentioned fields
+h.  With respect to applications by Applicants, at the time of registering such applications, the Designated Intermediaries shall enter the following information pertaining to the Applicants into in the on-line system:

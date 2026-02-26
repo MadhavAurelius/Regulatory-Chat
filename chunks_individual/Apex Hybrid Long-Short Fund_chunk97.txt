@@ -1,0 +1,9 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+## **1. Risk mitigation strategies for investments with each kind of originator**
+
+### **D. Transparency/NAV Disclosure**
+
+The AMC will calculate and disclose the first NAV(s) of the Investment Strategy not later than 5 (five) Business days from the date of allotment. Thereafter, the NAVs will be calculated and disclosed for every Business Day. NAV of the investment strategy will be calculated up to two decimal places. AMC reserves the right to calculate NAV more than two decimal places. AMC shall update the NAV on the AMFI website (www.amfiindia.com) and on the website of the Apex SIF  [https://apexsif.adityabirlacapital.com/](https://apexsif.adityabirlacapital.com/) by 11:00 pm, on all Business Day.
+In case of any delay, the reasons for such delay would be explained to AMFI in writing. If the NAVs are not available before commencement of business hours on the following day due to any reason, Mutual Fund shall issue a press release providing reasons and explaining when the Mutual Fund would be able to publish the NAVs.
+Further, the Mutual Fund / AMC will extend facility of sending latest available NAVs of the Investment strategy  to the Unit holders through SMS upon receiving a specific request in this regard. Also, information regarding NAVs can be obtained by the Unit holders / Investors by calling or visiting the nearest ISC.

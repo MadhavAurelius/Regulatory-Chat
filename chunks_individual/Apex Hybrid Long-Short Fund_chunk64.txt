@@ -1,0 +1,10 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+## **1. Risk mitigation strategies for investments with each kind of originator**
+
+**Bankruptcy Risk:**  If the originator of securitized debt instruments in which the Investment Strategy invests is subject to bankruptcy proceedings and the court in such proceedings concludes that the sale of the assets from originator to the trust was not a 'true sale', and then the Investment Strategy could experience losses or delays in the payments due.
+Risk Mitigation: Normally, specific care is taken in structuring the securitization transaction so as to minimize the risk of the sale to the trust not being construed as a 'true sale'. It is also in the interest of the originator to demonstrate the transaction as a true sell to get the necessary revenue recognition and tax benefits.
+**Limited Liquidity and Price risk** Presently, secondary market for securitized papers is not very liquid. There is no assurance that a deep secondary
+Std Obs 9
+market will develop for such securities. This could limit the ability of the investor to resell them. Even if a secondary market develops and sales were to take place, these secondary transactions may be at a discount to the initial issue price due to changes in the interest rate structure.
+Risk Mitigation: Securitized debt instruments are relatively illiquid in the secondary market and hence they are generally held to maturity. The liquidity risk and HTM nature is taken into consideration at the time of analyzing the appropriateness of the securitization.

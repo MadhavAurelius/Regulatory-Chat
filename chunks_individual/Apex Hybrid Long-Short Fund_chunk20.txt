@@ -1,0 +1,9 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **Rebalancing due to Passive Breach:**
+
+Further, as per para 2.9 of SEBI Master Circular on Mutual Funds, as may be amended from time to time, in the event of deviation due to all type of passive breaches (occurrence of instances not arising out of omission and commission of the AMC), the fund manager shall rebalance the portfolio of the investment strategy within 30 Business Days. In case the portfolio of the investment strategy is not rebalanced within the period of 30 Business Days, justification in writing, including details of efforts taken to rebalance the portfolio shall be placed before the Investment Committee of the AMC. The Investment Committee, if it so desires, can extend the timeline for rebalancing up to sixty (60) Business Days from the date of completion of mandated rebalancing period.
+Std Obs 22 Std Obs 23 and 24
+Std Obs 17
+
+Further, in case the portfolio is not rebalanced within the aforementioned mandated plus extended timelines the AMC shall comply with the prescribed restrictions, the reporting and disclosure requirements as specified in para 2.9 of SEBI Master Circular on Mutual Funds.

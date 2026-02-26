@@ -1,0 +1,33 @@
+# YASHHTEJ INDUSTRIES (INDIA) LIMITED  CIN: U74999MH2018PLC310828  REGISTERED &   CORP O RA T E  O FFI[...]
+
+## **Table of Contents**
+
+#### **SECTION I: GENERAL**
+
+##### **TECHNICAL AND INDUSTRY RELATED TERMS**
+
+|  TERM  |  DESCRIPTION  |
+|:---|:---|
+|  | website  of  the  SEBI  (https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedF i=yes&intmid=40)  and  (https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedF pi=yes&intmId=43) respectively, as updated from time to time  |
+| UPI Mechanism  | The Bidding mechanism that may be used by a UPI Applicant to make an  application in the Issue in accordance the UPI Circulars  |
+| UPI Pin  | Password to authentic UPI Transaction  |
+| Underwriters  | Underwriters to the Issue is Erudore Capital Private Limited  |
+| Underwriting Agreement  | The Underwriting Agreement dated December 30, 2025 entered into  between our Company and the Underwriters.  |
+| U.S. Securities Act  | U.S. Securities Act of 1933, as amended  |
+| Wilful Defaulter(s) or Fraudulent  Borrower(s) | A person or an issuer who or which is categorized as a wilful defaulter or  a fraudulent borrower by any bank or financial institution (as defined  under the Companies Act, 2013) or consortium thereof, in accordance  with the guidelines on wilful defaulters or fraudulent borrowers issued by  the Reserve Bank of India, as defined under Regulation 2(1)(iii) of SEBI  (ICDR) Regulations.  |
+| Working Days  | Means all days on which commercial banks are open for business.  However, till issue period, working day shall mean all days, excluding  Saturdays, Sundays, and public holidays, on which commercial banks are  open for business. The time period between the bid/issue closing date and  the listing of the specified securities on the stock exchanges, working day  shall mean all trading days of the stock exchanges, excluding Sundays  and bank holidays, as per circulars issued by the Board, as per the SEBI  Circular SEBI/HO/CFD/DIL/CIR/P/2016/26 dated January 21, 2016, and  in terms of regulation 2(1)(mmm) of SEBI (ICDR) Regulations. |
+
+##### **TECHNICAL AND INDUSTRY RELATED TERMS**
+|  TERM  |  DESCRIPTION  |
+|:---|:---|
+| Business-to-Business (B2B)  | A business model where products or services are sold to other businesses  /entities / corporates etc.,  |
+| Business-to-Customer (B2C)  | A business model where products or services are sold directly to end  customers.  |
+| Business-to-Government (B2G)  | A business model where products or services are sold to government  agencies or entities.  |
+| Index of Industrial Production  (IIP)  | The Index of Industrial Production (IIP) is a monthly economic indicator  that measures the level of industrial activity in an economy over a given  period. It tracks the production volume of key industrial sectors such as  manufacturing, mining, and electricity, and helps assess the short-term  trends in the industrial performance of a country. |
+| Kharif Season  | The Kharif season refers to the monsoon cropping season in India, during  which crops are sown with the onset of the southwest monsoon (around  June) and harvested in the autumn (around September to November).  |
+| Solar Photovoltaic Power  Generation  | A process of converting sunlight into electricity using photovoltaic  panels.  |
+| Supply-side bottlenecks  | Constraints or disruptions on the production or supply side of the  economy or a business that prevent goods or services from being  produced or delivered efficiently or in sufficient quantities.  |
+| Solvent Extraction Process  | An industrial process where a solvent (in our case, hexane) is used to  extract oil from oil-bearing seeds like soybeans. It is more efficient than  mechanical pressing and is the standard in large-scale oil production.  |
+| Mukhyamantri Saur Krushi  Vahini Yojana 2.0 | A Maharashtra state government scheme to promote decentralized solar  power generation for agriculture feeders. Implemented under Component  C of the national PM-KUSUM scheme.  |
+| Package Scheme of Incentives  (PSI), 2019  | A scheme by the Government of Maharashtra that provides various fiscal  and non-fiscal incentives to encourage industrial growth in the state.  |
+12

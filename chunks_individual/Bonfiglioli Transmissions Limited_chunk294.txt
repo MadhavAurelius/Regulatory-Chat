@@ -1,0 +1,29 @@
+## **Overview of Yaw and Pitch Drives Used in Wind Energy (Turbines)**
+
+Globally, demand for Yaw and Pitch drives continues to rise in line with the rapid expansion of onshore and offshore wind installations, especially large multi-MW and next-gen 10-15 MW turbines. Yaw and Pitch Drives together typically account for ~3% of the total wind turbine cost.
+**Drive Type Key Function/ Description Key Application Areas**
+Yaw Drive
+A rotational drive system that turns the entire nacelle to face the wind direction for maximum energy capture.
+
+-  Aligning the turbine with the wind direction
+
+-  Reducing yaw misalignment losses
+
+-  Ensuring optimal aerodynamic performance
+
+-  Stabilizing nacelle rotation under varying
+
+ winds
+Pitch Drive
+Drive mechanism that adjusts the angle of each rotor blade to regulate power output and rotor speed.
+-  Controlling blade pitch during high winds
+
+-  Increasing/decreasing aerodynamic lift
+
+-  Ensuring safe shutdown during storms
+
+-  Optimizing energy production under
+
+ fluctuating wind speeds
+
+Lower-quality yaw and pitch drives degrade a turbine’s ability to optimally face the wind or adjust blade angles, reducing annual energy production by 2-6% and increasing fatigue loads on blades and bearings. As turbine capacity increases, the mechanical loads rise disproportionately, demanding stronger, faster, and more precise drive systems. Yaw and drives must support higher torque and incorporate improved redundancy and faster actuation to manage larger pitch rotors.

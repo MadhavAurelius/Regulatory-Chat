@@ -1,0 +1,42 @@
+#
+
+## **3B.4 Indian Solar Power Sector**
+
+##### **Installed Capacity (as of February 2025):**
+
+-   **Uttar Pradesh**  : Growing rooftop adoption in urban clusters such as Lucknow and Noida, supported by
+
+ residential subsidies and net metering reforms.
+-   **Punjab**  : Strong uptake in agricultural and institutional rooftop installations, aided by its focus on solarisation
+
+ of irrigation pumps and schools.
+-   **Delhi, Haryana, and Chandigarh**  : These states/UTs are advancing in residential rooftop installations due to
+
+ higher per capita income and grid proximity.
+The regional distribution of solar capacity highlights the importance of customised policy frameworks, grid readiness, and land-use planning in scaling solar across diverse geographies. Moving forward, states that adopt integrated solar + storage + demand-response frameworks and enable open access procurement will likely emerge as leaders in the next phase of India’s solar transition.
+
+##### **Solar Power Plants in India: Installed Capacity and Key Projects**
+India has rapidly expanded its solar power capacity through a structured approach led by the Ministry of New and Renewable Energy (MNRE) and supported by various centrally funded schemes. The country’s solar energy infrastructure is highly diversified, consisting of large-scale solar parks, floating solar installations, hybrid systems, and distributed rooftop projects. This makes India one of the largest and most varied solar markets globally.2
+##### **Installed Capacity (as of February 2025):**
+-  Utility-scale ground-mounted solar projects (including hybrid setups): ~79 GW
+
+-  Rooftop solar capacity: ~17 GW
+
+-  Hybrid and off-grid projects: ~7.5 GW3
+India’s utility-scale solar growth has been driven by policy mechanisms such as:
+-  Viability Gap Funding (VGF) for government institutions
+
+-  Inter-State Transmission System (ISTS) charge waivers
+
+-  Competitive auctions conducted by SECI, NTPC, and state DISCOMs
+
+-  Open Access Regulations benefiting commercial and industrial (C&I) customers
+**Ultra Mega Solar Parks and Large-Scale Projects:**  The Scheme for Development of Solar Parks and Ultra Mega Solar Power Projects, launched in December 2014, aimed to create large, centralized infrastructure for solar projects. The initial target was 25 parks totalling 20,000 MW, later increased to 40,000 MW across 12 states. By June 2023, about 37,990 MW had been sanctioned under this scheme. 4 Key Solar Parks include:
+-  Bhadla Solar Park, Rajasthan: World’s largest solar park with 2,245+ MW capacity
+
+-  Pavagada Solar Park, Karnataka: ~2,050 MW
+
+-  Rewa Ultra Mega Solar Park, Madhya Pradesh: 750 MW, notable for record-low tariffs
+
+-  Kadapa and Ananthapuramu Solar Parks, Andhra Pradesh: Over 1.5 GW combined4
+These parks provide ready land, transmission connectivity, water access, and streamlined clearances, reducing risks and costs for developers. 4 **Central Public Sector Undertaking (CPSU) Scheme:**  Launched in 2015, this scheme promotes solar power generation by government producers using domestically manufactured modules under the Domestic Content Requirement (DCR). The scheme includes:

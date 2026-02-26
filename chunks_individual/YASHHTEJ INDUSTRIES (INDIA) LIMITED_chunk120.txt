@@ -1,0 +1,44 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **52. Changing regulations in India could lead to new compliance requirements that are uncertain.**
+
+#### **SECTION IV: INTRODUCTION**
+
+##### **CAPITAL STRUCTURE**
+
+78
+*The Department of Surveillance and Supervision of the Exchange would decide and publish the* *penalties / fines/ suspension for any type of misconduct/ manipulation/ other irregularities by the* *Market Maker from time to time.*
+➢   *Pursuant to SEBI Circular number CIR/MRD/DSA/31/2012 dated November 27, 2012, limits on* *the upper side for market maker(s) during market making process has been made applicable,* *based on the issue size and as follows:*
+|  Issue Size  |  Buy quote exemption threshold  (Including mandatory initial  inventory of 5% of the Issue  Size)  |  Re-Entry threshold for buy  quote (including mandatory  initial inventory of 5% of the  Issue Size)  |
+|:---|:---|:---|
+| Upto Rs.20 Crore  | 25%  | 24%  |
+| Rs.20 to Rs.50 Crore | 20%  | 19%  |
+| Rs.50 to Rs.80 Crore | 15%  | 14%  |
+| Above Rs.80 Crore  | 12%  | 11%  |
+
+*(Rest of the page is intentionally left blank)*
+
+79
+##### **CAPITAL STRUCTURE**
+The Equity Share capital of our Company, as on the date of this Prospectus and after giving effect to the Issue is set forth below: **(₹ in Lakhs)**
+|  Sr.  No.  |  Particulars  |  Aggregate  Face Value  |  Aggregate  Value  at Issue Price  (4)  |
+|:---|:---|:---|:---|
+| A.  | Authorized Share Capital  |  |  |
+| A.  | 2,50,00,000 Equity Shares of ₹10/- each  | 2,500.00  | -  |
+| B.  | Issued, Subscribed & Paid-up Share Capital prior to  the Issue  |  |  |
+| B.  | 1,50,00,000 Equity Shares of ₹10/- each  | 1,500.00  | -  |
+| C.  | Present issue in terms of the Prospectus of upto  80,79,600 Equity Shares having Face Value of ₹ 10/-  each at a price of ₹ 110/- each  (1)  |  |  |
+| C.  | Consisting of:  |  |  |
+| C.  | Fresh Public Issue of upto 80,79,600 Equity Shares of  face value ₹ 10/-each at a Premium of ₹ 100/- per share  | 807.96  | 8,887.56  |
+| C.  | of Which:  |  |  |
+| C.  | 4,04,400 Equity Shares at an Issue Price of ₹ 110/- per  Equity Share is reserved as Market Maker Portion  (2)  | 40.44  | 444.84  |
+| C.  | Net Issue to Public of 76,75,200 Equity Shares at an  Issue Price of ₹ 110/- per Equity Share to the Public  | 767.52  | 8,442.72  |
+| C.  | of the Net Issue to the Public  (3)  |  |  |
+| C.  | 38,37,600 Equity Shares for cash at a price of ₹ 110/-  per Equity Share will be available for Allocation to  Individual Investors who applies for minimum  application size.  | 383.76  | 4,221.36  |
+| C.  | 38,37,600 Equity Shares for cash at a price of ₹ 110/-  per Equity Share will be available for Allocation to  individual applicants who applies for more than  minimum application size and other investors including  corporate bodies or institutions, irrespective of the  number of specified securities applied for. | 383.76  | 4,221.36  |
+| D.  | Issued, Subscribed and Paid-Up Share Capital after  the Issue  |  |  |
+| D.  | 2,30,79,600 Equity Shares of Face Value of ₹ 10/- each  | 2,307.96  | 2,307.96  |
+| E.  | Securities Premium Account  |  |  |
+| E.  | Before the Issue  | Nil (5)  | Nil (5)  |
+| E.  | After the Issue  | 8,079.60  | 8,079.60  |
+*(1)*    *The present Issue has been authorized by the Board of Directors vide a resolution passed at its meeting held* *on August 05, 2025, and by the shareholders of our Company vide a special resolution passed pursuant to* *Section 23 & 62(1)(c) of the Companies Act, 2013 at the Extra Ordinary General Meeting held on August 29,* *2025.*

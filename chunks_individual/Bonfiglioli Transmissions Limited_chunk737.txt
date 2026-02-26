@@ -1,0 +1,17 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+## **Mechanism for redressal of investor grievances**
+
+In terms of SEBI ICDR Master Circular  and subject to applicable law, any ASBA Bidder whose Bid has not been considered for Allotment, due to failure on the part of any SCSB, shall have the option to seek redressal of the same by the concerned SCSB within three months of the date of listing of the Equity Shares. SCSBs are required to resolve these complaints within 15 days, failing which the concerned SCSB would have to pay interest at the rate of 15% per annum for any delay beyond this period of 15 days. Further, the investors shall be compensated in the manner specified in the SEBI ICDR Master Circular in the events of delayed unblock for cancelled/withdrawn/deleted applications, blocking of multiple amounts for the same UPI application in the following manner:
+**Scenario Compensation amount Compensation period** Delayed unblock for ₹100 per day or 15% per annum of the From the date on which the request for
+
+**Scenario Compensation amount Compensation period** cancelled/withdrawn/deleted applications
+Bid Amount, whichever is higher cancellation/withdrawal/deletion is placed on the bidding platform of the Stock Exchanges till the date of actual unblock Blocking of multiple amounts for the same Bid made through the UPI Mechanism
+1.  Instantly revoke the blocked funds other than the original Bid Amount 2.  ₹100 per day or 15% per annum of the total cumulative blocked amount except the original Bid Amount, whichever is higher
+From the date on which multiple amounts were blocked till the date of actual unblock
+Blocking more amount than the Bid Amount
+1.  Instantly revoke the difference amount, i.e., the blocked amount less the Bid Amount; and 2.  ₹100 per day or 15% per annum of the difference amount, whichever is higher
+From the date on which the funds to the excess of the Bid Amount were blocked till the date of actual unblock
+Delayed unblock for non- Allotted/partially Allotted applications
+₹100 per day or 15% per annum of the Bid Amount, whichever is higher
+From the Working Day subsequent to the finalisation of the Basis of Allotment till the date of actual unblock

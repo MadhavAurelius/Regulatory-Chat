@@ -1,0 +1,35 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+## **1. Risk mitigation strategies for investments with each kind of originator**
+
+### **B] Non-Government Debt**
+
+Provided that the limit mentioned in clause (a) of sub-regulation 4 above shall be inclusive of 10 per cent limit for mutual fund Investment Strategy as specified under clause 13 (a) of Seventh Schedule.
+(b) An investment strategy under Specialized Investment Fund shall not invest - (i) more than 20 per cent of its NAV in the units of REITs and InvITs; and (ii) more than 10 per cent of its NAV in the units of REIT and InvIT issued by a single issuer:
+Provided that the limits mentioned in sub-clauses (i) and (ii) above shall not be applicable for investments in case of index fund or sector or industry specific Investment Strategy pertaining to REIT and InvIT.
+-  The investment strategies under the SIF may take exposure of up to 25% of the net assets in permissible
+
+ exchange traded derivative instruments, specifically for purposes other than hedging and portfolio rebalancing. *Explanation: This provision allows an investment strategy under the SIF to take unhedged short exposure* *through derivative instruments of up to 25% of net assets, in addition to derivative exposure undertaken* *for hedging and portfolio rebalancing purposes*
+
+-  The Investment strategy  shall not invest in unlisted debt instruments including commercial papers (CPs),
+
+ other than (a) government securities, (b) other money market instruments and (c) derivative products such as Interest Rate Swaps (IRS), Interest Rate Futures (IRF), etc. which are used by mutual funds for hedging. However, mutual fund investment strategy s may invest in unlisted Non-Convertible Debentures (NCDs) not exceeding 10% of the debt portfolio of the investment strategy  subject to the condition that such unlisted NCDs have a simple structure (i.e. with fixed and uniform coupon, fixed maturity period, without any options, fully paid up upfront, without any credit enhancements or structured obligations) and are rated and secured with coupon payment frequency on monthly basis.
+Provided further that, the Investment strategy  shall comply with the norms under this clause within the time and in the manner as may be specified by the Board.
+-  Transfer of investments from one investment strategy  to another investment strategy  in the Mutual Fund
+
+ is permitted provided: −  Such transfers are done at the prevailing market price for quoted instruments on spot basis (spot basis shall have the same meaning as specified by a Stock Exchange for spot transactions); and −  The securities so transferred shall be in conformity with the investment objective of the Investment strategy  to which such transfer has been made. Transfer of investments from one investment strategy  to another investment strategy  in the Mutual Fund is permitted provided the same are line with para 12.30 of SEBI Master Circular on Mutual Funds.
+-  The Investment strategy may invest in other investment strategies under the same AMC or any other
+
+ Mutual Fund without charging any fees, provided the aggregate inter-investment strategy investment made by all the Investment strategies under the same management or in investment strategies under management of any other Asset Management Company shall not exceed 5% of the Net Asset Value of the SIF. No investment management fees shall be charged for investing in other investment strategy of the fund or in the investment strategy of any other Mutual Fund.
+-  The Mutual fund shall buy and sell securities on the basis of deliveries and shall in all cases of purchases,
+
+ take delivery of relevant securities and in all cases of sale, deliver the securities. Further the Mutual fund may enter into derivatives transactions in a recognized stock exchange, subject to the framework specified by SEBI. Provided further that sale of government security already contracted for purchase shall be permitted in accordance with the guidelines issued by the Reserve Bank of India in this regard.
+-  The cumulative gross exposure through equity, debt, derivative positions (including commodity and fixed
+
+ income derivatives), repo transactions and credit default swaps in corporate debt securities, Real Estate Investment Trusts (REITs), Infrastructure Investment Trusts (InvITs), other permitted securities/assets and such other securities/assets as may be permitted by the Board from time to time should not exceed 100% of the net assets of the investment strategy.
+-  Pending deployment of the corpus of the Investment strategy  in securities in terms of investment
+
+ objective, the Fund can invest the corpus of the Investment strategy  in short term deposits of scheduled commercial banks in accordance with the guidelines issued by SEBI. Accordingly, as presently prescribed, the requirements of para 12.16 of SEBI Master Circular and such other guidelines as may be specified by SEBI from time to time:
+*-*   “Short Term” for parking of funds shall be treated as a period not exceeding 91 days. Such short-term
+
+ deposits shall be held in the name of the Investment strategy .

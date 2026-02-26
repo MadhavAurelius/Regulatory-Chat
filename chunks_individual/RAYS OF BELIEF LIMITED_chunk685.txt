@@ -1,0 +1,50 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Acquisition of Subsidiary and Recognition of Provisional Goodwill**
+
+**b) Impact of the change in salary increase**
+|  Particulars  |  As at  30 Sep 2025  |  As at  March 31, 2025  |  As at  March 31, 2024  |  As at  March 31, 2023  |
+|:---|:---|:---|:---|:---|
+| Present Value of Obligation at the end of the period | 6.65  | 0.42  | 2.41  | 1.33  |
+| Impact due to increase of  0.50%  | 0.10  | 0.07  | 0.04  | 0.03  |
+| Impact due to decrease of  0.50 %  | (0.10)  | (0.07)  | (0.04)  | (0.02)  |
+**Leave Encashment:**
+**Summary of results**
+|  Asset/Liablity  |  As at  30 Sep 2025  |  As at  March 31, 2025  |  As at  March 31, 2024  |  As at  March 31, 2023  |
+|:---|:---|:---|:---|:---|
+| Present value of obligation  | 4.76  | 3.44  | 2.45  | 1.75  |
+| Fair value of plan assets  | --  | --  | --  | --  |
+| Net assets / (liability) recognized in balance sheet as provision | (4.76)  | (3.44)  | (2.45)  | (1.75)  |
+**Summary of membership data:-**
+|  Particulars  |  As at  30 Sep 2025  |  As at  March 31, 2025  |  As at  March 31, 2024 |  As at  March 31, 2023 |
+|:---|:---|:---|---:|---:|
+| a) Number of employees  | 517  | 458.00  |  365  |  249  |
+| b)Total Monthly Salary for (millions) leave encashment | 11.29  | 6.89  |  6.89 |  4.69 |
+| c)Total Monthly Salary for (millions)) leave availment | 20.63  | 12.07  |  12.07 |  8.42 |
+| d) Average Past Service (Years)  | 1.48  | 1.39  |  1.14 |  1.03 |
+| e) Average Age (Years)  | 29.15  | 29.00  |  28.81 |  28.78 |
+| f)Average remaining (Years) working life  | 30.85  | 31.19  |  31.19 |  31.22 |
+| g) Leave balance considered on valuation date  | 5,614  | 4,497.48  |  3361  |  2348.12 |
+| h) Weighted average duration of PBO  | 2.01  | 2.01  |  2.02 |  2.01 |
+**a) Economic Assumptions**
+|  Particulars  |  As at  30 Sep 2025 |  As at  March 31, 2025 |  As at  March 31, 2024 |  As at  March 31, 2023 |
+|:---|---:|---:|---:|---:|
+| i)  Discounting Rate  |  7.38 |  7 |  7.39 |  7.39 |
+| ii)  Future salary Increase |  6  |  6 |  6  |  6  |
+**b) Demographic Assumptions**
+|  Particulars  |  As at  30 Sep 2025  |  As at  March 31, 2025  |  As at  March 31, 2024  |  As at  March 31, 2023  |
+|:---|:---|:---|:---|:---|
+| i)  Retirement Age  (Years)  | 60  | 60  | 60  | 60  |
+| ii)  Mortality rate  inclusive of Provision for disability | 100% of IALM  (2012 - 14) | 100% of IALM (2012 -  14) | 100% of IALM (2012 -  14) | 100% of IALM (2012 -  14) |
+| iii)  Ages  | Withdrawal Rate  %  | Withdrawal Rate %  | Withdrawal Rate %  | Withdrawal Rate %  |
+| Up to 30 Years  | 45  | 45  | 45  | 45  |
+| From 31 to 44 years  | 35  | 35  | 35  | 35  |
+| Above 44 years  | 17  | 17  | 17  | 17  |
+| iii)  Leave  |  |  |  |  |
+| Leave Availment Rate  | 3.00%  | 3.00%  | 3.00%  | 3.00%  |
+| Leave Lapse rate while in service  | --  | --  | --  | --  |
+| Leave Lapse rate on exit  | --  | --  | --  | --  |
+| Leave encashment Rate while in service  | --  | --  | --  | --  |
+The Company recognizes leave encashment liability in accordance with the principles laid down under Ind AS 19,  *Employee Benefits*  . The liability is determined based on an actuarial valuation performed using the projected unit credit method.

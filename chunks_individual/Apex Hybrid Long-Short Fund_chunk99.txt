@@ -1,0 +1,31 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+## **1. Risk mitigation strategies for investments with each kind of originator**
+
+### **E. Transaction charges and stamp duty-**
+
+^
+Surcharge rates are as under:
+-   * **In case of Resident Corporate** *   * **As** *   * **se** *   * **ss** *   * **es (Domestic companies):** *
+|  Sr  no.  |  Particulars  |  Applicable Surcharge rate (For  Resident Corporates)  |
+|---:|:---|:---|
+|  1 | Total income between Rs. 1 crore to Rs. 10 crores  | 7%  |
+|  2 | Total income above Rs. 10 crores  | 12%  |
+|  3 | Corporates opting for lower tax rates of under  section 115BAA or 115BAB | 10%  |
+
+*-*    * **In case of Foreign Companies:** *
+|  Sr  no.  |  Particulars  |  Applicable Surcharge rate (For  Foreign companies)  |
+|---:|:---|:---|
+|  1 | Total income between Rs. 1 crore to Rs. 10 crores | 2%  |
+|  2 | Total income above Rs. 10 crores  | 5%  |
+
+-  * **In case of Non- Corporate A** *   * **sses** *   * **ses** *   * **(I** *   * **ndividual / HUF) (Resident and Non-resident):** *
+|  Sr.  no  |  Particulars  |  Applicable Surcharge rate (For Individual / HUF)  |  Applicable Surcharge rate (For Individual / HUF)  |  Applicable Surcharge rate (For Individual / HUF)  |  Applicable Surcharge rate (For Individual / HUF)  |
+|:---|:---|:---|:---|:---|:---|
+| Sr.  no  | Particulars  | Old Tax Regime  | Old Tax Regime  | New Tax Regime  | New Tax Regime  |
+| Sr.  no  | Particulars  | Income  other than  Equity  capital gains  | Equity  capital  gains  income  | Income  other than  Equity  capital gains  | Equity capital  gains income  |
+| 1.  | Total income up to  Rs. 50 lakhs  | Nil  | Nil  | Nil  | Nil  |
+| 2.  | Income exceeds Rs.  50 lakhs but does not  exceed Rs. 1 crore  | 10%  | 10%  | 10%  | 10%  |
+| 3.  | Income exceeds Rs. 1  crore but does not  exceed Rs. 2 crores  | 15%  | 15%  | 15%  | 15%  |
+| 4.  | Income exceeds Rs. 2  crores but does not  exceed Rs. 5 crores | 25%  | 15%  | 25%  | 15%  |
+| 5.  | Income exceeds Rs. 5  crores  | 37%  | 15%  | 25%  | 15%  |

@@ -1,0 +1,40 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **1. CAPITAL EXPENDITURES:**
+
+##### **A. CIVIL, STRUCTURAL & INFRASTRUCTURE WORKS FOR 200 TPD SOYA SOLVENT REFINERY PROJECT:**
+
+The detailed component of the estimated cost is provided below:
+|  Civil, Structural & Infrastructure works for Soya Solvent Refinery Plant (Capacity of 200 TPD)  |  Civil, Structural & Infrastructure works for Soya Solvent Refinery Plant (Capacity of 200 TPD)  |  Civil, Structural & Infrastructure works for Soya Solvent Refinery Plant (Capacity of 200 TPD)  |
+|:---|:---|:---|
+| S. No.  | Particular  | ₹  in Lakhs  |
+| 1  | Factory Building & Structures  | Factory Building & Structures  |
+| 1  | Main refinery building (RCC + steel structure with sheeting)  | 1,000.00  |
+| 1  | Warehouse & finished goods storage  | 1,000.00  |
+| 1  | Utility block (boiler house, compressor house)  | 1,000.00  |
+| 1  | Admin & laboratory block  | 1,000.00  |
+| 1  | Roads, stormwater drainage, compound wall  | 1,000.00  |
+| 2  | Oil & Storage Tanks  | Oil & Storage Tanks  |
+| 2  | Crude oil storage tanks  | 500.00  |
+| 2  | Refined oil tanks  | 500.00  |
+| 2  | Intermediate utility tanks (acid oil, soap stock, spent earth oil)  | 500.00  |
+| 2  | Dyke walls, tank farm piping  | 500.00  |
+| 3  | ETP (Effluent Treatment Plant)  | ETP (Effluent Treatment Plant)  |
+| 3  | Physico-chemical treatment, biological tanks, clarifiers, filter press,  sludge drying beds  | 150.00  |
+| 3  | Oil & grease traps, zero liquid discharge provision  | 150.00  |
+| 4  | Fire Fighting & Safety System  | Fire Fighting & Safety System  |
+| 4  | Fire hydrant system, fire pumps & jockey pumps  | 150.00  |
+| 4  | Automatic sprinklers & extinguishers in key areas  | 150.00  |
+| 4  | Safety systems, alarms, flame-proof lighting  | 150.00  |
+| 5  | Structural Steel Works  | Structural Steel Works  |
+| 5  | Pipe racks, platforms, supporting structures  | 500.00  |
+| 5  | Tank farm & utility structures  | 500.00  |
+| 5  | Miscellaneous steel fabrication (walkways, ladders, gratings)  | 500.00  |
+| 6  | Miscellaneous Provisions  | Miscellaneous Provisions  |
+| 6  | Land development & levelling (filling, compaction, landscaping)  | 700.00  |
+| 6  | Electrical infrastructure (HT/LT line, substation, cabling, panels)  | 700.00  |
+| 6  | Statutory approvals, licenses, consultancy, & contingencies  | 700.00  |
+| Sub-Total  | Sub-Total  | 3,000.00  |
+| GST @ 18%  | GST @ 18%  | 540.00  |
+| Grand Total  | Grand Total  | 3,540.00  |
+| Terms & Conditions:  a.  Prices are indicative and subject to final engineering & detailed design.  b.  Validity of Quotation: 6 months from the date of quotation. | Terms & Conditions:  a.  Prices are indicative and subject to final engineering & detailed design.  b.  Validity of Quotation: 6 months from the date of quotation. | Terms & Conditions:  a.  Prices are indicative and subject to final engineering & detailed design.  b.  Validity of Quotation: 6 months from the date of quotation. |

@@ -1,0 +1,30 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **RISKS FACTORS ASSOCIATED WITH INVESTMENTS IN CORPORATE DEBT SECURITIES:**
+
+-  **Credit Risk:**  Corporate bonds have the potential to default, in which case, the bond-holder may lose
+
+ all or part of the principal and interest payable. This is why corporate bonds enjoy higher yields than government bonds. The performance of the Investment Strategy may be affected by the corporate performance, macro-economic factors, changes in Government policies, general levels of interest rates and risk associated with trading volumes, liquidity and settlement systems in the securities markets.
+
+-  **Interest Rate risk:**  Interest rates (yields) and bond prices move in opposite directions. A general
+
+ increase in interest rates in the market or a downgrading of the credit rating of the issuer or the specific bond, will lead to a decrease in the price of the bond. Generally, a longer duration bond will be more sensitive to changes in yields, other things remaining the same.
+
+-  **Liquidity Risk:**  Corporate bonds are often traded over-the-counter, i.e. they may not be listed and
+
+ traded through a stock exchange terminal. Hence, an active market for a bond may not always exist and it may take time to find a buyer, which can delay redemption payments in extra-ordinary circumstances. Moreover, there might be more price impact of a large position if the market is not liquid.
+
+-  **Price-Risk or Interest-Rate Risk:**  The fund will invest in a basket of debt and money market securities
+maturing on or before maturity of the fund with a view to hold them till the maturity of the fund. While the interim NAV will fluctuate in response to changes in interest rates, the final NAV will be more stable. To that extent the interest rate risk will be mitigated at the maturity of the Investment Strategy.
+
+-  **Reinvestment Risk:**  Reinvestment risks will be limited to the extent of coupons received on debt
+
+ instruments, which will be a very small portion of the portfolio value.
+
+-  **Concentration Risk:**  The Fund Manager shall endeavor to mitigate the risk by taking exposure to high
+
+ rated instruments and locking in at the point of investment to such issuance yields. While these measures are expected to mitigate the above risks to a large extent, there can be no assurance that these risks would be completely eliminated.
+
+-  **Options features:**  Some bonds have put / call features. A put feature allows the bond holder to sell the
+
+ security back to the issuer before maturity, whereas a call option allows the issuer to call it back., reinvestment risk might be created due to investment in options, if yields fall, i.e the funds received from early maturity will then be reinvested at a lower interest rate or there may not be good opportunities to invest due to which the excess funds may remain in cash which may hamper returns.

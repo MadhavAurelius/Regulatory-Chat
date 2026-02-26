@@ -1,0 +1,67 @@
+#
+
+## **3B.4 Indian Soybean Industry**
+
+##### **Top Import Sources (FY25)**
+
+*Source: Directorate General of Commercial Intelligence and Statistics (DGCI&S) | HS Code: 1507901*
+##### * **III.** *    * **Soymeal (De-oiled Cake)** *
+Soymeal, also referred to as de-oiled cake, is the protein-rich residue obtained after oil extraction from soybeans. It typically contains 40- 48% protein and is widely used in the animal feed industry as a critical ingredient for poultry, dairy, and aquaculture feed.
+There are two primary types of soymeal based on protein content and processing:
+**Regular (Standard) Soymeal**
+
+-   **Protein Content**  : Typically ranges from 44% to
+
+ 46%.
+
+-   **Composition**  : Retains a moderate level of
+
+ soybean hulls, contributing to higher fiber content.
+
+-   **Usage**  : Commonly used in dairy and ruminant
+
+ feed, where slightly higher fiber is acceptable or even beneficial.
+
+-   **Cost**  : Relatively lower due to less intensive
+
+ processing.
+**High Protein Soymeal (HiPro)**
+
+-   **Protein Content**  : Typically, 47% to 49%.
+
+-   **Composition**  : Produced by dehulling soybeans
+
+ before oil extraction, resulting in lower fiber and higher protein content.
+
+-   **Usage**  : Preferred in poultry, piggery, and
+
+ aquaculture feed, where higher protein digestibility and lower fiber are critical.
+
+-   **Cost**  : Slightly higher due to additional processing
+
+ and superior nutritional profile.
+##### **Trade Summary Table (FY25 vs FY24)**
+|  Metric  |  FY24 (Revised Final)  |  FY25 (Final)  |  Y-o-Y Change (%)  |
+|:---|---:|---:|:---|
+| Exports (USD Million) |  842.9  |  747.53 | 11.31%  |
+| Imports (USD Million) |  18.19 |  5.9  | 67.57%  |
+**Net Trade Surplus:**  USD 741.63 Million in FY25 India continues to be a  **net exporter**  of soymeal, although export volumes dipped due to global price fluctuations and logistical challenges.
+##### **Top Export Destinations (FY25)**
+|  Country  |  Export Value  (USD Mn)  |  Share (%)  |
+|:---|---:|:---|
+| Germany  |  128.69 | 17.21%  |
+| France  |  82.61 | 11.05%  |
+| Nepal  |  80.98 | 10.83%  |
+| Iran  |  70.63 | 9.45%  |
+| Others  |  384.62 | 51.46%  |
+| Total  |  747.53 | 100%  |
+*Germany, France, Nepal, and Iran together* *accounted for nearly 50% of India’s soymeal exports.*
+##### **Top Import Sources (FY25)**
+|  Country  |  Import Value  (USD Mn)  |  Share  (%)  |
+|:---|---:|:---|
+| Benin  |  4.4  | 74.58%  |
+| Ethiopia  |  1.01 | 17.12%  |
+| Others  |  0.49 | 8.31%  |
+| Total  |  5.9  | 100%  |
+*Imports remained negligible, reaffirming India’s* *strong domestic production capacity and export* *orientation.*
+India’s soymeal trade performance in FY25 was shaped by export competitiveness, protein feed demand in key geographies, and fluctuations in global soybean crushing margins. Going forward, India’s export potential is expected to remain resilient with favourable crop cycles and international demand recovery.

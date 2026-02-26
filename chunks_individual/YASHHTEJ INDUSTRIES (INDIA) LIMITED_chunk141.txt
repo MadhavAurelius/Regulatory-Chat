@@ -1,0 +1,17 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **18. Promoter’s Contribution and Lock-in details:**
+
+##### **b. The details of lock-in of shares for 3 (three) years are as under:**
+
+The minimum Promoter’s contribution has been brought in to the extent of not less than the specified minimum lot and from persons defined as “Promoter” under the SEBI (ICDR) Regulations. All Equity Shares, which are being locked in are not ineligible for computation of Minimum Promoters Contribution as per Regulation 237 of the SEBI (ICDR) Regulations and are being locked in for 3 years as per Regulation 238(a) of the SEBI (ICDR) Regulations i.e. for a period of three years from the date of allotment of Equity Shares in this Issue.
+**ELIGIBILITY OF SHARE FOR “MINIMUM PROMOTERS CONTRIBUTION IN TERMS OF CLAUSES OF REGULATION 237(1) OF SEBI (ICDR) REGULATIONS, 2018**
+|  Reg. No.  |  Promoters’ Minimum Contribution  Conditions  |  Eligibility Status of Equity Shares  forming  part  of  Promoter’s  Contribution  |
+|:---|:---|:---|
+| 237(1) (a) (i)  | Specified securities acquired during the  preceding three years, if they are acquired  for consideration other than cash and  revaluation of assets or capitalization of  intangible assets is involved in such  transaction  | The minimum Promoter’s contribution  does not consist of such Equity Shares.  Hence Eligible |
+| 237 (1) (a) (ii) | Specified securities acquired during the  preceding three years, resulting from a  bonus issue by utilization of revaluation  reserves or unrealized profits of the issuer  or from bonus issue against Equity Shares  which  are  ineligible  for  minimum  promoters’ contribution | The minimum Promoter’s contribution  does not consist of such Equity Shares.  Hence Eligible |
+90
+|  237 (1) (b)  |  Specified securities acquired by promoters  during the preceding one year at a price  lower than the price at which specified  securities are being offered to public in the  initial public offer  |  The minimum Promoter’s contribution  does not consist of such Equity Shares.  Hence Eligible .  |
+|:---|:---|:---|
+| 237(1) (c)  | Specified securities allotted to promoters  during the preceding one year at a price  less than the issue price, against funds  brought in by them during that period, in  case of an issuer formed by conversion of  one or more partnership firms or limited  liability partnerships, where the partners  of the erstwhile partnership firms or  limited liability partnerships are the  promoters of the issuer and there is no  change in the management: Provided that  specified securities, allotted to promoters  against capital existing in such firms for a  period of more than one year on a  continuous basis, shall be eligible | The minimum Promoter’s contribution  does not consist of such Equity Shares.  Hence Eligible .  |
+| 237 (1) (d)  | Specified securities pledged with any  creditor.  | Our Promoters have not pledged any  shares with any creditors. Accordingly,  the minimum Promoter’s contribution  does not consist of such Equity Shares.  Hence Eligible . |

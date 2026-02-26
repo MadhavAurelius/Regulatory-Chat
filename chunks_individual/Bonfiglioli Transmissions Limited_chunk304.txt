@@ -1,0 +1,5 @@
+## **Industry Trends for the Drives used in the Wind Energy Segment**
+i.   **Domestic Manufacturing Push**  - With new norms requiring localization of key wind-turbine components and drives, Indian manufacturers are increasingly investing in in-country production.
+ii.   **Shift Toward Higher-Torque Drive Systems -**  India’s wind market is moving from sub-2 MW to 3-6 MW turbines, driving demand for higher-torque yaw and pitch drives.
+iii.   **Digitalisation & Smart Drive Systems -**  Indian developers are embracing drives with embedded sensors, predictive maintenance, and real-time monitoring, especially for challenging wind zones.
+iv.   **Offshore Readiness in Focus -**  While onshore dominates, India’s planned offshore wind expansion is driving demand for high-specification yaw/pitch drives capable of corrosive marine conditions, larger turbines, and longer operational life spans.

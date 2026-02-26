@@ -1,0 +1,16 @@
+## * **A.** *    * **Evolving Demand for Advanced Gearboxes and Gear Motors in India** *
+-  Indian users are increasingly shifting from conventional worm to helical, bevel-helical, and planetary
+
+ gearboxes.
+-  Domestic manufacturers are scaling design capabilities and forging alliances for precision-cut gears and
+
+ surface-hardened components, reducing import reliance and improving durability in harsh Indian operating conditions.
+-  Demand is being pulled by high-growth verticals like renewables (wind, solar trackers), intralogistics,
+
+ packaging, and EV drivetrain manufacturing, where compact, modular gear motors with high protection class ratings (IP65+) are increasingly preferred.
+-  The move toward IE3/IE4-compliant gear motors is accelerating, supported by energy-audit norms and
+
+ cost-of-ownership awareness, leading OEMs to integrate VFD-ready motors.
+-  High-performance industrial users are increasingly adopting condition-monitoring-enabled gearboxes
+
+ and digitally connected gear motors.

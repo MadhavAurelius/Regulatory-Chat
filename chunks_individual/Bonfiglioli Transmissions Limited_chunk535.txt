@@ -1,0 +1,24 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+## **Working Capital (A-B) 6,037.72 5,327.74 4,908.51 4,793.81**
+
+* **Cash Conversion Cycle** * Cash Conversion Cycle is calculated as receivable days plus inventory days minus payable days (in which receivable days is calculated as receivables divided by revenue from operations -  continuing operations multiplied by number of days; inventory days is calculated as inventory divided by cost of goods sold multiplied by number of days; and payable days is calculated as payables divided by purchase of raw materials and components plus stock-in-trade multiplied by number of days; where cost of goods sold is the sum of cost of raw materials and components consumed; change in inventory, purchases of stock-in-trade, receivables, inventory and payables taken as of end of period/year)
+*Reconciliation of cash conversion cycle*
+**Particulars As at and for the nine months period ended September 30, 2025**
+**As at and for the years ended December 31, 2024 December 31, 2023**
+**December 31, 2022**
+* **(₹ in million except percentages)** * Number of days in Period (A) 273 366 365 365 Trade Receivables (B) 4,787.26 4,095.62 4,103.34 3,767.40 Revenue from Operations -  Continuing Operations (C)
+14,601.74 18,640.79 16,875.07 15,588.01
+**Receivable Days Outstanding (D=A*B/C)**
+**90 80 89 88**
+
+Inventories (E)  3,356.72 3,107.00 3,315.60 2,628.42 Cost of raw materials & components consumed (F)
+9,107.44 11,885.52 11,112.52 9,921.60
+Changes in inventories of finished goods and work-in-progress (G)
+104.64 43.06 (268.86) (0.59)
+Cost of Goods Sold (H=F+G) 9,212.08 11,928.58 10,843.66 9,921.00 **Inventory Days Outstanding (I=A*E/H)**
+**99 95 112 97**
+
+Trade Payables (J) 3,798.69 3,093.60 3,815.60 2,817.09 Purchase of raw materials & components consumed (K)
+9,461.80 11,719.98 11,530.84 9,864.32
+**Payable Days Outstanding (L=A*J/K) 110 97 121 104**

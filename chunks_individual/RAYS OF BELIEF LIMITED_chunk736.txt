@@ -1,0 +1,12 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **h. Leases**
+
+The Company, as a lessee, recognises a right-of-use asset and a lease liability for its leasing arrangements, if the contract conveys the right to control the use of an identified asset. The contract conveys the right to control the use of an identified asset, if it involves the use of an identified asset and the Company has substantially all of the economic benefits from use of the asset and has right to direct the use of the identified asset. The cost of the right-of- use asset shall comprise of the amount of the initial measurement of the lease liability adjusted for any lease payments made at or before the commencement date plus any initial direct costs incurred. The right-of-use assets is subsequently measured at cost less any accumulated depreciation, accumulated impairment losses, if any and adjusted for any remeasurement of the lease liability. The right-of-use assets is depreciated using the straight-line method from the commencement date over the shorter of lease term or useful life of right-of-use asset.
+The Company measures the lease liability at the present value of the lease payments that are not paid at the commencement date of the lease. The lease payments are discounted using the interest rate implicit in the lease, if that rate can be readily determined. If that rate cannot be readily determined, the Company uses incremental borrowing rate. For short-term and low value leases, the Company recognises the lease payments as an operating expense on a straight-line basis over the lease term.  *”*
+Impairment of financial assets (other than at fair value)
+The Company recognizes loss allowances using the Expected Credit Loss (ECL) model for the financial assets which are not fair valued through profit or loss. Loss allowance for trade receivables with no significant financing component is measured at an amount equal to lifetime ECL.
+
+Lifetime expected credit losses are the expected credit losses that result from all possible default events over the expected life of a financial instrument.

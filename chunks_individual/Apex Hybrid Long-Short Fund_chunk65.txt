@@ -1,0 +1,24 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+## **1. Risk mitigation strategies for investments with each kind of originator**
+
+### **Risks due to possible prepayments: Weighted Tenor / Yield**
+
+Asset securitization is a process whereby commercial or consumer credits are packaged and sold in the form of financial instruments Full prepayment of underlying loan contract may arise under any of the following circumstances;
+
+-  Obligor pays the Receivable due from him at any time prior to the scheduled maturity date of that
+
+ Receivable; or
+
+-  Receivable is required to be repurchased by the Seller consequent to its inability to rectify a material
+
+ misrepresentation with respect to that Receivable; or
+
+-  The Servicer recognizing a contract as a defaulted contract and hence repossessing the underlying Asset
+
+ and selling the same
+
+-  In the event of prepayments, investors may be exposed to changes in tenor and yield.
+Risk Mitigation: A certain amount of prepayments is assumed in the calculations at the time of purchase based on historical trends and estimates. Further a stress case estimate is calculated and additional margins are built in.
+**Bankruptcy of the Investor’s Agent** If Investor’s agent becomes subject to bankruptcy proceedings and the court in the bankruptcy proceedings concludes that the recourse of Investor’s Agent to the assets/receivables is not in its capacity as agent/Trustee but in its personal capacity, then an Investor could experience losses or delays in the payments due under the swap agreement.
+Risk Mitigation: All possible care is normally taken in structuring the transaction and drafting the underlying documents so as to provide that the assets/receivables if and when held by Investor’s Agent is held as agent and in Trust for the Investors and shall not form part of the personal assets of Investor’s Agent.

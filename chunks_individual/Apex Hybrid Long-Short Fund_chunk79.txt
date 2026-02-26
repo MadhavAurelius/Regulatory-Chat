@@ -1,0 +1,40 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+## **1. Risk mitigation strategies for investments with each kind of originator**
+
+### **Inter-Investment Strategy Transfers**
+
+Following are the Fundamental Attributes of the investment strategy, in terms of Clause 1.14 of
+Std Obs 59
+SEBI Master Circular for Mutual Funds:
+(i)   **Type of investment strategy:**  An interval investment strategy investing in equity and debt securities, including limited short exposure in equity and debt through derivatives.
+(ii)   **Investment Objective:**
+-   **Main Objective:**  An interval investment strategy investing in arbitrage, long equity, debt,
+
+ equity and debt derivatives, long short and REITs/InVITs including limited short exposure on permitted instruments through derivatives.
+There is no assurance that the investment objective of the Investment strategy will be achieved.
+-   **Asset Allocation Pattern:**  Please refer to ‘Part B- Where will the Investment Strategy invest?’
+
+ of this ISID for details.
+(iii)   **Terms of Issue:**
+
+-   **Listing/Redemption of Units:**  As mentioned in “Other Investment Strategy Specific
+
+ Disclosures “of this ISID
+
+-   **Aggregate Fees and Expenses-**  Please refer to Part III of this ISID.
+
+-   **Any Safety Net or Guarantee provided:**  This Investment Strategy does not provide any
+
+ guaranteed or assured return to its Investors.
+
+In accordance with Regulation 18(15A) of the SEBI (MF) Regulations and Clause 1.14.1.4 of SEBI Master Circular for Mutual Funds, the Trustees shall ensure that no change in the fundamental attributes of the investment strategy or the trust or fee and expenses payable or any other change which would modify the investment strategy thereunder and affect the interests of Unitholders is carried out unless:
+-  SEBI has reviewed and provided its comments on the proposal
+
+-  A written communication about the proposed change is sent to each Unitholder and an
+
+ advertisement is given in one English daily newspaper having nationwide circulation as well as in a newspaper published in the language of the region where the Head Office of the Mutual Fund is situated; and
+
+-  The Unitholders are given an option for a period of atleast 30 calendar days to exit at the prevailing
+
+ Net Asset Value without any exit load.

@@ -1,0 +1,26 @@
+|  S.No. |  RC No. |  Name of the Defaulter  |  In the matter of  |  RC Amount (in Rs.)  |
+|---:|---:|:---|:---|:---|
+|  1 |  6 | Mr. Jayesh Shah  | Platinum Corporation Limited  | ₹  507,811.00  |
+|  2 |  8 | Mr. Parag Shah  | Platinum Corporation Limited  | ₹  507,811.00  |
+|  3 |  10 | Mr. Tushar Shah  | Platinum Corporation Limited  | ₹  169,937.00  |
+|  4 |  15 | Biren Kantilal Shah  | IPO Irregularities  | ₹  4,233,363.00  |
+|  5 |  16 | Biren Kantilal Shah  | IPO Irregularities  | ₹  594,370.00  |
+|  6 |  17 | Biren Kantilal Shah  | IPO Irregularities  | ₹  2,200,233.00  |
+|  7 |  25 | Zafar Sareshwala/Uves Sareshwala/Talla Y. Sareshwala/Saleha  Y. Sareshwala | Parsoli Corporation Limited  | ₹  43,030,041.00  |
+|  8 |  28 | Iftekhar Mohammed Yusuf Mansoor  | Parsoli Corporation Limited  | ₹  1,435,301.00  |
+|  9 |  30 | Abdul Hameed Abdul Gaffar Memon  | Parsoli Corporation Limited  | ₹  1,435,301.00  |
+|  10 |  31 | Abdulsamad Abdul Gafar Memon  | Parsoli Corporation Limited  | ₹  1,435,301.00  |
+|  11 |  34 | Uves Sareshwala  | Parsoli Corporation Limited  | ₹  1,003,740.00  |
+|  12 |  36 | Mohd. Younis Md. Habeeb Sareshwala  | Parsoli Corporation Limited  | ₹  401,701.00  |
+|  13 |  44 | Harsha M. Shah  | Ojas Technochem Products Ltd  | ₹  916,636.00  |
+|  14 |  48 | Rajkumar C Basantani  | Kolar Biotech Limited  | ₹  242,318,808.00  |
+|  15 |  49 | Kriptol Industries Ltd.  | Kriptol Industries Ltd.  | ₹  1,359,203.00  |
+|  16 |  51 | Usha Ispat Limited  | Usha Ispat Limited  | ₹  2,695,356.16  |
+|  17 |  59 | Gordon Herbert (India) Limited  | Gordon Herbert (India) Limited | ₹  1,376,780.82  |
+|  18 |  65 | Mr. Mahesh Thanvi  | E.Star Infotech Ltd.  | ₹  4,022,655.00  |
+|  19 |  78 | K. Natarahjan  | Pyramid Saimira Theatre Ltd.  | ₹  5,359,466.00  |
+|  20 |  79 | G. Ramakrishnan  | Pyramid Saimira Theatre Ltd.  | ₹  3,350,041.00  |
+|  21 |  80 | N Narayanan  | Pyramid Saimira Theatre Ltd.  | ₹  6,700,726.00  |
+|  22 |  82 | Girdharbhai Karu  | Kolar Biotech Ltd.  | ₹  4,393,658.00  |
+|  23 |  83 | Kishore Thakkar  | Ransi Software India Ltd.  | ₹  11,014,633.00  |
+**SEEKING INFORMATION ABOUT ASSETS AND PROPERTIES OF DEFAULTERS IN RECOVERY CERTIFICATES PENDING AS OF 31.12.2025 THAT ARE NOT SEGREGATED AS DIFFICULT TO RECOVER (DTR) TILL 31.12.2025** SEBI has initiated recovery proceedings against the following defaulters under section 28A of the Securities and Exchange Board of India Act, 1992 read with section 222 of the Income-tax Act, 1961 for recovery of the Recovery Certificate (RC) Amount along with interest and other costs. The recovery proceedings in respect of these defaulters are pending as on 31.12.2025. Any person having information about the assets or immovable properties of any of these defaulters may forward the information to Recovery Officer, SEBI at the address: The Recovery Officer,  Recovery and Refunds Department, SEBI Bhavan-II, Plot No. C4-A, 'G' Block, Bandra-Kurla Complex, Bandra (East), Mumbai, Maharashtra - 400051

@@ -1,0 +1,41 @@
+#
+
+## **2. Solar electricity generation an d s u pp l y**
+
+### Quality Inspection Storage
+
+##### **INSURANCE**
+
+*(The rest of the page is intentionally left blank)*
+
+##### **INSURANCE**
+The details of insurance coverage of the Company, as on the date of Prospectus:
+|  Sr.  No.  |  Insurance  Company  |  Type  of  Policy  |  Policy number  |  Asset insured  |  Validity  period  |  Sum  Insured  ( ₹  In  Lakhs)  |  Premiu m  ( ₹  In  Lakhs)  |
+|---:|:---|:---|:---|:---|:---|:---|---:|
+|  1  | The  Oriental  Insurance  Company  Limited  | Full  | 164491/11/2026/195  | Standard fire & Special  Perils Policy Building  Plant  &  Machinery  including Solar Unit &  RM, Stock in Progress  & FG Stock  | 08/08/2025  to  07/08/2026 | 9,000.00  |  14.97 |
+|  2  | Digit  Employees  Compensati on  Insurance  Policy | Full  | D187563963  | Employees  Compensation  Insurance Policy  | 23/05/2025  to  22/05/2026 | 43.20  |  0.22 |
+|  3  | The  Oriental  Insurance  Company  Limited.  | Full  | 164491/31/2026/1113  | EICHER/Pro  6025T/MC2BBMRC0R H117333  | 06/01/2026 to  05/01/2027 | 32.81  |  0.67 |
+|  4  | The  Oriental  Insurance  Company  Limited.  | Full  | 164491/31/2026/1116  | EICHER/Pro  6025T/MC2BBMRC0R H117334  | 06/01/2026 to  05/01/2027 | 32.81  |  0.67 |
+|  5  | The  Oriental  Insurance  Company  Limited  | Full  | 164491/11/2026/132  | Stock Insurance Policy  Burglary  | 09/07/2025  to  08/07/2026 | 200.00  |  0.14 |
+|  6  | The  Oriental  Insurance  Company  Limited  | Full  (First  Loss  25%) | 164491/48/2026/253  | BURGLARY - STOCK  OF ALL KINDS OF  OIL  SEEDS,  SOYBEEN, PULSES  AND SUCH OTHER  GOODS  PERTIANED  TO  INSURED  TRADE  | 10/07/2025  to  09/07/2026 | 200.00  |  0.01 |
+|  7  | The  Oriental  Insurance  Company  Limited  | Full  | 164400/31/2025/1925  | JOHN  DEERE  TRACTOR 45 HP  | 16/03/2025  to  15/03/2026 | 6.90  |  0.2  |
+|  8  | The  Oriental  Insurance  Company  Limited  | Full  (First  Loss  25%) | 164491/48/2026/319  (1) | BURGLARY - STOCK  OF ALL KINDS OF  OIL  SEEDS,  SOYBEEN ETC  | 25/07/2025  to  24/07/2026 | 500.00  |  0.01 |
+|  9  | The  Oriental  Insurance  Company  Limited  |  | 164491/11/2026/167  (2) | Fire Policy - Material  stored in Godown and  Silos  -  Storage  of  Category I hazardous  Goods  subject  to  warranty  that  goods  listed in Category II, III,  Coir waste, Coir fibre  and Caddies are not  stored therein | 25/07/2025  to  24/07/2026 | 500.00  |  0.3  |
+
+Note:
+|  (1) Endorsement Details for Policy 164491/48/2026/319  |  (1) Endorsement Details for Policy 164491/48/2026/319  |  (1) Endorsement Details for Policy 164491/48/2026/319  |  (1) Endorsement Details for Policy 164491/48/2026/319  |  (1) Endorsement Details for Policy 164491/48/2026/319  |  (1) Endorsement Details for Policy 164491/48/2026/319  |
+|:---|:---|:---|:---|:---|:---|
+| Insurance  Company  | Endorsement  Date  | Policy number  | Validity period  | Revised Sum  Insured  (₹ In Lakhs)  | Endorsement  Premium  (₹ In Lakhs)  |
+| The Oriental  Insurance  Company Limited  | 20/10/2025  | 164491/48/2026/319-001  | 20/10/2025 to  24/07/2026  | 375.00  | 0.03  |
+| The Oriental  Insurance  Company Limited  | 28/10/2025  | 164491/48/2026/319-002  | 28/10/2025 to  24/07/2026  | 750.00  | 0.04  |
+| The Oriental  Insurance  Company Limited  | 06/11/2025  | 164491/48/2026/319-003  | 06/11/2025 to  24/07/2026  | 1000.00  | 0.03  |
+| The Oriental  Insurance  Company Limited  | 15/11/2025  | 164491/48/2026/319-004  | 15/11/2025 to  24/07/2026  | 1250.00  | 0.03  |
+| The Oriental  Insurance  Company Limited  | 08/12/2025  | 164491/48/2026/319-005  | 08/12/2025 to  24/07/2026  | 1500.00  | 0.03  |
+|  |  |  |  |  |  |
+| (2) Endorsement Details for Policy 164491/11/2026/167  | (2) Endorsement Details for Policy 164491/11/2026/167  | (2) Endorsement Details for Policy 164491/11/2026/167  | (2) Endorsement Details for Policy 164491/11/2026/167  | (2) Endorsement Details for Policy 164491/11/2026/167  | (2) Endorsement Details for Policy 164491/11/2026/167  |
+| The Oriental  Insurance  Company Limited  | 25/07/2025  | 164491/11/2026/167-001  | 25/07/2025 to  24/07/2026  | Type of Endorsement:  Endorsement  for  change  in  address. | Type of Endorsement:  Endorsement  for  change  in  address. |
+| The Oriental  Insurance  Company Limited  | 20/10/2025  | 164491/11/2026/167-002  | 20/10/2025 to  24/07/2026  | 1500.00  | 0.60  |
+| The Oriental  Insurance  Company Limited  | 28/10/2025  | 164491/11/2026/167-003  | 28/10/2025 to  24/07/2026  | 3000.00  | 0.90  |
+| The Oriental  Insurance  Company Limited  | 06/11/2025  | 164491/11/2026/167-004  | 06/11/2025 to  24/07/2026  | 4000.00  | 0.60  |
+| The Oriental  Insurance  Company Limited  | 15/11/2025  | 164491/11/2026/167-005  | 15/11/2025 to  24/07/2026  | 5000.00  | 0.60  |
+| The Oriental  Insurance  Company Limited  | 08/12/2025  | 164491/11/2026/167-006  | 08/12/2025 to  24/07/2026  | 6000.00  | 0.60  |

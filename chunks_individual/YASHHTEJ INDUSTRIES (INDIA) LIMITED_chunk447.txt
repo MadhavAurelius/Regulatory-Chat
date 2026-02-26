@@ -1,0 +1,15 @@
+# Pursuant to Special Resolution passed at the Extra Ordinary General Meeting held on December 10, 2024, Equity Shares of face value of ₹100/- each of our Company were sub-divided into Equity Shares of face value of ₹10/- each.
+
+## **10. Other requirements**
+
+#### **SECTION IX: ISSUE RELATED INFORMATION**
+
+##### **AVAILABILITY OF PROSPECTUS AND APPLICATION FORMS**
+
+n.  The Designated Intermediaries will be given time till 1.00 p.m. on the next working day after the Issue Closing Date to verify the DP ID and Client ID uploaded in the online IPO system during the Issue Period, after which the Registrar to the Issue will receive this data from the Stock Exchange and will validate the electronic application details with Depository’s records. In case no corresponding record is available with Depositories, which matches the three parameters, namely DP ID, Client ID and PAN, then such applications are liable to be rejected.
+o.  The SCSBs shall be given one day after the Issue Closing Date to send confirmation of Funds blocked (Final certificate) to the Registrar to the Issue.
+p.  The details uploaded in the online IPO system shall be considered as final and Allotment will be based on such details for applications.
+##### **AVAILABILITY OF PROSPECTUS AND APPLICATION FORMS**
+The Memorandum containing the salient features of the Prospectus together with the Application Forms and copies of the Prospectus may be obtained from the Registered Office of our Company, from the Registered Office of the Lead Manager to the Issue, Registrar to the Issue as mentioned in the Application form. An electronic copy of the Application Form will also be available for download on the website of the Stock Exchange (BSE) i.e. www.bsesme.com at least one day prior to the Issue Opening Date.
+All the investors (except Individual Investors) applying in a public Issue shall use only Application Supported by Blocked Amount (ASBA) facility for making payment. Further, Individual Investors applying in public Issue through intermediaries shall use only UPI payment mechanism for application. The application form submitted by NIIs and QIBs must provide applicant’s bank account details and authorization to block funds in the relevant space provided in the Application Form. Further, Individual Investors submitting application form using UPI shall mention the UPI of his/her own Bank account in the application form in the relevant space. The Application Forms that do not contain applicant’s bank account details or UPI of own Bank Account, as the case may be, are liable to be rejected. All the investors were also required to ensure that the ASBA Account had sufficient credit balance as an amount equivalent to the full Bid Amount which could have been blocked by the SCSB.
+Applicants shall ensure that the Applications are made on Application Forms bearing the stamp of the syndicate member/ SCSBs/ RTA/ DPs/ stock brokers, submitted at the Collection Centres only (except in case of electronic Application Forms) and the Application Forms not bearing such specified stamp are liable to be rejected. Applications made by the

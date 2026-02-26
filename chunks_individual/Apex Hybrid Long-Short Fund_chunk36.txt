@@ -1,0 +1,28 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **C. ANNUAL RECURRING EXPENSES**
+
+Std Obs 43
+a.   **Investment Management and Advisory Fees:**  AMC may charge GST on investment management and advisory fees to the investment strategy in addition to the maximum limit of Total Expense Ratio as prescribed under Regulation 52 of the SEBI (MF) Regulations. b.   **Other than Investment Management and Advisory Fees:**  AMC may charge GST on expenses other than investment management and advisory fees to the investment strategy within the maximum limit of Total Expense Ratio as prescribed under Regulation 52 of the SEBI (MF) Regulations. Further, GST on Brokerage and transaction cost incurred for execution of trades, will be within the maximum limit of Total Expense Ratio as prescribed under Regulation 52 of the SEBI (MF) Regulations (d)   **Maximum Permissible expense:**  The maximum total expense ratio (TER) that can be charged to the investment strategy will be subject to such limits as prescribed under the SEBI (MF) Regulations. The said maximum TER shall either be apportioned under various expense heads as enumerated above, without any sub limit or allocated to any of the said expense head(s) at the discretion of AMC. Also, the types of expenses charged shall be as per the SEBI (MF) Regulations.
+Investors should note that, all investment strategy related expenses including commission paid to distributors will necessarily be paid from the investment strategy only within the regulatory limits and not from the books of the ABSLAMC, its associate, sponsor, trustee or any other entity through any route.
+The total recurring expenses of the investment strategy excluding issue or redemption expenses, whether initially borne by the Mutual Fund or by the AMC, but including the investment management and advisory fee, shall not exceed the limits as prescribed under Regulation 52 of the SEBI (MF) Regulations.
+**Illustration of impact of expense ratio on investment strategy returns:** Expense ratio, normally expressed as a percentage of Average Assets under Management, is calculated by dividing the permissible expenses under the Regulations by the average net assets.
+To further illustrate the above, for the investment strategy under reference, suppose an Investor invested Rs. 10,00,000/- the impact of expenses charged will be as under:
+|  Particulars  |  Regular Plan (Rs.)  |  Direct Plan (Rs.)  |
+|:---|:---|:---|
+| Amount invested at the beginning of the year (A)  | 10,00,000  | 10,00,000  |
+| Value of above investment at the end of the year (before all  applicable expenses) (B) | 11,50,000  | 11,50,000  |
+| Returns before expenses (C)  | 1,50,000  | 1,50,000  |
+| Expenses other than Distribution expenses(D)  | 15000  | 15000  |
+| Distribution expenses(E)  | 5000  | -  |
+| Value of above investment at the end of the year (post all  applicable expenses) (F)  | 11,30,000  | 11,35,000  |
+| Returns after expenses at the end of the year (G)  | 1,30,000  | 1,35,000  |
+| Returns (%) (post all applicable expenses) (H) (H=F-A/A)  | 13%  | 13.5%  |
+| Returns (%) (without considering any expenses) (I) [I= (B- A)/A]  | 15%  | 15%  |
+Note(s):
+
+-  The purpose of the above illustration is to purely explain the impact of expense ratio charged to the
+
+ Investment Strategy and should not be construed as providing any kind of investment advice or guarantee of returns on investments.
+
+-  It is assumed that the expenses charged are evenly distributed throughout the year.

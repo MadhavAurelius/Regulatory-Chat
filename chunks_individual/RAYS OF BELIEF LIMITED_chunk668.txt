@@ -1,0 +1,26 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Acquisition of Subsidiary and Recognition of Provisional Goodwill**
+
+|  For the year ended 31 March 2023  |
+|:---|
+| Particulars  Previous  Indian GAAP  Effect of  transition to Ind AS  Effect due to  Prior Period  Items  Ind AS  |
+| Income Revenue From Operations 221.14  (0.17)  221.31  Other Income 1.70  (0.92)  1.26  1.36  |
+| Total Income 222.84  (1.09)  1.26  222.67  |
+| Expenses Employee Benefits Expense 100.54  0.29  (2.00)  102.25  Finance Costs 0.63  (0.73)  1.36  Depreciation / Amortisation and Depletion Expense 6.90  (5.50)  12.40  Other Expenses 195.85  3.74  0.89  191.22  |
+| Total Expenses 303.92  (2.20)  (1.11)  307.23  |
+| Profit Before Tax (81.08)  1.11  2.37  (84.56)  Tax Expenses Current Tax -  -  -  Deferred Tax -  -  -  -  Profit From Continuing Operations (81.08)  1.11  2.37  (84.56)  Profit From Discontinued Operations (Net of Tax) -  -  -  -  Profit for the Year (81.08)  1.11  2.37  (84.56)  Other Comprehensive Income  (i) Items that will not be reclassified to Profit or Loss  -Remeasurement of Defined Benefit Asset/(Liability) -  (1.10)  -  1.10  -Less: Income tax not relating to item that will not be classified to Profit or Loss -  -  -  -  (ii) Items that will be reclassified to Profit or Loss -  -  -  -  Total Other Comprehensive Income / (Loss) from Continuing Operations (Net of Tax) -  (1.10)  -  1.10  Total Other Comprehensive Income / (Loss) for the Year (Net of Tax) -  (1.10)  -  1.10  Total Comprehensive Income for the Year (81.08)  0.01  2.37  (83.46)  Earnings per Equity Share of Face Value of ₹ 10 Each -  Basic (in ₹) (5.32)  0.00  0.16  (5.54)  Diluted (in ₹) (5.32)  0.00  0.16  (5.54) |
+325
+**Footnotes to the reconciliation of Balance Sheet as at April 01, 2022 and March 31, 2023 and profit or loss for the year ended March 31, 2023**
+**1. Financial assets (loans): Security deposits**
+**2. Provision for expected credit losses**
+**3. Defined benefit liabilities**
+**4. Leases Lease recognised as operating leases in previous GAAP**
+**5. Commission on guarantee**
+**6. Deferred tax**
+**7. Other comprehensive income**
+There were no deferred tax assets as on April 1, 2022 and March 31, 2023.
+Under Indian GAAP, the Company has not presented other comprehensive income (OCI) separately. Hence, it has reconciled Indian GAAP profit or loss to profit or loss as per Ind AS. Further, Indian GAAP profit or loss is reconciled to total comprehensive income as per Ind AS.
+Under Previous Indian GAAP, interest free security deposits (that are refundable in cash on completion of the term as per the contract) are recorded at their transaction value. Under Ind AS, such financial assets are required to be recognised initially at their fair value and subsequently at amortised cost. Difference between the fair value and transaction value of the security deposit has been recognised as deferred rent/ right to use assets. The unwinding of security deposit happens by recognition of a notional interest income in statement of profit and loss at effective interest rate.

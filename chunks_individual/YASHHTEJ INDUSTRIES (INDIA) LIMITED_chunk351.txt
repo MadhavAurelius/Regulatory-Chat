@@ -1,0 +1,43 @@
+#
+
+## **2. Solar electricity generation an d s u pp l y**
+
+### Quality Inspection Storage
+
+#### **SECTION VII: FINANCIAL INFORMATION**
+
+##### **.**
+
+|  PARTICULARS  |  Plant &  Machinery  |  Solar  |  Building  |  Furniture &  Fixture  |  Computer and  Software  |  Land  |  Office  equipments  |  Motor Vehicle  |  Laboratory  Equipment  |  Total  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| As at  March 31, 2023  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+| GROSS CARRYING AMOUNT  |  |  |  |  |  |  |  |  |  |  |
+| Opening gross carrying amount  | -  | -  | -  | -  | -  | 164.53  | -  | -  | -  | 164.53  |
+| Additions  | -  | -  | -  | -  | -  | 13.38  | -  | -  | -  | 13.38  |
+| Disposals/Adjustment  | -  | -  | -  | -  | -  | -  | -  | -  | -  | -  |
+| Closing Gross Carrying Amount  | -  | -  | -  | -  | -  | 177.91  | -  | -  | -  | 177.91  |
+| ACCUMULATED DEPRECIATION  |  |  |  |  |  |  |  |  |  |  |
+| Opening accumulated depreciation  | -  | -  | -  | -  | -  | -  | -  | -  | -  | -  |
+| Depreciation charged during the year | -  | -  | -  | -  | -  | -  | -  | -  | -  | -  |
+| Disposals/Adjustments  | -  | -  | -  | -  | -  | -  | -  | -  | -  | -  |
+| Closing Accumulated Depreciation  | -  | -  | -  | -  | -  | -  | -  | -  | -  | -  |
+*.*
+|  Note 10 Capital work-in-progress aging schedule  |  Note 10 Capital work-in-progress aging schedule  |  Note 10 Capital work-in-progress aging schedule  |  Note 10 Capital work-in-progress aging schedule  |  Note 10 Capital work-in-progress aging schedule  |  Note 10 Capital work-in-progress aging schedule  |
+|:---|:---|:---|:---|:---|:---|
+|  |  |  |  |  |  |
+| At the end of the year  As at September 30, 2025  | At the end of the year  As at September 30, 2025  | At the end of the year  As at September 30, 2025  | At the end of the year  As at September 30, 2025  | At the end of the year  As at September 30, 2025  | At the end of the year  As at September 30, 2025  |
+| Particulars  | Amount in CWIP for a period of  | Amount in CWIP for a period of  | Amount in CWIP for a period of  | Amount in CWIP for a period of  | Total  |
+| Particulars  | Less than 1 year  | 1-2 year  | 2-3 year  | More than 3 Year  | Total  |
+| Projects in progress ( Building)  | 118.11  | 42.45  | -  | -  | 160.57  |
+| Projects in progress ( Solar)  | 9.92  | -  | -  | -  | 9.92  |
+| Projects temporarily suspended  | -  | -  | -  | -  | -  |
+| At the end of the year  As at March 31, 2025 | At the end of the year  As at March 31, 2025 | At the end of the year  As at March 31, 2025 | At the end of the year  As at March 31, 2025 | At the end of the year  As at March 31, 2025 | At the end of the year  As at March 31, 2025 |
+| Projects in progress ( Building)  | 110.60  | -  | -  | -  | 110.60  |
+| At the end of the year  As at March 31, 2024 | At the end of the year  As at March 31, 2024 | At the end of the year  As at March 31, 2024 | At the end of the year  As at March 31, 2024 | At the end of the year  As at March 31, 2024 | At the end of the year  As at March 31, 2024 |
+| Projects in progress ( Building)  | -  | -  | -  | -  | -  |
+| Projects temporarily suspended  | -  | -  | -  | -  | -  |
+| At the end of the year  As at March 31, 2023  | At the end of the year  As at March 31, 2023  | At the end of the year  As at March 31, 2023  | At the end of the year  As at March 31, 2023  | At the end of the year  As at March 31, 2023  | At the end of the year  As at March 31, 2023  |
+| Projects in progress ( Plant & Machinery)  | 774.76  | 6.29  |  |  | 781.06  |
+| Projects in progress ( Building)  | 221.55  | 112.05  | 9.84  | -  | 343.45  |
+| Projects temporarily suspended  | -  | -  | -  | -  | -  |

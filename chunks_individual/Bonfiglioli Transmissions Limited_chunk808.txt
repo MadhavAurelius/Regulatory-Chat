@@ -1,0 +1,14 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+## * **Do’s** *   **:**
+
+18.  Ensure that the Demographic Details are updated, true and correct in all respects;
+19.  Ensure that thumb impressions and signatures other than in the languages specified in the Eighth Schedule to the Constitution of India are attested by a Magistrate or a Notary Public or a Special Executive Magistrate under official seal;
+
+20.  Ensure that the category and the investor status is indicated in the Bid cum Application Form to ensure proper upload of your Bid in the electronic Bidding system of the Stock Exchanges;
+21.  Ensure that in case of Bids under power of attorney or by limited companies, corporates, trust, etc., relevant documents including a copy of the power of attorney, if applicable, are submitted;
+22.  Ensure that Bids submitted by any person resident outside India is in compliance with applicable foreign and Indian laws;
+23.  Since the Allotment will be in demat form only, ensure that the Bidder’s depository account is active, the correct DP ID, Client ID, the PAN, UPI ID, if applicable, are mentioned in their Bid cum Application Form and that the name of the Bidder, the DP ID, Client ID, the PAN and UPI ID, if applicable, entered into the online IPO system of the Stock Exchanges by the relevant Designated Intermediary, as applicable, matches with the name, DP ID, Client ID, PAN and UPI ID, if applicable, available in the Depository database;
+24.  RIIs who wish to revise their Bids using the UPI Mechanism, should submit the revised Bid with the Designated Intermediaries, pursuant to which RIIs should ensure acceptance of the UPI Mandate Request received from the Sponsor Bank(s) to authorise blocking of funds equivalent to the revised Bid Amount in the RII’s ASBA Account;
+25.  Ensure that you have accepted the UPI Mandate Request received from the Sponsor Bank(s) prior to 5:00 p.m. IST on the Bid/ Offer Closing Date;
+26.  FPIs making MIM Bids using the same PAN, and different beneficiary account numbers, Client IDs and DP IDs, are required to submit a confirmation that their Bids are under the MIM structure and indicate the name of their investment managers in such confirmation which shall be submitted along with each of their Bid cum Application Forms. In the absence of such confirmation from the relevant FPIs, such MIM Bids shall be rejected;

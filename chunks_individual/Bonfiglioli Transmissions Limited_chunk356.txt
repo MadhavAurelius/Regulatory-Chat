@@ -1,0 +1,53 @@
+## * **Off-Highway Mobility Industry** *
+
+*Key Milestones*
+
+*Products*
+Under this business vertical, we supply drives to off-highway mobility OEMs in India, servicing verticals such as excavation, concrete, mining, road construction, agriculture, and material handling, across a torque range of 1,000 Nm to 3,000 kNm.
+The following table sets forth information on the products we manufacture in our Off-Highway Mobility Industry vertical as of September 30, 2025:
+**Products Manufactured End-User Industry Machines Served**
+**Torque Range** Track Drive
+
+Excavators, Road Construction Equipment, Agriculture Equipment, Mining Equipment
+Excavators & Mini Excavators, Mobile Crushers & Screeners, Surface Miners, Drilling & Pilling Rigs, Harvesters, Tracked Conveyors, Side Discharge Loaders, Compact Track Loaders, Pavers.
+1,200 Nm - 60,000Nm
+Swing Drive
+
+Excavators, Concrete Equipment, Material Handling
+Excavators, Boom Pumps, Rough Terrain Cranes, Tower Cranes, Truck Mounted Cranes, Reach Stackers, Crawler Cranes, Aerial Platforms
+1,000Nm- 35,000Nm
+
+**Products Manufactured End-User Industry Machines Served**
+**Torque Range** Drum Drive
+
+Concrete Equipment, Road Construction Equipment
+Transit Mixers, Self-Loading Concrete Mixers, Tandem Rollers, Soil Compactors
+3,000Nm - 75,000Nm
+Skip/Mixer Drive
+
+Concrete Equipment Twin Shaft Mixers, Pan Mixers, Planetary Mixers
+5,000Nm - 55,000Nm
+Wheel Drive
+
+Road Construction Equipment, Agriculture Equipment, Material Handling
+Pavers, Sugarcane Harvesters, Aerial Platforms, Electric stackers & Pallet trucks
+450 Nm - 36,000Nm
+Auger/Conveyor Drive
+
+Agriculture Equipments, Mining Equipments, Material Handling Equipments, Road Construction Equipment, Concrete Equipment
+Pavers, Mobile Screeners, Batching Plants
+1,000Nm - 12,500Nm
+Cutter Drive
+
+Road Construction Equipment, Mining Equipments
+Milling Machines, Surface Miners
+8,500Nm 84,000Nm
+Hoist Drive
+
+Material Handling Tower Cranes, 1000Nm - 12,500Nm
+
+*Products Co-Engineered with Customers*
+We deliver bespoke, co-engineered products to our customers under the vertical where the intellectual property for the product remains with the Bonfiglioli Group. To this end, we undertake requirement analysis, application analysis, product feasibility, virtual validation, prototyping and testing, field validation and serial production. This process can take up to 30 months, leading to long-term associations with our customers, as illustrated by a few case studies below.
+
+*Co-Engineering - Prominent Construction Equipment Supplier in India (“Off-Highway OEM”)*
+Our co-engineering process follows a sequence of well-defined stages that are personalized to the Off-Highway OEM’s technical and operational requirements. We begin with a three-month requirements analysis, which captures performance targets, reliability criteria, and operational data specific to the intended application. This is followed by application analysis and product feasibility assessments over six months, during which we evaluate potential concepts, manufacturability, and serviceability. Virtual validation is used to assess gear strength and fatigue life for two months, leading into four months of prototype assembly and endurance testing under controlled conditions. Field validation comes next, where gearboxes are tested in real-world environments for about a year. This entire process can take around 25 months. Following careful review of the test data, the final product moves into serial production.

@@ -1,0 +1,5 @@
+## **Exchange Rates**
+This Draft Red Herring Prospectus contains conversion of certain other currency amounts into Indian Rupees that have been presented solely to comply with the SEBI ICDR Regulations. These conversions should not be construed as a representation that these currency amounts could have been, or can be converted into Indian Rupees, at any particular rate or at all.
+Unless otherwise stated, the exchange rates referred to for the purpose of conversion of foreign currency amounts into Rupee amounts, are as follows:
+**Currency <sup>(1)</sup> Exchange rate as on <sup>*</sup> September 30, 2025 December 31, 2024 December 31, 2023 December 31, 2022 (**   * **in ₹ million** *   **)** USD 88.79 85.60 83.17 82.66 EUR 104.25 88.93 91.90 88.17
+*(1)*   *Source: https://www.ecb.europa.eu* ***   *In the event that any of the aforementioned date is a public holiday, the previous calendar day not being a public holiday has been considered.* *The exchange rate is rounded off to two decimal places.*

@@ -1,0 +1,9 @@
+#
+
+## **3B.3 Global Solar Power Landscape**
+
+-   **Energy Storage Integration:**  As solar PV penetration rises across global grids, the need for flexibility
+
+ solutions has become paramount to ensure system stability, reduce curtailments, and manage intermittent generation. As a result, battery energy storage systems (BESS) are now being co-located or hybridized with solar PV installations at an accelerating pace, especially in mature markets such as the United States, China, and Australia.
+Storage integration addresses multiple market challenges, including negative capture prices, where excess solar supply during peak generation hours leads to near-zero or negative pricing, and curtailment, where excess generation is forcibly shut off due to grid capacity limits. By storing excess solar output during the day and discharging during evening peaks, BESS enhances the dispatchability and revenue potential of solar projects.
+Furthermore, advancements in battery chemistries (such as lithium-iron phosphate), falling battery prices, and supportive regulatory frameworks in several jurisdictions have significantly improved the cost-effectiveness of solar-plus-storage systems. In emerging economies, storage also enables islanded microgrids, supports energy access initiatives, and helps avoid costly grid upgrades, thereby expanding the reach and versatility of solar PV deployments1.

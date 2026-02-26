@@ -1,0 +1,22 @@
+## **INTERNAL RISKS**
+
+* **10.** *    * **Our inability to accurately forecast order volumes or optimally schedule production, may lead to under** * * **or over capacity utilisation, which could adversely affect our manufacturing schedules and related** * * **costs.** *
+The table below sets forth information on the available manufacturing capacity, utilization and utilization as a percentage of available capacity at our facilities for the periods/ years indicated:
+
+39
+**Facility Nine months period ended September 30, 2025 ***
+**Year ended December 31, 2024**
+**Year ended December 31, 2023**
+**Year ended December 31, 2022**
+**(**   * **in hours, except for percentages** *   **) Thirumudivakkam, Tamil Nadu Machine Shop** Available Capacity 485,461 629,657 594,332 580,811 Utilization 406,969 500,737 443,805 430,275 **Utilization as a percentage of Available Capacity**
+83.83%  79.53%  74.67%  74.08%
+
+**Assembly** Available Capacity 240,323 312,570 312,570 312,570 Utilization 134,820 162,655 151,406 145,705 **Utilization as a percentage of Available Capacity**
+56.10% 52.04% 48.44% 46.62%
+
+**Mannur, Tamil Nadu - Assembly** Available Capacity 39,261 48,320 112,368 140,430 Utilization 28,887 35,463 65,039 75,124 **Utilization as a percentage of Available Capacity**
+73.58%  73.39%  57.88%  53.50%
+
+**Talegaon, Maharashtra - Assembly** Available Capacity 100,448 129,105 91,482 40,770 Utilization 76,215 92,456 52,905 33,107 **Utilization as a percentage of Available Capacity**
+75.87%  71.61%  57.83%  81.21%
+*  *Not annualized* *Notes:* *(1)*    *Our Company produced 10,544 SKUs, 11,517SKUs, 9,959 SKUs and 9,822 SKUs of Gearbox & Gearmotors (SKU’s) in the nine* *months period ended September 30, 2025 and years ended December 31, 2024, December 31, 2023 and December 31, 2022. Each* *SKU has multiple sub-components and there are multiple SKUs which require different machining and/or assembly processes. The* *time for machining and or assembly for each SKU is different. The capacity utilisation also depends on the SKU’s that we* *manufacture as per demand. Hence, capacity utilization in the table above has been computed based on the number of available* *hours of machines used in the manufacturing processes during a period (“*   * **Available Capacity** *   *”) and the number of hours for which* *such machines were utilized during the relevant period.* *(2)*    *The calculation of the hours for which machines were available during the periods included above is based on the following* *assumptions and estimates: (i) each of the machines operates for 22.5 hours a day (after deducting 30 minutes due for shift change)* *across 302 working days in a financial year (excluding one weekly holiday) (or 227 working days during the nine months ended* *September 30, 2025): (ii) in case of heat treatment plant at Thirumudivakkam which is continuous process plant, the Available* *Capacity is computed on 342 days (excluding the mandatory maintenance period); and (iii) the manufacturing facilities located in* *Thirumudivakkam, Tamil Nadu and Talegaon, Maharashtra operate on a 3 shift basis and the manufacturing facility located in* *Mannur, Tamil Nadu operates on a 2 shift basis in the financial years ended December 31, 2022 and December 31, 2023 and one* *shift basis in the financial year ended December 31, 2024 and the nine months period ended September 30, 2025.* *(3)*    *In case of the manufacturing facility located in Mannur, Tamil Nadu, certain equipment have been relocated to the assembly plant* *located at Talegaon, Maharashtra in the financial years ended December 31, 2023 and December 31, 2024 due to business* *requirement. Hence, the same is reflected in the reduced available capacity for the respective periods in Mannur, Tamil Nadu* *facility. The Mannur plant operated for 2 shifts basis in the financial years ended December 31, 2022 and December 31, 2023 and* *one shift basis in the financial year ended December 31, 2024 and the nine months period ended September 30, 2025. The Talegaon* *plant operated on a 3 shifts basis throughout the years. Owing to these shifts, a direct year-on-year installed capacity is not* *comparable.* *(4)*    *In case of the machine shop at the manufacturing facility located in Thirumudivakkam, Tamil Nadu, certain machines have been* *added in the financial years ended December 31, 2023 and December 31, 2024, resulting in an increase in the Available Capacity.*

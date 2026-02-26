@@ -1,0 +1,16 @@
+#
+
+## **7B.   Competitive Landscape -  Solar Power**
+
+The Indian solar industry features a dynamic mix of large domestic players, joint ventures, and subsidiaries of international firms. These entities are actively engaged across the value chain, from project development and Engineering, Procurement, and Construction (EPC) services to component manufacturing.
+##### **Key Players in the Solar Power Industry**
+|  Company  |  Headquarters  |  Key Activities  |  Notable Highlights  |
+|:---|:---|:---|:---|
+| Adani Green  Energy  | Ahmedabad  | Utility-scale solar and  wind  project  development  | Acquired SB Energy India for US$ 3.5 billion  to strengthen its position in the renewable  energy  sector.  Plans  to  expand  solar  manufacturing capacity to 10 GW by 2027. |
+| Tata  Power  Solar  | Mumbai  | Solar  module  manufacturing,  EPC  services  | Part of the Tata Group, with a focus on solar  rooftop installations and utility-scale projects.  Aims to have 80% of its total power come from  clean energy by 2030.  |
+| ReNew  Energy  Global | Gurugram  | Independent  power  producer (IPP) in solar  and wind  | Operates over 13.4 GW of renewable energy  capacity, with plans to double its portfolio in the  next five years.  |
+| Vikram  Solar  | Kolkata  | Solar  PV  module  manufacturing,  EPC  services  | Manufacturing capacity of 4.5 GW. Recognized  as India's only Tier 1 module manufacturer by  BNEF in 2024.  |
+| Emmvee  Group  | Bengaluru  | Solar module and cell  manufacturing,  EPC  services  | Total installed module manufacturing capacity  of approximately 6.6 GW. Collaborated with  Fraunhofer ISE for solar cell development.  |
+| Azure Power  | New Delhi  | Utility-scale solar project  development  and  operation | Developed India's first utility-scale solar project  in 2009. Total capacity exceeds 7 GW.  |
+| Mahindra  Susten  | Mumbai  | EPC services for solar  power projects  | Part of the Mahindra Group, offering turnkey  solutions for solar installations.  |
+| Waaree  Energies  | Mumbai  | Solar  PV  module  manufacturing  | Leading the chart with 12,000 MW installed  capacity as of March 2024.  |

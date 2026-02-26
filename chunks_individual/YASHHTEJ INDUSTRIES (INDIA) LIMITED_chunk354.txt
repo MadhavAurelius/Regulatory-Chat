@@ -1,0 +1,41 @@
+#
+
+## **2. Solar electricity generation an d s u pp l y**
+
+### Quality Inspection Storage
+
+#### **SECTION VII: FINANCIAL INFORMATION**
+
+##### **.**
+
+|  Note 31 Statement of Tax Shelter  |  Note 31 Statement of Tax Shelter  |  Note 31 Statement of Tax Shelter  |  Note 31 Statement of Tax Shelter  |  Note 31 Statement of Tax Shelter  |  Note 31 Statement of Tax Shelter  |
+|:---|:---|:---|:---|:---|:---|
+| Particulars  | Particulars  | As at  | As at  | As at  | As at  |
+| Particulars  | Particulars  | September  30, 2025  | March  31, 2025  | March  31, 2024  | March  31, 2023  |
+| A  | Profit before taxes as restated  | 943.99  | 1,552.32  | 185.00  | (57.89)  |
+|  | - Taxable at normal Rate  | 943.99  | 1,552.32  | 185.00  | (57.89)  |
+|  | - Taxable at special Rate  |  |  |  |  |
+|  |  |  |  |  |  |
+| B  | Normal Tax Rate Applicable %  | 25.17%  | 25.17%  | 25.17%  | 26.00%  |
+|  | Special Tax Rate Applicable %  |  |  |  |  |
+| C  | Tax Impact (A*B)  | 237.58  | 390.69  | 46.56  | (15.05)  |
+| D A  | djustments:  |  |  |  |  |
+|  | Add:  |  |  |  |  |
+|  | 37 disallowance  | -  | 19.64  | 113.49  | 53.73  |
+|  | Depreciation as per Companies Act  | 94.59  | 183.92  | 32.78  | -  |
+|  | Provision of gratuity  | 2.90  | 3.56  | 0.44  | 0.50  |
+|  | Less:  |  |  |  |  |
+|  | Depreciation as per Income Tax Act  | 194.27  | 549.98  | 190.67  | -  |
+|  | Incomes considered separately  | -  | -  | -  | -  |
+|  | Total  | (96.77)  | (342.84)  | (43.97)  | 54.23  |
+| E U  | nabsorbed Loss/(Carried Forward Loss Set off)  |  | -  | -  | -  |
+|  |  |  |  |  |  |
+| F N  | et Adjustment (F) = (D+E)  | (96.77)  | (342.84)  | (43.97)  | 54.23  |
+| G T  | ax Expenses/ (Saving) thereon  | (24.36)  | (86.29)  | (11.07)  | 14.10  |
+| H T  | ax Liability, After Considering the effect of Adjustment (C  +G)  | 213.23  | 304.40  | 35.49  | -  |
+| I D  | eferred Tax  | 5.80  | 91.23  | 36.61  | (0.13)  |
+| J T  | otal Tax expenses (H+I)  | 219.03  | 395.63  | 72.11  | (0.13)  |
+| Notes:  | Notes:  |  |  |  |  |
+| 1  | The aforesaid statement of tax shelters has been prepared as per the restated summary statement of profits and losses of the Company.  The permanent/timing differences have been computed considering the acknowledged copies of the income-tax return respective years  stated above. | The aforesaid statement of tax shelters has been prepared as per the restated summary statement of profits and losses of the Company.  The permanent/timing differences have been computed considering the acknowledged copies of the income-tax return respective years  stated above. | The aforesaid statement of tax shelters has been prepared as per the restated summary statement of profits and losses of the Company.  The permanent/timing differences have been computed considering the acknowledged copies of the income-tax return respective years  stated above. | The aforesaid statement of tax shelters has been prepared as per the restated summary statement of profits and losses of the Company.  The permanent/timing differences have been computed considering the acknowledged copies of the income-tax return respective years  stated above. | The aforesaid statement of tax shelters has been prepared as per the restated summary statement of profits and losses of the Company.  The permanent/timing differences have been computed considering the acknowledged copies of the income-tax return respective years  stated above. |
+| 2  | The figures for the period ended March 31, 2025 are based on the provisional computation of Total Income prepared by the Company.  | The figures for the period ended March 31, 2025 are based on the provisional computation of Total Income prepared by the Company.  | The figures for the period ended March 31, 2025 are based on the provisional computation of Total Income prepared by the Company.  | The figures for the period ended March 31, 2025 are based on the provisional computation of Total Income prepared by the Company.  | The figures for the period ended March 31, 2025 are based on the provisional computation of Total Income prepared by the Company.  |
+| 3  | The above statement should be read with the significant accounting policies and notes to restated summary statements of assets and  liabilities, profits and losses and cash flows appearing in Annexures IV, I, II and III.  | The above statement should be read with the significant accounting policies and notes to restated summary statements of assets and  liabilities, profits and losses and cash flows appearing in Annexures IV, I, II and III.  | The above statement should be read with the significant accounting policies and notes to restated summary statements of assets and  liabilities, profits and losses and cash flows appearing in Annexures IV, I, II and III.  | The above statement should be read with the significant accounting policies and notes to restated summary statements of assets and  liabilities, profits and losses and cash flows appearing in Annexures IV, I, II and III.  | The above statement should be read with the significant accounting policies and notes to restated summary statements of assets and  liabilities, profits and losses and cash flows appearing in Annexures IV, I, II and III.  |

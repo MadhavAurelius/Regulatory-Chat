@@ -1,0 +1,8 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **u. Compensated Absences**
+
+The Company provides for compensated absences comprising both encashment and availment of leave balances earned by employees over their period of service, in accordance with the Company’s leave policy. The liability towards leave encashment is classified as a long-term employee benefit under Ind AS 19 -  Employee Benefits and is determined based on actuarial valuation carried out at the year end. The provision recognised in the financial statements represents the present value of the obligation as at the reporting date.
+**v. Impairment of Assets a) Financial assets** The Company recognises loss allowances using the expected credit loss (ECL) model for the financial assets which are not fair valued through profit or loss. Loss allowance for trade receivables with no significant financing component is measured at an amount equal to lifetime ECL. For all other financial assets, expected credit losses are measured at an amount equal to the 12-month ECL, unless there has been a significant increase in credit risk from initial recognition in which case those are measured at lifetime ECL. The amount of expected credit losses (or reversal) that is required to adjust the loss allowance at the reporting date to the amount that is required to be recognised is recognised as an impairment gain or loss in the Statement of Profit and Loss.

@@ -1,0 +1,17 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+## * **Return on Net Worth** *
+
+Return on Net Worth is calculated as Restated profit after tax for the period/year from continuing operations divided by Net Worth at the end of the period / year. Net Worth is calculated as aggregate of Equity Share Capital and Other Equity at the end of the period / year.
+*Reconciliation of Net Worth and Return on Net Worth*
+**Particulars As at and for the nine months period ended September 30, 2025**
+**As at and for the year ended December 31, 2024 December 31, 2023**
+**December 31, 2022**
+* **(₹ in million unless otherwise stated)** * Restated profit after tax for the period/year from continuing operations (A)
+1,651.89 1,911.23 1,476.98 1,687.53
+
+**Particulars As at and for the nine months period ended September 30, 2025**
+**As at and for the year ended December 31, 2024 December 31, 2023**
+**December 31, 2022**
+* **(₹ in million unless otherwise stated)** * Equity share capital (B) 1,253.31 1,253.31 1,311.23 1,311.23 Other Equity (C) 7,999.65 7,277.61 6,742.12 5,942.51 Net Worth (D = B + C) 9,252.96 8,530.92 8,053.35 7,253.74
+**Return on Net Worth (%) (A/D) 17.85% 22.40% 18.34% 23.26%**

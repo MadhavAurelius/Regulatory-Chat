@@ -1,0 +1,33 @@
+#
+
+## **3B.3 Global Soybean Industry**
+
+##### * **III.** *    * **Soybean Oil** *
+
+##### **World Soybean Meal Supply (Million Metric Tons)**
+|  |  Production  |  Production  |  Production  |  Imports  |  Imports  |  Imports  |  Exports  |  Exports  |  Exports  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  | 23/24  | 24/25  Est.  | 25/26  Proj.  | 23/24  | 24/25  Est.  | 25/26  Proj.  | 23/24  | 24/25  Est.  | 25/26  Proj.  |
+| World  | 259.58  | 278.11  | 287.63  | 69.79  | 76.32  | 77.40  | 74.20  | 79.72  | 80.93  |
+| Major Exporters | Major Exporters | Major Exporters | Major Exporters | Major Exporters | Major Exporters | Major Exporters | Major Exporters | Major Exporters | Major Exporters |
+| United  States  | 49.08  | 51.98  | 53.25  | 0.62  | 0.57  | 0.59  | 14.61  | 15.79  | 16.33  |
+| Brazil  | 41.57  | 43.99  | 44.78  | 0.02  | 0.01  | 0.01  | 22.72  | 23.00  | 23.20  |
+| Argentina  | 28.54  | 33.23  | 33.54  | 0.00  | 0.01  | 0.01  | 24.89  | 29.50  | 30.00  |
+| China  | 78.41  | 82.37  | 85.54  | 0.03  | 0.05  | 0.05  | 1.43  | 1.00  | 1.20  |
+| India  | 9.04  | 8.80  | 9.08  | 0.03  | 0.05  | 0.05  | 1.97  | 1.10  | 1.10  |
+| Major Importers | Major Importers | Major Importers | Major Importers | Major Importers | Major Importers | Major Importers | Major Importers | Major Importers | Major Importers |
+| European  Union | 11.46  | 11.85  | 12.09  | 16.54  | 18.40  | 16.90  | 0.65  | 0.70  | 0.60  |
+| Mexico  | 5.16  | 5.26  | 5.53  | 1.94  | 2.30  | 2.40  | 0.00  | 0.00  | 0.00  |
+| Southeast  Asia | 3.39  | 3.98  | 4.60  | 18.29  | 19.83  | 20.50  | 0.22  | 0.34  | 0.28  |
+Source: USDA World Agricultural Supply and Demand Estimates (WASDE), May 2025
+-   **Global Trade:**  Soybean meal is extensively traded to meet regional feed demand imbalances. Global exports
+
+ are expected to grow steadily from 74.20 MMT in 2023- 24 to 79.72 MMT in 2024- 25, and 80.93 MMT in 2025- 26. Argentina, Brazil, and the United States dominate global exports. Argentina is projected to remain the world’s largest exporter, with volumes reaching 30.00 MMT by 2025- 26. Brazil and the U.S. are forecasted to export 23.20 MMT and 16.33 MMT, respectively, during the same period. On the import side, Europe, Southeast Asia, and Mexico constitute the major consuming regions. The European Union is expected to import over 16.90 MMT in 2025- 26, while Southeast Asia’s demand is anticipated to grow to 20.50 MMT, driven by rising feed consumption. The global soybean meal market is poised for moderate, sustained growth, underpinned by structural shifts toward protein-rich animal diets, steady global meat consumption, and enhanced productivity across livestock sectors. Trade flows are likely to remain robust, despite increasing regional crushing capacity, with South America continuing to anchor global supply.
+##### * **III.** *    * **Soybean Oil** *
+-   **Market Overview:**  Soybean Oil remains one of the most widely consumed and traded vegetable oils in the
+
+ world, driven by its multipurpose usage across food, industrial, and biofuel sectors. Extracted as a byproduct during soybean processing, crude Soybean Oil is refined into edible oil and used in cooking, baking, and food manufacturing, while also serving industrial and oleochemical applications. Global demand is supported by rising populations, increasing consumption of processed foods, and growing industrial uses, especially in emerging economies. Moreover, shifts toward plant-based diets and renewable biofuels have positioned Soybean Oil as a key component in the sustainable value chain.
+-   **Global Production Trends**  : Global Soybean Oil production continues to show an upward trajectory, reflecting
+
+ the sustained expansion in soybean processing capacities across key producer nations. According to the USDA WASDE (May 2025), world Soybean Oil production stood at 63.97 million metric tons in 2023/24 and is estimated to rise to 68.57 million metric tons in 2024/25 and further to 70.77 million metric tons in 2025/26. **A.**   United States remains one of the leading producers, with production projected to increase from 12.29 MMT in 2023/24 to 13.06 MMT in 2024/25, reaching 13.33 MMT by 2025/26. **B.**   Brazil is also expected to grow steadily from 11.06 MMT in 2023/24 to 11.79 MMT in 2025/26. **C.**   Argentina, another key producer, is projected to increase from 7.25 MMT to 8.58 MMT over the same period. **D.**   The European Union is set to maintain moderate growth, producing 2.91 MMT by 2025/26.
+These trends reflect increased crushing activities, supported by both domestic consumption and export market requirements.

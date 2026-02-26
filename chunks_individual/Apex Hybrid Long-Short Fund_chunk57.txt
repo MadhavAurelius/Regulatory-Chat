@@ -1,0 +1,22 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **RISK FACTORS ASSOCIATED WITH INSTRUMENTS HAVING SPECIAL FEATURES**
+
+-  The scheme shall invest in certain debt instruments with special features which may be subordinated to
+
+ equity and thereby such instruments may absorb losses before equity capital. The instrument is also convertible to equity upon trigger of a pre-specified event for loss absorption as may be decided by the RBI.
+
+-  The debt instruments with special features are considered as Non-Convertible Debentures, may be
+
+ treated as debt instruments until converted to equity.
+-  The instruments are subject to features that grants issuer a discretion in terms of writing down the
+
+ principal/coupon, to skip coupon payments, to make an early recall etc. Thus debt instruments with special features are subject to “Coupon discretion”, “Loss Absorbency”, “Write down on Point of Non- viability trigger (PONV) event” and other events as more particularly described as per the term sheet of the underlying instruments.
+
+-  The instrument is also subject to Liquidity Risk pertaining to how saleable a security is in the market.
+
+ The particular security may not have a market at the time of sale due to
+
+-  uncertain/insufficient liquidity in the secondary market, then the scheme may have to bear an impact
+
+ depending on its exposure to that particular security.

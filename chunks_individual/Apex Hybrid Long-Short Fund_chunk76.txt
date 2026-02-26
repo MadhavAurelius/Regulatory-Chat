@@ -1,0 +1,21 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+## **1. Risk mitigation strategies for investments with each kind of originator**
+
+### **B] Non-Government Debt**
+
+Participation in repos in corporate debt securities shall be made in line with the policy approved by the Board of ABSLAMC and ABSLTPL. The key features of the policy are as follows:
+−  The gross exposure to repo transactions in corporate debt securities shall not be more than 10% of the net assets of the Investment Strategy.
+−  The cumulative gross exposure through repo transactions in corporate debt securities along with corporate debt and money market instruments and derivative positions shall not exceed 100% of the net assets of the Investment Strategy.
+Std Obs 11,15, 16
+−  Only listed corporate debt securities which are rated ‘AA and above’ by accredited rating agencies, that are held in the security account of the repo seller, in dematerialized form, and Commercial Papers (CPs) and Certificate of Deposits (CDs), shall be eligible.
+−  The details of repo transactions of the Investment Strategy in corporate debt securities, including details of counterparties, amount involved and percentage of NAV shall be disclosed to investors in the half yearly portfolio statements and to SEBI in the half yearly trustee report.
+−  In terms of Regulation 44(2) of the SEBI (MF) Regulations, the Investment Strategy shall borrow through repo transactions only if the tenor of the transaction does not exceed a period of six months.
+−  The Mutual Fund shall ensure compliance with the Seventh Schedule of the SEBI (MF) Regulations about restrictions on investments, wherever applicable, with respect to repo transactions in corporate debt securities.
+−   **Tenor**  : In case of investment in Corporate Repos, the tenor of the transaction may range from a minimum period of one day to a maximum period of one year.
+−   **Haircut**  : A haircut shall be applicable on the market value of the corporate debt security prevailing on the date of trade of 1st leg, depending upon the rating of the underlying security. Applicable Minimum Haircut on the underlying security:
+|  Rating of the Security  |  AAA/A1  |  AA+/A2+  |  AA/A2  |
+|:---|:---|:---|:---|
+| Minimum Haircut  | 7.5%  | 8.5%  | 10%  |
+
+−   **Eligible Counterparties:**   In accordance with the RBI Circular No. RBI/2009‐10/284 idmd.dod.05/11.08.38/2009‐10 dated January 8, 2010, the following categories of entities shall be deemed to be the eligible counterparties to undertake repo transactions in corporate debt securities, provided, they form part of the Fixed Income Investment Universe of Aditya Birla Sun Life Mutual Fund, have unexhausted credit limits, approved by the Credit Committee, at least to the extent of gross repo exposure and subject to execution of master repo agreement:

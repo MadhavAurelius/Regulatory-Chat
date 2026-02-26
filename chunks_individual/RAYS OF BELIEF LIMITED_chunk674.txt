@@ -1,0 +1,21 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Acquisition of Subsidiary and Recognition of Provisional Goodwill**
+
+|  Particulars  As at  September 30,  2025  As at  31 March 2025  As at  31 March 2024  As at  31 March 2023  |
+|:---|
+| Trade receivables (including unbilled revenue & allowance of credit loss 110.64  30.79  1.76  0.44  Cash and cash equivalents 42.10  53.41  42.92  39.04  Bank balances other than cash and cash equivalents 4.35  4.05  3.05  -  Other financial assets Interest accrued on deposits with banks 0.26  0.36  0.11  -  Security Deposits 8.27  7.90  5.39  3.39  Prepaid Lease Rent 0.32  0.37  0.41  0.14 |
+The allowance for lifetime expected credit loss on customer balances has been disclosed below:
+Movement in the allowance for impairment in respect of trade receivables **#REF!**
+|  Particulars  As at  September 30, 2025  As at  31 March 2025  As at  31 March 2024  As at  31 March 2023  |
+|:---|
+| Balance at the beginning of the year Net re-measurement of loss allowance  1.63  0.35  0.35  Bad debt written off  -  -  - |
+| Balance at the end of the year  1.63  0.35  0.35  |
+-
+**(d) Liquidity risk**
+Credit risk is the risk of financial loss to the Company if a customer or counterparty to a financial instrument fails to meet its contractual obligations.
+Credit risk on cash and cash equivalents, derivatives, bank balances other than cash and cash equivalents and long-term deposits including interest accrued is limited as the Company generally invests in deposits/transacts with banks with high credit ratings assigned by domestic credit rating agencies. The Company’s exposure to credit risk is influenced mainly by the individual characteristics of each customer. However, management also considers the factors that may influence the credit risk of its customer base, including the default risk of the industry and country in which customers operate.
+The Company's  Management  has established a credit policy under which each key customer newly acquired is analysed individually for creditworthiness before the Company’s standard payment and delivery terms and conditions are offered. The Company’s review includes market check, past financials and external ratings, if they are available.
+Majority of the Company’s customers have been transacting with the Company from many years, and no material write offs have been recognized against these customers. In monitoring customer credit risk, customers are reviewed  according to their credit characteristics, including whether they are an individual or a legal entity, their geographic location, industry and existence of previous financial difficulties. On adoption of Ind AS 109, the Company uses expected credit loss model to assess the impairment loss or gain. The Company uses a provision matrix to compute the expected credit loss allowance for trade receivables separately for third party customers. The provision matrix takes into account available internal credit risk factors such as the Company's historical experience for third party customers.

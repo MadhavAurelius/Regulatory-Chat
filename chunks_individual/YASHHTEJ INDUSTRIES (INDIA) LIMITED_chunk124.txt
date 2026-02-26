@@ -1,0 +1,30 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **2. History of Issued, Subscribed and Paid-Up Equity Share Capital of the Company**
+
+##### **(2) Allotment of shares dated August 09, 2023:**
+
+*All the above-mentioned shares are fully paid up since the date of allotment.*
+
+81
+##### **(1) Initial Subscribers to the Memorandum of Association of our company:**
+|  Sr.  No.  |  Name of the Allottee  |  Face  Value (₹)  |  Issue  Price (₹)  |  Nature of  Allotment  |  Number of Equity  Shares Allotted  |
+|:---|:---|:---|:---|:---|:---|
+| 1  | Baswaraj Madhavrao Barge | 100/-  | 100/-  | Subscription to  MoA  | 3,000  |
+| 2  | Shivling Madhavrao Barge | 100/-  | 100/-  | Subscription to  MoA  | 5,000  |
+| 3  | Suraj Shivraj Barge  | 100/-  | 100/-  | Subscription to  MoA  | 2,000  |
+| Total  | Total  | Total  | Total  | Total  | 10,000  |
+
+##### **(2) Allotment of shares dated August 09, 2023:**
+|  Sr.  No.  |  Name of the Allottee  |  Face  Value (₹)  |  Issue  Price (₹)  |  Nature of  Allotment  |  Number of Equity  Shares Allotted  |
+|:---|:---|:---|:---|:---|:---|
+| 1  | Baswaraj Madhavrao Barge | 100/-  | 100/-  | Right Issue  (a)  | 1,84,500  |
+| 2  | Shivling Madhavrao Barge | 100/-  | 100/-  | Right Issue  (a)  | 1,82,500  |
+| 3  | Suraj Shivraj Barge  | 100/-  | 100/-  | Right Issue  (a)  | 1,85,500  |
+| 4  | Shruti Shivling Barge  | 100/-  | 100/-  | Right Issue  (a)  | 37,500  |
+| 5  | Tejas Baswaraj Barge  | 100/-  | 100/-  | Right Issue  (a)  | 37,500  |
+| 6  | Yash Baswaraj Barge  | 100/-  | 100/-  | Right Issue  (a)  | 37,500  |
+| 7  | Manisha Suraj Barge  | 100/-  | 100/-  | Right Issue  (a)  | 37,500  |
+| 8  | Barge Sarika Dhondiram  | 100/-  | 100/-  | Right Issue  (a)  | 37,500  |
+| Total  | Total  | Total  | Total  | Total  | 7,40,000  |
+(a)  *The Board of Directors of our Company vide its meeting held on February 14, 2023 approved an offer size of 7,90,000 Equity* *shares of Face Value of*  ₹  *100/- each at an Issue Price of*  ₹  *100/- each. Accordingly, the rights issue was offered in the ratio of 79:1* *i.e. (Seventy Nine (79) Equity Shares for every One (1) fully paid-up Equity Share held). However, the Company received the* *subscription of only 7,40,000 Equity Shares. Accordingly, the Board of Directors at its meeting held on August 09, 2023, passed a* *resolution approving that the unsubscribed 50,000 Equity shares be deemed to be considered to be unissued.*

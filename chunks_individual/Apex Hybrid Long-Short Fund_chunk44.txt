@@ -1,0 +1,40 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **RISK FACTORS ASSOCIATED WITH INVESTMENTS IN FIXED INCOME SECURITIES:**
+
+-   **Price-Risk or Interest-Rate Risk:**  Fixed income securities such as bonds, debentures and money market
+
+ instruments run price-risk or interest-rate risk. Generally, when interest rates rise, prices of existing fixed income securities fall and when interest rates drop, such prices increase. The extent of fall or rise in the prices is a function of the existing coupon, days to maturity and the increase or decrease in the level of interest rates.
+
+-   **Credit Risk:**  In simple terms this risk means that the issuer of a debenture/ bond or a money market
+
+ instrument may default on interest payment or even in paying back the principal amount on maturity. Even where no default occurs, the price of a security may go down because the credit rating of an issuer goes down. It must, however, be noted that where the Investment Strategy has invested in Government securities, there is no credit risk to that extent.
+
+-   **Liquidity or Marketability Risk:**  This refers to the ease with which a security can be sold at or near to
+
+ its valuation yield-to-maturity (YTM). The primary measure of liquidity risk is the spread between the bid price and the offer price quoted by a dealer. Liquidity risk is today’s characteristic of the Indian fixed income market.
+
+-   **Reinvestment Risk:**  Investments in fixed income securities may carry reinvestment risk as interest rates
+
+ prevailing on the interest or maturity due dates may differ from the original coupon of the bond. Consequently, the proceeds may get invested at a lower rate.
+
+-   **Pre-payment Risk:**  Certain fixed income securities give an issuer the right to call back its securities
+
+ before their maturity date, in periods of declining interest rates. The possibility of such prepayment may force the fund to reinvest the proceeds of such investments in securities offering lower yields, resulting in lower interest income for the fund.
+
+-   **Concentration Risk:**  The Investment Strategy portfolio may have higher exposure to a single sector,
+
+ subject to maximum of 25% of net assets as specified in this ISID, depending upon availability of issuances in the market at the time of investment, resulting in higher concentration risk. Any change in government policy / business environment relevant to the sector may have an adverse impact on the portfolio.
+
+-  Different types of securities in which the Investment Strategy would invest as given in the Investment
+
+ Strategy Information Document carry different levels and types of risk. Accordingly the Investment Strategy’s risk may increase   or decrease depending upon its investment pattern. E.g. corporate bonds carry a higher amount of risk than Government securities. Further even among corporate bonds, bonds, which are AA rated, are comparatively more risky than bonds, which are AAA rated.
+
+-  The above are some of the common risks associated with investments in fixed income and money market
+
+ securities. There can be no assurance that a Investment Strategy’s investment objectives will be achieved, or that there will be no loss of capital. Investment results may vary substantially on a monthly, quarterly or annual basis.
+
+-  In case of any Downgrade and shortfall in the collateral the Fund Manager shall arrange for additional
+
+ collateral/cash within a period of 1 Business Day, equivalent to the amount of shortfall and if the
+counterparty is unable to provide additional collateral/cash then it shall tantamount to early termination of repo agreement.

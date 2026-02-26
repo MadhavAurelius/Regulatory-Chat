@@ -1,0 +1,51 @@
+#
+
+## **2. Solar electricity generation an d s u pp l y**
+
+### Quality Inspection Storage
+
+##### **TRAINING PROTOCOL**
+
+|  Sr. No  |  Department  |  Number of Employees  |
+|:---|:---|---:|
+| 1.  | Office  |  14  |
+| 2.  | Solvent Extraction Plant |  12  |
+| 3.  | Lab  |  11  |
+| 4.  | Boiler  |  9  |
+| 5.  | Godown  |  8  |
+| 6.  | Driver  |  7  |
+| 7.  | Electric  |  7  |
+| 8 .  | Market Yard  |  7  |
+| 9 .  | Preparatory Section  |  7  |
+| 10.  | RO (Water Purifier)  |  3  |
+| 11.  | Workshop  |  3  |
+| 12.  | Plant  |  2  |
+| 13.  | Weight Bridge  |  1  |
+|  | Total  |  91  |
+
+Details of registration of employees under Employee’ Provident Fund on September 30, 2025:
+|  Particulars  |  No. of employees  registered  |  Contribution till  September 30, 2025  ( ₹ in Lakhs)  |
+|:---|---:|:---|
+| Employee’ Provident Fund (‘EPF’) |  88  | 3.11  |
+| Non PF employees  |  3  | NA  |
+
+Details of registration of employees under Employees’ State Insurance Corporation as on September 30, 2025:
+|  Particulars  |  No. of employees  registered  |  Contribution till  September 30, 2025  ( ₹ in Lakhs)  |
+|:---|---:|:---|
+| Employees’ State Insurance Corporation (‘ESIC’) |  72  | 1.71  |
+| Non ESIC  |  19  | NA  |
+
+Employee benefit expenses as a % of the revenue is provided herein below: *(₹ in Lakhs)*
+|  Name of the Product  |  For the period  ended September  30, 2025  |  FY 2024-2025  |  FY 2023-2024  |  FY 2022-2023  |
+|:---|:---|:---|:---|:---|
+| Employee benefit expenses  | 155.09  | 304.07  | 23.04  | 20.06  |
+| Employee benefit expenses as a %  of the revenue from operations | 0.81%  | 0.94%  | 0.39%  | 1.67%  |
+
+##### **ATTRITION**
+|  Particulars  |  For the period  ended September  30, 2025  |  FY 2024-2025  |  FY 2023-2024  |  FY 2022-2023  |
+|:---|:---|:---|:---|:---|
+| Attrition rate  | 18.18%  | 80%  | 120.63%  | 60%  |
+
+*[For risk associated with respect to our human resource kindly refer to Risk Factor No 37 mentioned in Section* *titled ‘Risk Factors’ on page 49 of this Prospectus.]*
+##### **TRAINING PROTOCOL**
+As part of our ongoing commitment to operational excellence and employee development, we conduct regular specialized training programs focused on operations of the boiler plant, handling of hexane, the solvent extraction process and laboratory. The training covers key areas including seed preparation, solvent handling, extraction optimization, safety protocols, environmental compliance and testing protocols. This initiative aims at enhancing technical proficiency, improving process efficiency, and ensuring adherence to industry best practices.

@@ -1,0 +1,47 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## * **71.** *    * **Our ability to raise foreign capital may be constrained by Indian law.** *
+
+#### **SUMMARY OF PRO FORMA CONSOLIDATED BALANCE SHEET**
+
+|  Particulars  |  Restated Balance  Sheet of Rays of  Belief Limited as  at March 31, 2025  |  Acquisitions  |  Pro Forma  Adjustments  |  Unaudited Pro  Forma  Consolidated  Balance Sheet as  at March 31, 2025  |
+|:---|:---|:---|:---|:---|
+| Particulars  | Restated Balance  Sheet of Rays of  Belief Limited as  at March 31, 2025  | Mom's Belief  US Inc | Pro Forma  Adjustments  | Unaudited Pro  Forma  Consolidated  Balance Sheet as  at March 31, 2025  |
+|  | A  | B  | C  | (A+B+C)  |
+| Assets  |  |  |  |  |
+| Non Current Assets  |  |  |  |  |
+| Property, Plant and Equipment  | 20.08  | 1.66  |  | 21.74  |
+| Capital Work in Progress  | 3.14  | -  |  | 3.14  |
+| Goodwill  | -  | -  | 78.51  | 78.51  |
+| Intangible Assets  | 0.86  | -  |  | 0.86  |
+| Right-of-use assets  | 20.97  | -  |  | 20.97  |
+| Financial Assets  |  | -  |  |  |
+| Other Financial Assets  | 12.88  | -  |  | 12.88  |
+| Deferred Tax Assets (Net)  | 63.08  | -  |  | 63.08  |
+| Total Non-Current Assets  | 121.01  | 1.66  | 78.51  | 201.18  |
+| Current Assets  |  |  |  |  |
+| Financial Assets  |  |  |  |  |
+| Trade Receivables  | 30.79  | 26.46  |  | 57.25  |
+| Cash and Cash Equivalents  | 53.41  | 10.78  |  | 64.19  |
+| Bank balances other than cash and cash  equivalents  | 4.05  | -  |  | 4.05  |
+| Other Financial Assets  | 21.86  | -  |  | 21.86  |
+| Income Tax Assets (Net)  | 2.16  | -  |  | 2.16  |
+| Other Current Assets  | 27.95  | -  |  | 27.95  |
+| Total Current Assets  | 140.22  | 37.24  | -  | 177.46  |
+| Total Assets  | 261.23  | 38.90  | 78.51  | 378.64  |
+|  |  |  |  |  |
+| Equity and Liabilities  |  |  |  |  |
+| Equity  |  |  |  |  |
+| Equity Share Capital  | 3.20  | 8.59  | (7.19)  | 4.60  |
+| Other Equity  | 146.99  | (36.19)  | 60.25  | 171.05  |
+| Total Equity attributable to equity holders  of Company | 150.19  | (27.60)  | 53.06  | 175.65  |
+| Non Controlling Interest  | -  | -  | -  | -  |
+| Total Equity  | 150.19  | (27.60)  | 53.06  | 175.65  |
+| Liabilities  |  |  |  |  |
+| Non-Current Liabilities  |  |  |  |  |
+| Financial Liabilities  |  |  |  |  |
+| Borrowings  | 35.95  | 26.53  |  | 62.48  |
+| Lease Liabilities  | 11.80  | -  |  | 11.80  |
+| Other Financial liabilities  | 2.06  | -  |  | 2.06  |
+| Provisions  | 5.70  | -  |  | 5.70  |
+| Total Non-Current Liabilities  | 205.70  | (1.07)  | 53.06  | 257.69  |

@@ -1,0 +1,57 @@
+#
+
+## **2. Solar electricity generation an d s u pp l y**
+
+### Quality Inspection Storage
+
+#### **SECTION VII: FINANCIAL INFORMATION**
+
+##### **Annexure III Restated Statement of Cash Flows**
+
+**Sd/- Neha Nuwal Partner M. No.: 157137**
+**Place: Mumbai Date: December 26, 2025 UDIN: 25157137TKEBLP9461**
+
+**Sd/- Suraj Shivraj Barge Managing Director (DIN: 03161804)**
+**Sd/- Baswaraj Madhavrao Barge Director (DIN: 08159163)**
+**Sd/- Reshma Samir Pange Company Secretary**
+**Sd/- Rahul Rameshrao Joshi CFO**
+
+*(Rest of the page is intentionally left blank)*
+##### **Annexure III Restated Statement of Cash Flows**
+* **(Amount in INR Lakhs, unless otherwise stated)** *
+|  Particulars  |  For the year ended  |  For the year ended  |  For the year ended  |  For the year ended  |
+|:---|:---|:---|:---|:---|
+| Particulars  | September  30, 2025  | March  31, 2025  | March  31, 2024  | March  31, 2023  |
+
+|  A) Cash Flow From Operating Activities :  |  |  |  |  |
+|:---|:---|:---|:---|:---|
+| Net Profit before tax  | 943.99  | 1,552.32 | 185.00 | (57.89) |
+| Adjustments for :  |  |  |  |  |
+| Depreciation  | 94.59  | 183.92  | 32.78  | -  |
+| Interest income  | (0.94)  | (20.57)  | (0.17) | -  |
+| Finance cost  | 212.67  | 386.45  | 41.86  | -  |
+| Operating profit before working capital changes | 1,250.32 | 2,102.13 | 259.47 | (57.89) |
+
+|  Changes in Working Capital  |  |  |  |  |
+|:---|:---|:---|:---|:---|
+| (Increase)/Decrease in Inventories  | (92.40)  | (1,349.74) | (1,861.57) | (29.21)  |
+| (Increase)/Decrease in trade receivables  | (5.56)  | (108.47)  | (5.01)  | 18.67  |
+| (Increase)/Decrease in other current assets  | 112.36  | (1.91)  | (295.91)  | (136.80) |
+| Increase/(Decrease) in trade payables  | (0.95)  | 244.86  | 272.04  | 125.18  |
+| Increase/(Decrease) in other current liabilities  | (55.46)  | (710.45)  | 873.13  | 29.39  |
+| Increase/(Decrease) in long term provisions  | 1.69  | 3.42  | 0.43  | 0.50  |
+| Increase/(Decrease) in short term provisions  | 1.22  | (28.49)  | 0.00  | (3.22)  |
+| (Increase)/Decrease in other non current assets  | (5.88)  | (36.28)  | (0.17)  | (19.32)  |
+| (Increase)/Decrease in short term loans & advances | (449.89) | 118.97  | 127.37  | (300.04) |
+|  | 755.44  | 234.03  | (630.22)  | (372.76) |
+| Direct Tax Paid  | (15.19)  | (113.27)  | (6.86)  | -  |
+| Cash Flow from operating activities  | 740.26  | 120.76  | (637.08)  | (372.76) |
+
+|  B) Cash Flow From Investing Activities :  |  |  |  |  |
+|:---|:---|:---|:---|:---|
+| Purchase/Sale of Property, Plant and Equipment  | (12.92)  | (420.05) | (1,637.21) | (13.38)  |
+| (Increase)/Decrease in non-current investments  | (58.20)  | (30.86)  | (13.43)  | (4.24)  |
+| (Increase)/Decrease in Capital work in progress | (59.89)  | (110.60) | -  | (996.32)  |
+| (Increase)/Decrease in loans given  | -  | 103.00  | -  | (100.00)  |
+| Interest income on fixed deposit  | 0.94  | 20.57  | 0.17  | -  |
+| Net cash flow from investing activities  | (130.07) | (437.95) | (1,650.47) | (1,113.95) |

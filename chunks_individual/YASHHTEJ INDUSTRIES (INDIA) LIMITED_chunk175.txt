@@ -1,0 +1,13 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **5. Net Asset Value (NAV) per Equity Share:**
+|  As at  |  NAV  (₹ per share)  |
+|:---|:---|
+| As on September 30, 2025  | 17.91  |
+| As on March 31, 2025  | 13.08  |
+| After the completion of the Issue |  |
+| - At the Issue Price  | 50.14  |
+*Notes:* *1.*    *Adjusted Net Asset Value per equity share represents net worth as at the end of the year divided by* *adjusted number of Equity Shares outstanding at the end of the year.* *2.*    *Adjusted number of equity shares is the number of equity shares outstanding at the end of the year* *multiplied by the time-weighting factor.*
+*[For the above details relating to Net Asset Value (NAV) per Equity Share, we have relied upon the certificate* *dated February 09, 2026 issued by the Statutory Auditors of our Company i.e., N B T and Co,* *Chartered Accountants]*
+
+*(Rest of the page is intentionally left blank)*

@@ -1,0 +1,57 @@
+#
+
+## **2. Solar electricity generation an d s u pp l y**
+
+### Quality Inspection Storage
+
+#### **SECTION VII: FINANCIAL INFORMATION**
+
+##### **.**
+
+|  Note 34 Financial ratios  |  Note 34 Financial ratios  |  Note 34 Financial ratios  |  Note 34 Financial ratios  |  Note 34 Financial ratios  |  Note 34 Financial ratios  |  Note 34 Financial ratios  |  Note 34 Financial ratios  |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| Particulars  | Unit of  measurement  | Numerator  | Denominator  | As at  | As at  | % Change  | Remarks  |
+| Particulars  | Unit of  measurement  | Numerator  | Denominator  | September  30, 2025  | March 31  2025  | September  30, 2025 -  March 31, 2025 | September  30, 2025 -  March 31, 2025 |
+| Current  ratio  | Times  | Current assets  | Current liabilities  | 1.08  | 0.92  | NA  | NA  |
+| Debt equity  ratio  | Times  | Total debt  (including  current  maturities of  long term  borrowings)  | Net worth  | 1.39  | 2.23  | NA  | NA  |
+| Debt  service  coverage  ratio  | Times  | Earnings for  debt service =  Net profit after  taxes + Non- cash operating  expenses +  Interest  expense | Debt service = Interest  & lease payments  + principal repayments | 0.33  | 0.45  | NA  | NA  |
+| Return on  equity ratio  | Percentage  | Net profits  after taxes  | Average net worth  | 31.19%  | 83.61%  | NA  | NA  |
+| Inventory  turnover  ratio  | Times  | Revenue from  operations  | Average inventory  | 5.82  | 12.66  | NA  | NA  |
+| Trade  receivable  turnover  ratio | Times  | Revenue from  operations  | Average trade  receivable  | 140.70  | 411.92  | NA  | NA  |
+| Trade  payable  turnover  ratio  | Times  | Total  purchases  | Average trade payables  | 26.50  | 57.29  | NA  | NA  |
+| Net capital  turnover  ratio  | Times  | Revenue from  operations  | Working capital =  current assets -  current liabilities  | 62.85  | (88.64)  | NA  | NA  |
+| Net profit  ratio  | Percentage  | Net profit after  tax  | Revenue from  operations  | 3.79%  | 3.56%  | NA  | NA  |
+| Return on  capital  employed  | Percentage  | Earnings  before interest  and taxes  | Capital employed = net  worth  + total debt  | 17.98%  | 30.55%  | NA  | NA  |
+##### **.**
+**Amount in INR Lakhs, except for share data unless otherwise stated**
+|  Particulars  |  U nit of  measurement  |  Numerator D  |  enominator  |  As at  |  As at  |  % Change  |  Remarks  |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| Particulars  | U nit of  measurement  | Numerator D  | enominator  | March 31,  2025 | March 31,  2024 | FY 25 - FY 24 | FY 25 - FY 24  |
+| Current  ratio  | Times  | ent liabilities  | urrent liabilities  | 0.92  | 0.68  | 35.60%  | Due to increase in  revenue, working capital  of the company also  increase  |
+| Debt equity  ratio  | Times  | Total debt  (including  current  maturities of  long term  borrowings)  | Net worth  | 2.23  | 4.21  | -46.93%  | Varirance due to  increase in net worth of  the company compared  to previous year  |
+| Debt  service  coverage  ratio  | Times  | Earnings for  debt service =  Net profit after  taxes + Non- cash operating  expenses +  Interest  expense | Debt service = Interest  & lease payments  + principal repayments | 0.45  | 0.07  | 514.07%  | An increase in revenue  typically leads to an  increase in the  company's profit  |
+| Return on  equity ratio  | Percentage  | Net profits  after taxes  | Average net worth  | 83.61%  | 29.81%  | 180.45%  | An increase in revenue  typically leads to an  increase in the  company's profit  |
+| Inventory  turnover  ratio  | Times  | Revenue from  operations  | Average inventory  | 12.66  | 6.17  | 105.11%  | Varirance due to  increase in revenue from  operation of the  company compared to  previous year |
+| Trade  receivable  turnover  ratio | Times  | Revenue from  operations  | Average trade  receivable  | 411.92  | 268.10  | 53.64%  | Varirance due to  increase in revenue from  operation of the  company compared to  previous year |
+| Trade  payable  turnover  ratio  | Times  | Total  purchases  | Average trade payables  | 57.29  | 26.26  | 118.14%  | Varirance due to  increase in purchase of  the company compared  to previous year  |
+| Net capital  turnover  ratio  | Times  | Revenue from  operations  | Working capital =  current assets -  current liabilities  | (88.64)  | (4.73)  | 1772.74%  | Due to current liability  of the company is more  than current asset of the  company  |
+| Net profit  ratio  | Percentage  | Net profit after  tax  | Revenue from  operations  | 3.56%  | 1.91%  | 86.91%  | An increase in revenue  typically leads to an  increase in the  company's profit  |
+| Return on  capital  employed  | Percentage  | Earnings  before interest  and taxes  | Capital employed = net  worth  + total debt  | 30.55%  | 5.41%  | 465.00%  | An increase in revenue  typically leads to an  increase in the  company's profit  |
+##### **.**
+|  Particulars  |  Unit of  measurement  |  Numerator  |  Denominator  |  As at  |  As at  |  % Change  |  Remarks  |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| Particulars  | Unit of  measurement  | Numerator  | Denominator  | March 31,  2024 | March 31,  2023 | FY 22 - FY 21 | FY 22 - FY 21  |
+| Current  ratio  | Times  | Current assets  | Current Liabilities  | 0.68  | 1.26  | -46.12%  | Due to increase in  revenue, working capital  of the company also  increase  |
+| Debt equity  ratio  | Times  | Total debt  (including  current  maturities of  long term  borrowings  and accrued  interest  excluding  lease  liabilities) | Shareholder's Equity  | 4.21  | (34.79)  | -112.10%  | Varirance due to  increase in net worth of  the company compared to  previous year |
+| Debt  service  coverage  ratio | Times  | Earnings for  debt service =  Net profit  after taxes +  Non-cash  | Debt service = Interest  & lease payments  + principal repayments | 0.07  | (0.08)  | -188.07%  | An increase in revenue  typically leads to an  increase in the company's  profit  |
+|  Particulars  |  Unit of  measurement  |  Numerator  |  Denominator  |  As at  |  As at  |  % Change  |  Remarks  |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| Particulars  | Unit of  measurement  | Numerator  | Denominator  | March 31,  2024 | March 31,  2023 | FY 22 - FY 21 | FY 22 - FY 21  |
+|  |  | operating  expenses +  Interest  expense  |  |  |  |  |  |
+| Return on  equity ratio  | Percentage  | Net profits  after taxes  | Average Shareholder’s  Equity  | 29.81%  | 305.92%  | -90.25%  | Due to increase in paid  up share capital of the  company  |
+| Inventory  turnover  ratio  | Times  | Revenue from  Operations  | Average Inventory  | 6.17  | 82.18  | -92.49%  | An increase in revenue  typically leads to an  increase in inventory  |
+| Trade  receivable  turnover  ratio | Times  | Net credit  sales = Gross  credit sales -  sales return | Average Trade  Receivable  | 268.10  | 41.49  | 546.14%  | Due to increase in  revenue, trade receivable  ratio also increase  |
+| Trade  payable  turnover  ratio  | Times  | Total  purchases of  raw material  | Average Trade  Payables  | 26.26  | 15.00  | 75.11%  | Varirance due to  increase in purchase of  the company compared to  previous year  |
+| Net capital  turnover  ratio  | Times  | Net sales =  total sales -  sales return  | Working capital =  Current assets -  Current liabilities* | (4.73)  | 5.34  | -188.62%  | Due to current liability of  the company is more than  current asset of the  company |
+| Net profit  ratio  | Percentage  | Net profit  after tax  | Net sales = Total sales  -  sales return  | 1.91%  | -4.81%  | -139.59%  | An increase in revenue  typically leads to an  increase in the  company’s profit  |
+| Return on  capital  employed  | Percentage  | Earnings  before interest  and taxes  | Capital Employed =  Tangible Net Worth  + Total Debt  | 5.41%  | -3.59%  | -250.73%  | An increase in revenue  typically leads to an  increase in the  company’s profit  |

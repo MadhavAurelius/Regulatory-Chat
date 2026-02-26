@@ -1,0 +1,31 @@
+#
+
+## **3A.4 Policy and Regulatory Support**
+
+The Indian government has implemented several policies to promote solar energy:
+-  The Government of India has waived Inter-State Transmission System (ISTS) charges for solar and wind power
+
+ projects commissioned until June 30, 2025, to incentivize rapid deployment of renewable energy capacity1.
+-  Starting June 2026, all grid-connected solar projects must incorporate photovoltaic (PV) modules assembled
+
+ from domestically manufactured solar cells under the revised Approved List of Models and Manufacturers (ALMM) guidelines, promoting local manufacturing and reducing import dependence2.
+-  Competitive tariff-based bidding protocols, guided by the Central Electricity Authority (CEA) and Ministry of
+
+ New and Renewable Energy (MNRE), govern the procurement of grid-connected solar PV power, ensuring transparent and cost-effective project allocation3.
+##### **Government Initiatives and Investments**
+The Government of India has been proactive in harnessing this potential through various initiatives:
+-  Under the  **Development of Solar Parks and Ultra Mega Solar Power Projects Scheme**  , the government has
+
+ sanctioned 50 solar parks across 12 states, amounting to a total sanctioned capacity of approximately 37,490 MW as of November 30, 2023. Of this, 19 parks with a cumulative capacity of 10,401 MW have been commissioned so far4.
+-  The  **Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan (PM-KUSUM)**  Scheme, launched
+
+ in 2019, aims to install 10 GW of decentralized grid-connected solar power plants (Component A) and achieve a total distributed solar capacity of 34.8 GW, which includes solar pumps and feeder-level solar projects,
+targeted by March 2026 <sup>5</sup> . As of July 2025, Component A had 10 GW sanctioned with 638.99 MW installed. Additionally, over 8,40,947 standalone solar pumps and 5,89,526 feeder-level solar systems have been deployed across various states <sup>6</sup> .
+-  The  **MNRE’s Production Linked Incentive (PLI)**  Scheme for High-Efficiency Solar PV Modules, with a
+
+ total outlay of ₹24,000 crore, aims to boost domestic solar manufacturing and reduce import reliance. Implemented in two phases, Tranche-I (₹4,500 crore, April 2021) awarded 8,737 MW capacity, while Tranche- II (₹19,500 crore, September 2022) selected 11 firms to set up 39,600 MW of integrated facilities7.
+-  To accelerate solar growth, the Government permits 100% FDI under the automatic route and has set up a
+
+ dedicated Project Development Cell. Key enablers include continued waiver of ISTS charges and streamlined facilitation mechanisms to attract over USD 6.1 billion in FDI into the renewable energy sector between April 2020 and September 20238.
+##### **Strategic Importance**
+Harnessing India's solar energy potential is crucial for:

@@ -1,0 +1,32 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+Our business operations, in particular our day-to-day manufacturing operations, are subject to a broad range of regulations and accordingly, we are required to maintain licenses under such legislations. Any violations of these laws and regulations can result in fines, penalties or litigation, which may adversely affect our business, results of operations, financial condition and cash flows. For instance, we are subject to laws and government regulations in relation to safety, health and environmental protection. These Environmental Laws and relevant regulations impose controls on air and water discharge, noise levels, storage handling, employee exposure to hazardous substances (e.g. hexane used as a solvent during the soybean crude oil extraction process) and other aspects of our manufacturing.
+We cannot assure you that there will not be any such future changes in the regulatory framework, which may cause commercial and operational challenges for our Company. If we fail to meet the environmental requirements, we may be subject to administrative, civil and criminal proceedings by Government entities, as well as civil proceedings by environmental groups and other individuals, which could result in substantial fines and penalties against us as well as revocation of approvals and permits and orders that could limit or halt our operations.
+While we have not experienced the above risks that had an adverse impact on our business operations and financial conditions during the last three Financial Years and Stub period, we cannot assure you that these risks will not arise in the future.
+**25. We have in the past entered into related party transactions and may continue to do so in the future, which may potentially involve conflicts of interest with the equity shareholders.**
+During the last three Financial Years and Stub period, we have entered into transactions with related parties including our Promoters, Directors, relatives of our Promoters/Directors and Group Entities and may continue to enter into such transactions in future.
+Details of Related party transactions undertaken: **₹ in Lakhs**
+|  Nature of  Transaction  |  Name of Related  Party  |  For the period  ended  |  For the year ended  |  For the year ended  |  For the year ended  |
+|:---|:---|:---|:---|:---|:---|
+| Nature of  Transaction  | Name of Related  Party  | September 30,  2025  | March  31, 2025  | March  31, 2024  | March  31, 2023  |
+| Remuneration  | Baswaraj Madhavrao Barge  | -  | -  | -  | 6.00  |
+| Remuneration  | Suraj Shivraj Barge  | -  | -  | -  | 6.00  |
+| Sitting Fees  | Inayat Khan Azmat Khan  | 0.20  | 0.02  | -  | -  |
+| Sitting Fees  | Shubham Govindprasad Jakhotiya  | 0.20  | 0.02  | -  | -  |
+| Sitting Fees  | Truptee Brijesh Didvaniya  | 0.20  | -  | -  | -  |
+| Salary  | Rahul Rameshrao Joshi  | 2.79  | 1.44  | -  | -  |
+| Salary  | Reshma Samir Pange  | 1.27  | -  | -  | -  |
+| Loans Taken  | Baswaraj Madhavrao Barge  | 0.36  | 2.99  | 0.05  | 143.28  |
+| Loans Taken  | Suraj Shivraj Barge  | 1.74  | 4.60  | -  | 59.00  |
+| Loans Taken  | Shivling Madhavrao Barge  (Vaibhav Industries)  | 777.10  | 523.56  | 294.59  | 414.69  |
+| Loans Taken  | Dhondiraj Shivraj Barge  | 0.09  | 1.81  | 0.22  | 0.10  |
+| Loans Taken  | Vaibhav Sales (Proprietership of  Jyoti Baswaraj Barge), Latur | 200.00  | -  | 10.97  | 278.50  |
+| Loans Taken  | Vaibhav  Heavy  Engineering  Industries Private Limited  | 250.00  | 75.00  | 8.02  | 100.00  |
+| Loans Taken  | Yashhtej Agro Producer Co. Ltd.  | -  | 275.00  | 57.29  | -  |
+| Loans Taken  | Tejas Baswaraj Barge  | 0.13  | -  | -  | -  |
+| Loans Repaid  | Suraj Shivraj Barge  | 18.34  | 43.21  | 1.50  | 1.20  |
+| Loans Repaid  | Shivling Madhavrao Barge  (Vaibhav Industries)  | 501.52  | 475.63  | -  | 609.27  |
+| Loans Repaid  | Dhondiraj Shivraj Barge  | 0.09  | 2.13  | -  | -  |
+| Loans Repaid  | Vaibhav Sales (Proprietership of  Jyoti Baswaraj Barge), Latur | 20.50  | 226.51  | -  | 90.00  |
+| Loans Repaid  | Vaibhav  Heavy  Engineering  Industries Private Limited  | 200.00  | 166.02  | -  | 17.00  |
+45

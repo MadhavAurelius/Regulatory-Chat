@@ -1,0 +1,17 @@
+# Pursuant to Special Resolution passed at the Extra Ordinary General Meeting held on December 10, 2024, Equity Shares of face value of ₹100/- each of our Company were sub-divided into Equity Shares of face value of ₹10/- each.
+
+## **10. Other requirements**
+
+#### **SECTION IX: ISSUE RELATED INFORMATION**
+
+##### **NUMBER OF APPLICATIONS PER BANK ACCOUNT**
+
+d.  The Individual Investors would be able to view the amount to be blocked as per his / her Application in such intimation. The Individual Investors would also be able to view an attachment wherein the IPO Application details submitted by Individual Investors will be visible. After reviewing the details properly, Individual Investors would be required to proceed to authorize the mandate. Such mandate raised by sponsor bank would be a one-time mandate for each application in the IPO.
+e.  Upon successful validation of block request by the Individual Investors, as above, the said information would be electronically received by the Individual Investors’ bank, where the funds, equivalent to application amount, would get blocked in Individual Investors account. Intimation regarding confirmation of such block of funds in Individual Investors account would also be received by the Individual Investors.
+f.  The information containing status of block request (e.g. -  accepted / decline / pending) would also be shared with the Sponsor Bank, which in turn would be shared with stock exchange. The block request status would also be displayed on stock exchange platform for information of the intermediary.
+g.  The information received from Sponsor Bank, would be shared by stock exchange with RTA in the form of a file for the purpose of reconciliation.
+h.  Individual Investors would continue to have the option to modify or withdraw the Application till the closure of the Issue period. For each such modification of Application, Individual Investors will submit a revised Application and shall receive a mandate request from sponsor bank to be validated as per the process indicated above.
+Post closure of the Issue, the stock exchange will share the Application details with the Registrar along with the final file received from the Sponsor Bank containing status of blocked funds or otherwise, along with the ASBA Account details with respect to applications made by Individual Investors using UPI ID.
+##### **NUMBER OF APPLICATIONS PER BANK ACCOUNT**
+
+An investor making application using any of channels under UPI Payments Mechanism, shall use only his / her own bank account or only his / her own bank account linked UPI ID to make an application in public issues. Applications made using third party bank account or using third party linked bank account UPI ID are liable for rejection. Sponsor Bank shall provide the investors UPI linked bank account details to RTA for purpose of reconciliation. RTA shall undertake technical rejection of all applications to reject applications made using third party bank account.

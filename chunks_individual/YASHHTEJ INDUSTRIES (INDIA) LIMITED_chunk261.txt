@@ -1,0 +1,25 @@
+#
+
+## **2. Solar electricity generation an d s u pp l y**
+
+##### **d) COOLING SECTION:**
+
+**Heating / Cooking: (Heating the soybean cake to soften the material, making it easier to extract oil)**
+**Hexane Extraction : Hexane is used as a solvent to extract oil from the soybean cake**
+**Transfer of Finished Goods (Crude oil) to Crude Oil stoage Tank**
+##### **MANUFACTURING FLOW CHART:**
+##### **a) CLEANING SECTION:**
+
+**Note:** ➢  The soybeans enter the coarse cleaning section, where they pass through a sequence of equipment including a drum sieve, aspiration channel, and universal cleaner. These machines remove large physical impurities such as sticks, stones, dust, and other foreign matter, ensuring that only clean soybeans proceed further in the process.
+##### **b) PREPARATORY SECTION:**
+
+**Note:** ➢   **Soybean Cracking & Flaking:** Cleaned soybeans is cracked and later made in to flakes to expose oil-bearing cells. Cracking and flaking improves surface area for more efficient oil extraction later in the process.
+➢   **Heating / Cooking:** Cracked soy flakes are heated to soften them for extraction. This step enhances oil yield and prepares the flakes for solvent treatment.
+
+##### **c) HEXANE EXTRACTION:**
+
+**Note:** ➢   **Hexane Extraction:** In this stage, the syobean cakes are introduced into an extractor, where hexane is used as a solvent to dissolve the oil present in the soybean cells. The extraction occurs at a controlled temperature which is optimal for maximizing oil yield while minimizing solvent loss or material degradation. As the soy cakes move through the extractor, the resulting solution, called miscella (a mixture of hexane and crude Soybean Oil), is separated from the solid residue, known as De-oiled Cake (DOC). The Miscella and DOC are  transferred for solvent recovery and crude oil separation. ➢   **Desolventizing:** The Miscella / DOC is heated under controlled conditions to evaporate hexane, which is then condensed and recycled, while the Crude Oil / DOC is transferred to next stage.
+
+##### **d) COOLING SECTION:**
+
+**Note:** Once the DOC exits the desolventizing stage, it retains high levels of heat and moisture due to the steam treatment used for solvent removal. To make the DOC suitable for safe storage and transportation, it is passed through a cooling section where it is gradually brought down to ambient temperature. This step is essential to prevent mold growth, spoilage, and condensation during storage. Proper cooling also helps maintain the structural integrity and nutritional value of the DOC.

@@ -1,0 +1,29 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **D. LOAD STRUCTURE**
+
+Exit Load is an amount which is paid by the investor to redeem the units from the Investment Strategy. Load amounts are variable and are subject to change from time to time. For the current applicable structure, please refer to the website of Apex SIF [https://apexsif.adityabirlacapital.com](https://apexsif.adityabirlacapital.com/)  or may call at 1-800-22- 7000/1-800-270-7000 or your distributor.
+|  Type of Load  |  Load chargeable (as %age of NAV)  |
+|:---|:---|
+| Exit  | -  For redemption/switch-out of units on or before 90 days from the date  of allotment: 0.50% of applicable NAV.  -  For redemption/switch-out of units after 90 days from the date of  allotment: Nil.  The Load Structure is subject to change from time to time and shall be  implemented prospectively. |
+-  No Exit Loads will be chargeable in case of switches made from Growth option to IDCW option or vice-
+
+ versa within the respective Plans offered under the investment strategy.
+
+-  No entry or exit load shall be charged in respect of units issued to unitholders on Reinvestments of IDCW
+
+ and units issued to unitholders as Bonus units.
+
+-  No exit load will be charged in case of switch of investments from Regular Plan to Direct Plan and vice
+
+ versa.
+
+-  The above Load shall be applicable in case SIP/STP/SWP transactions, and all special product offered
+
+ by AMC.
+
+-  Pursuant to para 10.3 of SEBI Master Circular on Mutual Funds , exit load charged, if any, by the
+
+ AMC/Mutual Fund to the unitholders shall be credited to the investment strategy immediately, net of GST, if any.
+**The investor is requested to check the prevailing load structure of the Investment Strategy before investing.**
+AMC reserves the right to change / modify the Load structure under the investment strategy if it so deems fit in the interest of smooth and efficient functioning of the Mutual Fund. AMC reserves the right to introduce / modify the Load depending upon the circumstances prevailing at that time subject to maximum limits as prescribed under the SEBI (MF) Regulations.

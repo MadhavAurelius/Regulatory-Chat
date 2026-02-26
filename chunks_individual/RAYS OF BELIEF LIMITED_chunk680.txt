@@ -1,0 +1,31 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Acquisition of Subsidiary and Recognition of Provisional Goodwill**
+
+As per Section 135 of the Companies Act, 2013, the Company, meeting the applicability threshold, needs to spend at least 2% of its average net profit for the immediately preceding three financial years on corporate social responsibility (CSR) activities. The Act require such companies to constitute a Corporate Social Responsibility Committee which shall formulate and recommend to the Board a Corporate Social Responsibility Policy which shall indicate the CSR activities to be undertaken by the Company as specified in Schedule VII to the Companies Act, 2013.
+336
+**Rays of Belief Limited (Formerly known as Rays of Belief Private Limited) CIN:U85110DL2017PLC322623 Notes to Restated financial Information for the period ended Septemeber 30, 2025** (All amounts in INR Millions, unless otherwise stated) **Note- 38 Gratuity**
+**Summary of results**
+|  Asset/Liablity  |  As at  30 Sep 2025  |  As at  March 31, 2025  |  As at  March 31, 2024  |  As at  March 31, 2023  |
+|:---|:---|:---|:---|:---|
+| Present value of obligation  | 6.65  | 4.24  | 2.41  | 1.33  |
+| Fair value of plan assets  | --  | --  | --  | --  |
+| Net assets / (liability) recognized in balance sheet as provision | 6.65  | 4.24  | 2.41  | (1.33)  |
+**Summary of membership data:-**
+|  Particulars  |  As at  30 Sep 2025 |  As at  March 31, 2025 |  As at  March 31, 2024 |  As at  March 31, 2023 |
+|:---|---:|---:|---:|---:|
+| a) Number of employees  |  517  |  365  |  365  |  249  |
+| b) Total Monthly Salary  (millions)  |  11.29 |  6.89 |  6.89 |  4.69 |
+| c) Average Past Service  (Years)  |  1.47 |  1.14 |  1.14 |  1.03 |
+| d) Average Age  (Years) |  29.15 |  28.81 |  28.81 |  28.78 |
+| e) Average remaining (Years) working life  |  30.85 |  31.19 |  31.19 |  31.22 |
+| f) weighted average duration  |  2.03 |  2.01 |  2.02 |  2.01 |
+**a) Economic Assumptions**
+|  Particulars  |  As at  30 Sep 2025  |  As at  March 31, 2025  |  As at  March 31, 2024  |  As at  March 31, 2023  |
+|:---|:---|:---|:---|:---|
+| i)  Discounting Rate  | 7.38  | 7.25  | 7.25  | 7.39  |
+| ii)  Future salary Increase  | 6.00  | 6.00  | 6.00  | 6.00  |
+| iii)  Expected Rate of return on plan assets | --  | --  | --  | --  |
+**b) Demographic Assumptions**

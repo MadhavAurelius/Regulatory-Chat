@@ -1,0 +1,22 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+## * **Return on Capital Employed** *
+
+Return On Capital Employed is calculated as Earnings Before Interest and Tax divided by Capital Employed; Earnings Before Interest and Tax is calculated as Restated Profit after tax for the period/year from continuing operations plus total tax expense plus finance costs; Capital Employed is calculated as the sum of Tangible Net Worth and Total Debt; Tangible Net Worth is calculated as Total Equity minus Intangible Assets minus Intangible Assets Under Development minus Deferred Tax Assets (Net); Total Debt is calculated as sum of current borrowings, current lease liabilities, non-current borrowings and non-current lease liabilities.
+*Reconciliation of return on capital employed*
+**Particulars As at and for the nine months period ended September 30, 2025**
+**As at and for the year ended December 31, 2024 December 31, 2023**
+**December 31, 2022**
+* **(₹ in million unless otherwise stated)** * Restated profit after tax for the period / year from continuing operations (A)
+1,651.89  1,911.23  1,476.98  1,687.53
+Total Tax Expense (B) 566.58  534.59  615.36  563.67
+
+**Particulars As at and for the nine months period ended September 30, 2025**
+**As at and for the year ended December 31, 2024 December 31, 2023**
+**December 31, 2022**
+* **(₹ in million unless otherwise stated)** * Finance costs (C) 52.96 104.25 130.48 70.76 **EBIT (D=A+B+C)**  2,271.43  2,550.07  2,222.82  2,321.96
+Current Borrowings (E) - - 1,107.86 1,437.44 Current Lease Liabilities (F) 32.51 37.48 36.56 37.09 Non-current Borrowings (G) - - - - Non-current Lease Liabilities (H)  5.43  28.09  60.10  19.56 **Total Debt (I= E + F + G+H) 37.94 65.57 1,204.52 1,494.09**
+Total Equity (J)  9,252.96  8,530.92  8,053.35  7,253.74
+Intangible Assets (K) 1.77 3.04 23.18 18.53 Intangible assets under development (L) 11.73 9.46 - - Deferred tax assets (Net) (M) 256.01 161.80 175.08 142.30 **Tangible Net Worth (N = J - K -  L-M) 8,983.45 8,356.62 7,855.09 7,092.91**
+**Capital Employed (O= I + N)**  9,021.39 8,422.19 9,059.61 8,587.00
+**Return on Capital Employed (%) (D/O) 25.18% 30.28% 24.54% 27.04%**

@@ -1,0 +1,22 @@
+#
+
+## **3B.3 Global Solar Power Landscape**
+
+##### **b) America**
+
+##### **Regional Highlights:**
+
+The global solar PV market in CY2024 witnessed robust regional activity, with growth dynamics varying significantly across geographies. While Asia-Pacific continued to dominate global installations, notable expansion was observed in the Americas and parts of Europe, even as the Middle East and Africa region lagged due to persistent structural and regulatory constraints.
+
+##### **a) Asia-Pacific (APAC)**
+The Asia-Pacific (APAC) region remained the epicentre of global solar PV deployment in 2024, contributing approximately 70% of the total new capacity added worldwide. This dominance was largely attributable to the scale and pace of installations in China, supported by rising activity in India and emerging Southeast Asian markets.
+
+China, the global solar market leader, installed 329 GW of new capacity in 2024, accounting for 55% of global solar additions. This marked a 30% increase from the 253 GW added in 2023. With this, China’s cumulative installed solar capacity reached 985 GW, representing approximately 44% of the global total. The country’s continued leadership is underpinned by aggressive manufacturing expansion, large-scale utility deployments, and supportive policy frameworks aimed at achieving its climate and industrial targets.
+
+India recorded a remarkable comeback in 2024, installing 30.7 GW of new capacity—an impressive 145% year- on-year growth. This performance positioned India as the third-largest solar market globally, after falling to fifth place in 2023. The resurgence was driven by commissioning of delayed utility-scale projects, improved grid infrastructure under the Green Energy Corridor initiative, and reinforced policy push via Renewable Purchase Obligations (RPOs). India’s cumulative capacity stood at 121 GW by the end of 2024.
+
+APAC excluding China also showed increased activity, with its share of global additions rising to 15%. Notably, emerging markets such as Uzbekistan and the Philippines achieved gigawatt-scale capacity additions for the first time in 2024, adding 1.4 GW and 1.1 GW, respectively. These developments highlight the increasing diversification of solar investments within the region1.
+
+##### **b) America**
+
+The Americas emerged as the second-fastest growing solar PV region in 2024, contributing 82.9 GW of new capacity, which represented a 14% share of the global market and a 40% increase over 2023. Growth was spearheaded by the United States and Brazil, while smaller Latin American markets also showed progress. The United States added a record 50 GW of solar PV capacity in 2024, a 54% year-on-year increase, bringing its total cumulative capacity to 223 GW. This surge was primarily attributed to the full-scale implementation of clean energy incentives under the Inflation Reduction Act (IRA), coupled with increasing electricity demand from new industrial facilities and data centers.

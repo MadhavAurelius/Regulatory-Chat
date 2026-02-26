@@ -1,0 +1,5 @@
+# including equity ETFs and units of equity oriented mutual fund schemes ##including Units of Debt oriented mutual fund schemes and Debt ETFs *Derivatives exposure will be upto 100% & Unhedged short position will be upto 25% of net assets for both equity and debt instruments
+
+### **RISKS ASSOCIATED WITH UNHEDGED DERIVATIVE POSITIONS**
+The investment strategy may involve exposure to unhedged derivative positions. The associated risks include:
+Unhedged derivative positions are exposed to multiple layers of financial risk due to the absence of offsetting strategies. The most significant is market risk, as adverse price movements in the underlying asset can lead to significant losses. This risk is amplified by the inherent leverage in derivatives, which can cause losses to exceed the initial investment and trigger margin calls. Liquidity risk is another concern, as stressed market conditions can make it difficult or costly to unwind positions, further compounding losses. It may also entail Operational risks stemming from trade execution errors, settlement, or system failures which can lead to unintended exposures and losses.

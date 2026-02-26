@@ -1,0 +1,18 @@
+|  |  Explanation. —  For the purpose of  this  clause,  the  expression  ‘turnover’  shall  include  the  aggregate value of  the trades executed,  including both sale  and  purchase  transactions, by the  stock  broker  including  the  proprietary  trading  member on the debts  segment  of  the  recognized  stock  exchange.  |  |  |  clearing member in  case the said clearing  member  or  self- clearing member is  already  a  clearing  member  or  self- clearing member in  any other segment and  is  paying  fee,  as  specified in this Part,  for such segment.  |
+|:---|:---|:---|:---|:---|
+| Electronic  Gold  Receipt  Segment | 0.00010 percent of  turnover (Rs.10 per  crore)  | *  | *  | All sale and purchase  transactions in  Electronic  Gold  Receipt.  |
+| Execution  Only  Platforms  | *  | *  | *  |  |
+*As may be specified by the Board.
+(2) A clearing member/ self-clearing member shall pay a fee of Rs.50,000 every year till its registration is in force, in the manner specified below-
+(a) for the first financial year along with the application for registration;
+(b) for the subsequent financial years before 1st June of that financial year.
+(3) The non-refundable fee payable along with an application for registration under regulation 4 shall be a sum of fifty thousand rupees.
+(4) Such fee shall be payable by the applicant by way of direct credit in the bank account through online payment using SEBI payment gateway.
+**Manner of payment and recovery** 42. (1) Every recognized stock exchange, in accordance with the provisions of its bye-laws, shall collect from every stock broker in cash segment, the fee payable under regulation 41 in respect of -
+(a) securities transactions entered into by it in that recognised stock exchange; and
+(b) off-market transactions entered into by it which are reported to that recognised stock exchange.
+[ भाग  III— खण ् ‍ड  4]  भारत‍का‍राजपत ्र ‍:‍असाधा रण    4 7
+
+Explanation. -  The Board may specify the manner in which fees shall be collected from stock brokers who report the same transactions to different stock exchanges in which they are members, under clause (b).
+(2) Every recognized stock exchange shall collect from every stock broker in any segment other than cash segment, the fee payable under regulation 41 in respect of turnover in the relevant segment of that recognised stock exchange in accordance with the provisions of its bye-laws.
+(3) Every commodity derivatives exchange shall collect from every stock broker/clearing member/self-clearing member, dealing/clearing and settling trades in commodity derivatives, the fee payable under regulation 41(1) in accordance with the provisions of its bye-laws.

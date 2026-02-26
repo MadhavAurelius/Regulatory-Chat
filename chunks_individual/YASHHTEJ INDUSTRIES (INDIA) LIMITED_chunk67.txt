@@ -1,0 +1,25 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+|  Nature of  Transaction  |  Name of Related  Party  |  For the period  ended  |  For the year ended  |  For the year ended  |  For the year ended  |
+|:---|:---|:---|:---|:---|:---|
+| Nature of  Transaction  | Name of Related  Party  | September 30,  2025  | March  31, 2025  | March  31, 2024  | March  31, 2023  |
+| Nature of  Transaction  | Baswaraj Madhavrao Barge  | 11.42  | 61.93  | 5.00  | -  |
+| Nature of  Transaction  | Yashhtej Agro Producer Co. Ltd.  | -  | 275.00  | 57.29  | -  |
+| Loan Given  | Shivraj Annarao Barge  | -  | -  | -  | 50.00  |
+| Loan Given  | Barge Madhavrao Annarao  | -  | 4.00  | -  | 50.00  |
+| Loan Given  | Yashhtej Agro Producer Co. Ltd.  | -  | 1,955.00  | -  | -  |
+| Loan Taken  back  | Madhavrao Annarao Barge  | -  | 57.00  | -  | -  |
+| Loan Taken  back  | Shivraj Annarao Barge  | -  | 50.00  | -  | -  |
+| Loan Taken  back  | Yashhtej Agro Producer Co. Ltd.  | -  | 1,955.00  | -  | -  |
+| Interest  charged on  loan  | Madhavrao Annarao Barge  | -  | 3.87  | -  | -  |
+| Interest  charged on  loan  | Shivraj Annarao Barge  | -  | 3.98  | -  | -  |
+| Interest  charged on  loan  | Yashhtej Agro Producer Co. Ltd.  | -  | 11.80  | -  | -  |
+| Purchase of  Goods (Net of  GST)  | Yashhtej Agro Producer Company  Limited  | -  | -  | 835.07  | 230.80  |
+| Purchase of  Goods (Net of  GST)  | Madhav Rao Annarao Barge  | -  | -  | 6.24  | -  |
+| Sales of Goods  (Net of GST)  | Yashhtej Agro Producer Company  Limited  | -  | 8.84  | 4.46  | 239.55  |
+| Purchase of  capital goods  (Net of GST) | Shivling  Madhavrao Barge  (Vaibhav Industries) | -  | -  | 1,060.95  | 697.01  |
+| Repair and  Maintenance  | Shivling Madhavrao Barge  (Vaibhav Industries)  | -  | 5.63  | -  | -  |
+| Advance given  for capital  goods  | Shivling Madhavrao Barge  (Vaibhav Industries)  | -  | -  | -  | 275.03  |
+| Advance given  to supplier  | Yashhtej Agro Producer Company  Limited  | -  | -  | 7.45  |  |
+| Salary  | Yash Baswaraj Barge  | -  | -  | -  | 3.00  |
+| Rent  | Yashhtej Agro Producer Company  Limited  | 1.2  | -  | -  | -  |

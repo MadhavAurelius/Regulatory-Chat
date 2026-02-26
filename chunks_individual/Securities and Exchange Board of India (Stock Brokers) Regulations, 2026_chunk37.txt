@@ -1,0 +1,30 @@
+**Investor Charter.**
+(10) The stock broker shall ensure compliance with the Investor Charter specified.
+**Execution of Orders.**
+(11) A stock broker shall faithfully execute orders on behalf of clients for buying and selling of securities at the best available market price.
+**Enhanced obligations and responsibilities for qualified stock brokers.**
+19. (1) The Board may designate a stock broker as a qualified stock broker having regard to its size, scale of operations and likely impact on investors and securities market, on the basis of the following parameters with appropriate weightages specified-
+(a) total number of active clients;
+(b) available total assets of clients with the stock broker;
+(c) trading volumes of the stock broker;
+(d) end of the day margin obligations of all clients of a stock broker; and
+(e) proprietary trading volumes of the stock broker.
+(2) In addition to obligation specified under regulation 18, the stock broker designated as a qualified stock broker shall be required to meet enhanced obligations and discharge responsibilities, as may be specified, to ensure -
+(a) appropriate governance structure and processes;
+(b) appropriate risk management policy and processes;
+(c) scalable infrastructure and appropriate technical capacity;
+(d) framework for orderly winding down;
+(e) robust cyber security framework and processes; and
+(f) investor services including online complaint redressal mechanism.
+**Activities restricted or prohibited for stock broker.**
+20.  A stock broker shall refrain from-
+(a) engaging in activities or schemes of indicative or guaranteed or fixed or periodic returns or payments, which are not permitted under the Regulations, as well as bye-laws, notifications and circulars issued by the Board or a recognized stock exchange, as the case may be;
+(b) operating any schemes of unauthorised collective investments/portfolio management services;
+(c) engaging in any activity not permitted under rule 8(1)(f) and rule 8(3)(f) of the Securities Contracts (Regulation) Rules, 1957; and
+[ भाग  III— खण ् ‍ड  4]  भारत‍का‍राजपत ्र ‍:‍असाधा रण    3 7
+
+(d) accepting cash from its clients either directly or by way of cash deposit to its bank account.
+
+**CHAPTER IV INSTITUTIONAL MECHANISM FOR PREVENTION AND DETECTION OF FRAUD OR MARKET ABUSE**
+**Systems for surveillance of trading activities and internal controls.**
+21. The stock broker shall put in place adequate systems for surveillance of trading activities and internal control systems to ensure compliance with all the regulatory requirements as may be specified for the detection, prevention and reporting of potential fraud or market abuse by its clients, directors, senior management, key managerial personnel, employees or authorised persons.

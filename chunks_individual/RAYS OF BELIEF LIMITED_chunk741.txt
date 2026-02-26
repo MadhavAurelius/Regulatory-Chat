@@ -1,0 +1,21 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **k. Revenue recognition**
+
+Company has applied Ind AS 115 which establishes a comprehensive framework for determining whether, how much and when revenue is to be recognised.
+Ind AS 115 five step model is used to determine whether revenue should be recognised at a point in time or over time, and at what amount is as below:
+-  Step 1: Identify the contract with the customer
+
+-  Step 2: Identify the performance obligations in the contract
+
+-  Step 3: Determine the transaction price
+
+-  Step 4: Allocate the transaction price to the performance obligations
+
+-  Step 5: Recognise revenue when (or as) the entity satisfies a performance obligation.
+The Company earns revenue primarily from sale of services. Revenue is measured based on the consideration specified in a contract with a customer. The Company recognises revenue when it transfers control over a good or service to a customer.
+Revenue is recognised upon transfer of control of promised services to customers in an amount that reflects the consideration which the Company expects to receive in exchange for those services. *Revenue from providing services is recognised in the accounting period in which services are rendered.
+Revenue is measured based on the transaction price, which is the consideration, if any, as specified in the contract with the customer. Revenue also excludes taxes collected from customers.
+In the previous accounting period (i.e., March 24, March 23 and March 22), the company followed the practice of recognizing deferred revenue income, which was grouped under liabilities, as a part of its revenue recognition policy. Under this approach, amounts received in advance for goods or services yet to be delivered were initially recognized as a liability on the balance sheet, and revenue was recognized when the related performance obligation was satisfied.

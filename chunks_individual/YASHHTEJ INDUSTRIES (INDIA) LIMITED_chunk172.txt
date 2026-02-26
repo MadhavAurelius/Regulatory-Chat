@@ -1,0 +1,6 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **2. Price Earning (P/E) Ratio in relation to the Issue Price of ₹ 110 per share:**
+|  Sr. No  |  Particulars  |  P/E at the Issue Price  (₹)  |
+|---:|:---|---:|
+|  1  | Based on restated basic and diluted EPS for the year ended March  31, 2025 |  14.27 |

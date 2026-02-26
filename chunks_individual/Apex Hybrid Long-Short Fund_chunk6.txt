@@ -1,0 +1,14 @@
+# Apex Hybrid Long-Short Fund
+
+## **Apex Hybrid Long-Short Fund**
+
+### **PART I. HIGHLIGHTS/SUMMARY OF THE INVESTMENT STRATEGY**
+
+|  Sr. No. T  |  itle  |  Description  |
+|:---|:---|:---|
+| I.  | Name  of  the  Investment Strategy  Std Obs 1  | Apex Hybrid Long-Short Fund  |
+| II.  | Category  of  the  Investment Strategy  Std Obs 2 | Hybrid Long-Short Fund  |
+| III.  | Type of Investment  Strategy  | An interval investment strategy investing in equity and debt  securities, including limited short exposure in equity and debt  through derivatives.  |
+| IV.  | Investment  strategy  code  Std Obs 7  | To be disclosed after obtaining investment strategy code.  |
+| V.  | Investment objective  Std Obs 5  | An interval investment strategy investing in arbitrage, long equity,  debt, equity and debt derivatives, long short and REITs/InVITs  including limited short exposure on permitted instruments through  derivatives.  There is no assurance that the investment objective of the Investment  strategy will be achieved.  |
+| VI.  | Liquidity/listing  details  Std Obs 56  | The investment strategy will be listed on National Stock Exchange  (NSE) or more recognized stock exchanges as may be decided by  AMC from time to time. The investment strategy will offer  purchase/switch-in of units on every Business Day on an ongoing  basis and Redemption / Switch Out of Units during two times in a  week i.e. every Monday and Wednesday of the week at NAV based  prices, commencing not later than 5 (five) business days from the  date of the allotment.  Subscription / Switch-in of Units:  The investment strategy will offer units for purchase / switch-in on  continuous basis at NAV based prices.  Redemption / Switch Out of Units:  The Investment Strategy will offer redemption two times in a week  i.e. every Monday and Wednesday of the week.  *In case, the Redemption frequency falls on a non-business day then  immediate next business day of the week.  Units can be redeemed or switched out during the above-mentioned  frequency, at applicable NAV without payment of exit load.  However, Switch transactions are currently not available in case of |

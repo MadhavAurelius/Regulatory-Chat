@@ -1,0 +1,41 @@
+# RAYS OF BELIEF LIMITED Corporate Identity Number : U85110DL2017PLC322623  REGISTERED OFFICE CORPORAT[...]
+
+## **10. Key Audit Matters**
+
+#### **Acquisition of Subsidiary and Recognition of Provisional Goodwill**
+
+|  Particulars  |  As at  30 Sep 2025  |  As at  March 31, 2025  |  As at  March 31, 2024  |  As at  March 31, 2023  |
+|:---|:---|:---|:---|:---|
+| Fair value of plan assets at  the beginning of the period | --  | --  | --  | --  |
+| Acquisition adjustment  | --  | --  | --  | --  |
+| Actual return on plan assets  | --  | --  | --  | --  |
+| Employer contributions  | --  | --  | --  | --  |
+| Benefits paid  | --  | --  | --  | --  |
+| Fair value of plan assets at the end of the period  | --  | --  | --  | --  |
+| Funded status  | --  | --  | --  | --  |
+| Excess of actual over estimated return on plan assets  | --  | --  | --  | --  |
+**Actuarial Gain/Loss on plan assets**
+|  Particulars  |  As at  30 Sep 2025  |  As at  March 31, 2025  |  As at  March 31, 2024  |  As at  March 31, 2023  |
+|:---|:---|:---|:---|:---|
+| Expected return on plan assets  | --  | --  | --  | --  |
+| Actual return on plan assets  | --  | --  | --  | --  |
+| Actuarial gain/(loss) on plan  assets | --  | --  | --  | --  |
+**Actuarial Gain / loss recognized**
+|  Particulars  |  As at  30 Sep 2025  |  As at  March 31, 2025  |  As at  March 31, 2024  |  As at  March 31, 2023  |
+|:---|:---|:---|:---|:---|
+| Actuarial gain /(loss) for the period-  obligation  | 0.46  | 0.49  | 0.19  | (0.01)  |
+| Actuarial (gain)/loss for the period - plan assets  |  |  |  |  |
+| Total (gain)/loss for the period  | (0.46)  | (0.49)  | (0.19)  | 0.01  |
+| Actuarial (gain) / loss recognized in the period  | (0.46)  | (0.49)  | (0.19)  | 0.01  |
+| Unrecognized actuarial (gains) losses at the end of period |  |  |  | --  |
+341
+**The amounts to be recognized in balance sheet and related analysis**
+|  Particulars  |  As at  30 Sep 2025  |  As at  March 31, 2025  |  As at  March 31, 2024  |  As at  March 31, 2023  |
+|:---|:---|:---|:---|:---|
+| Present value of obligation as at the end of the period  | 4.76  | 3.44  | 2.45  | 1.75  |
+| Fair value of plan assets as at the end of the period  |  |  |  |  |
+| Funded status / Difference  | --  | --  | --  | --  |
+| Excess of actual over estimated  |  |  |  |  |
+| Unrecognized actuarial  (gains)/losses  |  |  |  |  |
+| Net  unfunded asset/(liability)recognized in balance sheet | (4.76)  | (3.44)  | (2.45)  | (1.75)  |
+**Expense recognized in the statement of profit and loss**

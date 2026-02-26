@@ -1,0 +1,19 @@
+## * **Established parentage and trusted brand backed by global and local R&D capabilities** *
+
+We also provide after-sales services to our customers for products under all three of our verticals, enabling us to remain connected with our customers across multiple touchpoints throughout the lifecycle of our products. As of September 30, 2025, we provided these services directly through our in-house team of 15 service engineers and through our network of 13 service facilities that together had 26 service engineers. Our trained after-sales services network aims to respond to customer queries within the next working day, enhancing our position as a dependable vendor to our customers.
+* **State-of-the-art manufacturing infrastructure with embedded industry 4.0 principles supported by an efficient** * * **and localized supply chain network** *
+As of September 30, 2025, we had three manufacturing facilities in India, of which two are located in Tamil Nadu (in Thirumudivakkam and Mannur) and one in Maharashtra (in Talegaon). We continue to expand our manufacturing footprint in India, supported by active greenfield and brownfield investment projects targeting new business opportunities.
+We have streamlined our manufacturing operations based on our business verticals, with the Thirumudivakkam Unit manufacturing products primarily for the Off-Highway Mobility Industry and Wind Industry, and the Mannur and Talegaon Units manufacturing products primarily for our Industry & Automation vertical. Our state-of-the- art manufacturing facilities are designed around Industry 4.0 principles, integrating advanced automation, digitally connected production systems, and real-time data analytics to enhance efficiency, quality, and reliability (  *Source:* *F&S Report*  ). This allows us to efficiently produce a wide range of products at scale. Our manufacturing operations are vertically integrated comprising of machining, gear cutting, heat treatment and final assembly. Our digitalization processes are focused on enhancing transparency of data, enabling real time monitoring and control of products leading to improved efficiency and faster customer-specific responses. We have implemented and continue to implement several automation and digitalization initiatives including:
+-  robotic painting systems
+-  machine connectivity through IoT so we can leverage data to carry out preventative maintenance works
+-  quality control through paperless quality inspection using portable devices and a quality management
+
+ software
+-  QR codes for product traceability
+-  SAP-enabled materials requirement planning (“  **MRP**  ”) that helps with production and procurement planning,
+
+ and
+-  a rail guided vehicle (“  **RGV**  ”) system to transport large quantities of material at low cost with high efficiency
+
+ and digital kanban/ trolley system for Industry & Automation products.
+Our machining and gear cutting centres are capable of achieving an accuracy of up to 2μm and broaching up to 120 tons. We also have in-house bevel-gear grinding facility capable of achieving Class 4 gear accuracy for high precision applications.

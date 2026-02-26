@@ -1,0 +1,16 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **52. Changing regulations in India could lead to new compliance requirements that are uncertain.**
+
+#### **SECTION IV: INTRODUCTION**
+
+##### **WITHDRAWAL OF THE ISSUE**
+
+Subject to the valid Applications being received at an Issue Price, allotment to all categories in the Net Issue, shall be made on a proportionate basis, except for the Individual Investor Portion (who applies for minimum application size) where Allotment to each such Investors shall not be less than the minimum lot, subject to availability of Equity Shares in such Portion, and the remaining available Equity Shares, if any, shall be allotted on a proportionate basis. Under subscription if any, in any category would be allowed to be met with spill over from any other category or a combination of categories at the discretion of our Company in consultation with the LM and the Stock Exchange.
+Applicants are required to submit their Applications to the Application collecting intermediaries i.e. SCSB or Registered Brokers of Stock Exchanges or Registered Registrar to the Issue and Share Transfer Agents (RTAs) or Depository Participants (DPs) registered with SEBI.
+In case of QIB Applicants, the Company, in consultation with the Lead Manager, may reject Applications at the time of acceptance of Application Form provided that the reasons for such rejection shall be provided to such Applicant in writing. In case of Non-Institutional Applicants and Individual Investors, the Company would have a right to reject the Applications only on technical grounds.
+Investors should note that according to section 29(1) of the Companies Act, 2013, allotment of Equity Shares to all successful Applicants will only be in the dematerialised form. The Application Forms which do not have the details of the Applicant’s depository account including DP ID, PAN and Beneficiary Account Number shall be
+75
+treated as incomplete and rejected. In case DP ID, Client ID and PAN mentioned in the Application Form and entered into the electronic system of the stock exchange, do not match with the DP ID, Client ID and PAN available in the depository database, the application is liable to be rejected. Applicants will not have the option of getting allotment of the Equity Shares in physical form. The Equity Shares on allotment shall be traded only in the dematerialised segment of the Stock Exchange.
+##### **WITHDRAWAL OF THE ISSUE**
+In accordance with the SEBI (ICDR) Regulations, our Company, in consultation with Lead Manager, reserves the right not to proceed with this Issue at any time after the Issue Opening Date, but before our Board meeting for Allotment without assigning reasons thereof.

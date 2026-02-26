@@ -1,0 +1,7 @@
+## **India Industrial Gearboxes Market -  Threats and Challenges**
+i.  Price Competition & Margin Pressure: Growing competition from both domestic and imported players continues to influence pricing.
+ii.  Technological & Quality Gaps: Indian gearbox makers still lag global peers in design precision, material strength, and thermal efficiency. This constrains participation in high-torque and automation-driven applications, limiting export readiness.
+iii.  Volatile Raw Material & Component Costs: Heavy reliance on imported alloy steel, bearings, and precision castings exposes manufacturers to cost swings and supply chain risks.
+iv.  Shift Toward Compact Gear Motors: Integrated gear motors and compact drive systems are replacing large standalone gearboxes in MHE, intralogistics, and automation. This shift poses a threat to the demand for heavy-duty gearbox categories.
+v.  Cyclical Demand:  Gearbox demand fluctuates with investment cycles in core sectors like cement, steel, and power. Project delays or policy slowdowns often lead to uneven order flows.
+vi.  Low Digitalization & Skill Shortages: Limited adoption of sensorized, condition-monitoring-enabled gearboxes and a shortage of mechatronics-skilled labour hinder India’s transition toward Industry 4.0- ready drive systems.

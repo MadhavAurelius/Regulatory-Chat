@@ -1,0 +1,15 @@
+## **INTERNAL RISKS**
+
+* **31.** *    * **Our inability to collect receivables and default in payment from our customers could adversely affect** * * **our cash flows.** *
+We are exposed to counterparty credit risk in the usual course of our business due to the nature of, and the inherent risks involved in, dealings and arrangements with customers who may delay or fail to make payments or perform other contractual obligations. The majority of our sales are on an open credit basis, with standard payment terms of generally up to 240 days. While we generally monitor the ability of our customers to pay these open credit arrangements and limit the credit we extend to what we believe is reasonable based on an evaluation of customer’s financial condition and payment history, there is a risk that our estimates may not be accurate. As a result, we may still experience losses because of a client’s inability to honour their commitments towards us.
+The table below sets forth our trade receivables as of the dates stated:
+**Particulars As at September 30, 2025**
+**As at December 31, 2024**
+**As at December 31, 2023**
+**As at December 31, 2022** * **(₹ million)** * Trade receivables 4,787.26 4,095.62 4,103.34 3,767.40
+
+If we are unable to collect receivables or if our customers request modifications to their payment arrangements, it could increase our receivables or affect our working capital requirements. While we have had to write-off some receivables in the past that did not have a material impact on our results of operations in the nine months period ended September 30, 2025, and in Fiscals 2024, 2023 and 2022, any lapse in honouring significant amounts/ receivables in the future may lead to us writing-off bad debts. An increase in bad debts or in defaults by our customer, may compel us to utilize greater amounts of our operating working capital and result in increased interest costs, thereby adversely affecting our business, results of operations, cash flows and financial condition.
+
+52
+* **32.** *    * **If we are unable to establish and maintain an effective internal controls and compliance system, our** * * **business and reputation could be adversely affected.** *
+We are responsible for establishing and maintaining a system of internal controls over financial reporting and operations that is appropriate for the scale and complexity of our business. However, any system of internal control, regardless of how well it is designed and implemented, has inherent limitations. These include the possibility of human error, lapses in judgment, or the failure of internal processes and systems to address evolving operational risks. We periodically test and update our internal processes and systems and there have been no past instances in the nine months period ended September 30, 2025, and Fiscals 2024, 2023 and 2022 of failure to maintain effective internal controls and compliance system. However, we are exposed to operational risks arising from the potential inadequacy or failure of internal processes or systems, and our actions may not be sufficient to ensure effective internal checks and balances in all circumstances.

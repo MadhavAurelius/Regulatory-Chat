@@ -1,0 +1,23 @@
+# Pursuant to Special Resolution passed at the Extra Ordinary General Meeting held on December 10, 2024, Equity Shares of face value of ₹100/- each of our Company were sub-divided into Equity Shares of face value of ₹10/- each.
+
+## **10. Other requirements**
+
+#### **SECTION IX: ISSUE RELATED INFORMATION**
+
+##### **ASBA PROCESS**
+
+##### **ISSUANCE OF A CONFIRMATION OF ALLOCATION NOTE (“CAN”) AND ALLOTMENT IN THE ISSUE**
+-  Upon approval of the basis of allotment by the Designated Stock Exchange, the Lead Manager or Registrar
+
+ to the Issue shall send to the SCSBs a list of their Applicants who have been allocated Equity Shares in the Issue.
+-  The Registrar will then dispatch a CAN to their Applicants who have been allocated Equity Shares in the
+
+ Issue. The dispatch of a CAN shall be deemed a valid, binding and irrevocable contract for the Applicant.
+##### **INDICATIVE PROCESS FLOW FOR APPLICATIONS IN PUBLIC ISSUE**
+##### **ASBA PROCESS**
+**In accordance with the SEBI circular no. CIR/CFD/POLICYCELL/11/2015 dated November 10, 2015 all the Applicants have to compulsorily apply through the ASBA Process. Our Company and the Lead Manager are not liable for any amendments, modifications, or changes in applicable laws or regulations, which may occur after the date of the Prospectus. ASBA Applicants are advised to make their independent investigations and to ensure that the ASBA Application Form is correctly filled up, as described in this section.**
+Lists of banks that have been notified by SEBI to act as SCSB (Self Certified Syndicate Banks) for the ASBA Process are provided on www.sebi.gov.in. For details on designated branches of SCSB collecting the Application Form, please refer the below mentioned SEBI link.
+https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35 https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34
+A Resident Individual Investors shall submit his Application through an Application Form, either in physical or electronic mode, to the SCSB with whom the bank account of the ASBA Applicant or bank account utilized by the ASBA Applicant (“ASBA Account”) is maintained. The SCSB shall block an amount equal to the Application Amount in the bank account specified in the ASBA Application Form, physical or electronic, on the basis of an authorization to this effect given by the account holder at the time of submitting the Application.
+The Application Amount shall remain blocked in the aforesaid ASBA Account until finalization of the Basis of Allotment in the Issue and consequent transfer of the Application Amount against the allocated shares to the ASBA Public Issue Account, or until withdrawal/failure of the Issue or until withdrawal/rejection of the ASBA Application, as the case may be.
+The ASBA data shall thereafter be uploaded by the SCSB in the electronic IPO system of the Stock Exchange. Once the Basis of Allotment is finalized, the Registrar to the Issue shall send an appropriate request to the Controlling Branch of the SCSB for unblocking the relevant bank accounts and for transferring the amount allocable to the successful ASBA Applicants to the ASBA Public Issue Account. In case of withdrawal/failure of the Issue, the blocked amount shall be unblocked on receipt of such information from the Lead Manager.

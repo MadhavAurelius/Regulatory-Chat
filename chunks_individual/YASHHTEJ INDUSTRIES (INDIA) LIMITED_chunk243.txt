@@ -1,0 +1,15 @@
+#
+
+## **6B.   PESTEL Analysis -  Solar Power**
+
+A comprehensive PESTEL analysis provides a structured understanding of the macro-environmental factors influencing the solar power industry in India.
+|  Factor  |  Key Aspects Specific to the Solar Power Industry  |
+|:---|:---|
+| Political  | - Strong policy support through schemes like PM-KUSUM, Rooftop Solar Programme, and  Solar Park Scheme under the Ministry of New and Renewable Energy (MNRE).  - Implementation of Production Linked Incentive (PLI) scheme for domestic manufacturing  of solar modules and cells.  - Clear political focus on achieving the 500 GW non-fossil fuel capacity target by 2030, as  part of India’s COP26 commitments. |
+| Economic  | - Falling solar tariffs have made solar power cost-competitive with coal and other thermal  sources.  - High initial capital costs remain a barrier for small developers; however, low operating  costs provide long-term economic benefits.  - PLI incentives, concessional financing, and FDI inflows are boosting manufacturing and  large-scale project development.  |
+| Social  | - Increasing public acceptance and awareness of clean energy, especially in rural and semi- urban areas.  - Solar electrification is driving energy access and socio-economic development, particularly  in remote regions.  - Rooftop solar adoption is improving energy affordability for households, institutions, and  MSMEs.  |
+| Technological | - Rapid advancement in PV efficiency, battery storage, and inverter technologies.  - Growth in green hydrogen and hybrid solar- wind systems creating additional demand for  solar power.  - Smart grid integration and use of AI/IoT for performance monitoring and predictive  maintenance of solar plants.  |
+|  Factor  |  Key Aspects Specific to the Solar Power Industry  |
+|:---|:---|
+| Legal  | - Developers and EPC contractors must comply with grid code regulations, land acquisition  laws, and state-specific renewable energy policies.  - Solar Power Purchase Agreements (PPAs) are governed by the Electricity Act, 2003 and  regulations issued by State Electricity Regulatory Commissions (SERCs).  - Legal challenges include delays in land approvals and contract renegotiations in some  states.  |
+| Environmental | - Solar power helps reduce carbon emissions and dependence on fossil fuels, aligning with  India’s NDCs and net-zero roadmap.  - Land use for large solar parks may impact agriculture or biodiversity if not properly  managed.  - Focus on recycling and disposal of solar panel waste is gaining urgency, with draft rules  proposed by the Ministry of Environment, Forest and Climate C h ang e  (MoE F CC ). |

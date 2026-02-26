@@ -1,0 +1,16 @@
+## **INTERNAL RISKS**
+
+* **28.** *    * **We rely primarily on third-party insurance policies to insure our operations-related risks. If our** * * **insurance coverage is inadequate, it may have an adverse effect on our business, financial condition,** * * **results of operations, and cash flows.** *
+We maintain insurance which we believe is standard in our industry in India and in amounts which we believe to be commercially appropriate for a variety of risks, including insurance policies related to fire, natural disasters such as cyclones, earthquakes, burglary, theft, external accidental damage, terrorism, breakdowns (electronic or mechanical) of electronics, as required by applicable law and to protect our assets and operations and also in respect of our employees such as health and life insurance. The table below sets forth our insurance cover as a percentage of total assets for the period/years indicated:
+**Particulars As at September 30, 2025**
+**As at December 31, 2024**
+**As at December 31, 2023**
+**As at December 31, 2022 (**   * **₹ million** *   **)** Tangible assets comprising of property, plant and equipment (excluding freehold land & leasehold improvements), Capital Work in Progress and inventories
+5,766.83 5,597.17 5,811.15 4,303.65
+Amount of insurance coverage* 11,121.72 10,221.85 8,465.08 7,974.28 Insurance coverage as a percentage to Tangible assets comprising of property, plant and equipment (excluding freehold land & leasehold improvements), Capital Work in Progress and inventories
+192.86% 182.63% 145.67% 185.29%
+** The Company’s insurance policies are on reinstated value basis*
+However, such insurance may not be adequate to cover all losses or liabilities that may arise from our operations, particularly when the loss suffered is not easily quantifiable. In addition, while the majority of our contracts with suppliers include indemnification provisions for liabilities arising from product defects, such recourses are subject to limitations set for the contracts, and there is no assurance that we will be able to claim losses from suppliers
+
+50
+due to product liability claims or recalls resulting for defective supplies.  Our insurance policies also contain exclusions and limitations on coverage, and, accordingly, we may not be able to assert claims for the full amount of any liability or losses. While we have not experienced any uninsured losses or liabilities in the nine months period ended September 30, 2025 and in Fiscals 2024, 2023 and 2022, we may incur losses for which we are not insured in the future as such risks may either be uninsurable or not insurable on commercially acceptable terms.

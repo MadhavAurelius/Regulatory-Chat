@@ -1,0 +1,6 @@
+# The Company has provided loan to Bonfiglioli Technology Space Private Limited (i) amounting to Rs 115.50 (December 31, 2024 - Rs 115.50; December 31, 2023 - Nil; December 31, 2022 - Nil) relating to sale of discontinued operations, which is repayable in 5 equal annual instalments at an interest rate of 8.25% p.a and (ii) cash pooling facility amounting to Rs 12.96 (December 31, 2024- Rs. 103.01; December 31, 2023 - Nil; December 31, 2022 - Nil) at an interest rate of 8.25%, repayable within a year.
+
+## **(i) Initial recognition and measurement**
+Financial liabilities are classified, at initial recognition, as financial liabilities at fair value through profit or loss, loans and borrowings, payables, or as derivatives designated as hedging instruments in an effective hedge, as appropriate.
+All financial liabilities are recognised initially at fair value and, in the case of loans and borrowings and payables, net of directly attributable transaction costs.
+Our financial liabilities include deposits, loans & borrowings, trade and other payables.

@@ -1,0 +1,8 @@
+## * **Global off-Highway Mobility Solutions (Drives) Market-  Threats and Challenges** *
+
+i.   **High Cyclicality of Construction & Mining Markets:**  Economic cycles, commodity volatility, infra funding delays, and election-linked spending slowdowns → immediate drops in drive demand.
+ii.   **Rising Shift Toward Electrification & Motorisation for compact machines:**  The move toward electric drives and integrated motor-drive units represents a long-term transition rather than an immediate threat to hydrostatic and mechanical drive suppliers.
+iii.   **OEM Backward Integration Risk:**  Large global OEMs are selectively developing in-house propulsion, swing, and auxiliary drive capabilities. While this creates pressure on Tier-1 suppliers in specific high- volume or strategically critical segments, most OEMs continue to rely on external partners for complex, customized, and heavy-duty drive solutions.
+iv.   **Margin Pressure from Low-Cost Asian Competitors:**  Chinese, Korean, and Turkish manufacturers continue to expand aggressively through competitive pricing. However, the impact on suppliers with strong R&D, co-engineering, and application-specific design capabilities remains limited, as OEMs prioritize performance reliability, system integration, and lifecycle support.
+
+v.   **High Wear, Harsh Duty Cycles & Reliability Expectations:**  Off-highway drives operate in extreme load, shock, temperature, and dust conditions. Failures lead to expensive downtime, forcing suppliers to maintain high design margins and testing costs, which in turn reduces profitability.

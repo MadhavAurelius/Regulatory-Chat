@@ -1,0 +1,26 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **2. FUNDING OF WORKING CAPITAL REQUIREMENTS:**
+
+Our business is Working Capital intensive, and we fund the majority of our working capital requirements through internal accruals, net worth, financing from different banks and financial institutions and unsecured loans. We expect a further increase in the Working Capital requirements in view of current and future operations. Accordingly, we have proposed using ₹ 610.57 Lakhs out of the issue proceeds to meet the working capital requirements.
+##### **Basis of Estimation of Working Capital Requirements**
+Details of the estimation of working capital requirement are as follows: **₹ in Lakhs**
+|  Sl No  |  Particulars  |  September  30, 2025  |  FY 2025  |  FY 2024  |  FY 2023  |
+|:---|:---|:---|:---|:---|:---|
+| (A)  | Current assets  |  |  |  |  |
+| (a)  | Inventory  | 3,332.92  | 3,240.52  | 1,890.78  | 29.21  |
+| (b)  | Trade receivables  | 138.64  | 133.08  | 24.60  | 19.59  |
+| (c)  | Other current assets  | 325.82  | 438.17  | 436.26  | 140.35  |
+| (d)  | Short term loans and advances  | 507.97  | 58.08  | 280.05  | 304.42  |
+|  | Total Current Assets (A)  | 4,305.34  | 3,869.85  | 2,631.70  | 493.57  |
+|  |  |  |  |  |  |
+| (B)  | Current liabilities  |  |  |  |  |
+| (a)  | Trade Payable  | 656.78  | 657.73  | 412.87  | 140.82  |
+| (b)  | Other current liabilities  | 136.60  | 192.06  | 902.52  | 29.39  |
+| (c)  | Short term provisions  | 390.55  | 191.29  | 28.64  | 0.00  |
+|  | Total Current liabilities (B)  | 1,183.93  | 1,041.08  | 1,344.02  | 170.21  |
+| (C)  | Total working capital requirement (A - B) | 3,121.42  | 2,828.77  | 1,287.65  | 323.37  |
+| (D)  | Existing funding pattern  |  |  |  |  |
+| (a)  | Working capital Loans  | 1,611.01  | 2,700.51  | 1,287.65  | -  |
+| (b)  | Balance - Internal Accruals  | 1,510.40  | 128.26  | -  | 323.37  |
+*For the above details relating to working capital requirements, we have relied upon the certificate dated* *February 09, 2026 issued by the Statutory Auditors of our Company i.e., N B T and Co, Chartered* *Accountants.*

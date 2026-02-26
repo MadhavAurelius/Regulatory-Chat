@@ -1,0 +1,29 @@
+#
+
+## **3B.3 Global Soybean Industry**
+
+The soybean industry holds a pivotal position in global agriculture, serving as a major source of protein and oil for both human consumption and industrial use. It is one of the most widely cultivated crops globally, with immense economic and strategic importance due to its versatile applications across food, feed, fuel, and industrial sectors.
+##### * **I.** *    * **Soybean** *
+-   **Global Market Overview:**  Soybean ranks as the fourth most cultivated and traded oilseed crop in the world,
+
+ following maize, wheat, and rice. It plays a crucial role in both food and feed industries. The global soybean market is valued at USD 168.86 billion in 2024 and is anticipated to be worth USD 280.70 Billion in 2034 growing at a CAGR OF 5.21%. It is driven by its extensive applications including edible oil extraction, animal feed (soybean meal), and a variety of food and industrial uses.
+-   **Global Production:**  Global soybean production has witnessed consistent growth in recent years, driven by
+
+ expanding demand for vegetable oil and high-protein feed across both developed and emerging economies. According to USDA estimates, global production stood at 396.93 million metric tons (MMT) in 2023- 24 and is estimated at 420.87 MMT in 2024- 25 and is projected to rise to 426.82 MMT in 2025- 26, reflecting strong acreage expansion and productivity gains. Brazil remains the world’s largest producer, followed by the United States and Argentina, collectively contributing a significant share of global supply. Brazil’s production is projected to reach 175.00 MMT by 2025- 26, supported by efficient agronomic practices and infrastructure.
+The U.S. and Argentina are expected to produce 118.12 MMT and 48.50 MMT, respectively, in the same period. This upward trend underscores the growing strategic importance of soybeans in the global agricultural value chain, driven by their dual utility in oil extraction and animal feed. Continued investments in sustainable farming and trade logistics are expected to support global production growth in the coming years.
+##### **World Soybean Supply (Million Metric Tons)**
+|  |  Production  |  Production  |  Production  |  Imports  |  Imports  |  Imports  |  Exports  |  Exports  |  Exports  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  | 23/24  | 24/25  Est.  | 25/26  Proj.  | 23/24  | 24/25  Est.  | 25/26  Proj.  | 23/24  | 24/25  Est.  | 25/26  Proj.  |
+| World  | 396.93  | 420.87  | 426.82  | 178.13  | 178.16  | 186.82  | 177.69  | 180.87  | 188.43  |
+| Major Exporters | Major Exporters | Major Exporters | Major Exporters | Major Exporters | Major Exporters | Major Exporters | Major Exporters | Major Exporters | Major Exporters |
+| Brazil  | 154.50  | 169.00  | 175.00  | 0.87  | 0.15  | 0.15  | 104.17  | 104.50  | 112.00  |
+| United  States  | 113.27  | 118.84  | 118.12  | 0.57  | 0.68  | 0.54  | 46.13  | 50.35  | 49.40  |
+| Argentina  | 48.21  | 49.00  | 48.50  | 7.79  | 6.00  | 7.20  | 5.11  | 4.20  | 4.50  |
+| Paraguay  | 11.00  | 10.20  | 11.00  | 0.01  | 0.02  | 0.02  | 7.99  | 6.80  | 7.70  |
+| Major Importers | Major Importers | Major Importers | Major Importers | Major Importers | Major Importers | Major Importers | Major Importers | Major Importers | Major Importers |
+| China  | 20.84  | 20.65  | 21.00  | 112.00  | 108.00  | 112.00  | 0.07  | 0.10  | 0.10  |
+| European  Union | 2.81  | 2.92  | 2.95  | 13.46  | 14.60  | 14.30  | 0.25  | 0.30  | 0.30  |
+| Southeast  Asia | 0.47  | 0.45  | 0.42  | 9.09  | 10.36  | 11.00  | 0.02  | 0.01  | 0.02  |
+| Mexico  | 0.20  | 0.27  | 0.27  | 6.46  | 6.70  | 7.00  | 0.01  | 0.01  | 0.01  |
+Source: USDA World Agricultural Supply and Demand Estimates (WASDE), May 2025

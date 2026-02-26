@@ -1,0 +1,25 @@
+#(300MT Per Day) * (80% utilisable capacity) * (150 working days) *(300 MT Per Day) * (100% utilizable capacity) * (300 working days) **(300 MT Per Day) * (100% utilizable capacity) * (100 working days)
+
+## **4. ISSUE RELATED EXPENSES**
+
+The total expenses of the Issue are estimated to be approximately ₹ 938.70 Lakhs. The expenses of this Issue include, among others, Issue Management Expenses including Lead Manager Fees, Underwriter Fees, Legal Advisors, Market Maker, Registrar, etc., Printing and Distribution Expense, Advertisement Expenses, Legal Fees And Listing Fees.
+The estimated Issue expenses are as under:
+|  Activity  |  ₹  In Lakhs#  |  %  of the total  Issue  expenses  |  %  of the total  Issue size  |
+|:---|---:|---:|---:|
+| Lead manager(s) fees including underwriting commission |  638.77 |  68.05 |  7.19 |
+| Brokerage, selling commission and upload fees  |  6.49 |  0.69 |  0.07 |
+| Registrars to the issue  |  3.44 |  0.37 |  0.04 |
+| Legal Advisors  |  14  |  1.49 |  0.16 |
+| Advertising and marketing expenses  |  100.24 |  10.68 |  1.13 |
+| Regulators including stock exchanges  |  28.43 |  3.03 |  0.32 |
+| Printing and distribution of issue stationary  |  1.18 |  0.13 |  0.01 |
+| Others, if any (to be specified).  |  146.14 |  15.57 |  1.64 |
+| Total estimated Issue expenses  |  938.7  |  100  |  10.56 |
+*Issue expenses include GST, where applicable. Issue expenses are estimates and are subject to change.*
+The above mentioned amounts are tentative in nature and subject to change. Any increase and/or decrease of the above-mentioned expenses on actuals will either decrease or increase the Net Proceeds. The decrease or increase in the net proceeds shall be adjusted from / with the “General Corporate Expenses”, subject to such utilization not exceeding not exceed 15% of the Gross Proceeds or ₹ 1000 Lakhs, whichever is lower in accordance with the SEBI ICDR Regulations.
+##### **For payment of Brokerage/Commission:**
+1.  Selling commission payable to the SCSBs on various applications, which are directly procured by the SCSBs, would be as follows:
+|  Individual Investors Portion who applies for minimum  application size*  |  0.10 % of the Amount Allotted* (plus  applicable taxes)  |
+|:---|:---|
+| Individual applicants who apply for more than  minimum application size and other investors including  corporate bodies or institutions, irrespective of the  number of specified securities applied for* | 0.10 % of the Amount Allotted* (plus  applicable taxes)  |
+*Amount allotted is the product of the number of Equity Shares Allotted and the Issue Price. The selling commission payable to the SCSBs will be determined on the basis of the bidding terminal ID as captured in the Bid Book of BSE or NSE
