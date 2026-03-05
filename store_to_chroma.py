@@ -1,63 +1,80 @@
 import os
+import sys
 import chromadb
+
+sys.path.append("src")
+
 from sentence_transformers import SentenceTransformer
-import re
+from chunknorris.parsers.pdf import PdfParser
+from chunknorris.chunkers.markdown_chunker import MarkdownChunker
 
-# ----------------------------
-# FOLDERS / DB
-# ----------------------------
-CHUNK_FOLDER = "chunks_individual"  # every chunk as a separate file
-CHROMA_DB_PATH = "chroma_db"        # persistent ChromaDB folder
-COLLECTION_NAME = "bank_docs"
 
-# ----------------------------
-# HELPER: Clean text for embedding
-# ----------------------------
-def clean_text(text: str) -> str:
-    """
-    Remove markdown symbols for better embeddings but keep meaning.
-    """
-    text = re.sub(r'#', '', text)         # remove headers
-    text = re.sub(r'\*', '', text)        # remove asterisks
-    text = re.sub(r'\n+', ' ', text)      # collapse newlines
-    return text.strip()
+PDF_FOLDER = "Sebi"
+CHROMA_DB_PATH = "chroma_db"
+COLLECTION_NAME = "sebi_docs"
 
-# ----------------------------
-# LOAD EMBEDDING MODEL
-# ----------------------------
-model = SentenceTransformer("all-MiniLM-L6-v2")
+# Folder to store chunk files
+CHUNK_OUTPUT_FOLDER = "chunks"
 
-# ----------------------------
-# CREATE / GET CHROMA COLLECTION
-# ----------------------------
+# create chunk folder if not exist
+os.makedirs(CHUNK_OUTPUT_FOLDER, exist_ok=True)
+
+
+embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
+
+parser = PdfParser(use_ocr="never")
+chunker = MarkdownChunker()
+
 client = chromadb.PersistentClient(path=CHROMA_DB_PATH)
 collection = client.get_or_create_collection(name=COLLECTION_NAME)
 
-# ----------------------------
-# STORE CHUNKS IN CHROMA
-# ----------------------------
 doc_id = 0
 
-for file_name in os.listdir(CHUNK_FOLDER):
-    if not file_name.endswith(".txt"):
+for file in os.listdir(PDF_FOLDER):
+
+    if not file.endswith(".pdf"):
         continue
 
-    file_path = os.path.join(CHUNK_FOLDER, file_name)
-    with open(file_path, "r", encoding="utf-8") as f:
-        chunk_text = f.read()
+    pdf_path = os.path.join(PDF_FOLDER, file)
 
-    # clean text for embedding
-    embedding_text = clean_text(chunk_text)
-    embedding = model.encode(embedding_text).tolist()
+    print("Processing:", file)
 
-    # add to Chroma
-    collection.add(
-        ids=[f"{file_name}_{doc_id}"],
-        documents=[chunk_text],       # keep original chunk
-        embeddings=[embedding],
-        metadatas=[{"source": file_name}]
-    )
-    doc_id += 1
+    parsed_md = parser.parse_file(pdf_path)
 
-print("✅ All chunks stored in ChromaDB successfully!")
-print("Total stored chunks:", collection.count())
+    chunks = chunker.chunk(parsed_md)
+
+    print("Chunks:", len(chunks))
+
+    chunk_index = 0
+
+    for chunk in chunks:
+
+        text = chunk.get_text()
+
+        # -----------------------------
+        # SAVE CHUNK AS FILE
+        # -----------------------------
+        chunk_filename = f"{file}_chunk_{chunk_index}.txt"
+        chunk_path = os.path.join(CHUNK_OUTPUT_FOLDER, chunk_filename)
+
+        with open(chunk_path, "w", encoding="utf-8") as f:
+            f.write(text)
+
+        # -----------------------------
+        # VECTOR EMBEDDING  
+        # -----------------------------
+        embedding = embedding_model.encode(text).tolist()
+
+        collection.add(
+            ids=[f"{file}_{doc_id}"],
+            documents=[text],
+            embeddings=[embedding],
+            metadatas=[{"source": file}]
+        )
+
+        doc_id += 1
+        chunk_index += 1
+
+
+print("Finished")
+print("Total chunks:", collection.count())
